@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 26,
-    "description": "Mobs drop their head when killed by a player"
+    "description": "Mobs can drop their head when killed by a player. [1.20.4] v.1.2.0"
   }
 }

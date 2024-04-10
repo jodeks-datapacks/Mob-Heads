@@ -1,3 +1,2 @@
-tellraw @a {"text":"Datapack Mob Heads loaded!"}
-
+tellraw @a ["",{"text":"Mob Heads","color":"blue","clickEvent":{"action":"open_url","value":"https://modrinth.com/datapack/mob-heads"},"hoverEvent":{"action":"show_text","contents":"modrinth.com/datapack/mob-heads"}},{"text":" loaded - ","clickEvent":{"action":"open_url","value":"https://modrinth.com/datapack/mob-heads/"},"hoverEvent":{"action":"show_text","contents":"modrinth.com/datapack/mob-heads"}},{"text":"[1.20.4]","color":"green","clickEvent":{"action":"open_url","value":"https://modrinth.com/datapack/mob-heads"},"hoverEvent":{"action":"show_text","contents":"modrinth.com/datapack/mob-heads"}},{"text":" ","hoverEvent":{"action":"show_text","contents":"modrinth.com/datapack/mob-heads"}},{"text":"v.1.2.0","color":"dark_green","clickEvent":{"action":"open_url","value":"https://modrinth.com/datapack/mob-heads"},"hoverEvent":{"action":"show_text","contents":"modrinth.com/datapack/mob-heads"}}]
 
