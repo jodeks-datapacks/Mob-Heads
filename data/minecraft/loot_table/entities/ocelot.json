@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "id": [
+                    298919770,
+                    -764919538,
+                    -1176925944,
+                    -724489234
+                  ],
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTU4NTJkMjY1ZDk2MGRhM2UwNmI4YjNhOTE2MzIyNTNmNGExMDdmZWJmYjcwNjljOWU0NmU1ZjczYTRkZTliNCJ9fX0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Ocelot Head",
+                  "italic": false
+                }
+              ]
+            },
+            {
+            "function": "minecraft:set_components",
+            "components": {
+            "minecraft:note_block_sound": "minecraft:entity.ocelot.ambient"
+            }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.3
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

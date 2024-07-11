@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:piglin_head",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
+              }
+            }
+          ],
+          "functions": [
+            {
+            "function": "minecraft:set_components",
+            "components": {
+            "minecraft:note_block_sound": "minecraft:entity.piglin_brute.ambient"
+            }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/piglin_brute"
+}
