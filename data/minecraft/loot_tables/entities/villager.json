@@ -1,0 +1,193 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Desert Villager\"}'},SkullOwner:{Id:[I;176897006,946294188,-1381660318,1947895903],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjlkOTA0ZmRhZTY4ZmIxMjBlOWFlMGYzNTM3NDYwZjJhN2MxZGU5MTU5YWIzZjJiNDRjODQ0MDQ4ZmViYWJlYiJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:desert"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Savanna Villager\"}'},SkullOwner:{Id:[I;-1080376121,1482638634,-2100881720,1559964474],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ1Yzk5YzgwZDAzNDVjNGJlM2ZjM2EyZjBkMDVhM2UyM2E1YzRiZjdlOTkxNTY4ZWVlNjRhNjgwNmYwNDhjMCJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:savanna"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Taiga Villager\"}'},SkullOwner:{Id:[I;1543485083,1634421179,-1608207560,-1413132643],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE4NTEyNTg0OTEzNDFjMDAxNDlhOWM5MmRlMWFjZGU2NjViMTMxYzhhNzRjOWZmZTBjYjFlM2E1YWQ5NzQ5In19fQ==\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:taiga"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Snow Villager\"}'},SkullOwner:{Id:[I;-1161367184,139021790,-1321446562,-1903352189],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBlNGFhNmY1NDU1ZTMyMTA1OWUyMDJhYmM5ZDllMjM2NzU2NjMwNzBlOTJhMDc5ZThjYjU0NGY3YmU0Yzc1NSJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:snow"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Swamp Villager\"}'},SkullOwner:{Id:[I;893581235,-496809439,-1501876182,-142977079],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTAwN2M0YTNlM2I4ZDMxYjk0YTk1MTczYmMyYWVhNGI3MThjMTUwZjAxNjZmMGM5NjRjYTllMDRiZTY2NGEyMiJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:swamp"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Villager\"}'},SkullOwner:{Id:[I;-152634516,122047295,-1550573387,1403708362],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM2ZTk4NDE3OTRhMzdlYjk5NTI0OTI1NjY4YjQ3YTYyYjVjYjcyZTA5NmE5ZjhmOTVlMTA2ODA0YWUxM2UxYiJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:plains"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Jungle Villager\"}'},SkullOwner:{Id:[I;-152634516,122047295,-1550573387,1403708362],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM2ZTk4NDE3OTRhMzdlYjk5NTI0OTI1NjY4YjQ3YTYyYjVjYjcyZTA5NmE5ZjhmOTVlMTA2ODA0YWUxM2UxYiJ9fX0=\"}]}}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "villager",
+                  "variant": "minecraft:jungle"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/villager"
+}
