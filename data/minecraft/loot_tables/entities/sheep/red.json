@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_wool"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "minecraft:entities/sheep"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "id": [
+                    1330704405,
+                    -1501148281,
+                    -1740433521,
+                    746132491
+                  ],
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTBjZTViNWNhOTE2NWFjNzdhOWMzZTNmNjRkZjBkMzE3MGQ1YWZjZjlkNWE1NTc1ZTNmMGMwZjIxZTQzYjgzIn19fQ=="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Red Sheep Head",
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.02
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/sheep/red"
+}

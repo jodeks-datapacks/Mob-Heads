@@ -1,0 +1,186 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "id": [
+                    2027783430,
+                    -1881519299,
+                    -2008919016,
+                    -865785471
+                  ],
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDU4NTJhOTU5Mjg4OTc3NDYwMTI5ODhmYmQ1ZGJhYTFiNzBiN2E1ZmI2NTE1NzAxNmY0ZmYzZjI0NTM3NGMwOCJ9fX0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Cold Frog Head",
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "minecraft:frog",
+                  "variant": "minecraft:cold"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "id": [
+                    -1712625259,
+                    -2080355400,
+                    -1143664436,
+                    -1264327493
+                  ],
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmNhNGE4ZTQ5NDU4MmM2MmFhYTJjOTI0NzRiMTZkNjljZDYzYmFhM2QzZjUwYTRiNjMxZDY1NTljYTBmMzNmNSJ9fX0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Temperate Frog Head",
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "minecraft:frog",
+                  "variant": "minecraft:temperate"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "id": [
+                    1751171974,
+                    -1820507473,
+                    -1603456770,
+                    1204577294
+                  ],
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGU4NjMzMmJkZDg1NjdlMzk2MDVmMGQxMWJhZTJlNDVlODYwM2E2ZDcxZGEwNjIwOGQ4MWFhM2U3ZTM5NzFjZCJ9fX0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "text": "Warm Frog Head",
+                  "italic": false
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "minecraft:frog",
+                  "variant": "minecraft:warm"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/frog"
+}
