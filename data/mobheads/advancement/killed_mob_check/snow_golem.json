@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_mob": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:snow_golem"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mobheads:app/notification/run/snow_golem"
+  }
+}

@@ -34,10 +34,133 @@
               },
               {
                 "function": "minecraft:set_name",
-                "name": [
+                "name": {
+                  "translate": "entity.minecraft.armadillo",
+                  "color": "white",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": " Head"
+                    }
+                  ]
+                },
+                "conditions": [
                   {
-                    "text": "Armadillo Head",
-                    "italic": false
+                    "condition": "minecraft:entity_scores",
+                    "entity": "attacker",
+                    "scores": {
+                      "mobheads.rarity.armadillo": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "entity.minecraft.armadillo",
+                  "color": "yellow",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": " Head"
+                    }
+                  ]
+                },
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "attacker",
+                    "scores": {
+                      "mobheads.rarity.armadillo": 1
+                    }
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "entity.minecraft.armadillo",
+                  "color": "aqua",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": " Head"
+                    }
+                  ]
+                },
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "attacker",
+                    "scores": {
+                      "mobheads.rarity.armadillo": 2
+                    }
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "entity.minecraft.armadillo",
+                  "color": "dark_purple",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": " Head"
+                    }
+                  ]
+                },
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "attacker",
+                    "scores": {
+                      "mobheads.rarity.armadillo": 3
+                    }
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "entity.minecraft.armadillo",
+                  "color": "gold",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": " Head"
+                    }
+                  ]
+                },
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "attacker",
+                    "scores": {
+                      "mobheads.rarity.armadillo": 4
+                    }
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_name",
+                "name": {
+                  "translate": "entity.minecraft.armadillo",
+                  "color": "green",
+                  "italic": false,
+                  "extra": [
+                    {
+                      "text": " Head"
+                    }
+                  ]
+                },
+                "conditions": [
+                  {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "attacker",
+                    "scores": {
+                      "mobheads.rarity.armadillo": 5
+                    }
                   }
                 ]
               },
@@ -51,14 +174,14 @@
             "conditions": [
               {
                 "condition": "minecraft:random_chance",
-                "chance": 0.3
+                "chance": {
+                  "type": "minecraft:storage",
+                  "storage": "mobheads:drop_rates",
+                  "path": "armadillo"
+                }
               },
               {
-                "condition": "minecraft:entity_properties",
-                "entity": "this",
-                "predicate": {
-                  "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-                }
+                "condition": "minecraft:killed_by_player"
               }
             ]
           }

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_mob": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:hoglin"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mobheads:app/notification/run/hoglin"
+  }
+}

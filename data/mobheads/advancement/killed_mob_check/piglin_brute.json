@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_mob": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:piglin_brute"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mobheads:app/notification/run/piglin_brute"
+  }
+}

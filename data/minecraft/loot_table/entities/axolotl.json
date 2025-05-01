@@ -34,41 +34,163 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": [
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "white",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Blue)"
+                  }
+                ]
+              },
+              "conditions": [
                 {
-                  "text": "Blue Axolotl Head",
-                  "italic": false
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 0
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "yellow",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Blue)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 1
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "aqua",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Blue)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 2
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "dark_purple",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Blue)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 3
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "gold",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Blue)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 4
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "green",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Blue)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 5
+                  }
                 }
               ]
             },
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.axolotl.idle_air"
+                "minecraft:note_block_sound": "minecraft:entity.axolotl.attack"
               }
             }
           ],
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.95
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "axolotl_blue"
+              }
             },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "blue"
+                "components": {
+                  "minecraft:axolotl/variant": "blue"
                 }
               }
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-              }
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }
@@ -107,10 +229,133 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": [
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "white",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Cyan)"
+                  }
+                ]
+              },
+              "conditions": [
                 {
-                  "text": "Cyan Axolotl Head",
-                  "italic": false
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 0
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "yellow",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Cyan)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 1
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "aqua",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Cyan)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 2
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "dark_purple",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Cyan)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 3
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "gold",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Cyan)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 4
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "green",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Cyan)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 5
+                  }
                 }
               ]
             },
@@ -124,24 +369,23 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.5
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "axolotl"
+              }
             },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "cyan"
+                "components": {
+                  "minecraft:axolotl/variant": "cyan"
                 }
               }
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-              }
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }
@@ -180,10 +424,133 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": [
+              "name": {
+                "color": "white",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Gold)"
+                  }
+                ]
+              },
+              "conditions": [
                 {
-                  "text": "Gold Axolotl Head",
-                  "italic": false
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 0
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "yellow",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Gold)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 1
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "aqua",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Gold)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 2
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "dark_purple",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Gold)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 3
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "gold",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Gold)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 4
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "green",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Gold)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 5
+                  }
                 }
               ]
             },
@@ -197,24 +564,23 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.5
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "axolotl"
+              }
             },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "gold"
+                "components": {
+                  "minecraft:axolotl/variant": "gold"
                 }
               }
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-              }
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }
@@ -253,10 +619,133 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": [
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "white",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Wild)"
+                  }
+                ]
+              },
+              "conditions": [
                 {
-                  "text": "Wild Axolotl Head",
-                  "italic": false
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 0
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "yellow",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Wild)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 1
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "aqua",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Wild)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 2
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "dark_purple",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Wild)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 3
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "gold",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Wild)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 4
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.axolotl",
+                "color": "green",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Wild)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 5
+                  }
                 }
               ]
             },
@@ -270,24 +759,23 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.5
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "axolotl"
+              }
             },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "wild"
+                "components": {
+                  "minecraft:axolotl/variant": "wild"
                 }
               }
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-              }
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }
@@ -326,10 +814,133 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": [
+              "name": {
+                "color": "white",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Lucy)"
+                  }
+                ]
+              },
+              "conditions": [
                 {
-                  "text": "Lucy Axolotl Head",
-                  "italic": false
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 0
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "yellow",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Lucy)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 1
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "aqua",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Lucy)" 
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 2
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "dark_purple",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Lucy)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 3
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "gold",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Lucy)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 4
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "green",
+                "translate": "entity.minecraft.axolotl",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head (Lucy)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:entity_scores",
+                  "entity": "attacker",
+                  "scores": {
+                    "mobheads.rarity.axolotl": 5
+                  }
                 }
               ]
             },
@@ -343,24 +954,23 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.5
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "axolotl"
+              }
             },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type_specific": {
-                  "type": "minecraft:axolotl",
-                  "variant": "lucy"
+                "components": {
+                  "minecraft:axolotl/variant": "lucy"
                 }
               }
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-              }
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }

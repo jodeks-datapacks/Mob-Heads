@@ -71,12 +71,16 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": [
-                {
-                  "text": "Pillager Head",
-                  "italic": false
-                }
-              ]
+              "name": {
+                "translate": "entity.minecraft.pillager",
+                "color": "yellow",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Head"
+                  }
+                ]
+              }
             },
             {
               "function": "minecraft:set_components",
@@ -88,14 +92,14 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.1
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "pillager"
+              }
             },
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "nbt": "{Tags:[\"head_always_drops.mobheads\"]}"
-              }
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }

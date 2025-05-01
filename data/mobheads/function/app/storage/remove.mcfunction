@@ -1,0 +1,1 @@
+data remove storage mobheads:image current

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_mob": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:parrot"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mobheads:app/notification/run/parrot"
+  }
+}

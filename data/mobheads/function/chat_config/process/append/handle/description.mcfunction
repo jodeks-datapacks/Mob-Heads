@@ -1,0 +1,2 @@
+$execute unless data storage config_system:mobheads current_option{description:""} run data modify storage config_system:mobheads menu append value {text:"$(description)",color:"gray"}
+execute unless data storage config_system:mobheads current_option{description:""} run data modify storage config_system:mobheads menu append value "\n"
