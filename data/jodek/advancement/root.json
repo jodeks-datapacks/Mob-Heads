@@ -35,7 +35,7 @@
           "color": "dark_purple"
       }
   ],
-    "background": "minecraft:textures/block/flowering_azalea_leaves.png",
+    "background": "minecraft:block/flowering_azalea_leaves",
     "frame": "challenge",
     "show_toast": false,
     "announce_to_chat": false

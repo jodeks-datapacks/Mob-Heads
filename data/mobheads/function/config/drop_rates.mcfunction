@@ -18,9 +18,9 @@ data modify storage mobheads:drop_rates breeze set value 0.002
 data modify storage mobheads:drop_rates camel set value 0.001
 data modify storage mobheads:drop_rates cat set value 0.002
 data modify storage mobheads:drop_rates cave_spider set value 0.0002
-data modify storage mobheads:drop_rates chicken set value 1
+data modify storage mobheads:drop_rates chicken set value 0.0002
 data modify storage mobheads:drop_rates cod set value 0.001
-data modify storage mobheads:drop_rates cow set value 1
+data modify storage mobheads:drop_rates cow set value 0.0002
 data modify storage mobheads:drop_rates creaking set value 0.004
 data modify storage mobheads:drop_rates creeper set value 0.0002
 data modify storage mobheads:drop_rates creeper_charged set value 0.004
@@ -65,7 +65,7 @@ data modify storage mobheads:drop_rates panda set value 0.002
 data modify storage mobheads:drop_rates panda_special set value 0.004
 data modify storage mobheads:drop_rates parrot set value 0.002
 data modify storage mobheads:drop_rates phantom set value 0.001
-data modify storage mobheads:drop_rates pig set value 1
+data modify storage mobheads:drop_rates pig set value 0.0002
 data modify storage mobheads:drop_rates piglin_brute set value 0.05
 data modify storage mobheads:drop_rates piglin set value 0.0002
 data modify storage mobheads:drop_rates pillager set value 0.001
