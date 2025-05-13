@@ -301,8 +301,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "evil"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "evil"
                 }
               }
             },
@@ -496,8 +497,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "white"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "white"
                 }
               }
             },
@@ -691,8 +693,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "black"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "black"
                 }
               }
             },
@@ -886,8 +889,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "brown"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "brown"
                 }
               }
             },
@@ -1081,8 +1085,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "salt"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "salt"
                 }
               }
             },
@@ -1276,8 +1281,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "white_splotched"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "white_splotched"
                 }
               }
             },
@@ -1471,8 +1477,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:rabbit/variant": "gold"
+                "type_specific": {
+                  "type": "minecraft:rabbit",
+                  "variant": "gold"
                 }
               }
             },

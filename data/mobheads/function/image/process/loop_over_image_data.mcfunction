@@ -19,10 +19,10 @@ execute if score $index.column mobheads.image matches 1 run \
   function mobheads:image/process/append/blank
 
 # Append colored pixel
-execute unless data storage mobheads:image current{pixel_color: ''} run \
+execute unless data storage mobheads:image current{pixel_color: ""} run \
   function mobheads:image/process/append/pixel
 # Append background pixel
-execute if data storage mobheads:image current{pixel_color: ''} run \
+execute if data storage mobheads:image current{pixel_color: ""} run \
   function mobheads:image/process/append/background
 
 # Append description
@@ -34,4 +34,3 @@ data remove storage mobheads:image current.image_data[0]
 # Loop over rows
 execute if score $index.row mobheads.image < $height mobheads.image run \
   function mobheads:image/process/loop_over_image_data
- 

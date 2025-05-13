@@ -176,8 +176,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:woods"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:woods"
                 }
               }
             },
@@ -371,8 +372,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:spotted"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:spotted"
                 }
               }
             },
@@ -574,8 +576,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:striped"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:striped"
                 }
               }
             },
@@ -769,8 +772,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:rusty"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:rusty"
                 }
               }
             },
@@ -964,8 +968,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:pale"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:pale"
                 }
               }
             },
@@ -1159,8 +1164,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:chestnut"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:chestnut"
                 }
               }
             },
@@ -1354,8 +1360,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:black"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:black"
                 }
               }
             },
@@ -1549,8 +1556,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:ashen"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:ashen"
                 }
               }
             },
@@ -1744,8 +1752,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:wolf/variant": "minecraft:snowy"
+                "type_specific": {
+                  "type": "minecraft:wolf",
+                  "variant": "minecraft:snowy"
                 }
               }
             },

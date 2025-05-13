@@ -1,10 +1,11 @@
-#> mobheads:image/process/generate
+#> mobheads:image/generate
 #
 # This function generates the image data.
 
 data modify storage mobheads:image current.image_data set from storage mobheads:image image_data
 data modify storage mobheads:image current.description set from storage mobheads:image description
-data modify storage mobheads:image current.pixel_character set from storage mobheads:image pixel_character.pixel
+data modify storage mobheads:image current.pixel_character set \
+  from storage mobheads:image pixel_character.pixel
 
 # Reset index score
 scoreboard players set $index.image_data mobheads.image 0

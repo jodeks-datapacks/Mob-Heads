@@ -2,99 +2,99 @@ tellraw @s \
 [\
   "\n",\
   {\
-  text:"[HELP] ",\
-    color:"gray"\
+  "text":"[HELP] ",\
+    "color":"gray"\
   },\
   {\
-  text:"Mob Heads\n",\
+  "text":"Mob Heads",\
     "bold":true\
   },\
     "\nConfig: \n",\
   {\
-    text:"/trigger mobheads.config\n",\
-    click_event:\
+    "text":"/trigger mobheads.config\n",\
+    "clickEvent":\
       {\
         "action":"copy_to_clipboard",\
         "value":"/trigger mobheads.config"\
       },\
-      hover_event:\
+      "hoverEvent":\
       {\
         "action":"show_text",\
-        value:"click to copy"\
+        "contents":"click to copy"\
       },\
-    color:"yellow"\
+    "color":"yellow"\
   },\
   "\nTo uninstall run \n",\
   {\
-    text:"/function mobheads:uninstall\n",\
-    click_event:\
+    "text":"/function mobheads:uninstall\n",\
+    "clickEvent":\
       {\
         "action":"copy_to_clipboard",\
         "value":"/function mobheads:uninstall"\
       },\
-      hover_event:\
+      "hoverEvent":\
       {\
         "action":"show_text",\
-        value:"click to copy"\
+        "contents":"click to copy"\
       },\
-    color:"yellow"\
+    "color":"yellow"\
   },\
   "\n\n",\
   {\
-    text:"[LINK] ",\
-    color:"gray",\
-    click_event:\
+    "text":"[LINK] ",\
+    "color":"gray",\
+    "clickEvent":\
       {\
         "action":"open_url",\
-        url:"https://modrinth.com/datapack/mob-heads"\
+        "value":"https://modrinth.com/datapack/mob-heads"\
       },\
-    hover_event:\
+    "hoverEvent":\
       {\
         "action":"show_text",\
-        value:"modrinth.com/datapack/mob-heads"\
+        "contents":"modrinth.com/datapack/mob-heads"\
       }\
   },\
   {\
-    text:"Modrinth Mob Heads",\
-    color:"dark_purple",\
-    click_event:\
+    "text":"Modrinth Mob Heads",\
+    "color":"dark_purple",\
+    "clickEvent":\
     {\
       "action":"open_url",\
-      url:"https://modrinth.com/datapack/mob-heads"\
+      "value":"https://modrinth.com/datapack/mob-heads"\
     },\
-    hover_event:\
+    "hoverEvent":\
     {\
       "action":"show_text",\
-      value:"modrinth.com/datapack/mob-heads"\
+      "contents":"modrinth.com/datapack/mob-heads"\
     }\
   },\
   "\n\n",\
   {\
-    text:"[LINK] ",\
-    color:"gray",\
-    click_event:\
+    "text":"[LINK] ",\
+    "color":"gray",\
+    "clickEvent":\
     {\
       "action":"open_url",\
-      url:"https://discord.gg/ScXkDNHnYX"\
+      "value":"https://discord.gg/ScXkDNHnYX"\
     },\
-    hover_event:\
+    "hoverEvent":\
     {\
       "action":"show_text",\
-      value:"discord.gg/ScXkDNHnYX"\
+      "contents":"discord.gg/ScXkDNHnYX"\
     }\
   },\
   {\
-    text:"Discord Server",\
-    color:"blue",\
-    click_event:\
+    "text":"Discord Server",\
+    "color":"blue",\
+    "clickEvent":\
     {\
       "action":"open_url",\
-      url:"https://discord.gg/ScXkDNHnYX"\
+      "value":"https://discord.gg/ScXkDNHnYX"\
     },\
-    hover_event:\
+    "hoverEvent":\
     {\
       "action":"show_text",\
-      value:"discord.gg/ScXkDNHnYX"\
+      "contents":"discord.gg/ScXkDNHnYX"\
     }\
   },\
   " --> for issues, suggestions, questions and news"\

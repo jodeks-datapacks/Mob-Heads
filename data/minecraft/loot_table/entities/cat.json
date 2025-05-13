@@ -205,8 +205,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:all_black"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:all_black"
                 }
               }
             },
@@ -400,8 +401,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:british_shorthair"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:british_shorthair"
                 }
               }
             },
@@ -587,8 +589,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:black"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:black"
                 }
               }
             },
@@ -790,8 +793,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:white"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:white"
                 }
               }
             },
@@ -985,8 +989,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:calico"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:calico"
                 }
               }
             },
@@ -1180,8 +1185,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:jellie"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:jellie"
                 }
               }
             },
@@ -1375,8 +1381,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:persian"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:persian"
                 }
               }
             },
@@ -1570,8 +1577,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:ragdoll"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:ragdoll"
                 }
               }
             },
@@ -1765,8 +1773,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:red"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:red"
                 }
               }
             },
@@ -1960,8 +1969,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:siamese"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:siamese"
                 }
               }
             },
@@ -2155,8 +2165,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:cat/variant": "minecraft:tabby"
+                "type_specific": {
+                  "type": "minecraft:cat",
+                  "variant": "minecraft:tabby"
                 }
               }
             },

@@ -20,5 +20,3 @@ function mobheads:config/image
 # Reload advancements
 function mobheads:app/advancement/reload
 
-# Init chat config
-function mobheads:chat_config/init

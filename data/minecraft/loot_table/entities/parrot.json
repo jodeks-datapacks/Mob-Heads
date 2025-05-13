@@ -204,14 +204,19 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.7
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:drop_rates",
+                "path": "parrot"
+              }
             },
             {
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:parrot/variant": "green"
+                "type_specific": {
+                  "type": "minecraft:parrot",
+                  "variant": "green"
                 }
               }
             },
@@ -405,8 +410,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:parrot/variant": "blue"
+                "type_specific": {
+                  "type": "minecraft:parrot",
+                  "variant": "blue"
                 }
               }
             },
@@ -600,8 +606,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:parrot/variant": "gray"
+                "type_specific": {
+                  "type": "minecraft:parrot",
+                  "variant": "gray"
                 }
               }
             },
@@ -795,8 +802,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:parrot/variant": "red_blue"
+                "type_specific": {
+                  "type": "minecraft:parrot",
+                  "variant": "red_blue"
                 }
               }
             },
@@ -990,8 +998,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:parrot/variant": "yellow_blue"
+                "type_specific": {
+                  "type": "minecraft:parrot",
+                  "variant": "yellow_blue"
                 }
               }
             },

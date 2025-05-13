@@ -13,4 +13,3 @@ execute unless score $index.image_data mobheads.image = $length mobheads.image \
 
 # Remove first element from the description
 data remove storage mobheads:image current.description[0]
- 

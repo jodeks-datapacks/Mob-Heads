@@ -1,14 +1,14 @@
 tellraw @a [\
   "",\
   {\
-    text: "[",\
-    color: "#aaaaaa"\
+    "text": "[",\
+    "color": "#aaaaaa"\
   },\
   {\
-    text: "Mob Heads",\
-    hover_event: {\
-      action: "show_text",\
-      value: [\
+    "text": "Mob Heads",\
+    "hoverEvent": {\
+      "action": "show_text",\
+      "contents": [\
         {\
           "nbt":"tellraw[]",\
           "storage": "mobheads:image",\
@@ -17,18 +17,18 @@ tellraw @a [\
         }\
       ]\
     },\
-    click_event:\
+    "clickEvent":\
     {\
-    action:"open_url",\
-    url:"https://modrinth.com/datapack/mob-heads/"\
+    "action":"open_url",\
+    "value":"https://modrinth.com/datapack/mob-heads/"\
     }\
   },\
   {\
-    text: "]",\
-    color: "#aaaaaa",\
-    hover_event: {\
-      action: "show_text",\
-      value: [\
+    "text": "]",\
+    "color": "#aaaaaa",\
+    "hoverEvent": {\
+      "action": "show_text",\
+      "contents": [\
         {\
           "nbt":"tellraw[]",\
           "storage": "mobheads:image",\
@@ -37,18 +37,18 @@ tellraw @a [\
         }\
       ]\
     },\
-    click_event:\
+    "clickEvent":\
     {\
-    action:"open_url",\
-    url:"https://modrinth.com/datapack/mob-heads/"\
+    "action":"open_url",\
+    "value":"https://modrinth.com/datapack/mob-heads/"\
     }\
   },\
   {\
-    text: " loaded! ",\
-    color: "#ffffff",\
-    hover_event: {\
-      action: "show_text",\
-      value: [\
+    "text": " loaded! ",\
+    "color": "#ffffff",\
+    "hoverEvent": {\
+      "action": "show_text",\
+      "contents": [\
         {\
           "nbt":"tellraw[]",\
           "storage": "mobheads:image",\
@@ -57,18 +57,18 @@ tellraw @a [\
         }\
       ]\
     },\
-    click_event:\
+    "clickEvent":\
     {\
-    action:"open_url",\
-    url:"https://modrinth.com/datapack/mob-heads/"\
+    "action":"open_url",\
+    "value":"https://modrinth.com/datapack/mob-heads/"\
     }\
   },\
   {\
-    text: "hover for more info",\
-    color: "#929796",\
-    hover_event: {\
-      action: "show_text",\
-      value: [\
+    "text": "hover for more info",\
+    "color": "#929796",\
+    "hoverEvent": {\
+      "action": "show_text",\
+      "contents": [\
         {\
           "nbt":"tellraw[]",\
           "storage": "mobheads:image",\
@@ -77,10 +77,10 @@ tellraw @a [\
         }\
       ]\
     },\
-    click_event:\
+    "clickEvent":\
     {\
-    action:"open_url",\
-    url:"https://modrinth.com/datapack/mob-heads/"\
+    "action":"open_url",\
+    "value":"https://modrinth.com/datapack/mob-heads/"\
     }\
   }\
 ]

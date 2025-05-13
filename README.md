@@ -23,22 +23,6 @@ Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or cr
 
 **Looting doesn't affect the drop rates**
 
-## Showcase
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xsZPlTAnR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Config
-
-Run: 
-
-```
-/trigger mobheads.config
-```
-
-**To change drop rates and rarities:**
-
-Head to: `MobHeads/data/mobheads/function/config`
-
 ## Guides
 
 <picture>
@@ -258,182 +242,21 @@ Now, you should be able to use commands like changing your gamemode. Keep in min
 - **Ensure Mod Compatibility:** Check that the Mod is compatible with your Minecraft server version and any other mods you have installed.
 </details>
 
----
+## Showcase
 
-## Default drop rates
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xsZPlTAnR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-allay 0.1%
+## Config
 
-armadillo 0.1%
+Run: 
 
-axolotl 0.2%
+```
+/trigger mobheads.config
+```
 
-axolotl_blue 5%
+To change drop rates and rarities:
 
-bat 0.2%
-
-bee 0.1%
-
-blaze 0.02%
-
-bogged 0.1%
-
-breeze 0.2%
-
-camel 0.1%
-
-cat 0.2%
-
-cave_spider 0.02%
-
-chicken 0.02%
-
-cod 0.1%
-
-cow 0.02%
-
-creaking 0.4%
-
-creeper 0.02%
-
-creeper_charged 0.4%
-
-dolphin 0.1%
-
-donkey 0.1%
-
-drowned 0.02%
-
-elder_guardian 5%
-
-ender_dragon 1%
-
-enderman 0.02%
-
-endermite 0.4%
-
-evoker 0.4%
-
-fox 0.1%
-
-frog 0.1%
-
-ghast 0.1%
-
-glow_squid 0.1%
-
-goat 0.1%
-
-guardian 0.02%
-
-hoglin 0.1%
-
-horse 0.1%
-
-husk 0.1%
-
-illusioner 0.4%
-
-iron_golem 0.1%
-
-llama 0.1%
-
-magma_cube 0.02%
-
-mooshroom 0.2%
-
-mooshroom_brown 0.4%
-
-mule 0.1%
-
-ocelot 0.2%
-
-normal & weak panda 0.2%
-
-lazy, brown, playful, aggressive and worried panda 0.4%
-
-parrot 0.2%
-
-phantom 0.1%
-
-pig 0.02%
-
-piglin_brute 5%
-
-piglin 0.02%
-
-pillager 0.1%
-
-polar_bear 0.1%
-
-pufferfish 0.1%
-
-rabbit 0.1%
-
-ravager 0.2%
-
-salmon 0.1%
-
-sheep 0.02%
-
-shulker 0.1%
-
-silverfish 0.02%
-
-skeleton_horse 5%
-
-skeleton 0.02%
-
-slime 0.02%
-
-sniffer 0.1%
-
-snow_golem 0.1%
-
-spider 0.02%
-
-squid 0.1%
-
-stray 0.1%
-
-strider 0.1%
-
-tadpole 0.4%
-
-trader_llama 0.2%
-
-tropical_fish 0.1%
-
-turtle 0.1%
-
-vex 0.1%
-
-villager 0.2%
-
-vindicator 0.2%
-
-wandering_trader 0.2%
-
-warden 1%
-
-witch 0.2%
-
-wither 1%
-
-special wither skull 5%
-
-wolf 0.1%
-
-zoglin 0.2%
-
-zombie_horse 5%
-
-zombie_villager 0.2%
-
-zombie 0.02%
-
-zombified_piglin 0.02%
-
+Head to: `MobHeads/data/mobheads/function/config`
 
 
 ## For anything pre (before) 1.21
@@ -445,11 +268,11 @@ You can use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search
 
 ### Common = 0.02 = 2%
 
-- Chicken (1.21.5+: temperate, warm, cold)
-- Cow (1.21.5+: temperate, warm, cold)
+- Chicken
+- Cow
 - Cave Spider
 - Creeper
-- Pig (1.21.5+: temperate, warm, cold)
+- Pig
 - Sheep (different heads for all colors)
 - Skeleton
 - Spider

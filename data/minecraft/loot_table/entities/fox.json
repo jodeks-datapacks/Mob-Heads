@@ -184,8 +184,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:fox/variant": "red"
+                "type_specific": {
+                  "type": "minecraft:fox",
+                  "variant": "red"
                 }
               }
             },
@@ -379,8 +380,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:fox/variant": "snow"
+                "type_specific": {
+                  "type": "minecraft:fox",
+                  "variant": "snow"
                 }
               }
             },

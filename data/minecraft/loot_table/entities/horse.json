@@ -214,8 +214,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "white"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "white"
                 }
               }
             },
@@ -409,8 +410,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "gray"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "gray"
                 }
               }
             },
@@ -604,8 +606,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "black"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "black"
                 }
               }
             },
@@ -799,8 +802,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "creamy"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "creamy"
                 }
               }
             },
@@ -994,8 +998,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "dark_brown"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "dark_brown"
                 }
               }
             },
@@ -1189,8 +1194,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "chestnut"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "chestnut"
                 }
               }
             },
@@ -1384,8 +1390,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "brown"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "brown"
                 }
               }
             },
@@ -1579,8 +1586,9 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "components": {
-                  "minecraft:horse/variant": "white"
+                "type_specific": {
+                  "type": "minecraft:horse",
+                  "variant": "white"
                 }
               }
             },

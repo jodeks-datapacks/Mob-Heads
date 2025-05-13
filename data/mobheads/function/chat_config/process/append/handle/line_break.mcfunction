@@ -1,1 +1,0 @@
-data modify storage config_system:mobheads menu append value "\n"
