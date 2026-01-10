@@ -1,0 +1,19 @@
+{
+  "project_id": "82uI0waE",
+  "curseforge_project_id": "1425712",
+  "curseforge_slug": "mob-heads",
+  "loaders": [
+    "datapack"
+  ],
+  "game_versions": [
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "version_type": "release",
+  "dependencies": "",
+  "discord_role_id": "1252026036607127604"
+}
