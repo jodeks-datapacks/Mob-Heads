@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:snow_block"
+    },
+    "title": "Snow Villager Heads",
+    "description": "Collect all snow villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/villager",
+  "criteria": {
+    "armorer_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/armorer_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/butcher_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/cartographer_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/cleric_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/farmer_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/fisherman_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/fletcher_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/leatherworker_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/librarian_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/mason_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/nitwit_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/shepherd_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/toolsmith_snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/snow/weaponsmith_snow_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

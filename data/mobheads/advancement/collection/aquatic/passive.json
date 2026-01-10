@@ -1,0 +1,93 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:salmon"
+    },
+    "title": "Passive Aquatic Heads",
+    "description": "Collect all passive aquatic heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/aquatic",
+  "criteria": {
+    "cod": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/passive/cod": true
+            }
+          }
+        }
+      }
+    },
+    "dolphin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/passive/dolphin": true
+            }
+          }
+        }
+      }
+    },
+    "glow_squid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/passive/glow_squid": true
+            }
+          }
+        }
+      }
+    },
+    "salmon": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/passive/salmon": true
+            }
+          }
+        }
+      }
+    },
+    "squid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/passive/squid": true
+            }
+          }
+        }
+      }
+    },
+    "turtle": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/passive/turtle": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

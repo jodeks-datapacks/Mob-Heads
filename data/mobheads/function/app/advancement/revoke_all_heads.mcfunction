@@ -1,0 +1,1 @@
+advancement revoke @s from mobheads:collection/root

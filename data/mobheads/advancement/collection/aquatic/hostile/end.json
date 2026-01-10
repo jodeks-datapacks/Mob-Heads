@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "end": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "parent": "mobheads:collection/aquatic/hostile/pufferfish"
+}

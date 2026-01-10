@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": "Boss Heads",
+    "description": "Collect all boss heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "elder_guardian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/boss/elder_guardian": true
+            }
+          }
+        }
+      }
+    },
+    "ender_dragon": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/boss/ender_dragon": true
+            }
+          }
+        }
+      }
+    },
+    "warden": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/boss/warden": true
+            }
+          }
+        }
+      }
+    },
+    "wither": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/boss/wither": true
+            }
+          }
+        }
+      }
+    },
+    "wither_invulnerable": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/boss/wither_invulnerable": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

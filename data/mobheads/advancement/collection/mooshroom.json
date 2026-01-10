@@ -1,0 +1,41 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:red_mushroom"
+    },
+    "title": "Mooshroom Heads",
+    "description": "Collect all mooshroom heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/mooshroom/red": true
+            }
+          }
+        }
+      }
+    },
+    "brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/mooshroom/brown": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

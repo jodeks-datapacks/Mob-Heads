@@ -1,0 +1,119 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:hay_block"
+    },
+    "title": "Llama Heads",
+    "description": "Collect all llama heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/brown": true
+            }
+          }
+        }
+      }
+    },
+    "creamy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/gray": true
+            }
+          }
+        }
+      }
+    },
+    "white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/white": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/trader_llama/brown": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_creamy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/trader_llama/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/trader_llama/gray": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/llama/trader_llama/white": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

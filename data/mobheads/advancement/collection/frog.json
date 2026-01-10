@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:slime_ball"
+    },
+    "title": "Frog Heads",
+    "description": "Collect all frog heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/frog/cold": true
+            }
+          }
+        }
+      }
+    },
+    "brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/frog/tadpole": true
+            }
+          }
+        }
+      }
+    },
+    "gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/frog/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "salt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/frog/warm": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

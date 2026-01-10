@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:spruce_log"
+    },
+    "title": "taiga Villager Heads",
+    "description": "Collect all taiga villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/villager",
+  "criteria": {
+    "armorer_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/armorer_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/butcher_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/cartographer_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/cleric_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/farmer_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/fisherman_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/fletcher_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/leatherworker_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/librarian_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/mason_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/nitwit_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/shepherd_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/toolsmith_taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/taiga/weaponsmith_taiga_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

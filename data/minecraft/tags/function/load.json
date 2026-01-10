@@ -1,0 +1,6 @@
+{
+  "values": [
+    "mobheads:app/setup",
+    "mobheads:app/load_message"
+  ]
+}

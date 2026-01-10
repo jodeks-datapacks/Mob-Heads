@@ -1,0 +1,54 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:porkchop"
+    },
+    "title": "Pig Heads",
+    "description": "Collect all pig heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/passive",
+  "criteria": {
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/pig/cold": true
+            }
+          }
+        }
+      }
+    },
+    "brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/pig/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/pig/warm": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

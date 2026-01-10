@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:custom_name={"text":"Cod Head","color":"white",italic:false},note_block_sound="minecraft:entity.cod.flop",profile={properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg5MmQ3ZGQ2YWFkZjM1Zjg2ZGEyN2ZiNjNkYTRlZGRhMjExZGY5NmQyODI5ZjY5MTQ2MmE0ZmIxY2FiMCJ9fX0="}]}] 1

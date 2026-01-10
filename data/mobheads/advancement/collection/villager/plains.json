@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_log"
+    },
+    "title": "Plains Villager Heads",
+    "description": "Collect all plains villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/villager",
+  "criteria": {
+    "armorer_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/armorer_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/butcher_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/cartographer_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/cleric_villager": true
+            }
+          }
+        }
+      }
+    },
+    "plains_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/farmer_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/fisherman_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/fletcher_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/leatherworker_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/librarian_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/mason_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/nitwit_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/shepherd_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/toolsmith_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/plains/weaponsmith_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

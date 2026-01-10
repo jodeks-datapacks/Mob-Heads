@@ -1,0 +1,8 @@
+{
+   "criteria": {
+      "end": {
+         "trigger": "minecraft:location"
+      }
+   },
+   "parent": "mobheads:collection/zombie_villager/jungle/weaponsmith_jungle_zombie_villager"
+}

@@ -1,0 +1,8 @@
+{
+   "criteria": {
+      "end": {
+         "trigger": "minecraft:location"
+      }
+   },
+   "parent": "mobheads:collection/zombie_villager/swamp/weaponsmith_swamp_zombie_villager"
+}

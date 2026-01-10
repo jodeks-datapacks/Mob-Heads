@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_log"
+    },
+    "title": "Plains Zombie Villager Heads",
+    "description": "Collect all plains zombie villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/zombie_villager",
+  "criteria": {
+    "armorer_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/armorer_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/butcher_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/cartographer_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/cleric_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "plains_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/farmer_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/fisherman_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/fletcher_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/leatherworker_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/librarian_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/mason_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/nitwit_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/shepherd_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/toolsmith_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/plains/weaponsmith_zombie_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

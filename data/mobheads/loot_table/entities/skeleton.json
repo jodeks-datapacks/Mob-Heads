@@ -1,0 +1,245 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:skeleton_skull",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "white",
+                "translate": "entity.minecraft.skeleton",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Skull"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&skeleton"
+                    },
+                    "score": "mobheads.rarity"
+                  },
+                  "range": 0
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.skeleton.ambient"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "yellow",
+                "translate": "entity.minecraft.skeleton",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Skull"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&skeleton"
+                    },
+                    "score": "mobheads.rarity"
+                  },
+                  "range": 1
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "aqua",
+                "translate": "entity.minecraft.skeleton",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Skull"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&skeleton"
+                    },
+                    "score": "mobheads.rarity"
+                  },
+                  "range": 2
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "dark_purple",
+                "translate": "entity.minecraft.skeleton",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Skull"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&skeleton"
+                    },
+                    "score": "mobheads.rarity"
+                  },
+                  "range": 3
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "gold",
+                "translate": "entity.minecraft.skeleton",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Skull"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&skeleton"
+                    },
+                    "score": "mobheads.rarity"
+                  },
+                  "range": 4
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "green",
+                "translate": "entity.minecraft.skeleton",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " Skull"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&skeleton"
+                    },
+                    "score": "mobheads.rarity"
+                  },
+                  "range": 5
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mobheads:root",
+                "path": "skeleton"
+              }
+            },
+            {
+              "condition": "minecraft:any_of",
+              "terms": [
+                {
+                  "condition": "minecraft:all_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:killed_by_player"
+                    },
+                    {
+                      "condition": "minecraft:value_check",
+                      "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                          "type": "minecraft:fixed",
+                          "name": "&killed_by_player"
+                        },
+                        "score": "mobheads.config"
+                      },
+                      "range": 1
+                    }
+                  ]
+                },
+                {
+                  "condition": "minecraft:all_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:damage_source_properties",
+                      "predicate": {
+                        "source_entity": {
+                          "type": "minecraft:creeper",
+                          "nbt": "{powered:1b}"
+                        }
+                      }
+                    },
+                    {
+                      "condition": "minecraft:value_check",
+                      "value": {
+                        "type": "minecraft:score",
+                        "target": {
+                          "type": "minecraft:fixed",
+                          "name": "&killed_by_player"
+                        },
+                        "score": "mobheads.config"
+                      },
+                      "range": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

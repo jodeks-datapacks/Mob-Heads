@@ -1,0 +1,184 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:jungle_door"
+    },
+    "title": "Jungle Heads",
+    "description": "Collect all jungle heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "aggressive": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/aggressive": true
+            }
+          }
+        }
+      }
+    },
+    "brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/brown": true
+            }
+          }
+        }
+      }
+    },
+    "lazy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/lazy": true
+            }
+          }
+        }
+      }
+    },
+    "normal": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/normal": true
+            }
+          }
+        }
+      }
+    },
+    "playful": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/playful": true
+            }
+          }
+        }
+      }
+    },
+    "weak": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/weak": true
+            }
+          }
+        }
+      }
+    },
+    "worried": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/panda/worried": true
+            }
+          }
+        }
+      }
+    },
+    "blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/blue": true
+            }
+          }
+        }
+      }
+    },
+    "gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/gray": true
+            }
+          }
+        }
+      }
+    },
+    "green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/green": true
+            }
+          }
+        }
+      }
+    },
+    "red_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/red_blue": true
+            }
+          }
+        }
+      }
+    },
+    "yellow_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/yellow_blue": true
+            }
+          }
+        }
+      }
+    },
+    "ocelot": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/ocelot": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

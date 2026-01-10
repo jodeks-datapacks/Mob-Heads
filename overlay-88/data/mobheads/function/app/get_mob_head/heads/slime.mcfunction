@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:custom_name={"text":"Slime Head","color":"white",italic:false},note_block_sound="minecraft:entity.slime.jump",profile={properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQxYTMxOTdkNWQzYjU0YzNjYmI3ZDVmNzUzMDU5M2QxNDljN2ZlYzc1M2E1YWQ4ZjEwMjc2ZDI2NDM0MjcwNSJ9fX0="}]}] 1

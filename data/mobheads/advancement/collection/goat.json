@@ -1,0 +1,119 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:goat_horn"
+    },
+    "title": "Goat Heads",
+    "description": "Collect all goat heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "goat": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/goat": true
+            }
+          }
+        }
+      }
+    },
+    "goat_left_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/goat_left_horn": true
+            }
+          }
+        }
+      }
+    },
+    "goat_no_horns": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/goat_no_horns": true
+            }
+          }
+        }
+      }
+    },
+    "goat_right_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/goat_right_horn": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/screaming_goat": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat_left_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/screaming_goat_left_horn": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat_no_horns": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/screaming_goat_no_horns": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat_right_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/goat/screaming_goat_right_horn": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

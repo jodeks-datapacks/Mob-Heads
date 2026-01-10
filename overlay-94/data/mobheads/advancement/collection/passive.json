@@ -1,0 +1,314 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_sapling"
+    },
+    "title": "Passive Heads",
+    "description": "Collect all passive heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "camel_husk": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/camel_husk": true
+            }
+          }
+        }
+      }
+    },
+    "normal_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/bee/normal": true
+            }
+          }
+        }
+      }
+    },
+    "angry_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/bee/angry": true
+            }
+          }
+        }
+      }
+    },
+    "angry_pollen_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/bee/angry_pollen": true
+            }
+          }
+        }
+      }
+    },
+    "pollen_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/bee/pollen": true
+            }
+          }
+        }
+      }
+    },
+    "allay": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/allay": true
+            }
+          }
+        }
+      }
+    },
+    "armadillo": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/armadillo": true
+            }
+          }
+        }
+      }
+    },
+    "bat": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/bat": true
+            }
+          }
+        }
+      }
+    },
+    "camel": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/camel": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/chicken/warm": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/chicken/cold": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/chicken/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "cow_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/cow/cold": true
+            }
+          }
+        }
+      }
+    },
+    "cow_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/cow/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "cow_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/cow/warm": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/happy_ghast": true
+            }
+          }
+        }
+      }
+    },
+    "pig_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/pig/cold": true
+            }
+          }
+        }
+      }
+    },
+    "pig_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/pig/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "pig_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/pig/warm": true
+            }
+          }
+        }
+      }
+    },
+    "polar_bear": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/polar_bear": true
+            }
+          }
+        }
+      }
+    },
+    "skeleton_horse": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/skeleton_horse": true
+            }
+          }
+        }
+      }
+    },
+    "sniffer": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/sniffer": true
+            }
+          }
+        }
+      }
+    },
+    "wandering_trader": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/passive/wandering_trader": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

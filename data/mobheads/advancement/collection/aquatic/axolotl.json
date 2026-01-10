@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:axolotl_bucket"
+    },
+    "title": "Axolotl Heads",
+    "description": "Collect all axolotl heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/aquatic",
+  "criteria": {
+    "blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/axolotl/blue": true
+            }
+          }
+        }
+      }
+    },
+    "cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/axolotl/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/axolotl/gold": true
+            }
+          }
+        }
+      }
+    },
+    "leucistic": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/axolotl/leucistic": true
+            }
+          }
+        }
+      }
+    },
+    "wild": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/axolotl/wild": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

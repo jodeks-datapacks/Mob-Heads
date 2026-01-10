@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:copper_golem_statue"
+    },
+    "title": "Copper Golem Heads",
+    "description": "Collect all copper golem heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/golem",
+  "criteria": {
+    "ashen": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/exposed": true
+            }
+          }
+        }
+      }
+    },
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/oxidized": true
+            }
+          }
+        }
+      }
+    },
+    "chestnut": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/unaffected": true
+            }
+          }
+        }
+      }
+    },
+    "pale": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/weathered": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

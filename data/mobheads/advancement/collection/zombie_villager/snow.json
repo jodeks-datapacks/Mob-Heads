@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:snow_block"
+    },
+    "title": "Snow Zombie Villager Heads",
+    "description": "Collect all snow zombie villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/zombie_villager",
+  "criteria": {
+    "armorer_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/armorer_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/butcher_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/cartographer_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/cleric_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/farmer_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/fisherman_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/fletcher_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/leatherworker_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/librarian_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/mason_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/nitwit_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/shepherd_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/toolsmith_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/snow/weaponsmith_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

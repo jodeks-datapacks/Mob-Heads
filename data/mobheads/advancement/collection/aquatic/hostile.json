@@ -1,0 +1,54 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:pufferfish"
+    },
+    "title": "Hostile Aquatic Heads",
+    "description": "Collect all hostile aquatic heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/aquatic",
+  "criteria": {
+    "drowned": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/hostile/drowned": true
+            }
+          }
+        }
+      }
+    },
+    "guardian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/hostile/guardian": true
+            }
+          }
+        }
+      }
+    },
+    "pufferfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/hostile/pufferfish": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

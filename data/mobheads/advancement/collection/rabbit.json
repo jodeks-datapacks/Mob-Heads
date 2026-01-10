@@ -1,0 +1,93 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:rabbit"
+    },
+    "title": "Rabbit Heads",
+    "description": "Collect all rabbit heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/rabbit/black": true
+            }
+          }
+        }
+      }
+    },
+    "brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/rabbit/brown": true
+            }
+          }
+        }
+      }
+    },
+    "gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/rabbit/gold": true
+            }
+          }
+        }
+      }
+    },
+    "salt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/rabbit/salt": true
+            }
+          }
+        }
+      }
+    },
+    "white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/rabbit/white": true
+            }
+          }
+        }
+      }
+    },
+    "white_splotched": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/rabbit/white_splotched": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:wheat_seeds"
+    },
+    "title": "Parrot Heads",
+    "description": "Collect all parrot heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/jungle",
+  "criteria": {
+    "blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/blue": true
+            }
+          }
+        }
+      }
+    },
+    "gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/gray": true
+            }
+          }
+        }
+      }
+    },
+    "green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/green": true
+            }
+          }
+        }
+      }
+    },
+    "red_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/red_blue": true
+            }
+          }
+        }
+      }
+    },
+    "yellow_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/jungle/parrot/yellow_blue": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

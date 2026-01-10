@@ -1,0 +1,275 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_sword"
+    },
+    "title": "Hostile Heads",
+    "description": "Collect all hostile heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "bogged": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/bogged": true
+            }
+          }
+        }
+      }
+    },
+    "breeze": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/breeze": true
+            }
+          }
+        }
+      }
+    },
+    "cave_spider": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/cave_spider": true
+            }
+          }
+        }
+      }
+    },
+    "charged_creeper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/charged_creeper": true
+            }
+          }
+        }
+      }
+    },
+    "creaking": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/creaking": true
+            }
+          }
+        }
+      }
+    },
+    "creeper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/creeper": true
+            }
+          }
+        }
+      }
+    },
+    "evoker": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/raiders/evoker": true
+            }
+          }
+        }
+      }
+    },
+    "husk": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/husk": true
+            }
+          }
+        }
+      }
+    },
+    "phantom": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/phantom": true
+            }
+          }
+        }
+      }
+    },
+    "pillager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/raiders/pillager": true
+            }
+          }
+        }
+      }
+    },
+    "ravager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/raiders/ravager": true
+            }
+          }
+        }
+      }
+    },
+    "silverfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/silverfish": true
+            }
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/skeleton": true
+            }
+          }
+        }
+      }
+    },
+    "slime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/slime": true
+            }
+          }
+        }
+      }
+    },
+    "spider": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/spider": true
+            }
+          }
+        }
+      }
+    },
+    "stray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/stray": true
+            }
+          }
+        }
+      }
+    },
+    "vex": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/raiders/vex": true
+            }
+          }
+        }
+      }
+    },
+    "vindicator": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/raiders/vindicator": true
+            }
+          }
+        }
+      }
+    },
+    "witch": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/witch": true
+            }
+          }
+        }
+      }
+    },
+    "zombie": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/hostile/zombie": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

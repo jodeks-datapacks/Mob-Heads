@@ -1,0 +1,91 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mobheads:vanilla_entities/fox"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:any_of",
+          "terms": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "&mobheads"
+                },
+                "score": "jodek.loaded"
+              },
+              "range": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mobheads:entities/fox"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "nametag:name_tag"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "nametag:vanilla_entities/fox"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "&nametag"
+                },
+                "score": "jodek.loaded"
+              },
+              "range": 1
+            },
+            {
+              "condition": "minecraft:value_check",
+              "value": {
+                "type": "minecraft:score",
+                "target": {
+                  "type": "minecraft:fixed",
+                  "name": "&mobheads"
+                },
+                "score": "jodek.loaded"
+              },
+              "range": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

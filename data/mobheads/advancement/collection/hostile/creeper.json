@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:creeper_head"
+    },
+    "title": "Creeper Head",
+    "description": "Collect the creeper head",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mobheads:collection/hostile/skeleton",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mobheads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:creeper_head"
+          }
+        ]
+      }
+    }
+  }
+}

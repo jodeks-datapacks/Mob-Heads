@@ -1,0 +1,8 @@
+{
+   "criteria": {
+      "end": {
+         "trigger": "minecraft:location"
+      }
+   },
+   "parent": "mobheads:collection/zombie_villager/savanna/weaponsmith_savanna_zombie_villager"
+}

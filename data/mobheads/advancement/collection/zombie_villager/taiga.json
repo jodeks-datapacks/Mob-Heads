@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:spruce_log"
+    },
+    "title": "Taiga Zombie Villager Heads",
+    "description": "Collect all taiga zombie villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/zombie_villager",
+  "criteria": {
+    "armorer_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/armorer_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/butcher_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/cartographer_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/cleric_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/farmer_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/fisherman_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/fletcher_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/leatherworker_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/librarian_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/mason_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/nitwit_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/shepherd_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/toolsmith_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/zombie_villager/taiga/weaponsmith_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

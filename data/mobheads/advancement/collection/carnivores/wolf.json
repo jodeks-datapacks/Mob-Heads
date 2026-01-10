@@ -1,0 +1,106 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bone"
+    },
+    "title": "Wolf Heads",
+    "description": "Collect all wolf heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/carnivores",
+  "criteria": {
+    "ashen": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/ashen": true
+            }
+          }
+        }
+      }
+    },
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/black": true
+            }
+          }
+        }
+      }
+    },
+    "chestnut": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/chestnut": true
+            }
+          }
+        }
+      }
+    },
+    "pale": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/pale": true
+            }
+          }
+        }
+      }
+    },
+    "rusty": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/rusty": true
+            }
+          }
+        }
+      }
+    },
+    "snowy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/snowy": true
+            }
+          }
+        }
+      }
+    },
+    "spotted": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/carnivores/wolf/spotted": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

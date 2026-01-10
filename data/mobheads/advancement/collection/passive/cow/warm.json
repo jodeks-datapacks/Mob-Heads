@@ -1,0 +1,60 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNiMzM3NmZhZjI4MWMxNGJhNDcyZDJlN2Y2YjZkMDE2OWU0YmMyMzc0ODM1YTlmOGQwNzg4ZTA0ZDgxMzQzZCJ9fX0="
+            }
+          ]
+        }
+      }
+    },
+    "title": "Warm Cow Head",
+    "description": "Collect the warm cow head",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mobheads:collection/passive/cow/temperate",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mobheads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNiMzM3NmZhZjI4MWMxNGJhNDcyZDJlN2Y2YjZkMDE2OWU0YmMyMzc0ODM1YTlmOGQwNzg4ZTA0ZDgxMzQzZCJ9fX0="
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

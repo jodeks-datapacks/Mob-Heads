@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:custom_name={"text":"Vex Head","color":"white",italic:false},note_block_sound="minecraft:entity.vex.ambient",profile={properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY2MzEzNGQ3MzA2YmI2MDQxNzVkMjU3NWQ2ODY3MTRiMDQ0MTJmZTUwMTE0MzYxMWZjZjNjYzE5YmQ3MGFiZSJ9fX0="}]}] 1

@@ -1,0 +1,93 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:carved_pumpkin"
+    },
+    "title": "Golem Heads",
+    "description": "Collect all golem heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "iron_golem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/iron_golem": true
+            }
+          }
+        }
+      }
+    },
+    "snow_golem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/snow_golem": true
+            }
+          }
+        }
+      }
+    },
+    "exposed": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/exposed": true
+            }
+          }
+        }
+      }
+    },
+    "oxidized": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/oxidized": true
+            }
+          }
+        }
+      }
+    },
+    "unaffected": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/unaffected": true
+            }
+          }
+        }
+      }
+    },
+    "weathered": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/golem/copper_golem/weathered": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

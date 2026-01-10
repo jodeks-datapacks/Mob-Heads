@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:mangrove_roots"
+    },
+    "title": "swamp Villager Heads",
+    "description": "Collect all swamp villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/villager",
+  "criteria": {
+    "armorer_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/armorer_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/butcher_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/cartographer_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/cleric_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/farmer_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/fisherman_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/fletcher_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/leatherworker_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/librarian_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/mason_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/nitwit_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/shepherd_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/toolsmith_swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/swamp/weaponsmith_swamp_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

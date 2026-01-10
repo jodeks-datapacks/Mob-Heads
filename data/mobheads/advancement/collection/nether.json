@@ -1,0 +1,119 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherrack"
+    },
+    "title": "Nether Heads",
+    "description": "Collect all nether heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "blaze": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/blaze": true
+            }
+          }
+        }
+      }
+    },
+    "ghast": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/ghast": true
+            }
+          }
+        }
+      }
+    },
+    "hoglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/hoglin": true
+            }
+          }
+        }
+      }
+    },
+    "magma_cube": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/magma_cube": true
+            }
+          }
+        }
+      }
+    },
+    "piglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/piglin": true
+            }
+          }
+        }
+      }
+    },
+    "strider": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/strider": true
+            }
+          }
+        }
+      }
+    },
+    "zoglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/zoglin": true
+            }
+          }
+        }
+      }
+    },
+    "zombified_piglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/zombified_piglin": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

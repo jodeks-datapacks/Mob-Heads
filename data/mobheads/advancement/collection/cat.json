@@ -1,0 +1,158 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:string"
+    },
+    "title": "Cat Heads",
+    "description": "Collect all cat heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/root",
+  "criteria": {
+    "all_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/all_black": true
+            }
+          }
+        }
+      }
+    },
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/black": true
+            }
+          }
+        }
+      }
+    },
+    "british_shorthair": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/british_shorthair": true
+            }
+          }
+        }
+      }
+    },
+    "calico": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/calico": true
+            }
+          }
+        }
+      }
+    },
+    "jellie": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/jellie": true
+            }
+          }
+        }
+      }
+    },
+    "persian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/persian": true
+            }
+          }
+        }
+      }
+    },
+    "ragdoll": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/ragdoll": true
+            }
+          }
+        }
+      }
+    },
+    "red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/red": true
+            }
+          }
+        }
+      }
+    },
+    "siamese": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/siamese": true
+            }
+          }
+        }
+      }
+    },
+    "tabby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/tabby": true
+            }
+          }
+        }
+      }
+    },
+    "white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/cat/white": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

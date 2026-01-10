@@ -1,0 +1,8 @@
+{
+   "criteria": {
+      "end": {
+         "trigger": "minecraft:location"
+      }
+   },
+   "parent": "mobheads:collection/villager/snow/weaponsmith_snow_villager"
+}

@@ -1,0 +1,210 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:acacia_log"
+    },
+    "title": "Savanna Villager Heads",
+    "description": "Collect all jungle villager heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/villager",
+  "criteria": {
+    "armorer_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/armorer_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/butcher_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/cartographer_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/cleric_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/farmer_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/fisherman_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/fletcher_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/leatherworker_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/librarian_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/mason_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/nitwit_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/shepherd_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/toolsmith_savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/villager/savanna/weaponsmith_savanna_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

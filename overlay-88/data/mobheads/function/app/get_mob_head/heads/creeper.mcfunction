@@ -1,0 +1,1 @@
+give @s creeper_head[note_block_sound="minecraft:entity.creeper.ambient"]

@@ -1,0 +1,54 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:nautilus_shell"
+    },
+    "title": "Nautilus Heads",
+    "description": "Collect all nautilus heads",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mobheads:collection/aquatic",
+  "criteria": {
+    "nautilus": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/nautilus/nautilus": true
+            }
+          }
+        }
+      }
+    },
+    "zombie_nautilus": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/nautilus/zombie_nautilus": true
+            }
+          }
+        }
+      }
+    },
+    "zombie_nautilus_coral": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/aquatic/nautilus/zombie_nautilus_coral": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

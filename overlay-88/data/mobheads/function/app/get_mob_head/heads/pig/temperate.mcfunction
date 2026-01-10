@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:custom_name={"text":"Pig Head","color":"white",italic:false},note_block_sound="minecraft:entity.pig.ambient",profile={properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWIxNzYwZTM3NzhmODA4NzA0NmI4NmJlYzZhMGE4M2E1Njc2MjVmMzBmMGQ2YmNlODY2ZDRiZWQ5NWRiYTZjMSJ9fX0="}]}] 1

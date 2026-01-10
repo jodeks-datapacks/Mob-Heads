@@ -1,0 +1,8 @@
+{
+   "criteria": {
+      "end": {
+         "trigger": "minecraft:location"
+      }
+   },
+   "parent": "mobheads:collection/zombie_villager/taiga/weaponsmith_taiga_zombie_villager"
+}
