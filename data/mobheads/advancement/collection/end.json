@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:end_portal_frame"
     },
-    "title": "End Heads",
-    "description": "Collect all end heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.end",
+      "fallback": "End Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.end",
+          "fallback": "End Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

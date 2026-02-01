@@ -16,7 +16,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Skull"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.skull",
+                    "fallback": "Skull"
                   }
                 ]
               },
@@ -49,7 +53,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Skull"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.skull",
+                    "fallback": "Skull"
                   }
                 ]
               },
@@ -76,7 +84,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Skull"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.skull",
+                    "fallback": "Skull"
                   }
                 ]
               },
@@ -103,7 +115,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Skull"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.skull",
+                    "fallback": "Skull"
                   }
                 ]
               },
@@ -130,7 +146,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Skull"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.skull",
+                    "fallback": "Skull"
                   }
                 ]
               },
@@ -157,7 +177,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Skull"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.skull",
+                    "fallback": "Skull"
                   }
                 ]
               },

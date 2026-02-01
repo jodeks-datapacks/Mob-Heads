@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:nether_star"
     },
-    "title": "Boss Heads",
-    "description": "Collect all boss heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.boss",
+      "fallback": "Boss Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.boss",
+          "fallback": "Boss Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:string"
     },
-    "title": "Cat Heads",
-    "description": "Collect all cat heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.cat",
+      "fallback": "Cat Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.cat",
+          "fallback": "Cat Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

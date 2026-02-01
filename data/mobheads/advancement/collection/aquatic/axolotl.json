@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:axolotl_bucket"
     },
-    "title": "Axolotl Heads",
-    "description": "Collect all axolotl heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.aquatic.axolotl",
+      "fallback": "Axolotl Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.aquatic.axolotl",
+          "fallback": "Axolotl Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

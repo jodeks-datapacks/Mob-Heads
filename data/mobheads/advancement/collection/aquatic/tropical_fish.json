@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:tropical_fish"
     },
-    "title": "Tropical Fish Heads",
-    "description": "Collect all tropical fish heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.aquatic.tropical_fish",
+      "fallback": "Tropical Fish Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.aquatic.tropical_fish",
+          "fallback": "Tropical Fish Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:iron_sword"
     },
-    "title": "Hostile Heads",
-    "description": "Collect all hostile heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.hostile",
+      "fallback": "Hostile Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.hostile",
+          "fallback": "Hostile Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

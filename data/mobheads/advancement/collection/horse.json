@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:saddle"
     },
-    "title": "Horse Heads",
-    "description": "Collect all horse heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.horse",
+      "fallback": "Horse Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.horse",
+          "fallback": "Horse Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

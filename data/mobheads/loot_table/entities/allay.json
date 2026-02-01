@@ -39,8 +39,10 @@
                 "color": "white",
                 "italic": false,
                 "extra": [
+                  { "text": " " },
                   {
-                    "text": " Head"
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -66,8 +68,10 @@
                 "color": "yellow",
                 "italic": false,
                 "extra": [
+                  { "text": " " },
                   {
-                    "text": " Head"
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -93,8 +97,10 @@
                 "color": "aqua",
                 "italic": false,
                 "extra": [
+                  { "text": " " },
                   {
-                    "text": " Head"
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -120,8 +126,10 @@
                 "color": "dark_purple",
                 "italic": false,
                 "extra": [
+                  { "text": " " },
                   {
-                    "text": " Head"
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -147,8 +155,10 @@
                 "color": "gold",
                 "italic": false,
                 "extra": [
+                  { "text": " " },
                   {
-                    "text": " Head"
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -174,8 +184,10 @@
                 "color": "green",
                 "italic": false,
                 "extra": [
+                  { "text": " " },
                   {
-                    "text": " Head"
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },

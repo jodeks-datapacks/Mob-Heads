@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:emerald"
     },
-    "title": "Villager Heads",
-    "description": "Collect all villager heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.villager",
+      "fallback": "Villager Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.villager",
+          "fallback": "Villager Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

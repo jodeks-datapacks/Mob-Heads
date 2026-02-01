@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:rabbit"
     },
-    "title": "Rabbit Heads",
-    "description": "Collect all rabbit heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.rabbit",
+      "fallback": "Rabbit Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.rabbit",
+          "fallback": "Rabbit Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

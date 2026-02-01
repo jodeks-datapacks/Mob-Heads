@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:goat_horn"
     },
-    "title": "Goat Heads",
-    "description": "Collect all goat heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.goat",
+      "fallback": "Goat Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.goat",
+          "fallback": "Goat Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

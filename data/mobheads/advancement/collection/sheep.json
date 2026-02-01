@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:white_wool"
     },
-    "title": "Sheep Heads",
-    "description": "Collect all sheep heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.sheep",
+      "fallback": "Sheep Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.sheep",
+          "fallback": "Sheep Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

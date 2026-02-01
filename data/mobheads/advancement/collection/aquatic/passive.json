@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:salmon"
     },
-    "title": "Passive Aquatic Heads",
-    "description": "Collect all passive aquatic heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.aquatic.passive",
+      "fallback": "Passive Aquatic Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.aquatic.passive",
+          "fallback": "Passive Aquatic Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

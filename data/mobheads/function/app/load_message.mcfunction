@@ -5,7 +5,7 @@ tellraw @a [\
     color: "#aaaaaa"\
   },\
   {\
-    text: "Mob Heads",\
+    translate: "mobheads.title", fallback: "Mob Heads",\
     hover_event: {\
       action: "show_text",\
       value: [\
@@ -44,7 +44,7 @@ tellraw @a [\
     }\
   },\
   {\
-    text: " loaded! ",\
+    translate: "jodek.loaded", fallback: " loaded! ",\
     color: "#ffffff",\
     hover_event: {\
       action: "show_text",\
@@ -64,7 +64,7 @@ tellraw @a [\
     }\
   },\
   {\
-    text: "hover for more info",\
+    translate: "jodek.hover_for_more_info", fallback: "hover for more info",\
     color: "#929796",\
     hover_event: {\
       action: "show_text",\

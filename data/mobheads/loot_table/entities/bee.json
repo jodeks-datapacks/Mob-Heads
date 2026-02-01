@@ -34,7 +34,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -61,7 +65,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -88,7 +96,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -115,7 +127,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -142,7 +158,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -169,7 +189,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -306,7 +330,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -333,7 +361,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -360,7 +392,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -387,7 +423,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -414,7 +454,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -441,7 +485,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -581,7 +629,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -608,7 +660,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -635,7 +691,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -662,7 +722,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -689,7 +753,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -716,7 +784,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -853,7 +925,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -880,7 +956,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -907,7 +987,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -934,7 +1018,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -961,7 +1049,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },
@@ -988,7 +1080,11 @@
                 "italic": false,
                 "extra": [
                   {
-                    "text": " Head"
+                    "text": " "
+                  },
+                  {
+                    "translate": "mobheads.head",
+                    "fallback": "Head"
                   }
                 ]
               },

@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:red_mushroom"
     },
-    "title": "Mooshroom Heads",
-    "description": "Collect all mooshroom heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.mooshroom",
+      "fallback": "Mooshroom Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.mooshroom",
+          "fallback": "Mooshroom Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
