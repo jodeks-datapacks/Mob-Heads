@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Chestnut Horse Head",
-    "description": "Collect the chestnut horse head",
+    "title": {
+      "translate": "mobheads.advancement.collection.horse.chestnut",
+      "fallback": "Chestnut",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.horse",
+          "fallback": "Horse"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.horse.chestnut",
+          "fallback": "Chestnut"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.horse",
+          "fallback": "Horse"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

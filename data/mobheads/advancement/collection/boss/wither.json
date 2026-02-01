@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Wither Skull",
-    "description": "Collect the wither skull",
+    "title": {
+      "translate": "entity.minecraft.wither",
+      "fallback": "Wither",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.wither",
+          "fallback": "Wither"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

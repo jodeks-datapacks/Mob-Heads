@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Goat Head (No Horns)",
-    "description": "Collect the goat head (no horns)",
+    "title": {
+      "translate": "entity.minecraft.goat",
+      "fallback": "Goat",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.goat.no_horns",
+          "fallback": "(No Horns)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.goat",
+          "fallback": "Goat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.goat.no_horns",
+          "fallback": "(No Horns)"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

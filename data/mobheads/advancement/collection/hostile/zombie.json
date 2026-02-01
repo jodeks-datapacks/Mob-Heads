@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:zombie_head"
     },
-    "title": "Zombie Head",
-    "description": "Collect the zombie head",
+    "title": {
+      "translate": "entity.minecraft.zombie",
+      "fallback": "Zombie",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie",
+          "fallback": "Zombie"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

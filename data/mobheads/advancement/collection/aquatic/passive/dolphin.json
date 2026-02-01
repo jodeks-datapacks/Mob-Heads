@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Dolphin Head",
-    "description": "Collect the dolphin head",
+    "title": {
+      "translate": "entity.minecraft.dolphin",
+      "fallback": "Dolphin",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.dolphin",
+          "fallback": "Dolphin"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

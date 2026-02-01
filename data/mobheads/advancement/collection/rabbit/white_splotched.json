@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "White Spolotched Rabbit Head",
-    "description": "Collect the white splotched rabbit head",
+    "title": {
+      "translate": "mobheads.advancement.collection.passive.rabbit.white_splotched",
+      "fallback": "White Splotched",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.rabbit",
+          "fallback": "Rabbit"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.passive.rabbit.white_splotched",
+          "fallback": "White Splotched"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.rabbit",
+          "fallback": "Rabbit"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true

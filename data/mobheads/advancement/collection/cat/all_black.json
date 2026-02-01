@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "All Black Cat Head",
-    "description": "Collect the all black cat head",
+    "title": {
+      "translate": "mobheads.advancement.collection.carnivores.cat.all_black",
+      "fallback": "All Black",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.cat",
+          "fallback": "Cat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.carnivores.cat.all_black",
+          "fallback": "All Black"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.cat",
+          "fallback": "Cat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

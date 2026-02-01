@@ -3,8 +3,53 @@
     "icon": {
       "id": "minecraft:spruce_log"
     },
-    "title": "Taiga Zombie Villager Heads",
-    "description": "Collect all taiga zombie villager heads",
+    "title": {
+      "translate": "biome.minecraft.taiga",
+      "fallback": "Taiga",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie_villager",
+          "fallback": "Zombie Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.taiga",
+          "fallback": "Taiga"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie_villager",
+          "fallback": "Zombie Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

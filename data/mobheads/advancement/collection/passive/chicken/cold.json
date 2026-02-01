@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Cold Chicken Head",
-    "description": "Collect the cold chicken head",
+    "title": {
+      "translate": "mobheads.advancement.collection.cold",
+      "fallback": "Cold",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.chicken",
+          "fallback": "Chicken"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.cold",
+          "fallback": "Cold"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.chicken",
+          "fallback": "Chicken"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Bogged Skull",
-    "description": "Collect the bogged skull",
+    "title": {
+      "translate": "entity.minecraft.bogged",
+      "fallback": "Bogged",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.bogged",
+          "fallback": "Bogged"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

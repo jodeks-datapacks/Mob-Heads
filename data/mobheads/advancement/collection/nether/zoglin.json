@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Zoglin Head",
-    "description": "Collect the zoglin head",
+    "title": {
+      "translate": "entity.minecraft.zoglin",
+      "fallback": "Zoglin",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zoglin",
+          "fallback": "Zoglin"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

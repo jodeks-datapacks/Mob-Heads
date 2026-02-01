@@ -13,10 +13,53 @@
         }
       }
     },
-    "title": "Black Rabbit Head",
-    "description": [
-      "Collect the black rabbit head"
-    ],
+    "title": {
+      "translate": "item.minecraft.firework_star.black",
+      "fallback": "Black",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.rabbit",
+          "fallback": "Rabbit"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.black",
+          "fallback": "Black"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.rabbit",
+          "fallback": "Rabbit"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true

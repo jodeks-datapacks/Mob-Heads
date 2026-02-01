@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:dragon_head"
     },
-    "title": "Ender Dragon",
-    "description": "Collect the ender dragon head",
+    "title": {
+      "translate": "entity.minecraft.ender_dragon",
+      "fallback": "Ender Dragon",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.ender_dragon",
+          "fallback": "Ender Dragon"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

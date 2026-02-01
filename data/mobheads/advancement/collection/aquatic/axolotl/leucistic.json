@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Lucy Axolotl Head",
-    "description": "Collect the lucy axolotl head",
+    "title": {
+      "translate": "mobheads.advancement.collection.aquatic.axolotl.leucistic",
+      "fallback": "Leucistic",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.axolotl",
+          "fallback": "Axolotl"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.aquatic.axolotl.leucistic",
+          "fallback": "Leucistic"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.axolotl",
+          "fallback": "Axolotl"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

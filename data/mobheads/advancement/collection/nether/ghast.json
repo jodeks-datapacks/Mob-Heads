@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Ghast Head",
-    "description": "Collect the ghast head",
+    "title": {
+      "translate": "entity.minecraft.ghast",
+      "fallback": "Ghast",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.ghast",
+          "fallback": "Ghast"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

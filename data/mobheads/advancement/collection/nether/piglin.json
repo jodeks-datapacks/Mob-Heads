@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:piglin_head"
     },
-    "title": "Piglin Head",
-    "description": "Collect the piglin head",
+    "title": {
+      "translate": "entity.minecraft.piglin",
+      "fallback": "Piglin",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.piglin",
+          "fallback": "Piglin"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

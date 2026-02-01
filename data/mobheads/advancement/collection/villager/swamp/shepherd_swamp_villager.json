@@ -13,8 +13,67 @@
 				}
 			}
 		},
-		"title": "Swamp Shepherd Villager",
-		"description": "Collect the head",
+		"title": {
+			"translate": "biome.minecraft.swamp",
+			"fallback": "Swamp",
+			"extra": [
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.villager.shepherd",
+					"fallback": "Shepherd"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.villager",
+					"fallback": "Villager"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "mobheads.head",
+					"fallback": "Head"
+				}
+			]
+		},
+		"description": {
+			"translate": "mobheads.advancement.collection.collect_the",
+			"fallback": "Collect the",
+			"extra": [
+				{
+					"text": " "
+				},
+				{
+					"translate": "biome.minecraft.swamp",
+					"fallback": "Swamp"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.villager.shepherd",
+					"fallback": "Shepherd"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.villager",
+					"fallback": "Villager"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "mobheads.head",
+					"fallback": "Head"
+				}
+			]
+		},
 		"frame": "task",
 		"show_toast": true,
 		"announce_to_chat": true,

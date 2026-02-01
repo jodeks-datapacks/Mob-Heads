@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:bamboo"
     },
-    "title": "Panda Heads",
-    "description": "Collect all panda heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.panda",
+      "fallback": "Panda Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.panda",
+          "fallback": "Panda Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

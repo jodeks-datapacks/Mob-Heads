@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Angry Pollen Bee Head",
-    "description": "Collect the angry pollen bee head",
+    "title": {
+      "translate": "mobheads.advancement.collection.passive.bee.angry_pollen",
+      "fallback": "Angry Pollen",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.bee",
+          "fallback": "Bee"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.passive.bee.angry_pollen",
+          "fallback": "Angry Pollen"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.bee",
+          "fallback": "Bee"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

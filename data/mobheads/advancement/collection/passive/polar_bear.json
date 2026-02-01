@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Polar Bear Head",
-    "description": "Collect the polar bear head",
+    "title": {
+      "translate": "entity.minecraft.polar_bear",
+      "fallback": "Polar Bear",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.polar_bear",
+          "fallback": "Polar Bear"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

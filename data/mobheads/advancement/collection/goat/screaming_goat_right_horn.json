@@ -13,8 +13,67 @@
         }
       }
     },
-    "title": "Screaming Goat Head (Right Horn)",
-    "description": "Collect the screaming goat head (right horn)",
+    "title": {
+      "translate": "mobheads.advancement.collection.goat.screaming",
+      "fallback": "Screaming",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.goat",
+          "fallback": "Goat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.goat.right_horn",
+          "fallback": "(Right Horn)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.goat.screaming",
+          "fallback": "Screaming"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.goat",
+          "fallback": "Goat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.goat.right_horn",
+          "fallback": "(Right Horn)"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -3,8 +3,53 @@
     "icon": {
       "id": "minecraft:spruce_log"
     },
-    "title": "taiga Villager Heads",
-    "description": "Collect all taiga villager heads",
+    "title": {
+      "translate": "biome.minecraft.taiga",
+      "fallback": "Taiga",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.taiga",
+          "fallback": "Taiga"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

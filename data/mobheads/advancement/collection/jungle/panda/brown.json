@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Brown Panda Head",
-    "description": "Collect the brown panda head",
+    "title": {
+      "translate": "item.minecraft.firework_star.brown",
+      "fallback": "Brown",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.panda",
+          "fallback": "Panda"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.brown",
+          "fallback": "Brown"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.panda",
+          "fallback": "Panda"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

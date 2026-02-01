@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Elder Guaridan",
-    "description": "Collect the elder guardian head",
+    "title": {
+      "translate": "entity.minecraft.elder_guardian",
+      "fallback": "Elder Guardian",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.elder_guardian",
+          "fallback": "Elder Guardian"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

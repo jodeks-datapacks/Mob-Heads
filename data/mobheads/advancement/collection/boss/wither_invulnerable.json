@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Invulnerable Wither Skull",
-    "description": "Collect the invulnerable wither skull",
+    "title": {
+      "translate": "mobheads.advancement.collection.boss.wither.invulnerable",
+      "fallback": "Invulnerable",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.wither",
+          "fallback": "Wither"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.boss.wither.invulnerable",
+          "fallback": "Invulnerable"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.wither",
+          "fallback": "Wither"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

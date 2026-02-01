@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:bone"
     },
-    "title": "Wolf Heads",
-    "description": "Collect all wolf heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.carnivores.wolf",
+      "fallback": "Wolf Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.carnivores.wolf",
+          "fallback": "Wolf Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

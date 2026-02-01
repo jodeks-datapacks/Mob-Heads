@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Shulker Head",
-    "description": "Collect the shulker head",
+    "title": {
+      "translate": "entity.minecraft.shulker",
+      "fallback": "Shulker",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.shulker",
+          "fallback": "Shulker"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

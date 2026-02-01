@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Cyan Axolotl Head",
-    "description": "Collect the cyan axolotl head",
+    "title": {
+      "translate": "item.minecraft.firework_star.cyan",
+      "fallback": "Cyan",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.axolotl",
+          "fallback": "Axolotl"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.cyan",
+          "fallback": "Cyan"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.axolotl",
+          "fallback": "Axolotl"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Magenta Sheep Head",
-    "description": "Collect the magenta sheep head",
+    "title": {
+      "translate": "item.minecraft.firework_star.magenta",
+      "fallback": "Magenta",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sheep",
+          "fallback": "Sheep"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.magenta",
+          "fallback": "Magenta"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sheep",
+          "fallback": "Sheep"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

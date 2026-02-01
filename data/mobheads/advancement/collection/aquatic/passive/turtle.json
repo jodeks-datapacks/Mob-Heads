@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Turtle Head",
-    "description": "Collect the turtle head",
+    "title": {
+      "translate": "entity.minecraft.turtle",
+      "fallback": "Turtle",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.turtle",
+          "fallback": "Turtle"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

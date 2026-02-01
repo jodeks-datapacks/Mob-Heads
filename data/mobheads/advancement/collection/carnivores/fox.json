@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:sweet_berries"
     },
-    "title": "Fox Heads",
-    "description": "Collect all fox heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.carnivores.fox",
+      "fallback": "Axolotl Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.carnivores.fox",
+          "fallback": "Fox Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

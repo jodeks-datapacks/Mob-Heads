@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Gray Horse Head",
-    "description": "Collect the gray horse head",
+    "title": {
+      "translate": "item.minecraft.firework_star.gray",
+      "fallback": "Gray",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.horse",
+          "fallback": "Horse"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.gray",
+          "fallback": "Gray"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.horse",
+          "fallback": "Horse"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

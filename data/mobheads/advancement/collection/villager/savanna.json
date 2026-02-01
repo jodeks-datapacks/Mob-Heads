@@ -3,8 +3,53 @@
     "icon": {
       "id": "minecraft:acacia_log"
     },
-    "title": "Savanna Villager Heads",
-    "description": "Collect all jungle villager heads",
+    "title": {
+      "translate": "biome.minecraft.savanna",
+      "fallback": "Savanna",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.savanna",
+          "fallback": "Savanna"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

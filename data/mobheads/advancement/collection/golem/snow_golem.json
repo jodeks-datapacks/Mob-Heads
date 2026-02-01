@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Snow Golem Head",
-    "description": "Collect the snow golem head",
+    "title": {
+      "translate": "entity.minecraft.snow_golem",
+      "fallback": "Snow Golem",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.snow_golem",
+          "fallback": "Snow Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

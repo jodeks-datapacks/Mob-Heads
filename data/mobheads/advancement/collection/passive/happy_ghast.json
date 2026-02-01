@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Happy Ghast Head",
-    "description": "Collect the happy ghast head",
+    "title": {
+      "translate": "entity.minecraft.happy_ghast",
+      "fallback": "Happy Ghast",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.happy_ghast",
+          "fallback": "Happy Ghast"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

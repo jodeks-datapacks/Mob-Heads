@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Bee Head",
-    "description": "Collect the bee head",
+    "title": {
+      "translate": "mobheads.advancement.collection.passive.bee.normal",
+      "fallback": "Normal",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.bee",
+          "fallback": "Bee"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.passive.bee.normal",
+          "fallback": "Normal"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.bee",
+          "fallback": "Bee"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

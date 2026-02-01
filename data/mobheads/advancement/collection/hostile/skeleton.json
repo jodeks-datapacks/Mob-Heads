@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:skeleton_skull"
     },
-    "title": "Skeleton Skull",
-    "description": "Collect the skeleton skull",
+    "title": {
+      "translate": "entity.minecraft.skeleton",
+      "fallback": "Skeleton",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.skeleton",
+          "fallback": "Skeleton"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

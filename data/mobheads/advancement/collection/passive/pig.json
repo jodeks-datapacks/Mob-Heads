@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:porkchop"
     },
-    "title": "Pig Heads",
-    "description": "Collect all pig heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.pig",
+      "fallback": "Pig Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.pig",
+          "fallback": "Pig Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

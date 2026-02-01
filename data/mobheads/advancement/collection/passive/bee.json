@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:honeycomb"
     },
-    "title": "Bee Heads",
-    "description": "Collect all bee heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.bee",
+      "fallback": "Bee Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.bee",
+          "fallback": "Bee Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

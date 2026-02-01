@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Purple Sheep Head",
-    "description": "Collect the purple sheep head",
+    "title": {
+      "translate": "item.minecraft.firework_star.purple",
+      "fallback": "Purple",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sheep",
+          "fallback": "Sheep"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.purple",
+          "fallback": "Purple"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sheep",
+          "fallback": "Sheep"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

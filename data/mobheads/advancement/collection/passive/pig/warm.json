@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Warm Pig Head",
-    "description": "Collect the warm pig head",
+    "title": {
+      "translate": "mobheads.advancement.collection.warm",
+      "fallback": "Warm",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.pig",
+          "fallback": "Pig"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.warm",
+          "fallback": "Warm"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.pig",
+          "fallback": "Pig"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Temperate Pig Head",
-    "description": "Collect the temperate pig head",
+    "title": {
+      "translate": "mobheads.advancement.collection.temperate",
+      "fallback": "Temperate",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.pig",
+          "fallback": "Pig"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.temperate",
+          "fallback": "Temperate"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.pig",
+          "fallback": "Pig"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

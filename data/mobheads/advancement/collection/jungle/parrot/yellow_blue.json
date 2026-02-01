@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Yellow Blue Parrot Head",
-    "description": "Collect the yellow blue parrot head",
+    "title": {
+      "translate": "mobheads.advancement.collection.jungle.parrot.yellow_blue",
+      "fallback": "Yellow Blue",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.parrot",
+          "fallback": "Parrot"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.jungle.parrot.yellow_blue",
+          "fallback": "Yellow Blue"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.parrot",
+          "fallback": "Parrot"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

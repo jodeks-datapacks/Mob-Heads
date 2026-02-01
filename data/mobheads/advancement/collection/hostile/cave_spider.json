@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Cave Spider Head",
-    "description": "Collect the cave spider head",
+    "title": {
+      "translate": "entity.minecraft.cave_spider",
+      "fallback": "Cave Spider",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.cave_spider",
+          "fallback": "Cave Spider"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

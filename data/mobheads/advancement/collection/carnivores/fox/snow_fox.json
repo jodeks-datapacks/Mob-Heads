@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Snow Fox Head",
-    "description": "Collect the snow fox head",
+    "title": {
+      "translate": "block.minecraft.snow",
+      "fallback": "Snow",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.fox",
+          "fallback": "Fox"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "block.minecraft.snow",
+          "fallback": "Snow"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.fox",
+          "fallback": "Fox"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

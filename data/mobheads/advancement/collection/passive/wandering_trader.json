@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Wandering Trader Head",
-    "description": "Collect the wandering trader head",
+    "title": {
+      "translate": "entity.minecraft.wandering_trader",
+      "fallback": "Wandering Trader",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.wandering_trader",
+          "fallback": "Wandering Trader"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

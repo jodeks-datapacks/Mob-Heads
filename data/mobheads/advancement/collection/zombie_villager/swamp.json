@@ -3,8 +3,53 @@
     "icon": {
       "id": "minecraft:mangrove_roots"
     },
-    "title": "Swamp Zombie Villager Heads",
-    "description": "Collect all swamp zombie villager heads",
+    "title": {
+      "translate": "biome.minecraft.swamp",
+      "fallback": "Swamp",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie_villager",
+          "fallback": "Zombie Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.swamp",
+          "fallback": "Swamp"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie_villager",
+          "fallback": "Zombie Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

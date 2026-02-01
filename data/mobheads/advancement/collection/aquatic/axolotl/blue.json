@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Blue Axolotl Head",
-    "description": "Collect the blue axolotl head",
+    "title": {
+      "translate": "item.minecraft.firework_star.blue",
+      "fallback": "Blue",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.axolotl",
+          "fallback": "Axolotl"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.blue",
+          "fallback": "Blue"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.axolotl",
+          "fallback": "Axolotl"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

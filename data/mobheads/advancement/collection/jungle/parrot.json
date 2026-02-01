@@ -3,8 +3,23 @@
     "icon": {
       "id": "minecraft:wheat_seeds"
     },
-    "title": "Parrot Heads",
-    "description": "Collect all parrot heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.parrot",
+      "fallback": "Parrot Heads"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.parrot",
+          "fallback": "Parrot Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

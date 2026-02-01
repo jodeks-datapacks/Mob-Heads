@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Skeleton Horse Skull",
-    "description": "Collect the skeleton horse skull",
+    "title": {
+      "translate": "entity.minecraft.skeleton_horse",
+      "fallback": "Skeleton Horse",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.skeleton_horse",
+          "fallback": "Skeleton Horse"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

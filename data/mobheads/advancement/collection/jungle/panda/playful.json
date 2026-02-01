@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Playful Panda Head",
-    "description": "Collect the playful panda head",
+    "title": {
+      "translate": "mobheads.advancement.collection.panda.playful",
+      "fallback": "Playful",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.panda",
+          "fallback": "Panda"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.panda.playful",
+          "fallback": "Playful"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.panda",
+          "fallback": "Panda"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Gray Parrot Head",
-    "description": "Collect the gray parrot head",
+    "title": {
+      "translate": "item.minecraft.firework_star.gray",
+      "fallback": "Gray",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.parrot",
+          "fallback": "Parrot"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.gray",
+          "fallback": "Gray"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.parrot",
+          "fallback": "Parrot"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
