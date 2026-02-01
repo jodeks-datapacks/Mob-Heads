@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Unaffected Copper Golem Head",
-    "description": "Collect the unaffected copper golem head",
+    "title": {
+      "translate": "mobheads.advancement.collection.golem.copper_golem.unaffected",
+      "fallback": "Unaffected",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.copper_golem",
+          "fallback": "Copper Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.golem.copper_golem.unaffected",
+          "fallback": "Unaffected"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.copper_golem",
+          "fallback": "Copper Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

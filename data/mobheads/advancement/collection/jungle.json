@@ -4,8 +4,17 @@
       "id": "minecraft:jungle_door"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.jungle",
-      "fallback": "Jungle Heads"
+      "translate": "biome.minecraft.jungle",
+      "fallback": "Jungle",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.jungle",
-          "fallback": "Jungle Heads"
+          "translate": "biome.minecraft.jungle",
+          "fallback": "Jungle"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

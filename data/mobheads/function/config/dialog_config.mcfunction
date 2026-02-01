@@ -25,7 +25,7 @@ $dialog show @s {\
         {\
           "id": "0",\
           "display": {\
-            "translate": "mobheads.config.drop_condition.killed_by_charged_creeper",\
+            "translate": "mobheads.config.drop_condition.charged_creeper",\
             "fallback": "Killed by charged creeper"\
           },\
           "initial": $(killed_by_charged_creeper_initial)\
@@ -33,7 +33,7 @@ $dialog show @s {\
         {\
           "id": "1",\
           "display": {\
-            "translate": "mobheads.config.drop_condition.killed_by_player",\
+            "translate": "mobheads.config.drop_condition.player",\
             "fallback": "Killed by player"\
           },\
           "initial": $(killed_by_player_initial)\

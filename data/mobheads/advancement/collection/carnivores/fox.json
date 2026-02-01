@@ -4,8 +4,17 @@
       "id": "minecraft:sweet_berries"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.carnivores.fox",
-      "fallback": "Axolotl Heads"
+      "translate": "entity.minecraft.fox",
+      "fallback": "Fox",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.carnivores.fox",
-          "fallback": "Fox Heads"
+          "translate": "entity.minecraft.fox",
+          "fallback": "Fox"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

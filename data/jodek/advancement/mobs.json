@@ -3,10 +3,14 @@
     "icon": {
       "id": "minecraft:skeleton_skull"
     },
-    "title": "Mob datapacks                      ",
+    "title": {
+      "translate": "jodek.advancement.mob.title",
+      "fallback": "Mob datapacks"
+    },
     "description": [
       {
-        "text": "Related to mob behaviour, drops and gameplay interaction",
+        "translate": "jodek.advancement.mob.desc",
+        "fallback": "Related to mob behaviour, drops and gameplay interaction",
         "color": "white",
         "bold": false
       }

@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:tube_coral"
     },
-    "title": "Aquatic Heads",
-    "description": "Collect all aquatic heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.aquatic",
+      "fallback": "Aquatic",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.aquatic",
+          "fallback": "Aquatic"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

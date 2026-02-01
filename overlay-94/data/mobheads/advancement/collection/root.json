@@ -3,8 +3,14 @@
     "icon": {
       "id": "minecraft:chest"
     },
-    "title": "Mob Heads Collection",
-    "description": "Collection of all mob heads you've got",
+    "title": {
+      "translate": "mobheads.advancement.collection.title",
+      "fallback": "Mob Heads Collection"
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.desc",
+      "fallback": "Collection of all mob heads you've got"
+    },
     "background": "minecraft:block/flowering_azalea_leaves",
     "show_toast": true,
     "announce_to_chat": true,

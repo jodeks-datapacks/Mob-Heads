@@ -1046,8 +1046,8 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk_init set value 0.03
     execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.drop_notification 1
     execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root drop_notification_camel_husk set value 1
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.rarity 1
     execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root rarity_camel_husk set value 1
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.rarity 1
     data modify storage mobheads:root drop_rate_camel_husk set value "$(drop_rate_camel_husk)"
     data modify storage mobheads:root dialog_rarity_camel_husk set value "$(dialog_rarity_camel_husk)"
     data modify storage mobheads:root dialog_drop_notification_camel_husk set value "$(dialog_drop_notification_camel_husk)"

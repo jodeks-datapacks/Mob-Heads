@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Zombie Nautilus Head",
-    "description": "Collect the zombie nautilus head",
+    "title": {
+      "translate": "entity.minecraft.zombie",
+      "fallback": "Zombie",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.nautilus",
+          "fallback": "Nautilus"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie",
+          "fallback": "Zombie"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.nautilus",
+          "fallback": "Nautilus"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

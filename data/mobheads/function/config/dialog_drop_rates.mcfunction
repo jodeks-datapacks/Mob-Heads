@@ -577,7 +577,17 @@ type:"minecraft:multi_action",\
         "translate": "entity.minecraft.mooshroom",\
         "extra": [\
           {\
-            "text": " Brown ($(mooshroom_brown))"\
+            "text": " "\
+          },\
+          {\
+            "translate": "item.minecraft.firework_star.brown",\
+            "fallback": "Brown"\
+          },\
+          {\
+            "text": " "\
+          },\
+          {\
+            "text": "($(mooshroom_brown))"\
           }\
         ]\
       },\
@@ -1080,7 +1090,24 @@ type:"minecraft:multi_action",\
     {\
       type:"minecraft:text",\
       key:"drop_rate_wither_invulnerable",\
-      label:"Wither Invulnerable ($(wither_invulnerable))",\
+      label: {\
+        "translate": "entity.minecraft.wither",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mobheads.advancement.collection.boss.wither.invulnerable",\
+            "fallback": "Invulnerable"\
+          },\
+          {\
+            "text": " "\
+          },\
+          {\
+            "text": "($(wither_invulnerable))"\
+          }\
+        ]\
+      },\
       initial: "$(wither_invulnerable_init)"\
     },\
     {\

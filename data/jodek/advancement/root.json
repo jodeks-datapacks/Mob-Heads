@@ -13,15 +13,26 @@
         }
       }
     },
-    "title": "Jodek's Datapacks        ",
+    "title": {
+      "translate": "mobheads.advancement.title",
+      "fallback": "Jodek's Datapacks",
+      "extra": [
+        {
+          "text": "                         "
+        }
+      ]
+    },
     "description": [
       {
-        "text": "Creator of vanilla friendly datapacks\n",
+        "translate": "mobheads.advancement.desc",
+        "fallback": "Creator of vanilla friendly datapacks",
         "color": "white"
       },
       {
-        "text": "\n",
-        "color": "white"
+        "text": "\n"
+      },
+      {
+        "text": "\n"
       },
       {
         "text": "modrinth.com/user/Jodek",

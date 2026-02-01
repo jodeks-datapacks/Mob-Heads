@@ -13,8 +13,53 @@
         }
       }
     },
-    "title": "Weathered Copper Golem Head",
-    "description": "Collect the weathered copper golem head",
+    "title": {
+      "translate": "mobheads.advancement.collection.golem.copper_golem.weathered",
+      "fallback": "Weathered",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.copper_golem",
+          "fallback": "Copper Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.golem.copper_golem.weathered",
+          "fallback": "Weathered"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.copper_golem",
+          "fallback": "Copper Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

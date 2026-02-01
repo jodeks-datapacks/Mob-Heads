@@ -4,8 +4,17 @@
       "id": "minecraft:bamboo"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.panda",
-      "fallback": "Panda Heads"
+      "translate": "entity.minecraft.panda",
+      "fallback": "Panda",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.panda",
-          "fallback": "Panda Heads"
+          "translate": "entity.minecraft.panda",
+          "fallback": "Panda"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

@@ -13,8 +13,39 @@
         }
       }
     },
-    "title": "Iron Golem Head",
-    "description": "Collect the iron golem head",
+    "title": {
+      "translate": "entity.minecraft.iron_golem",
+      "fallback": "Iron Golem",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.iron_golem",
+          "fallback": "Iron Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

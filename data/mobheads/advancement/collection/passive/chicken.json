@@ -4,8 +4,17 @@
       "id": "minecraft:chicken"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.chicken",
-      "fallback": "Chicken Heads"
+      "translate": "entity.minecraft.chicken",
+      "fallback": "Chicken",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.chicken",
-          "fallback": "Chicken Heads"
+          "translate": "entity.minecraft.chicken",
+          "fallback": "Chicken"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

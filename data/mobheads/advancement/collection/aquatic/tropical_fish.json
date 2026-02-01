@@ -4,8 +4,17 @@
       "id": "minecraft:tropical_fish"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.aquatic.tropical_fish",
-      "fallback": "Tropical Fish Heads"
+      "translate": "entity.minecraft.tropical_fish",
+      "fallback": "Tropical Fish",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.aquatic.tropical_fish",
-          "fallback": "Tropical Fish Heads"
+          "translate": "entity.minecraft.tropical_fish",
+          "fallback": "Tropical Fish"
+        },
+                {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

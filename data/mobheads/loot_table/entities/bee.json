@@ -234,7 +234,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "nbt": "{AngerTime:0}"
+                    "nbt": "{HasStung:0b}"
                   }
                 }
               ]
@@ -532,7 +532,7 @@
                     "condition": "minecraft:entity_properties",
                     "entity": "this",
                     "predicate": {
-                      "nbt": "{AngerTime:0}"
+                      "nbt": "{HasStung:0b}"
                     }
                   }
                 }
@@ -829,7 +829,7 @@
                   "condition": "minecraft:entity_properties",
                   "entity": "this",
                   "predicate": {
-                    "nbt": "{AngerTime:0}"
+                    "nbt": "{HasStung:0b}"
                   }
                 }
               ]
@@ -1127,7 +1127,7 @@
                     "condition": "minecraft:entity_properties",
                     "entity": "this",
                     "predicate": {
-                      "nbt": "{AngerTime:0}"
+                      "nbt": "{HasStung:0b}"
                     }
                   }
                 }

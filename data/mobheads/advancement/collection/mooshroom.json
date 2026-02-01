@@ -4,8 +4,17 @@
       "id": "minecraft:red_mushroom"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.mooshroom",
-      "fallback": "Mooshroom Heads"
+      "translate": "entity.minecraft.mooshroom",
+      "fallback": "Mooshroom",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.mooshroom",
-          "fallback": "Mooshroom Heads"
+          "translate": "entity.minecraft.mooshroom",
+          "fallback": "Mooshroom"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

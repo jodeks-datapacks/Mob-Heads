@@ -4,8 +4,17 @@
       "id": "minecraft:bone"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.carnivores.wolf",
-      "fallback": "Wolf Heads"
+      "translate": "entity.minecraft.wolf",
+      "fallback": "Wolf",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.carnivores.wolf",
-          "fallback": "Wolf Heads"
+          "translate": "entity.minecraft.wolf",
+          "fallback": "Wolf"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

@@ -5,7 +5,16 @@
     },
     "title": {
       "translate": "mobheads.advancement.collection.nether",
-      "fallback": "Nether Heads"
+      "fallback": "Nether",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -16,7 +25,14 @@
         },
         {
           "translate": "mobheads.advancement.collection.nether",
-          "fallback": "Nether Heads"
+          "fallback": "Nether"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

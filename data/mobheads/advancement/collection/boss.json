@@ -5,7 +5,16 @@
     },
     "title": {
       "translate": "mobheads.advancement.collection.boss",
-      "fallback": "Boss Heads"
+      "fallback": "Boss",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -16,7 +25,14 @@
         },
         {
           "translate": "mobheads.advancement.collection.boss",
-          "fallback": "Boss Heads"
+          "fallback": "Boss"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

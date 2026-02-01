@@ -4,8 +4,17 @@
       "id": "minecraft:porkchop"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.pig",
-      "fallback": "Pig Heads"
+      "translate": "entity.minecraft.pig",
+      "fallback": "Pig",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.pig",
-          "fallback": "Pig Heads"
+          "translate": "entity.minecraft.pig",
+          "fallback": "Pig"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

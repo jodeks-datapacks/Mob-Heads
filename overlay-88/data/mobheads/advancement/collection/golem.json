@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:carved_pumpkin"
     },
-    "title": "Golem Heads",
-    "description": "Collect all golem heads",
+    "title": {
+      "translate": "mobheads.advancement.collection.golem",
+      "fallback": "Golem",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.advancement.collection.golem",
+          "fallback": "Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

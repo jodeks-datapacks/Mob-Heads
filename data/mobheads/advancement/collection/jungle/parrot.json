@@ -4,8 +4,17 @@
       "id": "minecraft:wheat_seeds"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.parrot",
-      "fallback": "Parrot Heads"
+      "translate": "entity.minecraft.parrot",
+      "fallback": "Parrot",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.parrot",
-          "fallback": "Parrot Heads"
+          "translate": "entity.minecraft.parrot",
+          "fallback": "Parrot"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

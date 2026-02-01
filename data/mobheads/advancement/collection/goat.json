@@ -4,8 +4,17 @@
       "id": "minecraft:goat_horn"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.goat",
-      "fallback": "Goat Heads"
+      "translate": "entity.minecraft.goat",
+      "fallback": "Goat",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.goat",
-          "fallback": "Goat Heads"
+          "translate": "entity.minecraft.goat",
+          "fallback": "Goat"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

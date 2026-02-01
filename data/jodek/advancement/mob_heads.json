@@ -3,27 +3,38 @@
     "icon": {
       "id": "minecraft:zombie_head"
     },
-    "title": "Mob Heads                         ",
+    "title": {
+      "translate": "mobheads.title",
+      "fallback": "Mob Heads",
+      "extra": [
+        {
+          "text": "                         "
+        }
+      ]
+    },
     "description": [
       "",
       {
-        "text": "Mobs can drop their head on death!\n",
+        "translate": "mobheads.description",
+        "fallback": "Mobs can drop their head on death",
         "color": "white"
+      },
+      {
+        "text": "\n"
       },
       {
         "text": "/trigger mobheads.config",
         "color": "yellow"
       },
       {
-        "text": "\n",
-        "color": "yellow"
+        "text": "\n"
       },
       {
-        "text": "\n",
-        "color": "yellow"
+        "text": "\n"
       },
       {
-        "text": "Datapack version: ",
+        "translate": "jodek.datapack_version",
+        "fallback": "Datapack version: ",
         "color": "dark_green"
       },
       {
@@ -31,11 +42,11 @@
         "color": "green"
       },
       {
-        "text": "\n",
-        "color": "green"
+        "text": "\n"
       },
       {
-        "text": "Game version: ",
+        "translate": "jodek.game_version",
+        "fallback": "Game version: ",
         "color": "dark_green"
       },
       {
@@ -43,12 +54,10 @@
         "color": "green"
       },
       {
-        "text": "\n",
-        "color": "green"
+        "text": "\n"
       },
       {
-        "text": "\n",
-        "color": "green"
+        "text": "\n"
       },
       {
         "text": "modrinth.com/datapack/mob-heads",

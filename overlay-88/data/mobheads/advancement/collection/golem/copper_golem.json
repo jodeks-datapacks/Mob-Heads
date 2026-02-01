@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:copper_golem_statue"
     },
-    "title": "Copper Golem Heads",
-    "description": "Collect all copper golem heads",
+    "title": {
+      "translate": "entity.minecraft.copper_golem",
+      "fallback": "Copper Golem",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.copper_golem",
+          "fallback": "Copper Golem"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true

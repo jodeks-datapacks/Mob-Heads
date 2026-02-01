@@ -4,8 +4,17 @@
       "id": "minecraft:honeycomb"
     },
     "title": {
-      "translate": "mobheads.advancement.collection.bee",
-      "fallback": "Bee Heads"
+      "translate": "entity.minecraft.bee",
+      "fallback": "Bee",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
     },
     "description": {
       "translate": "mobheads.advancement.collection.collect_all",
@@ -15,8 +24,15 @@
           "text": " "
         },
         {
-          "translate": "mobheads.advancement.collection.bee",
-          "fallback": "Bee Heads"
+          "translate": "entity.minecraft.bee",
+          "fallback": "Bee"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
         }
       ]
     },

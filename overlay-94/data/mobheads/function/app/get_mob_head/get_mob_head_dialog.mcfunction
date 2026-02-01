@@ -6,10 +6,18 @@ dialog show @s {\
   "body": {\
     "type": "minecraft:plain_message",\
     "contents": [\
-      "Click on a head and click \"Run Command\"",\
-      "\n",\
-      "\n",\
-      "Close with escape"\
+      {\
+        "translate": "mobheads.get_head.desc",\
+        "fallback": "Click on a head and click \"Run Command\"",\
+        "extra": [\
+          "\n",\
+          "\n",\
+          {\
+            "translate": "mobheads.get_head.desc.close",\
+            "fallback": "Close with escape"\
+          }\
+        ]\
+      }\
     ]\
   },\
   columns:15,\

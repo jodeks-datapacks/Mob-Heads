@@ -3,8 +3,39 @@
     "icon": {
       "id": "minecraft:nautilus_shell"
     },
-    "title": "Nautilus Heads",
-    "description": "Collect all nautilus heads",
+    "title": {
+      "translate": "entity.minecraft.nautilus",
+      "fallback": "Nautilus",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.nautilus",
+          "fallback": "Nautilus"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true
