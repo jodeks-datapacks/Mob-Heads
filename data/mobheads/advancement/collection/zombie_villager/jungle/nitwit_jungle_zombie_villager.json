@@ -13,8 +13,67 @@
 				}
 			}
 		},
-		"title": "Jungle Nitwit Zombie Villager",
-		"description": "Collect the head",
+		"title": {
+			"translate": "biome.minecraft.jungle",
+			"fallback": "Jungle",
+			"extra": [
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.villager.nitwit",
+					"fallback": "Nitwit"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.zombie_villager",
+					"fallback": "Zombie Villager"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "mobheads.head",
+					"fallback": "Head"
+				}
+			]
+		},
+		"description": {
+			"translate": "mobheads.advancement.collection.collect_the",
+			"fallback": "Collect the",
+			"extra": [
+				{
+					"text": " "
+				},
+				{
+					"translate": "biome.minecraft.jungle",
+					"fallback": "Jungle"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.villager.nitwit",
+					"fallback": "Nitwit"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "entity.minecraft.zombie_villager",
+					"fallback": "Zombie Villager"
+				},
+				{
+					"text": " "
+				},
+				{
+					"translate": "mobheads.head",
+					"fallback": "Head"
+				}
+			]
+		},
 		"frame": "task",
 		"show_toast": true,
 		"announce_to_chat": true,
