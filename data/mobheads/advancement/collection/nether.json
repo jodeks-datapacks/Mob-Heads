@@ -145,6 +145,19 @@
           }
         }
       }
+    },
+    "wither_skeleton": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mobheads:collection/nether/wither_skeleton": true
+            }
+          }
+        }
+      }
     }
   }
 }
