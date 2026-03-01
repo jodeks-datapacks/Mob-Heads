@@ -630,7 +630,7 @@ dialog show @s {\
           "properties": [\
             {\
               "name": "textures",\
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUwMjk0YTE3NDczMTBmMTA0MTI0YzYzNzNjYzYzOWI3MTJiYWE1N2I3ZDkyNjI5N2I2NDUxODhiN2JiOWFiOSJ9fX0"\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTMzYjUyOWIyZGI4ZDlkMTgxYzE0NGFlMTRhNWE3ODI2ZTVkZDIzMzFlMGQxMDIwZjQ1YmIyYmJhY2Y3MWZjIn19fQ=="\
             }\
           ]\
         },\

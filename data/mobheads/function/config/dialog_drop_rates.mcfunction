@@ -30,7 +30,7 @@ type:"minecraft:multi_action",\
   [\
     {\
       type:"minecraft:text",\
-      key:"dialog_drop_rate_multiplier",\
+      key:"dialog_d_r_multiplier",\
       label: {\
         "translate": "mobheads.config.drop_rate_multiplier",\
         "fallback": "Drop Rate Multiplier"\
@@ -39,7 +39,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_allay",\
+      key:"d_r_allay",\
       label: {\
         "translate": "entity.minecraft.allay",\
         "extra": [\
@@ -52,7 +52,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_armadillo",\
+      key:"d_r_armadillo",\
       label: {\
         "translate": "entity.minecraft.armadillo",\
         "extra": [\
@@ -65,7 +65,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_axolotl",\
+      key:"d_r_axolotl",\
       label: {\
         "translate": "entity.minecraft.axolotl",\
         "extra": [\
@@ -78,7 +78,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_axolotl_blue",\
+      key:"d_r_axolotl_blue",\
       label: {\
         "translate": "mobheads.entity.blue_axolotl",\
         "extra": [\
@@ -91,7 +91,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_bat",\
+      key:"d_r_bat",\
       label: {\
         "translate": "entity.minecraft.bat",\
         "extra": [\
@@ -104,7 +104,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_bee",\
+      key:"d_r_bee",\
       label: {\
         "translate": "entity.minecraft.bee",\
         "extra": [\
@@ -117,7 +117,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_blaze",\
+      key:"d_r_blaze",\
       label: {\
         "translate": "entity.minecraft.blaze",\
         "extra": [\
@@ -130,7 +130,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_bogged",\
+      key:"d_r_bogged",\
       label: {\
         "translate": "entity.minecraft.bogged",\
         "extra": [\
@@ -143,7 +143,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_breeze",\
+      key:"d_r_breeze",\
       label: {\
         "translate": "entity.minecraft.breeze",\
         "extra": [\
@@ -156,7 +156,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_camel",\
+      key:"d_r_camel",\
       label: {\
         "translate": "entity.minecraft.camel",\
         "extra": [\
@@ -169,7 +169,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_cat",\
+      key:"d_r_cat",\
       label: {\
         "translate": "entity.minecraft.cat",\
         "extra": [\
@@ -182,7 +182,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_cave_spider",\
+      key:"d_r_cave_spider",\
       label: {\
         "translate": "entity.minecraft.cave_spider",\
         "extra": [\
@@ -195,7 +195,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_chicken",\
+      key:"d_r_chicken",\
       label: {\
         "translate": "entity.minecraft.chicken",\
         "extra": [\
@@ -208,7 +208,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_cod",\
+      key:"d_r_cod",\
       label: {\
         "translate": "entity.minecraft.cod",\
         "extra": [\
@@ -221,7 +221,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_cow",\
+      key:"d_r_cow",\
       label: {\
         "translate": "entity.minecraft.cow",\
         "extra": [\
@@ -234,7 +234,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_creaking",\
+      key:"d_r_creaking",\
       label: {\
         "translate": "entity.minecraft.creaking",\
         "extra": [\
@@ -247,7 +247,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_creeper",\
+      key:"d_r_creeper",\
       label: {\
         "translate": "entity.minecraft.creeper",\
         "extra": [\
@@ -260,7 +260,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_creeper_charged",\
+      key:"d_r_creeper_charged",\
       label: {\
         "translate": "mobheads.entity.charged_creeper",\
         "extra": [\
@@ -273,7 +273,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_dolphin",\
+      key:"d_r_dolphin",\
       label: {\
         "translate": "entity.minecraft.dolphin",\
         "extra": [\
@@ -286,7 +286,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_donkey",\
+      key:"d_r_donkey",\
       label: {\
         "translate": "entity.minecraft.donkey",\
         "extra": [\
@@ -299,7 +299,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_drowned",\
+      key:"d_r_drowned",\
       label: {\
         "translate": "entity.minecraft.drowned",\
         "extra": [\
@@ -312,7 +312,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_elder_guardian",\
+      key:"d_r_elder_guardian",\
       label: {\
         "translate": "entity.minecraft.elder_guardian",\
         "extra": [\
@@ -325,7 +325,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_ender_dragon",\
+      key:"d_r_ender_dragon",\
       label: {\
         "translate": "entity.minecraft.ender_dragon",\
         "extra": [\
@@ -338,7 +338,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_enderman",\
+      key:"d_r_enderman",\
       label: {\
         "translate": "entity.minecraft.enderman",\
         "extra": [\
@@ -351,7 +351,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_endermite",\
+      key:"d_r_endermite",\
       label: {\
         "translate": "entity.minecraft.endermite",\
         "extra": [\
@@ -364,7 +364,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_evoker",\
+      key:"d_r_evoker",\
       label: {\
         "translate": "entity.minecraft.evoker",\
         "extra": [\
@@ -377,7 +377,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_fox",\
+      key:"d_r_fox",\
       label: {\
         "translate": "entity.minecraft.fox",\
         "extra": [\
@@ -390,7 +390,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_frog",\
+      key:"d_r_frog",\
       label: {\
         "translate": "entity.minecraft.frog",\
         "extra": [\
@@ -403,7 +403,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_ghast",\
+      key:"d_r_ghast",\
       label: {\
         "translate": "entity.minecraft.ghast",\
         "extra": [\
@@ -416,7 +416,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_glow_squid",\
+      key:"d_r_glow_squid",\
       label: {\
         "translate": "entity.minecraft.glow_squid",\
         "extra": [\
@@ -429,7 +429,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_goat",\
+      key:"d_r_goat",\
       label: {\
         "translate": "entity.minecraft.goat",\
         "extra": [\
@@ -442,7 +442,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_guardian",\
+      key:"d_r_guardian",\
       label: {\
         "translate": "entity.minecraft.guardian",\
         "extra": [\
@@ -455,7 +455,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_happy_ghast",\
+      key:"d_r_happy_ghast",\
       label: {\
         "translate": "entity.minecraft.happy_ghast",\
         "extra": [\
@@ -468,7 +468,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_hoglin",\
+      key:"d_r_hoglin",\
       label: {\
         "translate": "entity.minecraft.hoglin",\
         "extra": [\
@@ -481,7 +481,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_horse",\
+      key:"d_r_horse",\
       label: {\
         "translate": "entity.minecraft.horse",\
         "extra": [\
@@ -494,7 +494,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_husk",\
+      key:"d_r_husk",\
       label: {\
         "translate": "entity.minecraft.husk",\
         "extra": [\
@@ -507,7 +507,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_illusioner",\
+      key:"d_r_illusioner",\
       label: {\
         "translate": "entity.minecraft.illusioner",\
         "extra": [\
@@ -520,7 +520,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_iron_golem",\
+      key:"d_r_iron_golem",\
       label: {\
         "translate": "entity.minecraft.iron_golem",\
         "extra": [\
@@ -533,7 +533,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_llama",\
+      key:"d_r_llama",\
       label: {\
         "translate": "entity.minecraft.llama",\
         "extra": [\
@@ -546,7 +546,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_magma_cube",\
+      key:"d_r_magma_cube",\
       label: {\
         "translate": "entity.minecraft.magma_cube",\
         "extra": [\
@@ -559,7 +559,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_mooshroom",\
+      key:"d_r_mooshroom",\
       label: {\
         "translate": "entity.minecraft.mooshroom",\
         "extra": [\
@@ -572,7 +572,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_mooshroom_brown",\
+      key:"d_r_mooshroom_brown",\
       label: {\
         "translate": "entity.minecraft.mooshroom",\
         "extra": [\
@@ -595,7 +595,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_mule",\
+      key:"d_r_mule",\
       label: {\
         "translate": "entity.minecraft.mule",\
         "extra": [\
@@ -608,7 +608,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_ocelot",\
+      key:"d_r_ocelot",\
       label: {\
         "translate": "entity.minecraft.ocelot",\
         "extra": [\
@@ -621,7 +621,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_panda",\
+      key:"d_r_panda",\
       label: {\
         "translate": "entity.minecraft.panda",\
         "extra": [\
@@ -634,7 +634,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_panda_special",\
+      key:"d_r_panda_special",\
       label: {\
         "translate": "mobheads.entity.special_panda",\
         "extra": [\
@@ -647,7 +647,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_parrot",\
+      key:"d_r_parrot",\
       label: {\
         "translate": "entity.minecraft.parrot",\
         "extra": [\
@@ -660,7 +660,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_phantom",\
+      key:"d_r_phantom",\
       label: {\
         "translate": "entity.minecraft.phantom",\
         "extra": [\
@@ -673,7 +673,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_pig",\
+      key:"d_r_pig",\
       label: {\
         "translate": "entity.minecraft.pig",\
         "extra": [\
@@ -686,7 +686,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_piglin_brute",\
+      key:"d_r_piglin_brute",\
       label: {\
         "translate": "entity.minecraft.piglin_brute",\
         "extra": [\
@@ -699,7 +699,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_piglin",\
+      key:"d_r_piglin",\
       label: {\
         "translate": "entity.minecraft.piglin",\
         "extra": [\
@@ -712,7 +712,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_pillager",\
+      key:"d_r_pillager",\
       label:" {\
         "translate": "entity.minecraft.pillager",\
         "extra": [\
@@ -725,7 +725,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_polar_bear",\
+      key:"d_r_polar_bear",\
       label: {\
         "translate": "entity.minecraft.polar_bear",\
         "extra": [\
@@ -738,7 +738,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_pufferfish",\
+      key:"d_r_pufferfish",\
       label:" {\
         "translate": "entity.minecraft.pufferfish",\
         "extra": [\
@@ -751,7 +751,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_rabbit",\
+      key:"d_r_rabbit",\
       label: {\
         "translate": "entity.minecraft.rabbit",\
         "extra": [\
@@ -764,7 +764,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_ravager",\
+      key:"d_r_ravager",\
       label: {\
         "translate": "entity.minecraft.ravager",\
         "extra": [\
@@ -777,7 +777,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_salmon",\
+      key:"d_r_salmon",\
       label: {\
         "translate": "entity.minecraft.salmon",\
         "extra": [\
@@ -790,7 +790,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_sheep",\
+      key:"d_r_sheep",\
       label: {\
         "translate": "entity.minecraft.sheep",\
         "extra": [\
@@ -803,7 +803,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_shulker",\
+      key:"d_r_shulker",\
       label: {\
         "translate": "entity.minecraft.shulker",\
         "extra": [\
@@ -816,7 +816,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_silverfish",\
+      key:"d_r_silverfish",\
       label: {\
         "translate": "entity.minecraft.silverfish",\
         "extra": [\
@@ -829,7 +829,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_skeleton_horse",\
+      key:"d_r_skeleton_horse",\
       label: {\
         "translate": "entity.minecraft.skeleton_horse",\
         "extra": [\
@@ -842,7 +842,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_skeleton",\
+      key:"d_r_skeleton",\
       label: {\
         "translate": "entity.minecraft.skeleton",\
         "extra": [\
@@ -855,7 +855,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_slime",\
+      key:"d_r_slime",\
       label: {\
         "translate": "entity.minecraft.slime",\
         "extra": [\
@@ -868,7 +868,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_sniffer",\
+      key:"d_r_sniffer",\
       label: {\
         "translate": "entity.minecraft.sniffer",\
         "extra": [\
@@ -881,7 +881,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_snow_golem",\
+      key:"d_r_snow_golem",\
       label: {\
         "translate": "entity.minecraft.snow_golem",\
         "extra": [\
@@ -894,7 +894,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_spider",\
+      key:"d_r_spider",\
       label: {\
         "translate": "entity.minecraft.spider",\
         "extra": [\
@@ -907,7 +907,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_squid",\
+      key:"d_r_squid",\
       label: {\
         "translate": "entity.minecraft.squid",\
         "extra": [\
@@ -920,7 +920,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_stray",\
+      key:"d_r_stray",\
       label: {\
         "translate": "entity.minecraft.stray",\
         "extra": [\
@@ -933,7 +933,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_strider",\
+      key:"d_r_strider",\
       label: {\
         "translate": "entity.minecraft.strider",\
         "extra": [\
@@ -946,7 +946,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_tadpole",\
+      key:"d_r_tadpole",\
       label: {\
         "translate": "entity.minecraft.tadpole",\
         "extra": [\
@@ -959,7 +959,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_trader_llama",\
+      key:"d_r_trader_llama",\
       label: {\
         "translate": "entity.minecraft.trader_llama",\
         "extra": [\
@@ -972,7 +972,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_tropical_fish",\
+      key:"d_r_tropical_fish",\
       label: {\
         "translate": "entity.minecraft.tropical_fish",\
         "extra": [\
@@ -985,7 +985,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_turtle",\
+      key:"d_r_turtle",\
       label: {\
         "translate": "entity.minecraft.turtle",\
         "extra": [\
@@ -998,7 +998,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_vex",\
+      key:"d_r_vex",\
       label: {\
         "translate": "entity.minecraft.vex",\
         "extra": [\
@@ -1011,7 +1011,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_villager",\
+      key:"d_r_villager",\
       label: {\
         "translate": "entity.minecraft.villager",\
         "extra": [\
@@ -1024,7 +1024,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_vindicator",\
+      key:"d_r_vindicator",\
       label: {\
         "translate": "entity.minecraft.vindicator",\
         "extra": [\
@@ -1037,7 +1037,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_wandering_trader",\
+      key:"d_r_wandering_trader",\
       label: {\
         "translate": "entity.minecraft.wandering_trader",\
         "extra": [\
@@ -1050,7 +1050,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_warden",\
+      key:"d_r_warden",\
       label: {\
         "translate": "entity.minecraft.warden",\
         "extra": [\
@@ -1063,7 +1063,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_witch",\
+      key:"d_r_witch",\
       label: {\
         "translate": "entity.minecraft.witch",\
         "extra": [\
@@ -1076,7 +1076,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_wither",\
+      key:"d_r_wither",\
       label: {\
         "translate": "entity.minecraft.wither",\
         "extra": [\
@@ -1089,7 +1089,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_wither_invulnerable",\
+      key:"d_r_wither_invulnerable",\
       label: {\
         "translate": "entity.minecraft.wither",\
         "extra": [\
@@ -1112,7 +1112,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_wolf",\
+      key:"d_r_wolf",\
       label: {\
         "translate": "entity.minecraft.wolf",\
         "extra": [\
@@ -1125,7 +1125,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_zoglin",\
+      key:"d_r_zoglin",\
       label: {\
         "translate": "entity.minecraft.zoglin",\
         "extra": [\
@@ -1138,7 +1138,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_zombie_horse",\
+      key:"d_r_zombie_horse",\
       label: {\
         "translate": "entity.minecraft.zombie_horse",\
         "extra": [\
@@ -1151,7 +1151,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_zombie_villager",\
+      key:"d_r_zombie_villager",\
       label: {\
         "translate": "entity.minecraft.zombie_villager",\
         "extra": [\
@@ -1164,7 +1164,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_zombie",\
+      key:"d_r_zombie",\
       label: {\
         "translate": "entity.minecraft.zombie",\
         "extra": [\
@@ -1177,7 +1177,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop_rate_zombified_piglin",\
+      key:"d_r_zombified_piglin",\
       label: {\
         "translate": "entity.minecraft.zombified_piglin",\
         "extra": [\
@@ -1197,7 +1197,7 @@ type:"minecraft:multi_action",\
     },\
     "action": {\
       type:"dynamic/run_command",\
-      template:"function mobheads:config/update/update_drop_rates {dialog_drop_rate_multiplier:$(dialog_drop_rate_multiplier), drop_rate_allay:$(drop_rate_allay), drop_rate_armadillo:$(drop_rate_armadillo), drop_rate_axolotl:$(drop_rate_axolotl), drop_rate_axolotl_blue:$(drop_rate_axolotl_blue), drop_rate_bat:$(drop_rate_bat), drop_rate_bee:$(drop_rate_bee), drop_rate_blaze:$(drop_rate_blaze), drop_rate_bogged:$(drop_rate_bogged), drop_rate_breeze:$(drop_rate_breeze), drop_rate_camel:$(drop_rate_camel), drop_rate_cat:$(drop_rate_cat), drop_rate_cave_spider:$(drop_rate_cave_spider), drop_rate_chicken:$(drop_rate_chicken), drop_rate_cod:$(drop_rate_cod), drop_rate_cow:$(drop_rate_cow), drop_rate_creaking:$(drop_rate_creaking), drop_rate_creeper:$(drop_rate_creeper), drop_rate_creeper_charged:$(drop_rate_creeper_charged), drop_rate_dolphin:$(drop_rate_dolphin), drop_rate_donkey:$(drop_rate_donkey), drop_rate_drowned:$(drop_rate_drowned), drop_rate_elder_guardian:$(drop_rate_elder_guardian), drop_rate_ender_dragon:$(drop_rate_ender_dragon), drop_rate_enderman:$(drop_rate_enderman), drop_rate_endermite:$(drop_rate_endermite), drop_rate_evoker:$(drop_rate_evoker), drop_rate_fox:$(drop_rate_fox), drop_rate_frog:$(drop_rate_frog), drop_rate_ghast:$(drop_rate_ghast), drop_rate_glow_squid:$(drop_rate_glow_squid), drop_rate_goat:$(drop_rate_goat), drop_rate_guardian:$(drop_rate_guardian), drop_rate_happy_ghast:$(drop_rate_happy_ghast), drop_rate_hoglin:$(drop_rate_hoglin), drop_rate_horse:$(drop_rate_horse), drop_rate_husk:$(drop_rate_husk), drop_rate_illusioner:$(drop_rate_illusioner), drop_rate_iron_golem:$(drop_rate_iron_golem), drop_rate_llama:$(drop_rate_llama), drop_rate_magma_cube:$(drop_rate_magma_cube), drop_rate_mooshroom:$(drop_rate_mooshroom), drop_rate_mooshroom_brown:$(drop_rate_mooshroom_brown), drop_rate_mule:$(drop_rate_mule), drop_rate_ocelot:$(drop_rate_ocelot), drop_rate_panda:$(drop_rate_panda), drop_rate_panda_special:$(drop_rate_panda_special), drop_rate_parrot:$(drop_rate_parrot), drop_rate_phantom:$(drop_rate_phantom), drop_rate_pig:$(drop_rate_pig), drop_rate_piglin_brute:$(drop_rate_piglin_brute), drop_rate_piglin:$(drop_rate_piglin), drop_rate_pillager:$(drop_rate_pillager), drop_rate_polar_bear:$(drop_rate_polar_bear), drop_rate_pufferfish:$(drop_rate_pufferfish), drop_rate_rabbit:$(drop_rate_rabbit), drop_rate_ravager:$(drop_rate_ravager), drop_rate_salmon:$(drop_rate_salmon), drop_rate_sheep:$(drop_rate_sheep), drop_rate_shulker:$(drop_rate_shulker), drop_rate_silverfish:$(drop_rate_silverfish), drop_rate_skeleton_horse:$(drop_rate_skeleton_horse), drop_rate_skeleton:$(drop_rate_skeleton), drop_rate_slime:$(drop_rate_slime), drop_rate_sniffer:$(drop_rate_sniffer), drop_rate_snow_golem:$(drop_rate_snow_golem), drop_rate_spider:$(drop_rate_spider), drop_rate_squid:$(drop_rate_squid), drop_rate_stray:$(drop_rate_stray), drop_rate_strider:$(drop_rate_strider), drop_rate_tadpole:$(drop_rate_tadpole), drop_rate_trader_llama:$(drop_rate_trader_llama), drop_rate_tropical_fish:$(drop_rate_tropical_fish), drop_rate_turtle:$(drop_rate_turtle), drop_rate_vex:$(drop_rate_vex), drop_rate_villager:$(drop_rate_villager), drop_rate_vindicator:$(drop_rate_vindicator), drop_rate_wandering_trader:$(drop_rate_wandering_trader), drop_rate_warden:$(drop_rate_warden), drop_rate_witch:$(drop_rate_witch), drop_rate_wither:$(drop_rate_wither), drop_rate_wither_invulnerable:$(drop_rate_wither_invulnerable), drop_rate_wolf:$(drop_rate_wolf), drop_rate_zoglin:$(drop_rate_zoglin), drop_rate_zombie_horse:$(drop_rate_zombie_horse), drop_rate_zombie_villager:$(drop_rate_zombie_villager), drop_rate_zombie:$(drop_rate_zombie), drop_rate_zombified_piglin:$(drop_rate_zombified_piglin)}"\
+      template:"function mobheads:config/update/update_drop_rates {dialog_d_r_multiplier:$(dialog_d_r_multiplier), d_r_allay:$(d_r_allay), d_r_armadillo:$(d_r_armadillo), d_r_axolotl:$(d_r_axolotl), d_r_axolotl_blue:$(d_r_axolotl_blue), d_r_bat:$(d_r_bat), d_r_bee:$(d_r_bee), d_r_blaze:$(d_r_blaze), d_r_bogged:$(d_r_bogged), d_r_breeze:$(d_r_breeze), d_r_camel:$(d_r_camel), d_r_cat:$(d_r_cat), d_r_cave_spider:$(d_r_cave_spider), d_r_chicken:$(d_r_chicken), d_r_cod:$(d_r_cod), d_r_cow:$(d_r_cow), d_r_creaking:$(d_r_creaking), d_r_creeper:$(d_r_creeper), d_r_creeper_charged:$(d_r_creeper_charged), d_r_dolphin:$(d_r_dolphin), d_r_donkey:$(d_r_donkey), d_r_drowned:$(d_r_drowned), d_r_elder_guardian:$(d_r_elder_guardian), d_r_ender_dragon:$(d_r_ender_dragon), d_r_enderman:$(d_r_enderman), d_r_endermite:$(d_r_endermite), d_r_evoker:$(d_r_evoker), d_r_fox:$(d_r_fox), d_r_frog:$(d_r_frog), d_r_ghast:$(d_r_ghast), d_r_glow_squid:$(d_r_glow_squid), d_r_goat:$(d_r_goat), d_r_guardian:$(d_r_guardian), d_r_happy_ghast:$(d_r_happy_ghast), d_r_hoglin:$(d_r_hoglin), d_r_horse:$(d_r_horse), d_r_husk:$(d_r_husk), d_r_illusioner:$(d_r_illusioner), d_r_iron_golem:$(d_r_iron_golem), d_r_llama:$(d_r_llama), d_r_magma_cube:$(d_r_magma_cube), d_r_mooshroom:$(d_r_mooshroom), d_r_mooshroom_brown:$(d_r_mooshroom_brown), d_r_mule:$(d_r_mule), d_r_ocelot:$(d_r_ocelot), d_r_panda:$(d_r_panda), d_r_panda_special:$(d_r_panda_special), d_r_parrot:$(d_r_parrot), d_r_phantom:$(d_r_phantom), d_r_pig:$(d_r_pig), d_r_piglin_brute:$(d_r_piglin_brute), d_r_piglin:$(d_r_piglin), d_r_pillager:$(d_r_pillager), d_r_polar_bear:$(d_r_polar_bear), d_r_pufferfish:$(d_r_pufferfish), d_r_rabbit:$(d_r_rabbit), d_r_ravager:$(d_r_ravager), d_r_salmon:$(d_r_salmon), d_r_sheep:$(d_r_sheep), d_r_shulker:$(d_r_shulker), d_r_silverfish:$(d_r_silverfish), d_r_skeleton_horse:$(d_r_skeleton_horse), d_r_skeleton:$(d_r_skeleton), d_r_slime:$(d_r_slime), d_r_sniffer:$(d_r_sniffer), d_r_snow_golem:$(d_r_snow_golem), d_r_spider:$(d_r_spider), d_r_squid:$(d_r_squid), d_r_stray:$(d_r_stray), d_r_strider:$(d_r_strider), d_r_tadpole:$(d_r_tadpole), d_r_trader_llama:$(d_r_trader_llama), d_r_tropical_fish:$(d_r_tropical_fish), d_r_turtle:$(d_r_turtle), d_r_vex:$(d_r_vex), d_r_villager:$(d_r_villager), d_r_vindicator:$(d_r_vindicator), d_r_wandering_trader:$(d_r_wandering_trader), d_r_warden:$(d_r_warden), d_r_witch:$(d_r_witch), d_r_wither:$(d_r_wither), d_r_wither_invulnerable:$(d_r_wither_invulnerable), d_r_wolf:$(d_r_wolf), d_r_zoglin:$(d_r_zoglin), d_r_zombie_horse:$(d_r_zombie_horse), d_r_zombie_villager:$(d_r_zombie_villager), d_r_zombie:$(d_r_zombie), d_r_zombified_piglin:$(d_r_zombified_piglin)}"\
     }\
   },\
   actions:[\
@@ -1208,7 +1208,7 @@ type:"minecraft:multi_action",\
       },\
       action:{\
         type:"dynamic/run_command",\
-        template:"function mobheads:config/update/update_drop_rates {dialog_drop_rate_multiplier:$(dialog_drop_rate_multiplier), drop_rate_allay:$(drop_rate_allay), drop_rate_armadillo:$(drop_rate_armadillo), drop_rate_axolotl:$(drop_rate_axolotl), drop_rate_axolotl_blue:$(drop_rate_axolotl_blue), drop_rate_bat:$(drop_rate_bat), drop_rate_bee:$(drop_rate_bee), drop_rate_blaze:$(drop_rate_blaze), drop_rate_bogged:$(drop_rate_bogged), drop_rate_breeze:$(drop_rate_breeze), drop_rate_camel:$(drop_rate_camel), drop_rate_cat:$(drop_rate_cat), drop_rate_cave_spider:$(drop_rate_cave_spider), drop_rate_chicken:$(drop_rate_chicken), drop_rate_cod:$(drop_rate_cod), drop_rate_cow:$(drop_rate_cow), drop_rate_creaking:$(drop_rate_creaking), drop_rate_creeper:$(drop_rate_creeper), drop_rate_creeper_charged:$(drop_rate_creeper_charged), drop_rate_dolphin:$(drop_rate_dolphin), drop_rate_donkey:$(drop_rate_donkey), drop_rate_drowned:$(drop_rate_drowned), drop_rate_elder_guardian:$(drop_rate_elder_guardian), drop_rate_ender_dragon:$(drop_rate_ender_dragon), drop_rate_enderman:$(drop_rate_enderman), drop_rate_endermite:$(drop_rate_endermite), drop_rate_evoker:$(drop_rate_evoker), drop_rate_fox:$(drop_rate_fox), drop_rate_frog:$(drop_rate_frog), drop_rate_ghast:$(drop_rate_ghast), drop_rate_glow_squid:$(drop_rate_glow_squid), drop_rate_goat:$(drop_rate_goat), drop_rate_guardian:$(drop_rate_guardian), drop_rate_happy_ghast:$(drop_rate_happy_ghast), drop_rate_hoglin:$(drop_rate_hoglin), drop_rate_horse:$(drop_rate_horse), drop_rate_husk:$(drop_rate_husk), drop_rate_illusioner:$(drop_rate_illusioner), drop_rate_iron_golem:$(drop_rate_iron_golem), drop_rate_llama:$(drop_rate_llama), drop_rate_magma_cube:$(drop_rate_magma_cube), drop_rate_mooshroom:$(drop_rate_mooshroom), drop_rate_mooshroom_brown:$(drop_rate_mooshroom_brown), drop_rate_mule:$(drop_rate_mule), drop_rate_ocelot:$(drop_rate_ocelot), drop_rate_panda:$(drop_rate_panda), drop_rate_panda_special:$(drop_rate_panda_special), drop_rate_parrot:$(drop_rate_parrot), drop_rate_phantom:$(drop_rate_phantom), drop_rate_pig:$(drop_rate_pig), drop_rate_piglin_brute:$(drop_rate_piglin_brute), drop_rate_piglin:$(drop_rate_piglin), drop_rate_pillager:$(drop_rate_pillager), drop_rate_polar_bear:$(drop_rate_polar_bear), drop_rate_pufferfish:$(drop_rate_pufferfish), drop_rate_rabbit:$(drop_rate_rabbit), drop_rate_ravager:$(drop_rate_ravager), drop_rate_salmon:$(drop_rate_salmon), drop_rate_sheep:$(drop_rate_sheep), drop_rate_shulker:$(drop_rate_shulker), drop_rate_silverfish:$(drop_rate_silverfish), drop_rate_skeleton_horse:$(drop_rate_skeleton_horse), drop_rate_skeleton:$(drop_rate_skeleton), drop_rate_slime:$(drop_rate_slime), drop_rate_sniffer:$(drop_rate_sniffer), drop_rate_snow_golem:$(drop_rate_snow_golem), drop_rate_spider:$(drop_rate_spider), drop_rate_squid:$(drop_rate_squid), drop_rate_stray:$(drop_rate_stray), drop_rate_strider:$(drop_rate_strider), drop_rate_tadpole:$(drop_rate_tadpole), drop_rate_trader_llama:$(drop_rate_trader_llama), drop_rate_tropical_fish:$(drop_rate_tropical_fish), drop_rate_turtle:$(drop_rate_turtle), drop_rate_vex:$(drop_rate_vex), drop_rate_villager:$(drop_rate_villager), drop_rate_vindicator:$(drop_rate_vindicator), drop_rate_wandering_trader:$(drop_rate_wandering_trader), drop_rate_warden:$(drop_rate_warden), drop_rate_witch:$(drop_rate_witch), drop_rate_wither:$(drop_rate_wither), drop_rate_wither_invulnerable:$(drop_rate_wither_invulnerable), drop_rate_wolf:$(drop_rate_wolf), drop_rate_zoglin:$(drop_rate_zoglin), drop_rate_zombie_horse:$(drop_rate_zombie_horse), drop_rate_zombie_villager:$(drop_rate_zombie_villager), drop_rate_zombie:$(drop_rate_zombie), drop_rate_zombified_piglin:$(drop_rate_zombified_piglin)}"\
+        template:"function mobheads:config/update/update_drop_rates {dialog_d_r_multiplier:$(dialog_d_r_multiplier), d_r_allay:$(d_r_allay), d_r_armadillo:$(d_r_armadillo), d_r_axolotl:$(d_r_axolotl), d_r_axolotl_blue:$(d_r_axolotl_blue), d_r_bat:$(d_r_bat), d_r_bee:$(d_r_bee), d_r_blaze:$(d_r_blaze), d_r_bogged:$(d_r_bogged), d_r_breeze:$(d_r_breeze), d_r_camel:$(d_r_camel), d_r_cat:$(d_r_cat), d_r_cave_spider:$(d_r_cave_spider), d_r_chicken:$(d_r_chicken), d_r_cod:$(d_r_cod), d_r_cow:$(d_r_cow), d_r_creaking:$(d_r_creaking), d_r_creeper:$(d_r_creeper), d_r_creeper_charged:$(d_r_creeper_charged), d_r_dolphin:$(d_r_dolphin), d_r_donkey:$(d_r_donkey), d_r_drowned:$(d_r_drowned), d_r_elder_guardian:$(d_r_elder_guardian), d_r_ender_dragon:$(d_r_ender_dragon), d_r_enderman:$(d_r_enderman), d_r_endermite:$(d_r_endermite), d_r_evoker:$(d_r_evoker), d_r_fox:$(d_r_fox), d_r_frog:$(d_r_frog), d_r_ghast:$(d_r_ghast), d_r_glow_squid:$(d_r_glow_squid), d_r_goat:$(d_r_goat), d_r_guardian:$(d_r_guardian), d_r_happy_ghast:$(d_r_happy_ghast), d_r_hoglin:$(d_r_hoglin), d_r_horse:$(d_r_horse), d_r_husk:$(d_r_husk), d_r_illusioner:$(d_r_illusioner), d_r_iron_golem:$(d_r_iron_golem), d_r_llama:$(d_r_llama), d_r_magma_cube:$(d_r_magma_cube), d_r_mooshroom:$(d_r_mooshroom), d_r_mooshroom_brown:$(d_r_mooshroom_brown), d_r_mule:$(d_r_mule), d_r_ocelot:$(d_r_ocelot), d_r_panda:$(d_r_panda), d_r_panda_special:$(d_r_panda_special), d_r_parrot:$(d_r_parrot), d_r_phantom:$(d_r_phantom), d_r_pig:$(d_r_pig), d_r_piglin_brute:$(d_r_piglin_brute), d_r_piglin:$(d_r_piglin), d_r_pillager:$(d_r_pillager), d_r_polar_bear:$(d_r_polar_bear), d_r_pufferfish:$(d_r_pufferfish), d_r_rabbit:$(d_r_rabbit), d_r_ravager:$(d_r_ravager), d_r_salmon:$(d_r_salmon), d_r_sheep:$(d_r_sheep), d_r_shulker:$(d_r_shulker), d_r_silverfish:$(d_r_silverfish), d_r_skeleton_horse:$(d_r_skeleton_horse), d_r_skeleton:$(d_r_skeleton), d_r_slime:$(d_r_slime), d_r_sniffer:$(d_r_sniffer), d_r_snow_golem:$(d_r_snow_golem), d_r_spider:$(d_r_spider), d_r_squid:$(d_r_squid), d_r_stray:$(d_r_stray), d_r_strider:$(d_r_strider), d_r_tadpole:$(d_r_tadpole), d_r_trader_llama:$(d_r_trader_llama), d_r_tropical_fish:$(d_r_tropical_fish), d_r_turtle:$(d_r_turtle), d_r_vex:$(d_r_vex), d_r_villager:$(d_r_villager), d_r_vindicator:$(d_r_vindicator), d_r_wandering_trader:$(d_r_wandering_trader), d_r_warden:$(d_r_warden), d_r_witch:$(d_r_witch), d_r_wither:$(d_r_wither), d_r_wither_invulnerable:$(d_r_wither_invulnerable), d_r_wolf:$(d_r_wolf), d_r_zoglin:$(d_r_zoglin), d_r_zombie_horse:$(d_r_zombie_horse), d_r_zombie_villager:$(d_r_zombie_villager), d_r_zombie:$(d_r_zombie), d_r_zombified_piglin:$(d_r_zombified_piglin)}"\
       }\
     }\
   ]\
