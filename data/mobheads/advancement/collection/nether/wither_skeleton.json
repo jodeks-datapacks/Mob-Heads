@@ -1,0 +1,71 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:wither_skeleton_skull"
+    },
+    "title": {
+      "translate": "entity.minecraft.wither_skeleton",
+      "fallback": "Wither Skeleton",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mobheads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.wither_skeleton",
+          "fallback": "Wither Skeleton"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mobheads.skull",
+          "fallback": "Skull"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mobheads:collection/nether/strider",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mobheads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:wither_skeleton_skull"
+          }
+        ]
+      }
+    }
+  }
+}

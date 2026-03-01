@@ -4,5 +4,5 @@
       "trigger": "minecraft:location"
     }
   },
-  "parent": "mobheads:collection/nether/strider"
+  "parent": "mobheads:collection/nether/wither_skeleton"
 }

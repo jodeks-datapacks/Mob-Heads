@@ -117,22 +117,22 @@ $dialog show @s {\
     },\
     {\
       label: {\
-        "translate": "mobheads.config.get_all_head_advancements",\
-        "fallback": "Get all head advancements"\
+        "translate": "jodek.config.reset",\
+        "fallback": "Reset config"\
       },\
       action:{\
         type:"run_command",\
-        command:"function mobheads:app/advancement/grant_all_heads"\
+        command:"function mobheads:config/reset/config"\
       }\
     },\
     {\
       label: {\
-        "translate": "mobheads.config.reset_all_head_advancements",\
-        "fallback": "Reset all head advancements"\
+        "translate": "jodek.config.reset_all",\
+        "fallback": "Reset all configs"\
       },\
       action:{\
         type:"run_command",\
-        command:"function mobheads:app/advancement/revoke_all_heads"\
+        command:"function mobheads:config/reset/all"\
       }\
     }\
   ]\

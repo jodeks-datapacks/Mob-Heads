@@ -106,6 +106,7 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &warden mobheads.drop_notification = &warden mobheads.drop_notification run data modify storage mobheads:root drop_notification_warden set value 1
     execute unless score &witch mobheads.drop_notification = &witch mobheads.drop_notification run data modify storage mobheads:root drop_notification_witch set value 1
     execute unless score &wither mobheads.drop_notification = &wither mobheads.drop_notification run data modify storage mobheads:root drop_notification_wither set value 1
+    execute unless score &wither_skeleton mobheads.drop_notification = &wither_skeleton mobheads.drop_notification run data modify storage mobheads:root drop_notification_wither_skeleton set value 1
     execute unless score &wither_invulnerable mobheads.drop_notification = &wither_invulnerable mobheads.drop_notification run data modify storage mobheads:root drop_notification_wither_invulnerable set value 1
     execute unless score &wolf mobheads.drop_notification = &wolf mobheads.drop_notification run data modify storage mobheads:root drop_notification_wolf set value 1
 
@@ -115,7 +116,14 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &zombie mobheads.drop_notification = &zombie mobheads.drop_notification run data modify storage mobheads:root drop_notification_zombie set value 1
     execute unless score &zombified_piglin mobheads.drop_notification = &zombified_piglin mobheads.drop_notification run data modify storage mobheads:root drop_notification_zombified_piglin set value 1
 
-    # Drop notification scoreboard
+  # Updates
+    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root drop_notification_copper_golem set value 1
+    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root drop_notification_nautilus set value 1
+    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root drop_notification_parched set value 1
+    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root drop_notification_zombie_nautilus set value 1
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root drop_notification_camel_husk set value 1
+
+  # Drop notification scoreboard
     execute unless score &allay mobheads.drop_notification = &allay mobheads.drop_notification run scoreboard players set &allay mobheads.drop_notification 1
     execute unless score &armadillo mobheads.drop_notification = &armadillo mobheads.drop_notification run scoreboard players set &armadillo mobheads.drop_notification 1
     execute unless score &axolotl mobheads.drop_notification = &axolotl mobheads.drop_notification run scoreboard players set &axolotl mobheads.drop_notification 1
@@ -213,6 +221,7 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &witch mobheads.drop_notification = &witch mobheads.drop_notification run scoreboard players set &witch mobheads.drop_notification 1
     execute unless score &wither mobheads.drop_notification = &wither mobheads.drop_notification run scoreboard players set &wither mobheads.drop_notification 1
     execute unless score &wither_invulnerable mobheads.drop_notification = &wither_invulnerable mobheads.drop_notification run scoreboard players set &wither_invulnerable mobheads.drop_notification 1
+    execute unless score &wither_skeleton mobheads.drop_notification = &wither_skeleton mobheads.drop_notification run scoreboard players set &wither_skeleton mobheads.drop_notification 1
     execute unless score &wolf mobheads.drop_notification = &wolf mobheads.drop_notification run scoreboard players set &wolf mobheads.drop_notification 1
 
     execute unless score &zoglin mobheads.drop_notification = &zoglin mobheads.drop_notification run scoreboard players set &zoglin mobheads.drop_notification 1
@@ -220,6 +229,13 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &zombie_villager mobheads.drop_notification = &zombie_villager mobheads.drop_notification run scoreboard players set &zombie_villager mobheads.drop_notification 1
     execute unless score &zombie mobheads.drop_notification = &zombie mobheads.drop_notification run scoreboard players set &zombie mobheads.drop_notification 1
     execute unless score &zombified_piglin mobheads.drop_notification = &zombified_piglin mobheads.drop_notification run scoreboard players set &zombified_piglin mobheads.drop_notification 1
+
+  # Updates
+    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run scoreboard players set &copper_golem mobheads.drop_notification 1
+    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run scoreboard players set &nautilus mobheads.drop_notification 1
+    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run scoreboard players set &parched mobheads.drop_notification 1
+    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run scoreboard players set &zombie_nautilus mobheads.drop_notification 1
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.drop_notification 1
 
   # Drop notification dialog
     data modify storage mobheads:root dialog_drop_notification_allay set value "$(dialog_drop_notification_allay)"
@@ -300,6 +316,7 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root dialog_drop_notification_witch set value "$(dialog_drop_notification_witch)"
     data modify storage mobheads:root dialog_drop_notification_wither set value "$(dialog_drop_notification_wither)"
     data modify storage mobheads:root dialog_drop_notification_wither_invulnerable set value "$(dialog_drop_notification_wither_invulnerable)"
+    data modify storage mobheads:root dialog_drop_notification_wither_skeleton set value "$(dialog_drop_notification_wither_skeleton)"
     data modify storage mobheads:root dialog_drop_notification_wolf set value "$(dialog_drop_notification_wolf)"
     data modify storage mobheads:root dialog_drop_notification_zoglin set value "$(dialog_drop_notification_zoglin)"
     data modify storage mobheads:root dialog_drop_notification_zombie_horse set value "$(dialog_drop_notification_zombie_horse)"
@@ -307,14 +324,21 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root dialog_drop_notification_zombie set value "$(dialog_drop_notification_zombie)"
     data modify storage mobheads:root dialog_drop_notification_zombified_piglin set value "$(dialog_drop_notification_zombified_piglin)"
 
+  # Updates
+    data modify storage mobheads:root dialog_drop_notification_camel_husk set value "$(dialog_drop_notification_camel_husk)"
+    data modify storage mobheads:root dialog_drop_notification_zombie_nautilus set value "$(dialog_drop_notification_zombie_nautilus)"
+    data modify storage mobheads:root dialog_drop_notification_parched set value "$(dialog_drop_notification_parched)"
+    data modify storage mobheads:root dialog_drop_notification_nautilus set value "$(dialog_drop_notification_nautilus)"
+    data modify storage mobheads:root dialog_drop_notification_copper_golem set value "$(dialog_drop_notification_copper_golem)"
+
 # Drop rate multiplier
-  data modify storage mobheads:root drop_rate_multiplier set value 1
+  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root drop_rate_multiplier set value 1
   data modify storage mobheads:root dialog_drop_rate_multiplier set value "$(dialog_drop_rate_multiplier)"
 
 # Head drop advancement
-  data modify storage mobheads:root head_drop_advancement set value 2
+  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root head_drop_advancement set value 2
   data modify storage mobheads:root dialog_head_drop_advancement set value "$(dialog_head_drop_advancement)"
-  scoreboard players set &head_drop_advancement mobheads.config 2
+  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run scoreboard players set &head_drop_advancement mobheads.config 2
 
 # Drop message 
   # Drop message text
@@ -341,7 +365,7 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root dialog_drop_message_9 set value "'$(dialog_drop_message_9)'"
     data modify storage mobheads:root dialog_drop_message_10 set value "'$(dialog_drop_message_10)'"
 
-  scoreboard players set &drop_message mobheads.config 1
+  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run scoreboard players set &drop_message mobheads.config 1
 
 # Drop rates
   # Default drop rates
@@ -451,6 +475,13 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie set value 0.001
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombified_piglin set value 0.001
 
+  # Updates
+    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root copper_golem set value 0.005
+    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root nautilus set value 0.01
+    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root parched set value 0.01
+    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root zombie_nautilus set value 0.01
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk set value 0.03
+
   # Initial drop rates
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root allay_init set value 0.01
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root armadillo_init set value 0.01
@@ -557,6 +588,13 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_villager_init set value 0.03
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_init set value 0.001
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombified_piglin_init set value 0.001
+
+  # Updates
+    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root copper_golem_init set value 0.005
+    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root nautilus_init set value 0.01
+    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root parched_init set value 0.01
+    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root zombie_nautilus_init set value 0.01
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk_init set value 0.03
 
   # Dialog drop rates
     data modify storage mobheads:root drop_rate_allay set value "$(drop_rate_allay)"
@@ -666,6 +704,13 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root drop_rate_zombie_villager set value "$(drop_rate_zombie_villager)"
     data modify storage mobheads:root drop_rate_zombie set value "$(drop_rate_zombie)"
     data modify storage mobheads:root drop_rate_zombified_piglin set value "$(drop_rate_zombified_piglin)"
+
+  # Updates
+    data modify storage mobheads:root drop_rate_copper_golem set value "$(drop_rate_copper_golem)"
+    data modify storage mobheads:root drop_rate_nautilus set value "$(drop_rate_nautilus)"
+    data modify storage mobheads:root drop_rate_parched set value "$(drop_rate_parched)"
+    data modify storage mobheads:root drop_rate_zombie_nautilus set value "$(drop_rate_zombie_nautilus)"
+    data modify storage mobheads:root drop_rate_camel_husk set value "$(drop_rate_camel_husk)"
 
 # Rarity levels
   # Rarity in storage
@@ -777,8 +822,14 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &zombie mobheads.rarity = &zombie mobheads.rarity run data modify storage mobheads:root rarity_zombie set value 0
     execute unless score &zombified_piglin mobheads.rarity = &zombified_piglin mobheads.rarity run data modify storage mobheads:root rarity_zombified_piglin set value 0
 
+  # Updates
+    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root rarity_copper_golem set value 2
+    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root rarity_nautilus set value 3
+    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root rarity_parched set value 3
+    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root rarity_zombie_nautilus set value 3
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root rarity_camel_husk set value 3
 
-      # Rarity scoreboard
+  # Rarity scoreboard
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run scoreboard players set &allay mobheads.rarity 1
     execute unless score &armadillo mobheads.rarity = &armadillo mobheads.rarity run scoreboard players set &armadillo mobheads.rarity 1
     execute unless score &axolotl mobheads.rarity = &axolotl mobheads.rarity run scoreboard players set &axolotl mobheads.rarity 2
@@ -886,6 +937,13 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &zombie_villager mobheads.rarity = &zombie_villager mobheads.rarity run scoreboard players set &zombie_villager mobheads.rarity 2
     execute unless score &zombie mobheads.rarity = &zombie mobheads.rarity run scoreboard players set &zombie mobheads.rarity 0
     execute unless score &zombified_piglin mobheads.rarity = &zombified_piglin mobheads.rarity run scoreboard players set &zombified_piglin mobheads.rarity 0
+
+  # Updates
+    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run scoreboard players set &copper_golem mobheads.rarity 2
+    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run scoreboard players set &nautilus mobheads.rarity 3
+    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run scoreboard players set &parched mobheads.rarity 3
+    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run scoreboard players set &zombie_nautilus mobheads.rarity 3
+    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.rarity 3
 
   # Dialog rarity in storage
     data modify storage mobheads:root dialog_rarity_allay set value "$(dialog_rarity_allay)"
@@ -996,58 +1054,9 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root dialog_rarity_zombie set value "$(dialog_rarity_zombie)"
     data modify storage mobheads:root dialog_rarity_zombified_piglin set value "$(dialog_rarity_zombified_piglin)"
 
-# Changes
-  # Copper Golem
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root copper_golem set value 0.005
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root copper_golem_init set value 0.005
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run scoreboard players set &copper_golem mobheads.drop_notification 1
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root drop_notification_copper_golem set value 1
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root rarity_copper_golem set value 1
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run scoreboard players set &copper_golem mobheads.rarity 1
-    data modify storage mobheads:root drop_rate_copper_golem set value "$(drop_rate_copper_golem)"
+# Updates
     data modify storage mobheads:root dialog_rarity_copper_golem set value "$(dialog_rarity_copper_golem)"
-    data modify storage mobheads:root dialog_drop_notification_copper_golem set value "$(dialog_drop_notification_copper_golem)"
-
-  # Nautilus
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root nautilus set value 0.01
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root nautilus_init set value 0.01
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run scoreboard players set &nautilus mobheads.drop_notification 1
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root drop_notification_nautilus set value 1
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root rarity_nautilus set value 1
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run scoreboard players set &nautilus mobheads.rarity 1
-    data modify storage mobheads:root drop_rate_nautilus set value "$(drop_rate_nautilus)"
     data modify storage mobheads:root dialog_rarity_nautilus set value "$(dialog_rarity_nautilus)"
-    data modify storage mobheads:root dialog_drop_notification_nautilus set value "$(dialog_drop_notification_nautilus)"
-
-  # Parched
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root parched set value 0.01
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root parched_init set value 0.01
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run scoreboard players set &parched mobheads.drop_notification 1
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root drop_notification_parched set value 1
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run scoreboard players set &parched mobheads.rarity 1
-    data modify storage mobheads:root rarity_parched set value 1
-    data modify storage mobheads:root drop_rate_parched set value "$(drop_rate_parched)"
     data modify storage mobheads:root dialog_rarity_parched set value "$(dialog_rarity_parched)"
-    data modify storage mobheads:root dialog_drop_notification_parched set value "$(dialog_drop_notification_parched)"
-
-  # Zombie Nautilus
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root zombie_nautilus set value 0.01
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root zombie_nautilus_init set value 0.01
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run scoreboard players set &zombie_nautilus mobheads.drop_notification 1
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root drop_notification_zombie_nautilus set value 1
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root rarity_zombie_nautilus set value 1
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run scoreboard players set &zombie_nautilus mobheads.rarity 1
-    data modify storage mobheads:root drop_rate_zombie_nautilus set value "$(drop_rate_zombie_nautilus)"
     data modify storage mobheads:root dialog_rarity_zombie_nautilus set value "$(dialog_rarity_zombie_nautilus)"
-    data modify storage mobheads:root dialog_drop_notification_zombie_nautilus set value "$(dialog_drop_notification_zombie_nautilus)"
-
-  # Camel Husk
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk set value 0.03
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk_init set value 0.03
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.drop_notification 1
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root drop_notification_camel_husk set value 1
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root rarity_camel_husk set value 1
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.rarity 1
-    data modify storage mobheads:root drop_rate_camel_husk set value "$(drop_rate_camel_husk)"
     data modify storage mobheads:root dialog_rarity_camel_husk set value "$(dialog_rarity_camel_husk)"
-    data modify storage mobheads:root dialog_drop_notification_camel_husk set value "$(dialog_drop_notification_camel_husk)"

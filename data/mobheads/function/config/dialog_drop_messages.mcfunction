@@ -180,12 +180,12 @@ type:"minecraft:multi_action",\
   actions:[\
     {\
       label: {\
-        "translate": "jodek.save",\
-        "fallback": "Save"\
+        "translate": "jodek.config.reset",\
+        "fallback": "Reset config"\
       },\
       action:{\
-        type:"dynamic/run_command",\
-        template:"function mobheads:config/update/update_drop_messages {dialog_drop_message_1:$(dialog_drop_message_1), dialog_drop_message_2:$(dialog_drop_message_2), dialog_drop_message_3:$(dialog_drop_message_3), dialog_drop_message_4:$(dialog_drop_message_4), dialog_drop_message_5:$(dialog_drop_message_5), dialog_drop_message_6:$(dialog_drop_message_6), dialog_drop_message_7:$(dialog_drop_message_7), dialog_drop_message_8:$(dialog_drop_message_8), dialog_drop_message_9:$(dialog_drop_message_9), dialog_drop_message_10:$(dialog_drop_message_10)}"\
+        type:"run_command",\
+        command:"function mobheads:config/reset/drop_messages"\
       }\
     }\
   ]\

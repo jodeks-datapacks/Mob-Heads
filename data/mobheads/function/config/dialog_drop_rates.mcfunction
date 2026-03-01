@@ -1203,12 +1203,12 @@ type:"minecraft:multi_action",\
   actions:[\
     {\
       label: {\
-        "translate": "jodek.save",\
-        "fallback": "Save"\
+        "translate": "jodek.config.reset",\
+        "fallback": "Reset config"\
       },\
       action:{\
-        type:"dynamic/run_command",\
-        template:"function mobheads:config/update/update_drop_rates {dialog_d_r_multiplier:$(dialog_d_r_multiplier), d_r_allay:$(d_r_allay), d_r_armadillo:$(d_r_armadillo), d_r_axolotl:$(d_r_axolotl), d_r_axolotl_blue:$(d_r_axolotl_blue), d_r_bat:$(d_r_bat), d_r_bee:$(d_r_bee), d_r_blaze:$(d_r_blaze), d_r_bogged:$(d_r_bogged), d_r_breeze:$(d_r_breeze), d_r_camel:$(d_r_camel), d_r_cat:$(d_r_cat), d_r_cave_spider:$(d_r_cave_spider), d_r_chicken:$(d_r_chicken), d_r_cod:$(d_r_cod), d_r_cow:$(d_r_cow), d_r_creaking:$(d_r_creaking), d_r_creeper:$(d_r_creeper), d_r_creeper_charged:$(d_r_creeper_charged), d_r_dolphin:$(d_r_dolphin), d_r_donkey:$(d_r_donkey), d_r_drowned:$(d_r_drowned), d_r_elder_guardian:$(d_r_elder_guardian), d_r_ender_dragon:$(d_r_ender_dragon), d_r_enderman:$(d_r_enderman), d_r_endermite:$(d_r_endermite), d_r_evoker:$(d_r_evoker), d_r_fox:$(d_r_fox), d_r_frog:$(d_r_frog), d_r_ghast:$(d_r_ghast), d_r_glow_squid:$(d_r_glow_squid), d_r_goat:$(d_r_goat), d_r_guardian:$(d_r_guardian), d_r_happy_ghast:$(d_r_happy_ghast), d_r_hoglin:$(d_r_hoglin), d_r_horse:$(d_r_horse), d_r_husk:$(d_r_husk), d_r_illusioner:$(d_r_illusioner), d_r_iron_golem:$(d_r_iron_golem), d_r_llama:$(d_r_llama), d_r_magma_cube:$(d_r_magma_cube), d_r_mooshroom:$(d_r_mooshroom), d_r_mooshroom_brown:$(d_r_mooshroom_brown), d_r_mule:$(d_r_mule), d_r_ocelot:$(d_r_ocelot), d_r_panda:$(d_r_panda), d_r_panda_special:$(d_r_panda_special), d_r_parrot:$(d_r_parrot), d_r_phantom:$(d_r_phantom), d_r_pig:$(d_r_pig), d_r_piglin_brute:$(d_r_piglin_brute), d_r_piglin:$(d_r_piglin), d_r_pillager:$(d_r_pillager), d_r_polar_bear:$(d_r_polar_bear), d_r_pufferfish:$(d_r_pufferfish), d_r_rabbit:$(d_r_rabbit), d_r_ravager:$(d_r_ravager), d_r_salmon:$(d_r_salmon), d_r_sheep:$(d_r_sheep), d_r_shulker:$(d_r_shulker), d_r_silverfish:$(d_r_silverfish), d_r_skeleton_horse:$(d_r_skeleton_horse), d_r_skeleton:$(d_r_skeleton), d_r_slime:$(d_r_slime), d_r_sniffer:$(d_r_sniffer), d_r_snow_golem:$(d_r_snow_golem), d_r_spider:$(d_r_spider), d_r_squid:$(d_r_squid), d_r_stray:$(d_r_stray), d_r_strider:$(d_r_strider), d_r_tadpole:$(d_r_tadpole), d_r_trader_llama:$(d_r_trader_llama), d_r_tropical_fish:$(d_r_tropical_fish), d_r_turtle:$(d_r_turtle), d_r_vex:$(d_r_vex), d_r_villager:$(d_r_villager), d_r_vindicator:$(d_r_vindicator), d_r_wandering_trader:$(d_r_wandering_trader), d_r_warden:$(d_r_warden), d_r_witch:$(d_r_witch), d_r_wither:$(d_r_wither), d_r_wither_invulnerable:$(d_r_wither_invulnerable), d_r_wolf:$(d_r_wolf), d_r_zoglin:$(d_r_zoglin), d_r_zombie_horse:$(d_r_zombie_horse), d_r_zombie_villager:$(d_r_zombie_villager), d_r_zombie:$(d_r_zombie), d_r_zombified_piglin:$(d_r_zombified_piglin)}"\
+        type:"run_command",\
+        command:"function mobheads:config/reset/drop_rates"\
       }\
     }\
   ]\

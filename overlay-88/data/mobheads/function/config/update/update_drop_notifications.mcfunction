@@ -77,6 +77,7 @@ $scoreboard players set &warden mobheads.drop_notification $(dialog_drop_notific
 $scoreboard players set &witch mobheads.drop_notification $(dialog_drop_notification_witch)
 $scoreboard players set &wither mobheads.drop_notification $(dialog_drop_notification_wither)
 $scoreboard players set &wither_invulnerable mobheads.drop_notification $(dialog_drop_notification_wither_invulnerable)
+$scoreboard players set &wither_skeleton mobheads.drop_notification $(dialog_drop_notification_wither_skeleton)
 $scoreboard players set &wolf mobheads.drop_notification $(dialog_drop_notification_wolf)
 $scoreboard players set &zoglin mobheads.drop_notification $(dialog_drop_notification_zoglin)
 $scoreboard players set &zombie_horse mobheads.drop_notification $(dialog_drop_notification_zombie_horse)
@@ -182,6 +183,7 @@ $data modify storage mobheads:root drop_notification_wandering_trader set value 
 $data modify storage mobheads:root drop_notification_warden set value $(dialog_drop_notification_warden)
 $data modify storage mobheads:root drop_notification_witch set value $(dialog_drop_notification_witch)
 $data modify storage mobheads:root drop_notification_wither set value $(dialog_drop_notification_wither)
+$data modify storage mobheads:root drop_notification_wither_skeleton set value $(dialog_drop_notification_wither_skeleton)
 $data modify storage mobheads:root drop_notification_wither_invulnerable set value $(dialog_drop_notification_wither_invulnerable)
 $data modify storage mobheads:root drop_notification_wolf set value $(dialog_drop_notification_wolf)
 
@@ -269,6 +271,7 @@ data modify storage mobheads:root dialog_drop_notification_wandering_trader set 
 data modify storage mobheads:root dialog_drop_notification_warden set value "$(dialog_drop_notification_warden)"
 data modify storage mobheads:root dialog_drop_notification_witch set value "$(dialog_drop_notification_witch)"
 data modify storage mobheads:root dialog_drop_notification_wither set value "$(dialog_drop_notification_wither)"
+data modify storage mobheads:root dialog_drop_notification_wither_skeleton set value "$(dialog_drop_notification_wither_skeleton)"
 data modify storage mobheads:root dialog_drop_notification_wither_invulnerable set value "$(dialog_drop_notification_wither_invulnerable)"
 data modify storage mobheads:root dialog_drop_notification_wolf set value "$(dialog_drop_notification_wolf)"
 data modify storage mobheads:root dialog_drop_notification_zoglin set value "$(dialog_drop_notification_zoglin)"
