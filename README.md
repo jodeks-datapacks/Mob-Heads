@@ -1,19 +1,18 @@
-# Mob Heads
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![minecraft datapack mob heads mod baby mobs minecraft mob heads](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/mobheadsv3.png)
+
 </div>
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
-</picture>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+<div align="center">
+
+[![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![matrix - datapacks matrix - jodeks datapacks matrix](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![armor stand arms minecraft datapack github issues](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Issues.png)](https://github.com/jodeks-datapacks/Armor-Stand-Arms/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek donation datapacks minecraft](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Sponsor_Pink.png)](https://github.com/sponsors/Jodekq)
+
+</div>
 
 ## Features
 **1.** Adds a head for every mob and mob variant in the game
@@ -27,9 +26,11 @@ Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or cr
 
 **5.** [Easy to use config for drop rates and rarities](#to-change-drop-rates-rarities-and-drop-messages:~:text=To%20change%20drop%20rates%2C%20rarities%20and%20drop%20messages)
 
-**6.** [1.21.6+] Get heads with `/trigger get_mob_head`
+**6.** [1.21.9+] Get heads with `/trigger get_mob_head`
 
 **7.** [1.21.5+] Advancement collection to see what heads you've collected (updates when you pick up a head) 
+
+**8.** Fully translated with my [Jodeks translations](https://modrinth.com/resourcepack/jodeks-translations) Resourecpack (German, French, Spanish, Japan, Chinese, Russian)
 
 **Looting doesn't affect the drop rates**
 
@@ -39,9 +40,7 @@ Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or cr
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xsZPlTAnR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Config [1.21.6+]
-
-### [1.21.6+] You can edit drop rates, rarities and drop massages ingame****
+## Config
 
 Run ingame: 
 
@@ -57,7 +56,7 @@ Run ingame:
 
 Head to: `MobHeads/data/mobheads/function/config`
 
-and then edit the specific folder (drop _rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
+and then edit the specific file (drop _rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
 
 don't forget to save the file and run /reload afterwards
 
@@ -75,84 +74,88 @@ don't forget to save the file and run /reload afterwards
 | 8     | Bogged                                          | 1%            |
 | 9     | Breeze                                          | 1%            |
 | 10    | Camel                                           | 2%            |
-| 11    | Cat                                             | 2%            |
-| 12    | Cave Spider                                     | 0.5%          |
-| 13    | Chicken                                         | 0.1%          |
-| 14    | Cod                                             | 0.1%          |
-| 15    | Copper Golem                                    | 0.5%          |
-| 16    | Cow                                             | 0.1%          |
-| 17    | Creaking                                        | 0.1%          |
-| 18    | Creeper                                         | 0.1%          |
-| 19    | Charged Creeper                                 | 2%            |
-| 20    | Dolphin                                         | 1%            |
-| 21    | Donkey                                          | 1%            |
-| 22    | Drowned                                         | 0.1%          |
-| 23    | Elder Guardian                                  | 5%            |
-| 24    | Ender Dragon                                    | 5%            |
-| 25    | Enderman                                        | 0.1%          |
-| 26    | Endermite                                       | 1%            |
-| 27    | Evoker                                          | 1%            |
-| 28    | Fox                                             | 1%            |
-| 29    | Frog                                            | 1%            |
-| 30    | Ghast                                           | 0.5%          |
-| 31    | Glow Squid                                      | 1%            |
-| 32    | Goat                                            | 1%            |
-| 33    | Guardian                                        | 0.1%          |
-| 34    | Happy Ghast                                     | 1%            |
-| 35    | Hoglin                                          | 0.5%          |
-| 36    | Horse                                           | 1%            |
-| 37    | Husk                                            | 0.5%          |
-| 38    | Illusioner                                      | 0.5%          |
-| 39    | Iron Golem                                      | 0.5%          |
-| 40    | Llama                                           | 1%            |
-| 41    | Magma Cube                                      | 1%            |
-| 42    | Mooshroom                                       | 1%            |
-| 43    | Brown Mooshroom                                 | 2%            |
-| 44    | Mule                                            | 1%            |
-| 45    | Ozelot                                          | 1%            |
-| 46    | Normal & Weak Panda                             | 1%            |
-| 47    | Lazy, Brown, Playful, Aggressive, Worried Panda | 2%            |
-| 48    | Parrot                                          | 1%            |
-| 49    | Phantom                                         | 0.5%          |
-| 50    | Pig                                             | 0.1%          |
-| 51    | Pilgin Brute                                    | 2%            |
-| 52    | Piglin                                          | 0.5%          |
-| 53    | Pillager                                        | 0.1%          |
-| 54    | Polar Bear                                      | 1%            |
-| 55    | Pufferfish                                      | 1%            |
-| 56    | Rabbit                                          | 1%            |
-| 57    | Ravager                                         | 1%            |
-| 58    | Salmon                                          | 0.5%          |
-| 59    | Sheep                                           | 0.1%          |
-| 60    | Shulker                                         | 1%            |
-| 61    | Silverfish                                      | 0.1%          |
-| 62    | Skeleton Horse                                  | 2%            |
-| 63    | Skeleton                                        | 0.1%          |
-| 64    | Slime                                           | 0.1%          |
-| 65    | Sniffer                                         | 1%            |
-| 66    | Snow Golem                                      | 0.1%          |
-| 67    | Spider                                          | 0.1%          |
-| 68    | Squid                                           | 0.5%          |
-| 69    | Stray                                           | 0.5%          |
-| 70    | Strider                                         | 1%            |
-| 71    | Tadpole                                         | 1%            |
-| 72    | Trader Llama                                    | 0.5%          |
-| 73    | Tropical Fish                                   | 1%            |
-| 74    | Turtle                                          | 1%            |
-| 75    | Vex                                             | 1%            |
-| 76    | Villager                                        | 1%            |
-| 77    | Vindicator                                      | 0.5%          |
-| 78    | Wandering Trader                                | 1%            |
-| 79    | Warden                                          | 5%            |
-| 80    | Witch                                           | 0.1%          |
-| 81    | Wither                                          | 5%            |
-| 82    | Special Wither Skull                            | 1%            |
-| 83    | Wolf                                            | 1%            |
-| 84    | Zoglin                                          | 1%            |
-| 85    | Zombie Horse                                    | 1%            |
-| 86    | Zombie Villager                                 | 3%            |
-| 87    | Zombie                                          | 0.1%          |
-| 88    | Zombified Piglin                                | 0.1%          |
+| 11    | Camel Husk                                      | 3%            |
+| 12    | Cat                                             | 2%            |
+| 13    | Cave Spider                                     | 0.5%          |
+| 14    | Chicken                                         | 0.1%          |
+| 15    | Cod                                             | 0.1%          |
+| 16    | Copper Golem                                    | 0.5%          |
+| 17    | Cow                                             | 0.1%          |
+| 18    | Creaking                                        | 0.1%          |
+| 19    | Creeper                                         | 0.1%          |
+| 20    | Charged Creeper                                 | 2%            |
+| 21    | Dolphin                                         | 1%            |
+| 22    | Donkey                                          | 1%            |
+| 23    | Drowned                                         | 0.1%          |
+| 24    | Elder Guardian                                  | 5%            |
+| 25    | Ender Dragon                                    | 5%            |
+| 26    | Enderman                                        | 0.1%          |
+| 27    | Endermite                                       | 1%            |
+| 28    | Evoker                                          | 1%            |
+| 29    | Fox                                             | 1%            |
+| 30    | Frog                                            | 1%            |
+| 31    | Ghast                                           | 0.5%          |
+| 32    | Glow Squid                                      | 1%            |
+| 33    | Goat                                            | 1%            |
+| 34    | Guardian                                        | 0.1%          |
+| 35    | Happy Ghast                                     | 1%            |
+| 36    | Hoglin                                          | 0.5%          |
+| 37    | Horse                                           | 1%            |
+| 38    | Husk                                            | 0.5%          |
+| 39    | Illusioner                                      | 0.5%          |
+| 40    | Iron Golem                                      | 0.5%          |
+| 41    | Llama                                           | 1%            |
+| 42    | Magma Cube                                      | 1%            |
+| 43    | Mooshroom                                       | 1%            |
+| 44    | Brown Mooshroom                                 | 2%            |
+| 45    | Mule                                            | 1%            |
+| 46    | Nautilus                                        | 1%            |
+| 47    | Ozelot                                          | 1%            |
+| 48    | Normal & Weak Panda                             | 1%            |
+| 49    | Lazy, Brown, Playful, Aggressive, Worried Panda | 2%            |
+| 50    | Parched                                         | 1%            |
+| 51    | Parrot                                          | 1%            |
+| 52    | Phantom                                         | 0.5%          |
+| 53    | Pig                                             | 0.1%          |
+| 54    | Pilgin Brute                                    | 2%            |
+| 55    | Piglin                                          | 0.5%          |
+| 56    | Pillager                                        | 0.1%          |
+| 57    | Polar Bear                                      | 1%            |
+| 58    | Pufferfish                                      | 1%            |
+| 59    | Rabbit                                          | 1%            |
+| 60    | Ravager                                         | 1%            |
+| 61    | Salmon                                          | 0.5%          |
+| 62    | Sheep                                           | 0.1%          |
+| 63    | Shulker                                         | 1%            |
+| 64    | Silverfish                                      | 0.1%          |
+| 65    | Skeleton Horse                                  | 2%            |
+| 66    | Skeleton                                        | 0.1%          |
+| 67    | Slime                                           | 0.1%          |
+| 68    | Sniffer                                         | 1%            |
+| 69    | Snow Golem                                      | 0.1%          |
+| 70    | Spider                                          | 0.1%          |
+| 71    | Squid                                           | 0.5%          |
+| 72    | Stray                                           | 0.5%          |
+| 73    | Strider                                         | 1%            |
+| 74    | Tadpole                                         | 1%            |
+| 75    | Trader Llama                                    | 0.5%          |
+| 76    | Tropical Fish                                   | 1%            |
+| 77    | Turtle                                          | 1%            |
+| 78    | Vex                                             | 1%            |
+| 79    | Villager                                        | 1%            |
+| 80    | Vindicator                                      | 0.5%          |
+| 81    | Wandering Trader                                | 1%            |
+| 82    | Warden                                          | 5%            |
+| 83    | Witch                                           | 0.1%          |
+| 84    | Wither                                          | 5%            |
+| 85    | Special Wither Skull                            | 1%            |
+| 86    | Wolf                                            | 1%            |
+| 87    | Zoglin                                          | 1%            |
+| 88    | Zombie Horse                                    | 1%            |
+| 89    | Zombie Nautilus                                 | 1%            |
+| 90    | Zombie Villager                                 | 3%            |
+| 91    | Zombie                                          | 0.1%          |
+| 92    | Zombified Piglin                                | 0.1%          |
 
 ## Guides
 
@@ -500,4 +503,3 @@ _in there, look for "conditions" and the condition "random_chance" and change th
 [Keep Head Names Mod](https://modrinth.com/mod/keepheadnames)
 
 This bug is fixed in 1.20.5
-
