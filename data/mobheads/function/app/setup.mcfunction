@@ -25,3 +25,4 @@ scoreboard objectives add jodek.loaded dummy
 scoreboard players set &mobheads jodek.loaded 1
 
 function mobheads:config/set_default
+schedule function mobheads:config/set_dependencies 2s

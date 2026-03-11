@@ -1,127 +1,127 @@
-execute unless score &drop_notification mobheads.config = &drop_notification mobheads.config run data modify storage mobheads:root drop_notification set value 1
+execute unless data storage mobheads:root drop_notification run data modify storage mobheads:root drop_notification set value 1
 data modify storage mobheads:root dialog_drop_notification set value "$(dialog_drop_notification)"
 execute unless score &drop_notification mobheads.config = &drop_notification mobheads.config run scoreboard players set &drop_notification mobheads.config 1
 
 # 1 = player, 0 = charged creeper
-execute unless score &killed_by_player mobheads.config = &killed_by_player mobheads.config run data modify storage mobheads:root killed_by_player_initial set value 1
-execute unless score &killed_by_player mobheads.config = &killed_by_player mobheads.config run data modify storage mobheads:root killed_by_charged_creeper_initial set value 0
+execute unless data storage mobheads:root killed_by_player_initial run data modify storage mobheads:root killed_by_player_initial set value 1
+execute unless data storage mobheads:root killed_by_charged_creeper_initial run data modify storage mobheads:root killed_by_charged_creeper_initial set value 0
 data modify storage mobheads:root dialog_killed_by set value "$(dialog_killed_by)"
 execute unless score &killed_by_player mobheads.config = &killed_by_player mobheads.config run scoreboard players set &killed_by_player mobheads.config 1
 
 # Drop notification individual settings
   # Drop notification storage
-    execute unless score &allay mobheads.drop_notification = &allay mobheads.drop_notification run data modify storage mobheads:root drop_notification_allay set value 1
-    execute unless score &armadillo mobheads.drop_notification = &armadillo mobheads.drop_notification run data modify storage mobheads:root drop_notification_armadillo set value 1
-    execute unless score &axolotl mobheads.drop_notification = &axolotl mobheads.drop_notification run data modify storage mobheads:root drop_notification_axolotl set value 1
+    execute unless data storage mobheads:root drop_notification_allay run data modify storage mobheads:root drop_notification_allay set value 1
+    execute unless data storage mobheads:root drop_notification_armadillo run data modify storage mobheads:root drop_notification_armadillo set value 1
+    execute unless data storage mobheads:root drop_notification_axolotl run data modify storage mobheads:root drop_notification_axolotl set value 1
 
-    execute unless score &bat mobheads.drop_notification = &bat mobheads.drop_notification run data modify storage mobheads:root drop_notification_bat set value 1
-    execute unless score &bee mobheads.drop_notification = &bee mobheads.drop_notification run data modify storage mobheads:root drop_notification_bee set value 1
-    execute unless score &blaze mobheads.drop_notification = &blaze mobheads.drop_notification run data modify storage mobheads:root drop_notification_blaze set value 1
-    execute unless score &bogged mobheads.drop_notification = &bogged mobheads.drop_notification run data modify storage mobheads:root drop_notification_bogged set value 1
-    execute unless score &breeze mobheads.drop_notification = &breeze mobheads.drop_notification run data modify storage mobheads:root drop_notification_breeze set value 1
+    execute unless data storage mobheads:root drop_notification_bat run data modify storage mobheads:root drop_notification_bat set value 1
+    execute unless data storage mobheads:root drop_notification_bee run data modify storage mobheads:root drop_notification_bee set value 1
+    execute unless data storage mobheads:root drop_notification_blaze run data modify storage mobheads:root drop_notification_blaze set value 1
+    execute unless data storage mobheads:root drop_notification_bogged run data modify storage mobheads:root drop_notification_bogged set value 1
+    execute unless data storage mobheads:root drop_notification_breeze run data modify storage mobheads:root drop_notification_breeze set value 1
 
-    execute unless score &camel mobheads.drop_notification = &camel mobheads.drop_notification run data modify storage mobheads:root drop_notification_camel set value 1
-    execute unless score &cat mobheads.drop_notification = &cat mobheads.drop_notification run data modify storage mobheads:root drop_notification_cat set value 1
-    execute unless score &cave_spider mobheads.drop_notification = &cave_spider mobheads.drop_notification run data modify storage mobheads:root drop_notification_cave_spider set value 1
-    execute unless score &chicken mobheads.drop_notification = &chicken mobheads.drop_notification run data modify storage mobheads:root drop_notification_chicken set value 1
-    execute unless score &cod mobheads.drop_notification = &cod mobheads.drop_notification run data modify storage mobheads:root drop_notification_cod set value 1
-    execute unless score &cow mobheads.drop_notification = &cow mobheads.drop_notification run data modify storage mobheads:root drop_notification_cow set value 1
-    execute unless score &creaking mobheads.drop_notification = &creaking mobheads.drop_notification run data modify storage mobheads:root drop_notification_creaking set value 1
-    execute unless score &creeper mobheads.drop_notification = &creeper mobheads.drop_notification run data modify storage mobheads:root drop_notification_creeper set value 1
+    execute unless data storage mobheads:root drop_notification_camel run data modify storage mobheads:root drop_notification_camel set value 1
+    execute unless data storage mobheads:root drop_notification_cat run data modify storage mobheads:root drop_notification_cat set value 1
+    execute unless data storage mobheads:root drop_notification_cave_spider run data modify storage mobheads:root drop_notification_cave_spider set value 1
+    execute unless data storage mobheads:root drop_notification_chicken run data modify storage mobheads:root drop_notification_chicken set value 1
+    execute unless data storage mobheads:root drop_notification_cod run data modify storage mobheads:root drop_notification_cod set value 1
+    execute unless data storage mobheads:root drop_notification_cow run data modify storage mobheads:root drop_notification_cow set value 1
+    execute unless data storage mobheads:root drop_notification_creaking run data modify storage mobheads:root drop_notification_creaking set value 1
+    execute unless data storage mobheads:root drop_notification_creeper run data modify storage mobheads:root drop_notification_creeper set value 1
 
-    execute unless score &dolphin mobheads.drop_notification = &dolphin mobheads.drop_notification run data modify storage mobheads:root drop_notification_dolphin set value 1
-    execute unless score &donkey mobheads.drop_notification = &donkey mobheads.drop_notification run data modify storage mobheads:root drop_notification_donkey set value 1
-    execute unless score &drowned mobheads.drop_notification = &drowned mobheads.drop_notification run data modify storage mobheads:root drop_notification_drowned set value 1
+    execute unless data storage mobheads:root drop_notification_dolphin run data modify storage mobheads:root drop_notification_dolphin set value 1
+    execute unless data storage mobheads:root drop_notification_donkey run data modify storage mobheads:root drop_notification_donkey set value 1
+    execute unless data storage mobheads:root drop_notification_drowned run data modify storage mobheads:root drop_notification_drowned set value 1
 
-    execute unless score &elder_guardian mobheads.drop_notification = &elder_guardian mobheads.drop_notification run data modify storage mobheads:root drop_notification_elder_guardian set value 1
-    execute unless score &ender_dragon mobheads.drop_notification = &ender_dragon mobheads.drop_notification run data modify storage mobheads:root drop_notification_ender_dragon set value 1
-    execute unless score &enderman mobheads.drop_notification = &enderman mobheads.drop_notification run data modify storage mobheads:root drop_notification_enderman set value 1
-    execute unless score &endermite mobheads.drop_notification = &endermite mobheads.drop_notification run data modify storage mobheads:root drop_notification_endermite set value 1
-    execute unless score &evoker mobheads.drop_notification = &evoker mobheads.drop_notification run data modify storage mobheads:root drop_notification_evoker set value 1
+    execute unless data storage mobheads:root drop_notification_elder_guardian run data modify storage mobheads:root drop_notification_elder_guardian set value 1
+    execute unless data storage mobheads:root drop_notification_ender_dragon run data modify storage mobheads:root drop_notification_ender_dragon set value 1
+    execute unless data storage mobheads:root drop_notification_enderman run data modify storage mobheads:root drop_notification_enderman set value 1
+    execute unless data storage mobheads:root drop_notification_endermite run data modify storage mobheads:root drop_notification_endermite set value 1
+    execute unless data storage mobheads:root drop_notification_evoker run data modify storage mobheads:root drop_notification_evoker set value 1
 
-    execute unless score &fox mobheads.drop_notification = &fox mobheads.drop_notification run data modify storage mobheads:root drop_notification_fox set value 1
-    execute unless score &frog mobheads.drop_notification = &frog mobheads.drop_notification run data modify storage mobheads:root drop_notification_frog set value 1
+    execute unless data storage mobheads:root drop_notification_fox run data modify storage mobheads:root drop_notification_fox set value 1
+    execute unless data storage mobheads:root drop_notification_frog run data modify storage mobheads:root drop_notification_frog set value 1
 
-    execute unless score &ghast mobheads.drop_notification = &ghast mobheads.drop_notification run data modify storage mobheads:root drop_notification_ghast set value 1
-    execute unless score &glow_squid mobheads.drop_notification = &glow_squid mobheads.drop_notification run data modify storage mobheads:root drop_notification_glow_squid set value 1
-    execute unless score &goat mobheads.drop_notification = &goat mobheads.drop_notification run data modify storage mobheads:root drop_notification_goat set value 1
-    execute unless score &guardian mobheads.drop_notification = &guardian mobheads.drop_notification run data modify storage mobheads:root drop_notification_guardian set value 1
+    execute unless data storage mobheads:root drop_notification_ghast run data modify storage mobheads:root drop_notification_ghast set value 1
+    execute unless data storage mobheads:root drop_notification_glow_squid run data modify storage mobheads:root drop_notification_glow_squid set value 1
+    execute unless data storage mobheads:root drop_notification_goat run data modify storage mobheads:root drop_notification_goat set value 1
+    execute unless data storage mobheads:root drop_notification_guardian run data modify storage mobheads:root drop_notification_guardian set value 1
 
-    execute unless score &happy_ghast mobheads.drop_notification = &happy_ghast mobheads.drop_notification run data modify storage mobheads:root drop_notification_happy_ghast set value 1
-    execute unless score &hoglin mobheads.drop_notification = &hoglin mobheads.drop_notification run data modify storage mobheads:root drop_notification_hoglin set value 1
-    execute unless score &horse mobheads.drop_notification = &horse mobheads.drop_notification run data modify storage mobheads:root drop_notification_horse set value 1
-    execute unless score &husk mobheads.drop_notification = &husk mobheads.drop_notification run data modify storage mobheads:root drop_notification_husk set value 1
+    execute unless data storage mobheads:root drop_notification_happy_ghast run data modify storage mobheads:root drop_notification_happy_ghast set value 1
+    execute unless data storage mobheads:root drop_notification_hoglin run data modify storage mobheads:root drop_notification_hoglin set value 1
+    execute unless data storage mobheads:root drop_notification_horse run data modify storage mobheads:root drop_notification_horse set value 1
+    execute unless data storage mobheads:root drop_notification_husk run data modify storage mobheads:root drop_notification_husk set value 1
 
-    execute unless score &illusioner mobheads.drop_notification = &illusioner mobheads.drop_notification run data modify storage mobheads:root drop_notification_illusioner set value 1
-    execute unless score &iron_golem mobheads.drop_notification = &iron_golem mobheads.drop_notification run data modify storage mobheads:root drop_notification_iron_golem set value 1
+    execute unless data storage mobheads:root drop_notification_illusioner run data modify storage mobheads:root drop_notification_illusioner set value 1
+    execute unless data storage mobheads:root drop_notification_iron_golem run data modify storage mobheads:root drop_notification_iron_golem set value 1
 
-    execute unless score &llama mobheads.drop_notification = &llama mobheads.drop_notification run data modify storage mobheads:root drop_notification_llama set value 1
+    execute unless data storage mobheads:root drop_notification_llama run data modify storage mobheads:root drop_notification_llama set value 1
 
-    execute unless score &magma_cube mobheads.drop_notification = &magma_cube mobheads.drop_notification run data modify storage mobheads:root drop_notification_magma_cube set value 1
-    execute unless score &mooshroom mobheads.drop_notification = &mooshroom mobheads.drop_notification run data modify storage mobheads:root drop_notification_mooshroom set value 1
-    execute unless score &mooshroom_brown mobheads.drop_notification = &mooshroom_brown mobheads.drop_notification run data modify storage mobheads:root drop_notification_mooshroom_brown set value 1
-    execute unless score &mule mobheads.drop_notification = &mule mobheads.drop_notification run data modify storage mobheads:root drop_notification_mule set value 1
+    execute unless data storage mobheads:root drop_notification_magma_cube run data modify storage mobheads:root drop_notification_magma_cube set value 1
+    execute unless data storage mobheads:root drop_notification_mooshroom run data modify storage mobheads:root drop_notification_mooshroom set value 1
+    execute unless data storage mobheads:root drop_notification_mooshroom_brown run data modify storage mobheads:root drop_notification_mooshroom_brown set value 1
+    execute unless data storage mobheads:root drop_notification_mule run data modify storage mobheads:root drop_notification_mule set value 1
 
-    execute unless score &ocelot mobheads.drop_notification = &ocelot mobheads.drop_notification run data modify storage mobheads:root drop_notification_ocelot set value 1
+    execute unless data storage mobheads:root drop_notification_ocelot run data modify storage mobheads:root drop_notification_ocelot set value 1
 
-    execute unless score &panda mobheads.drop_notification = &panda mobheads.drop_notification run data modify storage mobheads:root drop_notification_panda set value 1
-    execute unless score &parrot mobheads.drop_notification = &parrot mobheads.drop_notification run data modify storage mobheads:root drop_notification_parrot set value 1
-    execute unless score &phantom mobheads.drop_notification = &phantom mobheads.drop_notification run data modify storage mobheads:root drop_notification_phantom set value 1
+    execute unless data storage mobheads:root drop_notification_panda run data modify storage mobheads:root drop_notification_panda set value 1
+    execute unless data storage mobheads:root drop_notification_parrot run data modify storage mobheads:root drop_notification_parrot set value 1
+    execute unless data storage mobheads:root drop_notification_phantom run data modify storage mobheads:root drop_notification_phantom set value 1
 
-    execute unless score &pig mobheads.drop_notification = &pig mobheads.drop_notification run data modify storage mobheads:root drop_notification_pig set value 1
-    execute unless score &piglin_brute mobheads.drop_notification = &piglin_brute mobheads.drop_notification run data modify storage mobheads:root drop_notification_piglin_brute set value 1
-    execute unless score &piglin mobheads.drop_notification = &piglin mobheads.drop_notification run data modify storage mobheads:root drop_notification_piglin set value 1
-    execute unless score &pillager mobheads.drop_notification = &pillager mobheads.drop_notification run data modify storage mobheads:root drop_notification_pillager set value 1
-    execute unless score &polar_bear mobheads.drop_notification = &polar_bear mobheads.drop_notification run data modify storage mobheads:root drop_notification_polar_bear set value 1
-    execute unless score &pufferfish mobheads.drop_notification = &pufferfish mobheads.drop_notification run data modify storage mobheads:root drop_notification_pufferfish set value 1
+    execute unless data storage mobheads:root drop_notification_pig run data modify storage mobheads:root drop_notification_pig set value 1
+    execute unless data storage mobheads:root drop_notification_piglin_brute run data modify storage mobheads:root drop_notification_piglin_brute set value 1
+    execute unless data storage mobheads:root drop_notification_piglin run data modify storage mobheads:root drop_notification_piglin set value 1
+    execute unless data storage mobheads:root drop_notification_pillager run data modify storage mobheads:root drop_notification_pillager set value 1
+    execute unless data storage mobheads:root drop_notification_polar_bear run data modify storage mobheads:root drop_notification_polar_bear set value 1
+    execute unless data storage mobheads:root drop_notification_pufferfish run data modify storage mobheads:root drop_notification_pufferfish set value 1
 
-    execute unless score &rabbit mobheads.drop_notification = &rabbit mobheads.drop_notification run data modify storage mobheads:root drop_notification_rabbit set value 1
-    execute unless score &ravager mobheads.drop_notification = &ravager mobheads.drop_notification run data modify storage mobheads:root drop_notification_ravager set value 1
+    execute unless data storage mobheads:root drop_notification_rabbit run data modify storage mobheads:root drop_notification_rabbit set value 1
+    execute unless data storage mobheads:root drop_notification_ravager run data modify storage mobheads:root drop_notification_ravager set value 1
 
-    execute unless score &salmon mobheads.drop_notification = &salmon mobheads.drop_notification run data modify storage mobheads:root drop_notification_salmon set value 1
-    execute unless score &sheep mobheads.drop_notification = &sheep mobheads.drop_notification run data modify storage mobheads:root drop_notification_sheep set value 1
-    execute unless score &shulker mobheads.drop_notification = &shulker mobheads.drop_notification run data modify storage mobheads:root drop_notification_shulker set value 1
-    execute unless score &silverfish mobheads.drop_notification = &silverfish mobheads.drop_notification run data modify storage mobheads:root drop_notification_silverfish set value 1
-    execute unless score &skeleton_horse mobheads.drop_notification = &skeleton_horse mobheads.drop_notification run data modify storage mobheads:root drop_notification_skeleton_horse set value 1
-    execute unless score &skeleton mobheads.drop_notification = &skeleton mobheads.drop_notification run data modify storage mobheads:root drop_notification_skeleton set value 1
-    execute unless score &slime mobheads.drop_notification = &slime mobheads.drop_notification run data modify storage mobheads:root drop_notification_slime set value 1
-    execute unless score &sniffer mobheads.drop_notification = &sniffer mobheads.drop_notification run data modify storage mobheads:root drop_notification_sniffer set value 1
-    execute unless score &snow_golem mobheads.drop_notification = &snow_golem mobheads.drop_notification run data modify storage mobheads:root drop_notification_snow_golem set value 1
-    execute unless score &spider mobheads.drop_notification = &spider mobheads.drop_notification run data modify storage mobheads:root drop_notification_spider set value 1
-    execute unless score &squid mobheads.drop_notification = &squid mobheads.drop_notification run data modify storage mobheads:root drop_notification_squid set value 1
-    execute unless score &stray mobheads.drop_notification = &stray mobheads.drop_notification run data modify storage mobheads:root drop_notification_stray set value 1
-    execute unless score &strider mobheads.drop_notification = &strider mobheads.drop_notification run data modify storage mobheads:root drop_notification_strider set value 1
+    execute unless data storage mobheads:root drop_notification_salmon run data modify storage mobheads:root drop_notification_salmon set value 1
+    execute unless data storage mobheads:root drop_notification_sheep run data modify storage mobheads:root drop_notification_sheep set value 1
+    execute unless data storage mobheads:root drop_notification_shulker run data modify storage mobheads:root drop_notification_shulker set value 1
+    execute unless data storage mobheads:root drop_notification_silverfish run data modify storage mobheads:root drop_notification_silverfish set value 1
+    execute unless data storage mobheads:root drop_notification_skeleton_horse run data modify storage mobheads:root drop_notification_skeleton_horse set value 1
+    execute unless data storage mobheads:root drop_notification_skeleton run data modify storage mobheads:root drop_notification_skeleton set value 1
+    execute unless data storage mobheads:root drop_notification_slime run data modify storage mobheads:root drop_notification_slime set value 1
+    execute unless data storage mobheads:root drop_notification_sniffer run data modify storage mobheads:root drop_notification_sniffer set value 1
+    execute unless data storage mobheads:root drop_notification_snow_golem run data modify storage mobheads:root drop_notification_snow_golem set value 1
+    execute unless data storage mobheads:root drop_notification_spider run data modify storage mobheads:root drop_notification_spider set value 1
+    execute unless data storage mobheads:root drop_notification_squid run data modify storage mobheads:root drop_notification_squid set value 1
+    execute unless data storage mobheads:root drop_notification_stray run data modify storage mobheads:root drop_notification_stray set value 1
+    execute unless data storage mobheads:root drop_notification_strider run data modify storage mobheads:root drop_notification_strider set value 1
 
-    execute unless score &tadpole mobheads.drop_notification = &tadpole mobheads.drop_notification run data modify storage mobheads:root drop_notification_tadpole set value 1
-    execute unless score &trader_llama mobheads.drop_notification = &trader_llama mobheads.drop_notification run data modify storage mobheads:root drop_notification_trader_llama set value 1
-    execute unless score &tropical_fish mobheads.drop_notification = &tropical_fish mobheads.drop_notification run data modify storage mobheads:root drop_notification_tropical_fish set value 1
+    execute unless data storage mobheads:root drop_notification_tadpole run data modify storage mobheads:root drop_notification_tadpole set value 1
+    execute unless data storage mobheads:root drop_notification_trader_llama run data modify storage mobheads:root drop_notification_trader_llama set value 1
+    execute unless data storage mobheads:root drop_notification_tropical_fish run data modify storage mobheads:root drop_notification_tropical_fish set value 1
 
-    execute unless score &turtle mobheads.drop_notification = &turtle mobheads.drop_notification run data modify storage mobheads:root drop_notification_turtle set value 1
+    execute unless data storage mobheads:root drop_notification_turtle run data modify storage mobheads:root drop_notification_turtle set value 1
 
-    execute unless score &vex mobheads.drop_notification = &vex mobheads.drop_notification run data modify storage mobheads:root drop_notification_vex set value 1
-    execute unless score &villager mobheads.drop_notification = &villager mobheads.drop_notification run data modify storage mobheads:root drop_notification_villager set value 1
-    execute unless score &vindicator mobheads.drop_notification = &vindicator mobheads.drop_notification run data modify storage mobheads:root drop_notification_vindicator set value 1
+    execute unless data storage mobheads:root drop_notification_vex run data modify storage mobheads:root drop_notification_vex set value 1
+    execute unless data storage mobheads:root drop_notification_villager run data modify storage mobheads:root drop_notification_villager set value 1
+    execute unless data storage mobheads:root drop_notification_vindicator run data modify storage mobheads:root drop_notification_vindicator set value 1
 
-    execute unless score &wandering_trader mobheads.drop_notification = &wandering_trader mobheads.drop_notification run data modify storage mobheads:root drop_notification_wandering_trader set value 1
-    execute unless score &warden mobheads.drop_notification = &warden mobheads.drop_notification run data modify storage mobheads:root drop_notification_warden set value 1
-    execute unless score &witch mobheads.drop_notification = &witch mobheads.drop_notification run data modify storage mobheads:root drop_notification_witch set value 1
-    execute unless score &wither mobheads.drop_notification = &wither mobheads.drop_notification run data modify storage mobheads:root drop_notification_wither set value 1
-    execute unless score &wither_skeleton mobheads.drop_notification = &wither_skeleton mobheads.drop_notification run data modify storage mobheads:root drop_notification_wither_skeleton set value 1
-    execute unless score &wither_invulnerable mobheads.drop_notification = &wither_invulnerable mobheads.drop_notification run data modify storage mobheads:root drop_notification_wither_invulnerable set value 1
-    execute unless score &wolf mobheads.drop_notification = &wolf mobheads.drop_notification run data modify storage mobheads:root drop_notification_wolf set value 1
+    execute unless data storage mobheads:root drop_notification_wandering_trader run data modify storage mobheads:root drop_notification_wandering_trader set value 1
+    execute unless data storage mobheads:root drop_notification_warden run data modify storage mobheads:root drop_notification_warden set value 1
+    execute unless data storage mobheads:root drop_notification_witch run data modify storage mobheads:root drop_notification_witch set value 1
+    execute unless data storage mobheads:root drop_notification_wither run data modify storage mobheads:root drop_notification_wither set value 1
+    execute unless data storage mobheads:root drop_notification_wither_skeleton run data modify storage mobheads:root drop_notification_wither_skeleton set value 1
+    execute unless data storage mobheads:root drop_notification_wither_invulnerable run data modify storage mobheads:root drop_notification_wither_invulnerable set value 1
+    execute unless data storage mobheads:root drop_notification_wolf run data modify storage mobheads:root drop_notification_wolf set value 1
 
-    execute unless score &zoglin mobheads.drop_notification = &zoglin mobheads.drop_notification run data modify storage mobheads:root drop_notification_zoglin set value 1
-    execute unless score &zombie_horse mobheads.drop_notification = &zombie_horse mobheads.drop_notification run data modify storage mobheads:root drop_notification_zombie_horse set value 1
-    execute unless score &zombie_villager mobheads.drop_notification = &zombie_villager mobheads.drop_notification run data modify storage mobheads:root drop_notification_zombie_villager set value 1
-    execute unless score &zombie mobheads.drop_notification = &zombie mobheads.drop_notification run data modify storage mobheads:root drop_notification_zombie set value 1
-    execute unless score &zombified_piglin mobheads.drop_notification = &zombified_piglin mobheads.drop_notification run data modify storage mobheads:root drop_notification_zombified_piglin set value 1
+    execute unless data storage mobheads:root drop_notification_zoglin run data modify storage mobheads:root drop_notification_zoglin set value 1
+    execute unless data storage mobheads:root drop_notification_zombie_horse run data modify storage mobheads:root drop_notification_zombie_horse set value 1
+    execute unless data storage mobheads:root drop_notification_zombie_villager run data modify storage mobheads:root drop_notification_zombie_villager set value 1
+    execute unless data storage mobheads:root drop_notification_zombie run data modify storage mobheads:root drop_notification_zombie set value 1
+    execute unless data storage mobheads:root drop_notification_zombified_piglin run data modify storage mobheads:root drop_notification_zombified_piglin set value 1
 
   # Updates
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root drop_notification_copper_golem set value 1
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root drop_notification_nautilus set value 1
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root drop_notification_parched set value 1
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root drop_notification_zombie_nautilus set value 1
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root drop_notification_camel_husk set value 1
+    execute unless data storage mobheads:root drop_notification_copper_golem run data modify storage mobheads:root drop_notification_copper_golem set value 1
+    execute unless data storage mobheads:root drop_notification_nautilus run data modify storage mobheads:root drop_notification_nautilus set value 1
+    execute unless data storage mobheads:root drop_notification_parched run data modify storage mobheads:root drop_notification_parched set value 1
+    execute unless data storage mobheads:root drop_notification_zombie_nautilus run data modify storage mobheads:root drop_notification_zombie_nautilus set value 1
+    execute unless data storage mobheads:root drop_notification_camel_husk run data modify storage mobheads:root drop_notification_camel_husk set value 1
 
   # Drop notification scoreboard
     execute unless score &allay mobheads.drop_notification = &allay mobheads.drop_notification run scoreboard players set &allay mobheads.drop_notification 1
@@ -231,11 +231,11 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     execute unless score &zombified_piglin mobheads.drop_notification = &zombified_piglin mobheads.drop_notification run scoreboard players set &zombified_piglin mobheads.drop_notification 1
 
   # Updates
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run scoreboard players set &copper_golem mobheads.drop_notification 1
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run scoreboard players set &nautilus mobheads.drop_notification 1
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run scoreboard players set &parched mobheads.drop_notification 1
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run scoreboard players set &zombie_nautilus mobheads.drop_notification 1
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run scoreboard players set &camel_husk mobheads.drop_notification 1
+    execute unless score &copper_golem mobheads.drop_notification = &copper_golem mobheads.drop_notification run scoreboard players set &copper_golem mobheads.drop_notification 1
+    execute unless score &nautilus mobheads.drop_notification = &nautilus mobheads.drop_notification run scoreboard players set &nautilus mobheads.drop_notification 1
+    execute unless score &parched mobheads.drop_notification = &parched mobheads.drop_notification run scoreboard players set &parched mobheads.drop_notification 1
+    execute unless score &zombie_nautilus mobheads.drop_notification = &zombie_nautilus mobheads.drop_notification run scoreboard players set &zombie_nautilus mobheads.drop_notification 1
+    execute unless score &camel_husk mobheads.drop_notification = &camel_husk mobheads.drop_notification run scoreboard players set &camel_husk mobheads.drop_notification 1
 
   # Drop notification dialog
     data modify storage mobheads:root dialog_drop_notification_allay set value "$(dialog_drop_notification_allay)"
@@ -332,28 +332,28 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root dialog_drop_notification_copper_golem set value "$(dialog_drop_notification_copper_golem)"
 
 # Drop rate multiplier
-  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root drop_rate_multiplier set value 1
+  execute unless data storage mobheads:root drop_rate_multiplier run data modify storage mobheads:root drop_rate_multiplier set value 1
   data modify storage mobheads:root dialog_drop_rate_multiplier set value "$(dialog_drop_rate_multiplier)"
 
 # Head drop advancement
-  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root head_drop_advancement set value 2
+  execute unless data storage mobheads:root head_drop_advancement run data modify storage mobheads:root head_drop_advancement set value 2
   data modify storage mobheads:root dialog_head_drop_advancement set value "$(dialog_head_drop_advancement)"
-  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run scoreboard players set &head_drop_advancement mobheads.config 2
+  execute unless score &head_drop_advancement mobheads.config = &head_drop_advancement mobheads.config run scoreboard players set &head_drop_advancement mobheads.config 2
 
 # Drop message 
   # Drop message text
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_1 set value "A %s just dropped its head!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_2 set value "A %s head has been dropped!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_3 set value "A %s lost its head!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_4 set value "Whoa! A %s just lost its head!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_5 set value "A head from %s lies on the ground, lifeless"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_6 set value "Legends say taking the head of %s grants power"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_7 set value "Heads up! A %s lost its head!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_8 set value "Look what we have here - a %s head!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_9 set value "A %s dropped a head!"
-    execute unless score &drop_message mobheads.config = &drop_message mobheads.config run data modify storage mobheads:root drop_message_10 set value "A new %s head has been dropped!"
+    execute unless data storage mobheads:root drop_message_1 run data modify storage mobheads:root drop_message_1 set value "A %s just dropped its head!"
+    execute unless data storage mobheads:root drop_message_2 run data modify storage mobheads:root drop_message_2 set value "A %s head has been dropped!"
+    execute unless data storage mobheads:root drop_message_3 run data modify storage mobheads:root drop_message_3 set value "A %s lost its head!"
+    execute unless data storage mobheads:root drop_message_4 run data modify storage mobheads:root drop_message_4 set value "Whoa! A %s just lost its head!"
+    execute unless data storage mobheads:root drop_message_5 run data modify storage mobheads:root drop_message_5 set value "A head from %s lies on the ground, lifeless"
+    execute unless data storage mobheads:root drop_message_6 run data modify storage mobheads:root drop_message_6 set value "Legends say taking the head of %s grants power"
+    execute unless data storage mobheads:root drop_message_7 run data modify storage mobheads:root drop_message_7 set value "Heads up! A %s lost its head!"
+    execute unless data storage mobheads:root drop_message_8 run data modify storage mobheads:root drop_message_8 set value "Look what we have here - a %s head!"
+    execute unless data storage mobheads:root drop_message_9 run data modify storage mobheads:root drop_message_9 set value "A %s dropped a head!"
+    execute unless data storage mobheads:root drop_message_10 run data modify storage mobheads:root drop_message_10 set value "A new %s head has been dropped!"
 
-  # Drop mnessage dialog
+  # Drop message dialog
     data modify storage mobheads:root dialog_drop_message_1 set value "'$(dialog_drop_message_1)'"
     data modify storage mobheads:root dialog_drop_message_2 set value "'$(dialog_drop_message_2)'"
     data modify storage mobheads:root dialog_drop_message_3 set value "'$(dialog_drop_message_3)'"
@@ -365,236 +365,236 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
     data modify storage mobheads:root dialog_drop_message_9 set value "'$(dialog_drop_message_9)'"
     data modify storage mobheads:root dialog_drop_message_10 set value "'$(dialog_drop_message_10)'"
 
-  execute unless score &allay mobheads.rarity = &allay mobheads.rarity run scoreboard players set &drop_message mobheads.config 1
+  execute unless score &drop_message mobheads.config = &drop_message mobheads.config run scoreboard players set &drop_message mobheads.config 1
 
 # Drop rates
   # Default drop rates
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root allay set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root armadillo set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root axolotl set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root axolotl_blue set value 0.05
+    execute unless data storage mobheads:root allay run data modify storage mobheads:root allay set value 0.01
+    execute unless data storage mobheads:root armadillo run data modify storage mobheads:root armadillo set value 0.01
+    execute unless data storage mobheads:root axolotl run data modify storage mobheads:root axolotl set value 0.01
+    execute unless data storage mobheads:root axolotl_blue run data modify storage mobheads:root axolotl_blue set value 0.05
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root bat set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root bee set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root blaze set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root bogged set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root breeze set value 0.01
+    execute unless data storage mobheads:root bat run data modify storage mobheads:root bat set value 0.01
+    execute unless data storage mobheads:root bee run data modify storage mobheads:root bee set value 0.01
+    execute unless data storage mobheads:root blaze run data modify storage mobheads:root blaze set value 0.005
+    execute unless data storage mobheads:root bogged run data modify storage mobheads:root bogged set value 0.01
+    execute unless data storage mobheads:root breeze run data modify storage mobheads:root breeze set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root camel set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cat set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cave_spider set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root chicken set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cod set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cow set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root creaking set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root creeper set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root creeper_charged set value 0.02
+    execute unless data storage mobheads:root camel run data modify storage mobheads:root camel set value 0.02
+    execute unless data storage mobheads:root cat run data modify storage mobheads:root cat set value 0.02
+    execute unless data storage mobheads:root cave_spider run data modify storage mobheads:root cave_spider set value 0.005
+    execute unless data storage mobheads:root chicken run data modify storage mobheads:root chicken set value 0.001
+    execute unless data storage mobheads:root cod run data modify storage mobheads:root cod set value 0.001
+    execute unless data storage mobheads:root cow run data modify storage mobheads:root cow set value 0.001
+    execute unless data storage mobheads:root creaking run data modify storage mobheads:root creaking set value 0.001
+    execute unless data storage mobheads:root creeper run data modify storage mobheads:root creeper set value 0.001
+    execute unless data storage mobheads:root creeper_charged run data modify storage mobheads:root creeper_charged set value 0.02
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root dolphin set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root donkey set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root drowned set value 0.001
+    execute unless data storage mobheads:root dolphin run data modify storage mobheads:root dolphin set value 0.01
+    execute unless data storage mobheads:root donkey run data modify storage mobheads:root donkey set value 0.01
+    execute unless data storage mobheads:root drowned run data modify storage mobheads:root drowned set value 0.001
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root elder_guardian set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ender_dragon set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root enderman set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root endermite set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root evoker set value 0.01
+    execute unless data storage mobheads:root elder_guardian run data modify storage mobheads:root elder_guardian set value 0.05
+    execute unless data storage mobheads:root ender_dragon run data modify storage mobheads:root ender_dragon set value 0.05
+    execute unless data storage mobheads:root enderman run data modify storage mobheads:root enderman set value 0.001
+    execute unless data storage mobheads:root endermite run data modify storage mobheads:root endermite set value 0.01
+    execute unless data storage mobheads:root evoker run data modify storage mobheads:root evoker set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root fox set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root frog set value 0.01
+    execute unless data storage mobheads:root fox run data modify storage mobheads:root fox set value 0.01
+    execute unless data storage mobheads:root frog run data modify storage mobheads:root frog set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ghast set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root glow_squid set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root goat set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root guardian set value 0.001
+    execute unless data storage mobheads:root ghast run data modify storage mobheads:root ghast set value 0.005
+    execute unless data storage mobheads:root glow_squid run data modify storage mobheads:root glow_squid set value 0.01
+    execute unless data storage mobheads:root goat run data modify storage mobheads:root goat set value 0.01
+    execute unless data storage mobheads:root guardian run data modify storage mobheads:root guardian set value 0.001
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root happy_ghast set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root hoglin set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root horse set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root husk set value 0.005
+    execute unless data storage mobheads:root happy_ghast run data modify storage mobheads:root happy_ghast set value 0.01
+    execute unless data storage mobheads:root hoglin run data modify storage mobheads:root hoglin set value 0.005
+    execute unless data storage mobheads:root horse run data modify storage mobheads:root horse set value 0.01
+    execute unless data storage mobheads:root husk run data modify storage mobheads:root husk set value 0.005
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root illusioner set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root iron_golem set value 0.005
+    execute unless data storage mobheads:root illusioner run data modify storage mobheads:root illusioner set value 0.005
+    execute unless data storage mobheads:root iron_golem run data modify storage mobheads:root iron_golem set value 0.005
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root llama set value 0.01
+    execute unless data storage mobheads:root llama run data modify storage mobheads:root llama set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root magma_cube set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root mooshroom set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root mooshroom_brown set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root mule set value 0.01
+    execute unless data storage mobheads:root magma_cube run data modify storage mobheads:root magma_cube set value 0.01
+    execute unless data storage mobheads:root mooshroom run data modify storage mobheads:root mooshroom set value 0.01
+    execute unless data storage mobheads:root mooshroom_brown run data modify storage mobheads:root mooshroom_brown set value 0.02
+    execute unless data storage mobheads:root mule run data modify storage mobheads:root mule set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ocelot set value 0.01
+    execute unless data storage mobheads:root ocelot run data modify storage mobheads:root ocelot set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root panda set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root panda_special set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root parrot set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root phantom set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root pig set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root piglin_brute set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root piglin set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root pillager set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root polar_bear set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root pufferfish set value 0.01
+    execute unless data storage mobheads:root panda run data modify storage mobheads:root panda set value 0.01
+    execute unless data storage mobheads:root panda_special run data modify storage mobheads:root panda_special set value 0.02
+    execute unless data storage mobheads:root parrot run data modify storage mobheads:root parrot set value 0.01
+    execute unless data storage mobheads:root phantom run data modify storage mobheads:root phantom set value 0.005
+    execute unless data storage mobheads:root pig run data modify storage mobheads:root pig set value 0.001
+    execute unless data storage mobheads:root piglin_brute run data modify storage mobheads:root piglin_brute set value 0.02
+    execute unless data storage mobheads:root piglin run data modify storage mobheads:root piglin set value 0.005
+    execute unless data storage mobheads:root pillager run data modify storage mobheads:root pillager set value 0.001
+    execute unless data storage mobheads:root polar_bear run data modify storage mobheads:root polar_bear set value 0.01
+    execute unless data storage mobheads:root pufferfish run data modify storage mobheads:root pufferfish set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root rabbit set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ravager set value 0.01
+    execute unless data storage mobheads:root rabbit run data modify storage mobheads:root rabbit set value 0.01
+    execute unless data storage mobheads:root ravager run data modify storage mobheads:root ravager set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root salmon set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root sheep set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root shulker set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root silverfish set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root skeleton_horse set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root skeleton set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root slime set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root sniffer set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root snow_golem set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root spider set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root squid set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root stray set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root strider set value 0.01
+    execute unless data storage mobheads:root salmon run data modify storage mobheads:root salmon set value 0.005
+    execute unless data storage mobheads:root sheep run data modify storage mobheads:root sheep set value 0.001
+    execute unless data storage mobheads:root shulker run data modify storage mobheads:root shulker set value 0.01
+    execute unless data storage mobheads:root silverfish run data modify storage mobheads:root silverfish set value 0.001
+    execute unless data storage mobheads:root skeleton_horse run data modify storage mobheads:root skeleton_horse set value 0.02
+    execute unless data storage mobheads:root skeleton run data modify storage mobheads:root skeleton set value 0.001
+    execute unless data storage mobheads:root slime run data modify storage mobheads:root slime set value 0.001
+    execute unless data storage mobheads:root sniffer run data modify storage mobheads:root sniffer set value 0.01
+    execute unless data storage mobheads:root snow_golem run data modify storage mobheads:root snow_golem set value 0.001
+    execute unless data storage mobheads:root spider run data modify storage mobheads:root spider set value 0.001
+    execute unless data storage mobheads:root squid run data modify storage mobheads:root squid set value 0.005
+    execute unless data storage mobheads:root stray run data modify storage mobheads:root stray set value 0.005
+    execute unless data storage mobheads:root strider run data modify storage mobheads:root strider set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root tadpole set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root trader_llama set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root tropical_fish set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root turtle set value 0.01
+    execute unless data storage mobheads:root tadpole run data modify storage mobheads:root tadpole set value 0.01
+    execute unless data storage mobheads:root trader_llama run data modify storage mobheads:root trader_llama set value 0.005
+    execute unless data storage mobheads:root tropical_fish run data modify storage mobheads:root tropical_fish set value 0.01
+    execute unless data storage mobheads:root turtle run data modify storage mobheads:root turtle set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root vex set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root villager set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root vindicator set value 0.005
+    execute unless data storage mobheads:root vex run data modify storage mobheads:root vex set value 0.01
+    execute unless data storage mobheads:root villager run data modify storage mobheads:root villager set value 0.01
+    execute unless data storage mobheads:root vindicator run data modify storage mobheads:root vindicator set value 0.005
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wandering_trader set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root warden set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root witch set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wither set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wither_invulnerable set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wolf set value 0.01
+    execute unless data storage mobheads:root wandering_trader run data modify storage mobheads:root wandering_trader set value 0.01
+    execute unless data storage mobheads:root warden run data modify storage mobheads:root warden set value 0.05
+    execute unless data storage mobheads:root witch run data modify storage mobheads:root witch set value 0.001
+    execute unless data storage mobheads:root wither run data modify storage mobheads:root wither set value 0.05
+    execute unless data storage mobheads:root wither_invulnerable run data modify storage mobheads:root wither_invulnerable set value 0.01
+    execute unless data storage mobheads:root wolf run data modify storage mobheads:root wolf set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zoglin set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_horse set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_villager set value 0.03
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombified_piglin set value 0.001
+    execute unless data storage mobheads:root zoglin run data modify storage mobheads:root zoglin set value 0.01
+    execute unless data storage mobheads:root zombie_horse run data modify storage mobheads:root zombie_horse set value 0.01
+    execute unless data storage mobheads:root zombie_villager run data modify storage mobheads:root zombie_villager set value 0.03
+    execute unless data storage mobheads:root zombie run data modify storage mobheads:root zombie set value 0.001
+    execute unless data storage mobheads:root zombified_piglin run data modify storage mobheads:root zombified_piglin set value 0.001
 
   # Updates
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root copper_golem set value 0.005
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root nautilus set value 0.01
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root parched set value 0.01
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root zombie_nautilus set value 0.01
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk set value 0.03
+    execute unless data storage mobheads:root copper_golem run data modify storage mobheads:root copper_golem set value 0.005
+    execute unless data storage mobheads:root nautilus run data modify storage mobheads:root nautilus set value 0.01
+    execute unless data storage mobheads:root parched run data modify storage mobheads:root parched set value 0.01
+    execute unless data storage mobheads:root zombie_nautilus run data modify storage mobheads:root zombie_nautilus set value 0.01
+    execute unless data storage mobheads:root camel_husk run data modify storage mobheads:root camel_husk set value 0.03
 
   # Initial drop rates
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root allay_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root armadillo_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root axolotl_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root axolotl_blue_init set value 0.05
+    execute unless data storage mobheads:root allay_init run data modify storage mobheads:root allay_init set value 0.01
+    execute unless data storage mobheads:root armadillo_init run data modify storage mobheads:root armadillo_init set value 0.01
+    execute unless data storage mobheads:root axolotl_init run data modify storage mobheads:root axolotl_init set value 0.01
+    execute unless data storage mobheads:root axolotl_blue_init run data modify storage mobheads:root axolotl_blue_init set value 0.05
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root bat_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root bee_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root blaze_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root bogged_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root breeze_init set value 0.01
+    execute unless data storage mobheads:root bat_init run data modify storage mobheads:root bat_init set value 0.01
+    execute unless data storage mobheads:root bee_init run data modify storage mobheads:root bee_init set value 0.01
+    execute unless data storage mobheads:root blaze_init run data modify storage mobheads:root blaze_init set value 0.005
+    execute unless data storage mobheads:root bogged_init run data modify storage mobheads:root bogged_init set value 0.01
+    execute unless data storage mobheads:root breeze_init run data modify storage mobheads:root breeze_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root camel_init set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cat_init set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cave_spider_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root chicken_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cod_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root cow_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root creaking_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root creeper_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root creeper_charged_init set value 0.02
+    execute unless data storage mobheads:root camel_init run data modify storage mobheads:root camel_init set value 0.02
+    execute unless data storage mobheads:root cat_init run data modify storage mobheads:root cat_init set value 0.02
+    execute unless data storage mobheads:root cave_spider_init run data modify storage mobheads:root cave_spider_init set value 0.005
+    execute unless data storage mobheads:root chicken_init run data modify storage mobheads:root chicken_init set value 0.001
+    execute unless data storage mobheads:root cod_init run data modify storage mobheads:root cod_init set value 0.001
+    execute unless data storage mobheads:root cow_init run data modify storage mobheads:root cow_init set value 0.001
+    execute unless data storage mobheads:root creaking_init run data modify storage mobheads:root creaking_init set value 0.001
+    execute unless data storage mobheads:root creeper_init run data modify storage mobheads:root creeper_init set value 0.001
+    execute unless data storage mobheads:root creeper_charged_init run data modify storage mobheads:root creeper_charged_init set value 0.02
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root dolphin_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root donkey_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root drowned_init set value 0.001
+    execute unless data storage mobheads:root dolphin_init run data modify storage mobheads:root dolphin_init set value 0.01
+    execute unless data storage mobheads:root donkey_init run data modify storage mobheads:root donkey_init set value 0.01
+    execute unless data storage mobheads:root drowned_init run data modify storage mobheads:root drowned_init set value 0.001
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root elder_guardian_init set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ender_dragon_init set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root enderman_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root endermite_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root evoker_init set value 0.01
+    execute unless data storage mobheads:root elder_guardian_init run data modify storage mobheads:root elder_guardian_init set value 0.05
+    execute unless data storage mobheads:root ender_dragon_init run data modify storage mobheads:root ender_dragon_init set value 0.05
+    execute unless data storage mobheads:root enderman_init run data modify storage mobheads:root enderman_init set value 0.001
+    execute unless data storage mobheads:root endermite_init run data modify storage mobheads:root endermite_init set value 0.01
+    execute unless data storage mobheads:root evoker_init run data modify storage mobheads:root evoker_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root fox_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root frog_init set value 0.01
+    execute unless data storage mobheads:root fox_init run data modify storage mobheads:root fox_init set value 0.01
+    execute unless data storage mobheads:root frog_init run data modify storage mobheads:root frog_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ghast_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root glow_squid_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root goat_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root guardian_init set value 0.001
+    execute unless data storage mobheads:root ghast_init run data modify storage mobheads:root ghast_init set value 0.005
+    execute unless data storage mobheads:root glow_squid_init run data modify storage mobheads:root glow_squid_init set value 0.01
+    execute unless data storage mobheads:root goat_init run data modify storage mobheads:root goat_init set value 0.01
+    execute unless data storage mobheads:root guardian_init run data modify storage mobheads:root guardian_init set value 0.001
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root happy_ghast_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root hoglin_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root horse_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root husk_init set value 0.005
+    execute unless data storage mobheads:root happy_ghast_init run data modify storage mobheads:root happy_ghast_init set value 0.01
+    execute unless data storage mobheads:root hoglin_init run data modify storage mobheads:root hoglin_init set value 0.005
+    execute unless data storage mobheads:root horse_init run data modify storage mobheads:root horse_init set value 0.01
+    execute unless data storage mobheads:root husk_init run data modify storage mobheads:root husk_init set value 0.005
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root illusioner_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root iron_golem_init set value 0.005
+    execute unless data storage mobheads:root illusioner_init run data modify storage mobheads:root illusioner_init set value 0.005
+    execute unless data storage mobheads:root iron_golem_init run data modify storage mobheads:root iron_golem_init set value 0.005
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root llama_init set value 0.01
+    execute unless data storage mobheads:root llama_init run data modify storage mobheads:root llama_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root magma_cube_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root mooshroom_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root mooshroom_brown_init set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root mule_init set value 0.01
+    execute unless data storage mobheads:root magma_cube_init run data modify storage mobheads:root magma_cube_init set value 0.01
+    execute unless data storage mobheads:root mooshroom_init run data modify storage mobheads:root mooshroom_init set value 0.01
+    execute unless data storage mobheads:root mooshroom_brown_init run data modify storage mobheads:root mooshroom_brown_init set value 0.02
+    execute unless data storage mobheads:root mule_init run data modify storage mobheads:root mule_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ocelot_init set value 0.01
+    execute unless data storage mobheads:root ocelot_init run data modify storage mobheads:root ocelot_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root panda_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root panda_special_init set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root parrot_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root phantom_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root pig_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root piglin_brute_init set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root piglin_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root pillager_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root polar_bear_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root pufferfish_init set value 0.01
+    execute unless data storage mobheads:root panda_init run data modify storage mobheads:root panda_init set value 0.01
+    execute unless data storage mobheads:root panda_special_init run data modify storage mobheads:root panda_special_init set value 0.02
+    execute unless data storage mobheads:root parrot_init run data modify storage mobheads:root parrot_init set value 0.01
+    execute unless data storage mobheads:root phantom_init run data modify storage mobheads:root phantom_init set value 0.005
+    execute unless data storage mobheads:root pig_init run data modify storage mobheads:root pig_init set value 0.001
+    execute unless data storage mobheads:root piglin_brute_init run data modify storage mobheads:root piglin_brute_init set value 0.02
+    execute unless data storage mobheads:root piglin_init run data modify storage mobheads:root piglin_init set value 0.005
+    execute unless data storage mobheads:root pillager_init run data modify storage mobheads:root pillager_init set value 0.001
+    execute unless data storage mobheads:root polar_bear_init run data modify storage mobheads:root polar_bear_init set value 0.01
+    execute unless data storage mobheads:root pufferfish_init run data modify storage mobheads:root pufferfish_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root rabbit_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root ravager_init set value 0.01
+    execute unless data storage mobheads:root rabbit_init run data modify storage mobheads:root rabbit_init set value 0.01
+    execute unless data storage mobheads:root ravager_init run data modify storage mobheads:root ravager_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root salmon_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root sheep_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root shulker_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root silverfish_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root skeleton_horse_init set value 0.02
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root skeleton_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root slime_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root sniffer_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root snow_golem_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root spider_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root squid_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root stray_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root strider_init set value 0.01
+    execute unless data storage mobheads:root salmon_init run data modify storage mobheads:root salmon_init set value 0.005
+    execute unless data storage mobheads:root sheep_init run data modify storage mobheads:root sheep_init set value 0.001
+    execute unless data storage mobheads:root shulker_init run data modify storage mobheads:root shulker_init set value 0.01
+    execute unless data storage mobheads:root silverfish_init run data modify storage mobheads:root silverfish_init set value 0.001
+    execute unless data storage mobheads:root skeleton_horse_init run data modify storage mobheads:root skeleton_horse_init set value 0.02
+    execute unless data storage mobheads:root skeleton_init run data modify storage mobheads:root skeleton_init set value 0.001
+    execute unless data storage mobheads:root slime_init run data modify storage mobheads:root slime_init set value 0.001
+    execute unless data storage mobheads:root sniffer_init run data modify storage mobheads:root sniffer_init set value 0.01
+    execute unless data storage mobheads:root snow_golem_init run data modify storage mobheads:root snow_golem_init set value 0.001
+    execute unless data storage mobheads:root spider_init run data modify storage mobheads:root spider_init set value 0.001
+    execute unless data storage mobheads:root squid_init run data modify storage mobheads:root squid_init set value 0.005
+    execute unless data storage mobheads:root stray_init run data modify storage mobheads:root stray_init set value 0.005
+    execute unless data storage mobheads:root strider_init run data modify storage mobheads:root strider_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root tadpole_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root trader_llama_init set value 0.005
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root tropical_fish_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root turtle_init set value 0.01
+    execute unless data storage mobheads:root tadpole_init run data modify storage mobheads:root tadpole_init set value 0.01
+    execute unless data storage mobheads:root trader_llama_init run data modify storage mobheads:root trader_llama_init set value 0.005
+    execute unless data storage mobheads:root tropical_fish_init run data modify storage mobheads:root tropical_fish_init set value 0.01
+    execute unless data storage mobheads:root turtle_init run data modify storage mobheads:root turtle_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root vex_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root villager_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root vindicator_init set value 0.005
+    execute unless data storage mobheads:root vex_init run data modify storage mobheads:root vex_init set value 0.01
+    execute unless data storage mobheads:root villager_init run data modify storage mobheads:root villager_init set value 0.01
+    execute unless data storage mobheads:root vindicator_init run data modify storage mobheads:root vindicator_init set value 0.005
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wandering_trader_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root warden_init set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root witch_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wither_init set value 0.05
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wither_invulnerable_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root wolf_init set value 0.01
+    execute unless data storage mobheads:root wandering_trader_init run data modify storage mobheads:root wandering_trader_init set value 0.01
+    execute unless data storage mobheads:root warden_init run data modify storage mobheads:root warden_init set value 0.05
+    execute unless data storage mobheads:root witch_init run data modify storage mobheads:root witch_init set value 0.001
+    execute unless data storage mobheads:root wither_init run data modify storage mobheads:root wither_init set value 0.05
+    execute unless data storage mobheads:root wither_invulnerable_init run data modify storage mobheads:root wither_invulnerable_init set value 0.01
+    execute unless data storage mobheads:root wolf_init run data modify storage mobheads:root wolf_init set value 0.01
 
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zoglin_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_horse_init set value 0.01
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_villager_init set value 0.03
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombie_init set value 0.001
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root zombified_piglin_init set value 0.001
+    execute unless data storage mobheads:root zoglin_init run data modify storage mobheads:root zoglin_init set value 0.01
+    execute unless data storage mobheads:root zombie_horse_init run data modify storage mobheads:root zombie_horse_init set value 0.01
+    execute unless data storage mobheads:root zombie_villager_init run data modify storage mobheads:root zombie_villager_init set value 0.03
+    execute unless data storage mobheads:root zombie_init run data modify storage mobheads:root zombie_init set value 0.001
+    execute unless data storage mobheads:root zombified_piglin_init run data modify storage mobheads:root zombified_piglin_init set value 0.001
 
   # Updates
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root copper_golem_init set value 0.005
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root nautilus_init set value 0.01
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root parched_init set value 0.01
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root zombie_nautilus_init set value 0.01
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root camel_husk_init set value 0.03
+    execute unless data storage mobheads:root copper_golem_init run data modify storage mobheads:root copper_golem_init set value 0.005
+    execute unless data storage mobheads:root nautilus_init run data modify storage mobheads:root nautilus_init set value 0.01
+    execute unless data storage mobheads:root parched_init run data modify storage mobheads:root parched_init set value 0.01
+    execute unless data storage mobheads:root zombie_nautilus_init run data modify storage mobheads:root zombie_nautilus_init set value 0.01
+    execute unless data storage mobheads:root camel_husk_init run data modify storage mobheads:root camel_husk_init set value 0.03
 
   # Dialog drop rates
     data modify storage mobheads:root drop_rate_allay set value "$(drop_rate_allay)"
@@ -714,120 +714,120 @@ execute unless score &killed_by_player mobheads.config = &killed_by_player mobhe
 
 # Rarity levels
   # Rarity in storage
-    execute unless score &allay mobheads.rarity = &allay mobheads.rarity run data modify storage mobheads:root rarity_allay set value 1
-    execute unless score &armadillo mobheads.rarity = &armadillo mobheads.rarity run data modify storage mobheads:root rarity_armadillo set value 1
-    execute unless score &axolotl mobheads.rarity = &axolotl mobheads.rarity run data modify storage mobheads:root rarity_axolotl set value 2
-    execute unless score &axolotl_blue mobheads.rarity = &axolotl_blue mobheads.rarity run data modify storage mobheads:root rarity_axolotl_blue set value 5
+    execute unless data storage mobheads:root rarity_allay run data modify storage mobheads:root rarity_allay set value 1
+    execute unless data storage mobheads:root rarity_armadillo run data modify storage mobheads:root rarity_armadillo set value 1
+    execute unless data storage mobheads:root rarity_axolotl run data modify storage mobheads:root rarity_axolotl set value 2
+    execute unless data storage mobheads:root rarity_axolotl_blue run data modify storage mobheads:root rarity_axolotl_blue set value 5
 
-    execute unless score &bat mobheads.rarity = &bat mobheads.rarity run data modify storage mobheads:root rarity_bat set value 2
-    execute unless score &bee mobheads.rarity = &bee mobheads.rarity run data modify storage mobheads:root rarity_bee set value 1
-    execute unless score &blaze mobheads.rarity = &blaze mobheads.rarity run data modify storage mobheads:root rarity_blaze set value 0
-    execute unless score &bogged mobheads.rarity = &bogged mobheads.rarity run data modify storage mobheads:root rarity_bogged set value 1
-    execute unless score &breeze mobheads.rarity = &breeze mobheads.rarity run data modify storage mobheads:root rarity_breeze set value 2
+    execute unless data storage mobheads:root rarity_bat run data modify storage mobheads:root rarity_bat set value 2
+    execute unless data storage mobheads:root rarity_bee run data modify storage mobheads:root rarity_bee set value 1
+    execute unless data storage mobheads:root rarity_blaze run data modify storage mobheads:root rarity_blaze set value 0
+    execute unless data storage mobheads:root rarity_bogged run data modify storage mobheads:root rarity_bogged set value 1
+    execute unless data storage mobheads:root rarity_breeze run data modify storage mobheads:root rarity_breeze set value 2
 
-    execute unless score &camel mobheads.rarity = &camel mobheads.rarity run data modify storage mobheads:root rarity_camel set value 1
-    execute unless score &cat mobheads.rarity = &cat mobheads.rarity run data modify storage mobheads:root rarity_cat set value 2
-    execute unless score &cave_spider mobheads.rarity = &cave_spider mobheads.rarity run data modify storage mobheads:root rarity_cave_spider set value 0
-    execute unless score &chicken mobheads.rarity = &chicken mobheads.rarity run data modify storage mobheads:root rarity_chicken set value 0
-    execute unless score &cod mobheads.rarity = &cod mobheads.rarity run data modify storage mobheads:root rarity_cod set value 1
-    execute unless score &cow mobheads.rarity = &cow mobheads.rarity run data modify storage mobheads:root rarity_cow set value 0
-    execute unless score &creaking mobheads.rarity = &creaking mobheads.rarity run data modify storage mobheads:root rarity_creaking set value 3
-    execute unless score &creeper mobheads.rarity = &creeper mobheads.rarity run data modify storage mobheads:root rarity_creeper set value 0
-    execute unless score &creeper_charged mobheads.rarity = &creeper_charged mobheads.rarity run data modify storage mobheads:root rarity_creeper_charged set value 3
+    execute unless data storage mobheads:root rarity_camel run data modify storage mobheads:root rarity_camel set value 1
+    execute unless data storage mobheads:root rarity_cat run data modify storage mobheads:root rarity_cat set value 2
+    execute unless data storage mobheads:root rarity_cave_spider run data modify storage mobheads:root rarity_cave_spider set value 0
+    execute unless data storage mobheads:root rarity_chicken run data modify storage mobheads:root rarity_chicken set value 0
+    execute unless data storage mobheads:root rarity_cod run data modify storage mobheads:root rarity_cod set value 1
+    execute unless data storage mobheads:root rarity_cow run data modify storage mobheads:root rarity_cow set value 0
+    execute unless data storage mobheads:root rarity_creaking run data modify storage mobheads:root rarity_creaking set value 3
+    execute unless data storage mobheads:root rarity_creeper run data modify storage mobheads:root rarity_creeper set value 0
+    execute unless data storage mobheads:root rarity_creeper_charged run data modify storage mobheads:root rarity_creeper_charged set value 3
 
-    execute unless score &dolphin mobheads.rarity = &dolphin mobheads.rarity run data modify storage mobheads:root rarity_dolphin set value 1
-    execute unless score &donkey mobheads.rarity = &donkey mobheads.rarity run data modify storage mobheads:root rarity_donkey set value 1
-    execute unless score &drowned mobheads.rarity = &drowned mobheads.rarity run data modify storage mobheads:root rarity_drowned set value 0
+    execute unless data storage mobheads:root rarity_dolphin run data modify storage mobheads:root rarity_dolphin set value 1
+    execute unless data storage mobheads:root rarity_donkey run data modify storage mobheads:root rarity_donkey set value 1
+    execute unless data storage mobheads:root rarity_drowned run data modify storage mobheads:root rarity_drowned set value 0
 
-    execute unless score &elder_guardian mobheads.rarity = &elder_guardian mobheads.rarity run data modify storage mobheads:root rarity_elder_guardian set value 5
-    execute unless score &ender_dragon mobheads.rarity = &ender_dragon mobheads.rarity run data modify storage mobheads:root rarity_ender_dragon set value 4
-    execute unless score &enderman mobheads.rarity = &enderman mobheads.rarity run data modify storage mobheads:root rarity_enderman set value 0
-    execute unless score &endermite mobheads.rarity = &endermite mobheads.rarity run data modify storage mobheads:root rarity_endermite set value 3
-    execute unless score &evoker mobheads.rarity = &evoker mobheads.rarity run data modify storage mobheads:root rarity_evoker set value 3
+    execute unless data storage mobheads:root rarity_elder_guardian run data modify storage mobheads:root rarity_elder_guardian set value 5
+    execute unless data storage mobheads:root rarity_ender_dragon run data modify storage mobheads:root rarity_ender_dragon set value 4
+    execute unless data storage mobheads:root rarity_enderman run data modify storage mobheads:root rarity_enderman set value 0
+    execute unless data storage mobheads:root rarity_endermite run data modify storage mobheads:root rarity_endermite set value 3
+    execute unless data storage mobheads:root rarity_evoker run data modify storage mobheads:root rarity_evoker set value 3
 
-    execute unless score &fox mobheads.rarity = &fox mobheads.rarity run data modify storage mobheads:root rarity_fox set value 1
-    execute unless score &frog mobheads.rarity = &frog mobheads.rarity run data modify storage mobheads:root rarity_frog set value 1
+    execute unless data storage mobheads:root rarity_fox run data modify storage mobheads:root rarity_fox set value 1
+    execute unless data storage mobheads:root rarity_frog run data modify storage mobheads:root rarity_frog set value 1
 
-    execute unless score &ghast mobheads.rarity = &ghast mobheads.rarity run data modify storage mobheads:root rarity_ghast set value 1
-    execute unless score &glow_squid mobheads.rarity = &glow_squid mobheads.rarity run data modify storage mobheads:root rarity_glow_squid set value 1
-    execute unless score &goat mobheads.rarity = &goat mobheads.rarity run data modify storage mobheads:root rarity_goat set value 1
-    execute unless score &guardian mobheads.rarity = &guardian mobheads.rarity run data modify storage mobheads:root rarity_guardian set value 0
+    execute unless data storage mobheads:root rarity_ghast run data modify storage mobheads:root rarity_ghast set value 1
+    execute unless data storage mobheads:root rarity_glow_squid run data modify storage mobheads:root rarity_glow_squid set value 1
+    execute unless data storage mobheads:root rarity_goat run data modify storage mobheads:root rarity_goat set value 1
+    execute unless data storage mobheads:root rarity_guardian run data modify storage mobheads:root rarity_guardian set value 0
 
-    execute unless score &happy_ghast mobheads.rarity = &happy_ghast mobheads.rarity run data modify storage mobheads:root rarity_happy_ghast set value 2
-    execute unless score &hoglin mobheads.rarity = &hoglin mobheads.rarity run data modify storage mobheads:root rarity_hoglin set value 1
-    execute unless score &horse mobheads.rarity = &horse mobheads.rarity run data modify storage mobheads:root rarity_horse set value 1
-    execute unless score &husk mobheads.rarity = &husk mobheads.rarity run data modify storage mobheads:root rarity_husk set value 1
+    execute unless data storage mobheads:root rarity_happy_ghast run data modify storage mobheads:root rarity_happy_ghast set value 2
+    execute unless data storage mobheads:root rarity_hoglin run data modify storage mobheads:root rarity_hoglin set value 1
+    execute unless data storage mobheads:root rarity_horse run data modify storage mobheads:root rarity_horse set value 1
+    execute unless data storage mobheads:root rarity_husk run data modify storage mobheads:root rarity_husk set value 1
 
-    execute unless score &illusioner mobheads.rarity = &illusioner mobheads.rarity run data modify storage mobheads:root rarity_illusioner set value 3
-    execute unless score &iron_golem mobheads.rarity = &iron_golem mobheads.rarity run data modify storage mobheads:root rarity_iron_golem set value 1
+    execute unless data storage mobheads:root rarity_illusioner run data modify storage mobheads:root rarity_illusioner set value 3
+    execute unless data storage mobheads:root rarity_iron_golem run data modify storage mobheads:root rarity_iron_golem set value 1
 
-    execute unless score &llama mobheads.rarity = &llama mobheads.rarity run data modify storage mobheads:root rarity_llama set value 1
+    execute unless data storage mobheads:root rarity_llama run data modify storage mobheads:root rarity_llama set value 1
 
-    execute unless score &magma_cube mobheads.rarity = &magma_cube mobheads.rarity run data modify storage mobheads:root rarity_magma_cube set value 0
-    execute unless score &mooshroom mobheads.rarity = &mooshroom mobheads.rarity run data modify storage mobheads:root rarity_mooshroom set value 2
-    execute unless score &mooshroom_brown mobheads.rarity = &mooshroom_brown mobheads.rarity run data modify storage mobheads:root rarity_mooshroom_brown set value 3
-    execute unless score &mule mobheads.rarity = &mule mobheads.rarity run data modify storage mobheads:root rarity_mule set value 1
+    execute unless data storage mobheads:root rarity_magma_cube run data modify storage mobheads:root rarity_magma_cube set value 0
+    execute unless data storage mobheads:root rarity_mooshroom run data modify storage mobheads:root rarity_mooshroom set value 2
+    execute unless data storage mobheads:root rarity_mooshroom_brown run data modify storage mobheads:root rarity_mooshroom_brown set value 3
+    execute unless data storage mobheads:root rarity_mule run data modify storage mobheads:root rarity_mule set value 1
 
-    execute unless score &ocelot mobheads.rarity = &ocelot mobheads.rarity run data modify storage mobheads:root rarity_ocelot set value 2
+    execute unless data storage mobheads:root rarity_ocelot run data modify storage mobheads:root rarity_ocelot set value 2
 
-    execute unless score &panda mobheads.rarity = &panda mobheads.rarity run data modify storage mobheads:root rarity_panda set value 2
-    execute unless score &panda_special mobheads.rarity = &panda_special mobheads.rarity run data modify storage mobheads:root rarity_panda_special set value 3
-    execute unless score &parrot mobheads.rarity = &parrot mobheads.rarity run data modify storage mobheads:root rarity_parrot set value 2
-    execute unless score &phantom mobheads.rarity = &phantom mobheads.rarity run data modify storage mobheads:root rarity_phantom set value 1
+    execute unless data storage mobheads:root rarity_panda run data modify storage mobheads:root rarity_panda set value 2
+    execute unless data storage mobheads:root rarity_panda_special run data modify storage mobheads:root rarity_panda_special set value 3
+    execute unless data storage mobheads:root rarity_parrot run data modify storage mobheads:root rarity_parrot set value 2
+    execute unless data storage mobheads:root rarity_phantom run data modify storage mobheads:root rarity_phantom set value 1
 
-    execute unless score &pig mobheads.rarity = &pig mobheads.rarity run data modify storage mobheads:root rarity_pig set value 0
-    execute unless score &piglin_brute mobheads.rarity = &piglin_brute mobheads.rarity run data modify storage mobheads:root rarity_piglin_brute set value 5
-    execute unless score &piglin mobheads.rarity = &piglin mobheads.rarity run data modify storage mobheads:root rarity_piglin set value 0
-    execute unless score &pillager mobheads.rarity = &pillager mobheads.rarity run data modify storage mobheads:root rarity_pillager set value 1
-    execute unless score &polar_bear mobheads.rarity = &polar_bear mobheads.rarity run data modify storage mobheads:root rarity_polar_bear set value 1
-    execute unless score &pufferfish mobheads.rarity = &pufferfish mobheads.rarity run data modify storage mobheads:root rarity_pufferfish set value 1
+    execute unless data storage mobheads:root rarity_pig run data modify storage mobheads:root rarity_pig set value 0
+    execute unless data storage mobheads:root rarity_piglin_brute run data modify storage mobheads:root rarity_piglin_brute set value 5
+    execute unless data storage mobheads:root rarity_piglin run data modify storage mobheads:root rarity_piglin set value 0
+    execute unless data storage mobheads:root rarity_pillager run data modify storage mobheads:root rarity_pillager set value 1
+    execute unless data storage mobheads:root rarity_polar_bear run data modify storage mobheads:root rarity_polar_bear set value 1
+    execute unless data storage mobheads:root rarity_pufferfish run data modify storage mobheads:root rarity_pufferfish set value 1
 
-    execute unless score &rabbit mobheads.rarity = &rabbit mobheads.rarity run data modify storage mobheads:root rarity_rabbit set value 1
-    execute unless score &ravager mobheads.rarity = &ravager mobheads.rarity run data modify storage mobheads:root rarity_ravager set value 2
+    execute unless data storage mobheads:root rarity_rabbit run data modify storage mobheads:root rarity_rabbit set value 1
+    execute unless data storage mobheads:root rarity_ravager run data modify storage mobheads:root rarity_ravager set value 2
 
-    execute unless score &salmon mobheads.rarity = &salmon mobheads.rarity run data modify storage mobheads:root rarity_salmon set value 1
-    execute unless score &sheep mobheads.rarity = &sheep mobheads.rarity run data modify storage mobheads:root rarity_sheep set value 0
-    execute unless score &shulker mobheads.rarity = &shulker mobheads.rarity run data modify storage mobheads:root rarity_shulker set value 1
-    execute unless score &silverfish mobheads.rarity = &silverfish mobheads.rarity run data modify storage mobheads:root rarity_silverfish set value 0
-    execute unless score &skeleton_horse mobheads.rarity = &skeleton_horse mobheads.rarity run data modify storage mobheads:root rarity_skeleton_horse set value 5
-    execute unless score &skeleton mobheads.rarity = &skeleton mobheads.rarity run data modify storage mobheads:root rarity_skeleton set value 0
-    execute unless score &slime mobheads.rarity = &slime mobheads.rarity run data modify storage mobheads:root rarity_slime set value 0
-    execute unless score &sniffer mobheads.rarity = &sniffer mobheads.rarity run data modify storage mobheads:root rarity_sniffer set value 1
-    execute unless score &snow_golem mobheads.rarity = &snow_golem mobheads.rarity run data modify storage mobheads:root rarity_snow_golem set value 1
-    execute unless score &spider mobheads.rarity = &spider mobheads.rarity run data modify storage mobheads:root rarity_spider set value 0
-    execute unless score &squid mobheads.rarity = &squid mobheads.rarity run data modify storage mobheads:root rarity_squid set value 1
-    execute unless score &stray mobheads.rarity = &stray mobheads.rarity run data modify storage mobheads:root rarity_stray set value 1
-    execute unless score &strider mobheads.rarity = &strider mobheads.rarity run data modify storage mobheads:root rarity_strider set value 1
+    execute unless data storage mobheads:root rarity_salmon run data modify storage mobheads:root rarity_salmon set value 1
+    execute unless data storage mobheads:root rarity_sheep run data modify storage mobheads:root rarity_sheep set value 0
+    execute unless data storage mobheads:root rarity_shulker run data modify storage mobheads:root rarity_shulker set value 1
+    execute unless data storage mobheads:root rarity_silverfish run data modify storage mobheads:root rarity_silverfish set value 0
+    execute unless data storage mobheads:root rarity_skeleton_horse run data modify storage mobheads:root rarity_skeleton_horse set value 5
+    execute unless data storage mobheads:root rarity_skeleton run data modify storage mobheads:root rarity_skeleton set value 0
+    execute unless data storage mobheads:root rarity_slime run data modify storage mobheads:root rarity_slime set value 0
+    execute unless data storage mobheads:root rarity_sniffer run data modify storage mobheads:root rarity_sniffer set value 1
+    execute unless data storage mobheads:root rarity_snow_golem run data modify storage mobheads:root rarity_snow_golem set value 1
+    execute unless data storage mobheads:root rarity_spider run data modify storage mobheads:root rarity_spider set value 0
+    execute unless data storage mobheads:root rarity_squid run data modify storage mobheads:root rarity_squid set value 1
+    execute unless data storage mobheads:root rarity_stray run data modify storage mobheads:root rarity_stray set value 1
+    execute unless data storage mobheads:root rarity_strider run data modify storage mobheads:root rarity_strider set value 1
 
-    execute unless score &tadpole mobheads.rarity = &tadpole mobheads.rarity run data modify storage mobheads:root rarity_tadpole set value 3
-    execute unless score &trader_llama mobheads.rarity = &trader_llama mobheads.rarity run data modify storage mobheads:root rarity_trader_llama set value 2
-    execute unless score &tropical_fish mobheads.rarity = &tropical_fish mobheads.rarity run data modify storage mobheads:root rarity_tropical_fish set value 1
+    execute unless data storage mobheads:root rarity_tadpole run data modify storage mobheads:root rarity_tadpole set value 3
+    execute unless data storage mobheads:root rarity_trader_llama run data modify storage mobheads:root rarity_trader_llama set value 2
+    execute unless data storage mobheads:root rarity_tropical_fish run data modify storage mobheads:root rarity_tropical_fish set value 1
 
-    execute unless score &turtle mobheads.rarity = &turtle mobheads.rarity run data modify storage mobheads:root rarity_turtle set value 1
+    execute unless data storage mobheads:root rarity_turtle run data modify storage mobheads:root rarity_turtle set value 1
 
-    execute unless score &vex mobheads.rarity = &vex mobheads.rarity run data modify storage mobheads:root rarity_vex set value 1
-    execute unless score &villager mobheads.rarity = &villager mobheads.rarity run data modify storage mobheads:root rarity_villager set value 2
-    execute unless score &vindicator mobheads.rarity = &vindicator mobheads.rarity run data modify storage mobheads:root rarity_vindicator set value 2
+    execute unless data storage mobheads:root rarity_vex run data modify storage mobheads:root rarity_vex set value 1
+    execute unless data storage mobheads:root rarity_villager run data modify storage mobheads:root rarity_villager set value 2
+    execute unless data storage mobheads:root rarity_vindicator run data modify storage mobheads:root rarity_vindicator set value 2
 
-    execute unless score &wandering_trader mobheads.rarity = &wandering_trader mobheads.rarity run data modify storage mobheads:root rarity_wandering_trader set value 2
-    execute unless score &warden mobheads.rarity = &warden mobheads.rarity run data modify storage mobheads:root rarity_warden set value 4
-    execute unless score &witch mobheads.rarity = &witch mobheads.rarity run data modify storage mobheads:root rarity_witch set value 2
-    execute unless score &wither mobheads.rarity = &wither mobheads.rarity run data modify storage mobheads:root rarity_wither set value 4
-    execute unless score &wither_invulnerable mobheads.rarity = &wither_invulnerable mobheads.rarity run data modify storage mobheads:root rarity_wither_invulnerable set value 5
-    execute unless score &wolf mobheads.rarity = &wolf mobheads.rarity run data modify storage mobheads:root rarity_wolf set value 1
+    execute unless data storage mobheads:root rarity_wandering_trader run data modify storage mobheads:root rarity_wandering_trader set value 2
+    execute unless data storage mobheads:root rarity_warden run data modify storage mobheads:root rarity_warden set value 4
+    execute unless data storage mobheads:root rarity_witch run data modify storage mobheads:root rarity_witch set value 2
+    execute unless data storage mobheads:root rarity_wither run data modify storage mobheads:root rarity_wither set value 4
+    execute unless data storage mobheads:root rarity_wither_invulnerable run data modify storage mobheads:root rarity_wither_invulnerable set value 5
+    execute unless data storage mobheads:root rarity_wolf run data modify storage mobheads:root rarity_wolf set value 1
 
-    execute unless score &zoglin mobheads.rarity = &zoglin mobheads.rarity run data modify storage mobheads:root rarity_zoglin set value 2
-    execute unless score &zombie_horse mobheads.rarity = &zombie_horse mobheads.rarity run data modify storage mobheads:root rarity_zombie_horse set value 5
-    execute unless score &zombie_villager mobheads.rarity = &zombie_villager mobheads.rarity run data modify storage mobheads:root rarity_zombie_villager set value 2
-    execute unless score &zombie mobheads.rarity = &zombie mobheads.rarity run data modify storage mobheads:root rarity_zombie set value 0
-    execute unless score &zombified_piglin mobheads.rarity = &zombified_piglin mobheads.rarity run data modify storage mobheads:root rarity_zombified_piglin set value 0
+    execute unless data storage mobheads:root rarity_zoglin run data modify storage mobheads:root rarity_zoglin set value 2
+    execute unless data storage mobheads:root rarity_zombie_horse run data modify storage mobheads:root rarity_zombie_horse set value 5
+    execute unless data storage mobheads:root rarity_zombie_villager run data modify storage mobheads:root rarity_zombie_villager set value 2
+    execute unless data storage mobheads:root rarity_zombie run data modify storage mobheads:root rarity_zombie set value 0
+    execute unless data storage mobheads:root rarity_zombified_piglin run data modify storage mobheads:root rarity_zombified_piglin set value 0
 
   # Updates
-    execute unless score &copper_golem mobheads.rarity = &copper_golem mobheads.rarity run data modify storage mobheads:root rarity_copper_golem set value 2
-    execute unless score &nautilus mobheads.rarity = &nautilus mobheads.rarity run data modify storage mobheads:root rarity_nautilus set value 3
-    execute unless score &parched mobheads.rarity = &parched mobheads.rarity run data modify storage mobheads:root rarity_parched set value 3
-    execute unless score &zombie_nautilus mobheads.rarity = &zombie_nautilus mobheads.rarity run data modify storage mobheads:root rarity_zombie_nautilus set value 3
-    execute unless score &camel_husk mobheads.rarity = &camel_husk mobheads.rarity run data modify storage mobheads:root rarity_camel_husk set value 3
+    execute unless data storage mobheads:root rarity_copper_golem run data modify storage mobheads:root rarity_copper_golem set value 2
+    execute unless data storage mobheads:root rarity_nautilus run data modify storage mobheads:root rarity_nautilus set value 3
+    execute unless data storage mobheads:root rarity_parched run data modify storage mobheads:root rarity_parched set value 3
+    execute unless data storage mobheads:root rarity_zombie_nautilus run data modify storage mobheads:root rarity_zombie_nautilus set value 3
+    execute unless data storage mobheads:root rarity_camel_husk run data modify storage mobheads:root rarity_camel_husk set value 3
 
   # Rarity scoreboard
     execute unless score &allay mobheads.rarity = &allay mobheads.rarity run scoreboard players set &allay mobheads.rarity 1
