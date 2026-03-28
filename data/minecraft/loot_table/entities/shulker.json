@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "mobheads:entities/shulker"
+          "value": "mob_heads:entities/shulker"
         }
       ]
     },
@@ -15,7 +15,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "nametag:name_tag"
+          "value": "name_tag:name_tag"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "shulkertwoshells:entities/shulker"
+          "value": "shulkers_drop_two_shells:entities/shulker"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "shulkertwoshells:entities/vanilla_entities/shulker"
+          "value": "shulkers_drop_two_shells:entities/vanilla_entities/shulker"
         }
       ],
       "conditions": [
@@ -43,7 +43,7 @@
             "type": "minecraft:score",
             "target": {
               "type": "minecraft:fixed",
-              "name": "&shulkertwoshells"
+              "name": "&shulkers_drop_two_shells"
             },
             "score": "jodek.loaded"
           },
@@ -56,7 +56,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "mobheads:vanilla_entities/shulker"
+          "value": "mob_heads:vanilla_entities/shulker"
         }
       ],
       "conditions": [
@@ -69,7 +69,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&mobheads"
+                  "name": "&mob_heads"
                 },
                 "score": "jodek.loaded"
               },
@@ -81,7 +81,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&shulkertwoshells"
+                  "name": "&shulkers_drop_two_shells"
                 },
                 "score": "jodek.loaded"
               },
@@ -96,7 +96,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "nametag:vanilla_entities/shulker"
+          "value": "name_tag:vanilla_entities/shulker"
         }
       ],
       "conditions": [
@@ -109,7 +109,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&nametag"
+                  "name": "&name_tag"
                 },
                 "score": "jodek.loaded"
               },
@@ -121,7 +121,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&mobheads"
+                  "name": "&mob_heads"
                 },
                 "score": "jodek.loaded"
               },
@@ -133,7 +133,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&shulkertwoshells"
+                  "name": "&shulkers_drop_two_shells"
                 },
                 "score": "jodek.loaded"
               },

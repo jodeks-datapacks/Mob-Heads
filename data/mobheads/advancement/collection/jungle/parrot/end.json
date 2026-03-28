@@ -1,8 +1,0 @@
-{
-  "criteria": {
-    "end": {
-      "trigger": "minecraft:location"
-    }
-  },
-  "parent": "mobheads:collection/jungle/parrot/yellow_blue"
-}

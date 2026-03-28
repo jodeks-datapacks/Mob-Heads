@@ -1,0 +1,255 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:sandstone"
+    },
+    "title": {
+      "translate": "biome.minecraft.desert",
+      "fallback": "Desert",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.desert",
+          "fallback": "Desert"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/villager",
+  "criteria": {
+    "armorer_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/weaponsmith": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

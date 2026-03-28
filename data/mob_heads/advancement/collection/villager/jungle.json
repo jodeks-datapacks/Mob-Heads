@@ -1,0 +1,255 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:jungle_log"
+    },
+    "title": {
+      "translate": "biome.minecraft.jungle",
+      "fallback": "Jungle",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.jungle",
+          "fallback": "Jungle"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.villager",
+          "fallback": "Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/villager",
+  "criteria": {
+    "armorer_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/jungle_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/weaponsmith": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

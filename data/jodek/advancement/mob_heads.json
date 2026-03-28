@@ -4,18 +4,11 @@
       "id": "minecraft:zombie_head"
     },
     "title": {
-      "translate": "mobheads.title",
-      "fallback": "Mob Heads",
-      "extra": [
-        {
-          "text": "                         "
-        }
-      ]
+      "text": "Mob Heads                  "
     },
     "description": [
-      "",
       {
-        "translate": "mobheads.description",
+        "translate": "mob_heads.description",
         "fallback": "Mobs can drop their head on death",
         "color": "white"
       },
@@ -23,14 +16,11 @@
         "text": "\n"
       },
       {
-        "text": "/trigger mobheads.config",
+        "text": "/trigger mob_heads.config",
         "color": "yellow"
       },
       {
-        "text": "\n"
-      },
-      {
-        "text": "\n"
+        "text": "\n\n"
       },
       {
         "translate": "jodek.datapack_version",
@@ -38,7 +28,7 @@
         "color": "dark_green"
       },
       {
-        "text": "v4.5.5",
+        "text": "v4.5.6",
         "color": "green"
       },
       {
@@ -54,10 +44,7 @@
         "color": "green"
       },
       {
-        "text": "\n"
-      },
-      {
-        "text": "\n"
+        "text": "\n\n"
       },
       {
         "text": "modrinth.com/datapack/mob-heads",
@@ -66,12 +53,29 @@
     ],
     "frame": "task",
     "show_toast": false,
-    "announce_to_chat": false
+    "announce_to_chat": false,
+    "hidden": true
   },
   "parent": "jodek:mobs",
   "criteria": {
     "tick": {
-      "trigger": "minecraft:tick"
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&mob_heads_advancements"
+              },
+              "score": "jodek.config"
+            },
+            "range": 1
+          }
+        ]
+      }
     }
   }
 }

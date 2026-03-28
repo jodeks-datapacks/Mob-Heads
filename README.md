@@ -1,6 +1,6 @@
 <div align="center">
   
-![minecraft datapack mob heads mod baby mobs minecraft mob heads](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/mobheadsv3.png)
+![minecraft datapack mob heads mod baby mobs minecraft mob heads](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/mob_headsv3.png)
 
 </div>
 
@@ -45,7 +45,7 @@
 Run ingame: 
 
 ```
-/trigger mobheads.config
+/trigger mob_heads.config
 ```
 
 ---
@@ -54,7 +54,7 @@ Run ingame:
 
 **make sure to unzip the datapack before**
 
-Head to: `MobHeads/data/mobheads/function/config`
+Head to: `mob_heads/data/mob_heads/function/config`
 
 and then edit the specific file (drop _rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
 

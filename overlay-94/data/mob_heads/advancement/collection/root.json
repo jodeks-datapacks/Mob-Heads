@@ -1,0 +1,5156 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:chest"
+    },
+    "title": {
+      "translate": "mob_heads.advancement.collection.title",
+      "fallback": "Mob Heads Collection"
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.desc",
+      "fallback": "Collection of all mob heads you've got"
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "challenge"
+  },
+  "criteria": {
+    "zombie_horse": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/zombie_horse": true
+            }
+          }
+        }
+      }
+    },
+    "wither_skeleton": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/wither_skeleton": true
+            }
+          }
+        }
+      }
+    },
+    "parched": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/parched": true
+            }
+          }
+        }
+      }
+    },
+    "camel_husk": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/camel_husk": true
+            }
+          }
+        }
+      }
+    },
+    "nautilus": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/nautilus/nautilus": true
+            }
+          }
+        }
+      }
+    },
+    "zombie_nautilus": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/nautilus/zombie_nautilus": true
+            }
+          }
+        }
+      }
+    },
+    "zombie_nautilus_coral": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/nautilus/zombie_nautilus_coral": true
+            }
+          }
+        }
+      }
+    },
+    "blue_dory": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/blue_dory": true
+            }
+          }
+        }
+      }
+    },
+    "cichlid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/cichlid": true
+            }
+          }
+        }
+      }
+    },
+    "clownfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/clownfish": true
+            }
+          }
+        }
+      }
+    },
+    "cotton_candy_betta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/cotton_candy_betta": true
+            }
+          }
+        }
+      }
+    },
+    "goatfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/goatfish": true
+            }
+          }
+        }
+      }
+    },
+    "parrotfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/parrotfish": true
+            }
+          }
+        }
+      }
+    },
+    "queen_angelfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/queen_angelfish": true
+            }
+          }
+        }
+      }
+    },
+    "red_lipped_blenny": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/red_lipped_blenny": true
+            }
+          }
+        }
+      }
+    },
+    "red_snapper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/red_snapper": true
+            }
+          }
+        }
+      }
+    },
+    "tomato_clownfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/tomato_clownfish": true
+            }
+          }
+        }
+      }
+    },
+    "triggerfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/triggerfish": true
+            }
+          }
+        }
+      }
+    },
+    "white_gray_dasher": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/white_gray_dasher": true
+            }
+          }
+        }
+      }
+    },
+    "yellowtail_parrot": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/tropical_fish/yellowtail_parrot": true
+            }
+          }
+        }
+      }
+    },
+    "normal_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/bee/normal": true
+            }
+          }
+        }
+      }
+    },
+    "angry_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/bee/angry": true
+            }
+          }
+        }
+      }
+    },
+    "angry_pollen_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/bee/angry_pollen": true
+            }
+          }
+        }
+      }
+    },
+    "pollen_bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/bee/pollen": true
+            }
+          }
+        }
+      }
+    },
+    "copper_golem_exposed": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/copper_golem/exposed": true
+            }
+          }
+        }
+      }
+    },
+    "copper_golem_oxidized": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/copper_golem/oxidized": true
+            }
+          }
+        }
+      }
+    },
+    "copper_golem_unaffected": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/copper_golem/unaffected": true
+            }
+          }
+        }
+      }
+    },
+    "copper_golem_weathered": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/copper_golem/weathered": true
+            }
+          }
+        }
+      }
+    },
+    "blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/axolotl/blue": true
+            }
+          }
+        }
+      }
+    },
+    "cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/axolotl/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/axolotl/gold": true
+            }
+          }
+        }
+      }
+    },
+    "leucistic": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/axolotl/leucistic": true
+            }
+          }
+        }
+      }
+    },
+    "wild": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/axolotl/wild": true
+            }
+          }
+        }
+      }
+    },
+    "drowned": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/hostile/drowned": true
+            }
+          }
+        }
+      }
+    },
+    "guardian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/hostile/guardian": true
+            }
+          }
+        }
+      }
+    },
+    "cod": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/passive/cod": true
+            }
+          }
+        }
+      }
+    },
+    "dolphin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/passive/dolphin": true
+            }
+          }
+        }
+      }
+    },
+    "glow_squid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/passive/glow_squid": true
+            }
+          }
+        }
+      }
+    },
+    "salmon": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/passive/salmon": true
+            }
+          }
+        }
+      }
+    },
+    "squid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/passive/squid": true
+            }
+          }
+        }
+      }
+    },
+    "turtle": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/passive/turtle": true
+            }
+          }
+        }
+      }
+    },
+    "pufferfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/aquatic/hostile/pufferfish": true
+            }
+          }
+        }
+      }
+    },
+    "elder_guardian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/boss/elder_guardian": true
+            }
+          }
+        }
+      }
+    },
+    "ender_dragon": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/boss/ender_dragon": true
+            }
+          }
+        }
+      }
+    },
+    "warden": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/boss/warden": true
+            }
+          }
+        }
+      }
+    },
+    "wither": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/boss/wither": true
+            }
+          }
+        }
+      }
+    },
+    "wither_invulnerable": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/boss/wither_invulnerable": true
+            }
+          }
+        }
+      }
+    },
+    "fox": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/fox/fox": true
+            }
+          }
+        }
+      }
+    },
+    "snow_fox": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/fox/snow_fox": true
+            }
+          }
+        }
+      }
+    },
+    "ashen": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/ashen": true
+            }
+          }
+        }
+      }
+    },
+    "black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/black": true
+            }
+          }
+        }
+      }
+    },
+    "chestnut": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/chestnut": true
+            }
+          }
+        }
+      }
+    },
+    "pale": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/pale": true
+            }
+          }
+        }
+      }
+    },
+    "rusty": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/rusty": true
+            }
+          }
+        }
+      }
+    },
+    "snowy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/snowy": true
+            }
+          }
+        }
+      }
+    },
+    "spotted": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/carnivores/wolf/spotted": true
+            }
+          }
+        }
+      }
+    },
+    "all_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/all_black": true
+            }
+          }
+        }
+      }
+    },
+    "cat_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/black": true
+            }
+          }
+        }
+      }
+    },
+    "british_shorthair": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/british_shorthair": true
+            }
+          }
+        }
+      }
+    },
+    "calico": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/calico": true
+            }
+          }
+        }
+      }
+    },
+    "jellie": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/jellie": true
+            }
+          }
+        }
+      }
+    },
+    "persian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/persian": true
+            }
+          }
+        }
+      }
+    },
+    "ragdoll": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/ragdoll": true
+            }
+          }
+        }
+      }
+    },
+    "red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/red": true
+            }
+          }
+        }
+      }
+    },
+    "siamese": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/siamese": true
+            }
+          }
+        }
+      }
+    },
+    "tabby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/tabby": true
+            }
+          }
+        }
+      }
+    },
+    "white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/cat/white": true
+            }
+          }
+        }
+      }
+    },
+    "enderman": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/end/enderman": true
+            }
+          }
+        }
+      }
+    },
+    "endermite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/end/endermite": true
+            }
+          }
+        }
+      }
+    },
+    "shulker": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/end/shulker": true
+            }
+          }
+        }
+      }
+    },
+    "frog_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/frog/cold": true
+            }
+          }
+        }
+      }
+    },
+    "tadpole": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/frog/tadpole": true
+            }
+          }
+        }
+      }
+    },
+    "frog_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/frog/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "frog_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/frog/warm": true
+            }
+          }
+        }
+      }
+    },
+    "goat": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat": true
+            }
+          }
+        }
+      }
+    },
+    "goat_left_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/goat_left_horn": true
+            }
+          }
+        }
+      }
+    },
+    "goat_no_horns": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/goat_no_horns": true
+            }
+          }
+        }
+      }
+    },
+    "goat_right_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/goat_right_horn": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/screaming_goat": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat_left_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/screaming_goat_left_horn": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat_no_horns": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/screaming_goat_no_horns": true
+            }
+          }
+        }
+      }
+    },
+    "screaming_goat_right_horn": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/goat/screaming_goat_right_horn": true
+            }
+          }
+        }
+      }
+    },
+    "iron_golem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/iron_golem": true
+            }
+          }
+        }
+      }
+    },
+    "snow_golem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/snow_golem": true
+            }
+          }
+        }
+      }
+    },
+    "horse_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/black": true
+            }
+          }
+        }
+      }
+    },
+    "horse_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/brown": true
+            }
+          }
+        }
+      }
+    },
+    "horse_chestnut": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/chestnut": true
+            }
+          }
+        }
+      }
+    },
+    "creamy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "darkbrown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/darkbrown": true
+            }
+          }
+        }
+      }
+    },
+    "donkey": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/donkey": true
+            }
+          }
+        }
+      }
+    },
+    "gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/gray": true
+            }
+          }
+        }
+      }
+    },
+    "mule": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/mule": true
+            }
+          }
+        }
+      }
+    },
+    "horse_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/horse/white": true
+            }
+          }
+        }
+      }
+    },
+    "bogged": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/bogged": true
+            }
+          }
+        }
+      }
+    },
+    "breeze": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/breeze": true
+            }
+          }
+        }
+      }
+    },
+    "cave_spider": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/cave_spider": true
+            }
+          }
+        }
+      }
+    },
+    "charged_creeper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/charged_creeper": true
+            }
+          }
+        }
+      }
+    },
+    "creaking": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/creaking": true
+            }
+          }
+        }
+      }
+    },
+    "creeper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/creeper": true
+            }
+          }
+        }
+      }
+    },
+    "evoker": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/evoker": true
+            }
+          }
+        }
+      }
+    },
+    "husk": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/husk": true
+            }
+          }
+        }
+      }
+    },
+    "phantom": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/phantom": true
+            }
+          }
+        }
+      }
+    },
+    "pillager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/pillager": true
+            }
+          }
+        }
+      }
+    },
+    "ravager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/ravager": true
+            }
+          }
+        }
+      }
+    },
+    "silverfish": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/silverfish": true
+            }
+          }
+        }
+      }
+    },
+    "skeleton": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/skeleton": true
+            }
+          }
+        }
+      }
+    },
+    "slime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/slime": true
+            }
+          }
+        }
+      }
+    },
+    "spider": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/spider": true
+            }
+          }
+        }
+      }
+    },
+    "stray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/stray": true
+            }
+          }
+        }
+      }
+    },
+    "vex": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/vex": true
+            }
+          }
+        }
+      }
+    },
+    "vindicator": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/vindicator": true
+            }
+          }
+        }
+      }
+    },
+    "witch": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/witch": true
+            }
+          }
+        }
+      }
+    },
+    "zombie": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/zombie": true
+            }
+          }
+        }
+      }
+    },
+    "aggressive": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/aggressive": true
+            }
+          }
+        }
+      }
+    },
+    "panda_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/brown": true
+            }
+          }
+        }
+      }
+    },
+    "lazy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/lazy": true
+            }
+          }
+        }
+      }
+    },
+    "normal": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/normal": true
+            }
+          }
+        }
+      }
+    },
+    "playful": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/playful": true
+            }
+          }
+        }
+      }
+    },
+    "weak": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/weak": true
+            }
+          }
+        }
+      }
+    },
+    "worried": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/panda/worried": true
+            }
+          }
+        }
+      }
+    },
+    "parrot_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/parrot/blue": true
+            }
+          }
+        }
+      }
+    },
+    "parrot_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/parrot/gray": true
+            }
+          }
+        }
+      }
+    },
+    "green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/parrot/green": true
+            }
+          }
+        }
+      }
+    },
+    "red_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/parrot/red_blue": true
+            }
+          }
+        }
+      }
+    },
+    "yellow_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/parrot/yellow_blue": true
+            }
+          }
+        }
+      }
+    },
+    "ocelot": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/jungle/ocelot": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/trader_llama/brown": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_creamy": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/trader_llama/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/trader_llama/gray": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/trader_llama/white": true
+            }
+          }
+        }
+      }
+    },
+    "mooshroom_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/mooshroom/red": true
+            }
+          }
+        }
+      }
+    },
+    "mooshroom_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/mooshroom/brown": true
+            }
+          }
+        }
+      }
+    },
+    "blaze": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/blaze": true
+            }
+          }
+        }
+      }
+    },
+    "ghast": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/ghast": true
+            }
+          }
+        }
+      }
+    },
+    "hoglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/hoglin": true
+            }
+          }
+        }
+      }
+    },
+    "magma_cube": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/magma_cube": true
+            }
+          }
+        }
+      }
+    },
+    "piglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/piglin": true
+            }
+          }
+        }
+      }
+    },
+    "strider": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/strider": true
+            }
+          }
+        }
+      }
+    },
+    "zoglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/zoglin": true
+            }
+          }
+        }
+      }
+    },
+    "zombified_piglin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/nether/zombified_piglin": true
+            }
+          }
+        }
+      }
+    },
+    "allay": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/allay": true
+            }
+          }
+        }
+      }
+    },
+    "armadillo": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/armadillo": true
+            }
+          }
+        }
+      }
+    },
+    "bat": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/bat": true
+            }
+          }
+        }
+      }
+    },
+    "bee": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/bee": true
+            }
+          }
+        }
+      }
+    },
+    "camel": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/camel": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/chicken/warm": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/chicken/cold": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/chicken/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "cow_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/cow/cold": true
+            }
+          }
+        }
+      }
+    },
+    "cow_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/cow/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "cow_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/cow/warm": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/happy_ghast": true
+            }
+          }
+        }
+      }
+    },
+    "pig_cold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/pig/cold": true
+            }
+          }
+        }
+      }
+    },
+    "pig_temperate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/pig/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "pig_warm": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/pig/warm": true
+            }
+          }
+        }
+      }
+    },
+    "polar_bear": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/polar_bear": true
+            }
+          }
+        }
+      }
+    },
+    "skeleton_horse": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/skeleton_horse": true
+            }
+          }
+        }
+      }
+    },
+    "sniffer": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/sniffer": true
+            }
+          }
+        }
+      }
+    },
+    "wandering_trader": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/wandering_trader": true
+            }
+          }
+        }
+      }
+    },
+    "rabbit_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/black": true
+            }
+          }
+        }
+      }
+    },
+    "rabbit_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/brown": true
+            }
+          }
+        }
+      }
+    },
+    "rabbit_gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/gold": true
+            }
+          }
+        }
+      }
+    },
+    "rabbit_salt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/salt": true
+            }
+          }
+        }
+      }
+    },
+    "rabbit_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/white": true
+            }
+          }
+        }
+      }
+    },
+    "white_splotched": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/white_splotched": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/black": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/blue": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/brown": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/gray": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/green": true
+            }
+          }
+        }
+      }
+    },
+    "light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/lime": true
+            }
+          }
+        }
+      }
+    },
+    "magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/orange": true
+            }
+          }
+        }
+      }
+    },
+    "pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/pink": true
+            }
+          }
+        }
+      }
+    },
+    "purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/purple": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/red": true
+            }
+          }
+        }
+      }
+    },
+    "sheep_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/white": true
+            }
+          }
+        }
+      }
+    },
+    "yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/sheep/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/desert_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_desert_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/desert/weaponsmith": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/jungle_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_jungle_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/jungle/weaponsmith": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/armorer_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/butcher_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/cartographer_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/cleric_villager": true
+            }
+          }
+        }
+      }
+    },
+    "plains_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/farmer_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/fisherman_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/fletcher_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/leatherworker_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/librarian_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/mason_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/nitwit_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/shepherd_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/toolsmith_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/plains/weaponsmith_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/savanna_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_savanna_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/savanna/weaponsmith": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/snow_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_snow_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/snow/weaponsmith": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/swamp_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_swamp_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/swamp/weaponsmith": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/armorer": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/butcher": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/cartographer": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/cleric": true
+            }
+          }
+        }
+      }
+    },
+    "taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/taiga_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/farmer": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/fisherman": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/fletcher": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/leatherworker": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/librarian": true
+            }
+          }
+        }
+      }
+    },
+    "mason_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/mason": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/nitwit": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/shepherd": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/toolsmith": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_taiga_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/villager/taiga/weaponsmith": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/armorer_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/butcher_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/cartographer_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/cleric_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/farmer_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/fisherman_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/fletcher_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/leatherworker_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/librarian_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/mason_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/nitwit_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/shepherd_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/toolsmith_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_desert_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/desert/weaponsmith_desert_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/armorer_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/butcher_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/cartographer_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/cleric_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/farmer_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/fisherman_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/fletcher_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/leatherworker_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/librarian_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/mason_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/nitwit_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/shepherd_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/toolsmith_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/weaponsmith_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/armorer_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/butcher_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/cartographer_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/cleric_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "plains_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/farmer_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/fisherman_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/fletcher_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/leatherworker_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/librarian_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/mason_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/nitwit_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/shepherd_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/toolsmith_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/plains/weaponsmith_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/armorer_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/butcher_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/cartographer_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/cleric_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/farmer_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/fisherman_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/fletcher_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/leatherworker_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/librarian_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/mason_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/nitwit_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/shepherd_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/toolsmith_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_savanna_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/savanna/weaponsmith_savanna_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/armorer_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/butcher_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/cartographer_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/cleric_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/farmer_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/fisherman_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/fletcher_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/leatherworker_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/librarian_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/mason_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/nitwit_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/shepherd_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/toolsmith_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_snow_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/snow/weaponsmith_snow_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/armorer_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/butcher_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/cartographer_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/cleric_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/farmer_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/fisherman_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/fletcher_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/leatherworker_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/librarian_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/mason_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/nitwit_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/shepherd_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/toolsmith_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_swamp_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/swamp/weaponsmith_swamp_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "armorer_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/armorer_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/butcher_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/cartographer_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/cleric_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/farmer_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/fisherman_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/fletcher_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/leatherworker_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/librarian_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/mason_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/nitwit_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/shepherd_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/toolsmith_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_taiga_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/taiga/weaponsmith_taiga_zombie_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

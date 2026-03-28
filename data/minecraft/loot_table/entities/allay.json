@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "mobheads:vanilla_entities/allay"
+          "value": "mob_heads:vanilla_entities/allay"
         }
       ],
       "conditions": [
@@ -19,7 +19,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&mobheads"
+                  "name": "&mob_heads"
                 },
                 "score": "jodek.loaded"
               },
@@ -34,7 +34,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "mobheads:entities/allay"
+          "value": "mob_heads:entities/allay"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "nametag:name_tag"
+          "value": "name_tag:name_tag"
         }
       ]
     },
@@ -52,7 +52,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "nametag:vanilla_entities/allay"
+          "value": "name_tag:vanilla_entities/allay"
         }
       ],
       "conditions": [
@@ -65,7 +65,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&nametag"
+                  "name": "&name_tag"
                 },
                 "score": "jodek.loaded"
               },
@@ -77,7 +77,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&mobheads"
+                  "name": "&mob_heads"
                 },
                 "score": "jodek.loaded"
               },

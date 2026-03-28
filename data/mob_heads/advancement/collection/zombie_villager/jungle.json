@@ -1,0 +1,255 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:jungle_log"
+    },
+    "title": {
+      "translate": "biome.minecraft.jungle",
+      "fallback": "Jungle",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie_villager",
+          "fallback": "Zombie Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "biome.minecraft.jungle",
+          "fallback": "Jungle"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.zombie_villager",
+          "fallback": "Zombie Villager"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/zombie_villager",
+  "criteria": {
+    "armorer_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/armorer_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "butcher_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/butcher_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cartographer_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/cartographer_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "cleric_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/cleric_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "farmer_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/farmer_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fisherman_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/fisherman_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "fletcher_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/fletcher_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "leatherworker_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/leatherworker_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "librarian_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/librarian_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "mason_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/mason_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "nitwit_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/nitwit_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "shepherd_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/shepherd_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "toolsmith_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/toolsmith_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    },
+    "weaponsmith_jungle_zombie_villager": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/zombie_villager/jungle/weaponsmith_jungle_zombie_villager": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

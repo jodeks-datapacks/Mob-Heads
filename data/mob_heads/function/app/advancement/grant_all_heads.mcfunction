@@ -1,0 +1,1 @@
+advancement grant @s from mob_heads:collection/root

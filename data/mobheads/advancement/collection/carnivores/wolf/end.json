@@ -1,8 +1,0 @@
-{
-  "criteria": {
-    "end": {
-      "trigger": "minecraft:location"
-    }
-  },
-  "parent": "mobheads:collection/carnivores/wolf/woods"
-}

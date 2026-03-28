@@ -14,7 +14,7 @@
       }
     },
     "title": {
-      "translate": "mobheads.advancement.title",
+      "translate": "mob_heads.advancement.title",
       "fallback": "Jodek's Datapacks",
       "extra": [
         {
@@ -24,7 +24,7 @@
     },
     "description": [
       {
-        "translate": "mobheads.advancement.desc",
+        "translate": "mob_heads.advancement.desc",
         "fallback": "Creator of vanilla friendly datapacks",
         "color": "white"
       },
@@ -42,11 +42,28 @@
     "background": "minecraft:block/flowering_azalea_leaves",
     "frame": "challenge",
     "show_toast": false,
-    "announce_to_chat": false
+    "announce_to_chat": false,
+    "hidden": true
   },
   "criteria": {
     "tick": {
-      "trigger": "minecraft:tick"
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&mob_heads_advancements"
+              },
+              "score": "jodek.config"
+            },
+            "range": 1
+          }
+        ]
+      }
     }
   }
 }

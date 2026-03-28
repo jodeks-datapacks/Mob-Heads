@@ -1,2 +1,0 @@
-execute unless function nametag:app/setup run scoreboard players set &nametag jodek.loaded 0
-execute unless function shulkertwoshells:app/setup run scoreboard players set &shulkertwoshells jodek.loaded 0

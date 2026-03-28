@@ -1,6 +1,6 @@
 {
   "values": [
-    "mobheads:app/setup",
-    "mobheads:app/load_message"
+    "mob_heads:app/setup",
+    "mob_heads:app/load_message"
   ]
 }

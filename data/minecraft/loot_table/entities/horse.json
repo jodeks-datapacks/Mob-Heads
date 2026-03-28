@@ -6,26 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "mobheads:vanilla_entities/horse"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:any_of",
-          "terms": [
-            {
-              "condition": "minecraft:value_check",
-              "value": {
-                "type": "minecraft:score",
-                "target": {
-                  "type": "minecraft:fixed",
-                  "name": "&mobheads"
-                },
-                "score": "jodek.loaded"
-              },
-              "range": 1
-            }
-          ]
+          "value": "mob_heads:vanilla_entities/horse"
         }
       ]
     },
@@ -34,7 +15,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "mobheads:entities/horse"
+          "value": "mob_heads:entities/horse"
         }
       ]
     },
@@ -43,7 +24,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "nametag:name_tag"
+          "value": "name_tag:name_tag"
         }
       ]
     },
@@ -52,7 +33,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "nametag:vanilla_entities/horse"
+          "value": "name_tag:vanilla_entities/horse"
         }
       ],
       "conditions": [
@@ -65,7 +46,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&nametag"
+                  "name": "&name_tag"
                 },
                 "score": "jodek.loaded"
               },
@@ -77,7 +58,7 @@
                 "type": "minecraft:score",
                 "target": {
                   "type": "minecraft:fixed",
-                  "name": "&mobheads"
+                  "name": "&mob_heads"
                 },
                 "score": "jodek.loaded"
               },
