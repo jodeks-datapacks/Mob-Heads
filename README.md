@@ -1,44 +1,36 @@
 <div align="center">
   
-![minecraft datapack mob heads mod baby mobs minecraft mob heads](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/mob_headsv3.png)
+![minecraft datapack mob heads mod baby mobs minecraft mob heads](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/mob_heads.png)
 
 </div>
 
 <div align="center">
 
-[![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
-[![matrix - datapacks matrix - jodeks datapacks matrix](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
-[![armor stand arms minecraft datapack github issues](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Issues.png)](https://github.com/jodeks-datapacks/Armor-Stand-Arms/issues)&nbsp;&nbsp;
-[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
-[![github sponsor jodek donation datapacks minecraft](https://raw.githubusercontent.com/jodeks-datapacks/Assets/main/uploads/GH_Sponsor_Pink.png)](https://github.com/sponsors/Jodekq)
+[![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![matrix - datapacks matrix - jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![armor stand arms minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/mob-heads/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](
+https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek donation datapacks minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
+
+</div>
+
+<div align="center">
+  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xsZPlTAnR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 ## Features
-**1.** Adds a head for every mob and mob variant in the game
---> over 300 different heads
+**1.** 300+ unique heads --> every mob and variant in the game
 
-**2.** Custom sound for all heads when placed on note blocks
+**2.** Custom note block sounds for all heads
 
-**3.** Config to choose if heads drop when the mob was killed by a player or killed by a charged creeper
+**3.** Advancement collection to track your progress
 
-**4.** [Custom chat notifications when a head drops](#to-change-drop-rates-rarities-and-drop-messages:~:text=To%20change%20drop%20rates%2C%20rarities%20and%20drop%20messages)
+**4.** Chat notifications when a head drops
 
-**5.** [Easy to use config for drop rates and rarities](#to-change-drop-rates-rarities-and-drop-messages:~:text=To%20change%20drop%20rates%2C%20rarities%20and%20drop%20messages)
-
-**6.** [1.21.9+] Get heads with `/trigger get_mob_head`
-
-**7.** [1.21.5+] Advancement collection to see what heads you've collected (updates when you pick up a head) 
-
-**8.** Fully translated with my [Jodeks translations](https://modrinth.com/resourcepack/jodeks-translations) Resourecpack (German, French, Spanish, Japan, Chinese, Russian)
-
-**Looting doesn't affect the drop rates**
-
-[Default Drop Rates](https://modrinth.com/datapack/mob-heads#:~:text=run%20/reload%20afterwards-,Default%20drop%20rates,-%23)
-
-## Showcase
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xsZPlTAnR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**5.** Fully translated with my [Jodeks translations](https://modrinth.com/resourcepack/jodeks-translations) Resourecpack (German, French, Spanish, Japan, Chinese, Russian)
 
 ## Config
 
@@ -47,18 +39,18 @@ Run ingame:
 ```
 /trigger mob_heads.config
 ```
+- Choose between player kill or charged creeper drops
+- Adjust drop rates
+- Change drop messages
 
----
 
-### [1.21.5 and below] To change drop rates, rarities and drop messages
+If you want to give yourself a head:
 
-**make sure to unzip the datapack before**
+```
+/trigger get_mob_head
+```
 
-Head to: `mob_heads/data/mob_heads/function/config`
-
-and then edit the specific file (drop _rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
-
-don't forget to save the file and run /reload afterwards
+> Looting does not affect drop rates
 
 ## Default drop rates
 
@@ -156,6 +148,16 @@ don't forget to save the file and run /reload afterwards
 | 90    | Zombie Villager                                 | 3%            |
 | 91    | Zombie                                          | 0.1%          |
 | 92    | Zombified Piglin                                | 0.1%          |
+
+### Config [1.21.5 and below] To change drop rates, rarities and drop messages
+
+**make sure to unzip the datapack before**
+
+Head to: `MobHeads/data/mobheads/function/config`
+
+and then edit the specific file (drop _rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
+
+don't forget to save the file and run /reload afterwards
 
 ## Guides
 
