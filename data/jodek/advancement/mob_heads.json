@@ -32,18 +32,6 @@
         "color": "green"
       },
       {
-        "text": "\n"
-      },
-      {
-        "translate": "jodek.game_version",
-        "fallback": "Game version: ",
-        "color": "dark_green"
-      },
-      {
-        "text": "1.21.6+",
-        "color": "green"
-      },
-      {
         "text": "\n\n"
       },
       {
