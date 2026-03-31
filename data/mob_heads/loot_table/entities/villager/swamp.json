@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/armorer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/butcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/cartographer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/cleric"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/farmer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/fisherman"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/librarian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/shepherd"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/toolsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/swamp/weaponsmith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/armorer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/butcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/cartographer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/cleric"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/farmer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/fisherman"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/librarian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/shepherd"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/toolsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/taiga/weaponsmith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/armorer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/butcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/cartographer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/cleric"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/farmer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/fisherman"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/librarian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/shepherd"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/toolsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/zombie_villager/taiga/weaponsmith"
+        }
+      ]
+    }
+  ]
+}

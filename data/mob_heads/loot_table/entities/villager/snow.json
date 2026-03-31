@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/armorer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/butcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/cartographer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/cleric"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/farmer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/fisherman"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/librarian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/shepherd"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/toolsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/snow/weaponsmith"
+        }
+      ]
+    }
+  ]
+}
