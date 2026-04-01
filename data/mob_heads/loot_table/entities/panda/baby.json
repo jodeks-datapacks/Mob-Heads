@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/aggressive"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/brown"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/lazy"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/playful"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/weak"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/panda/baby/worried"
+        }
+      ]
+    }
+  ]
+}

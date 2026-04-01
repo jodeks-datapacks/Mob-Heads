@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/fox/adult/red"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/fox/adult/snow"
+        }
+      ]
+    }
+  ]
+}

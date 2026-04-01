@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/desert"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/jungle"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/plains"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/savanna"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/snow"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/swamp"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/baby/taiga"
+        }
+      ]
+    }
+  ]
+}

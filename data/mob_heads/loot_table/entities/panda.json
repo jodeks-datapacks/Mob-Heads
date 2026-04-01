@@ -6,31 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/panda/aggressive"
+          "value": "mob_heads:entities/panda/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/panda/brown"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/panda/lazy"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/panda/normal"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/panda/playful"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/panda/weak"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/panda/worried"
+          "value": "mob_heads:entities/panda/baby"
         }
       ]
     }

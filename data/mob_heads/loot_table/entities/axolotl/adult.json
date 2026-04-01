@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/axolotl/adult/blue"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/axolotl/adult/cyan"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/axolotl/adult/gold"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/axolotl/adult/leucistic"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/axolotl/adult/wild"
+        }
+      ]
+    }
+  ]
+}

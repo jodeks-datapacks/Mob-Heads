@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/left_horn"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/no_horns"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/right_horn"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/screaming_left_horn"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/screaming_no_horns"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/screaming_normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/goat/adult/screaming_right_horn"
+        }
+      ]
+    }
+  ]
+}

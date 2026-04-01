@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cow/baby/cold"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cow/baby/temperate"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cow/baby/warm"
+        }
+      ]
+    }
+  ]
+}

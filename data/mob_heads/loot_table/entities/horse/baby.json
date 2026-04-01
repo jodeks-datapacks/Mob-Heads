@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/black"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/brown"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/chestnut"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/creamy"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/dark_brown"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/gray"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/horse/baby/white"
+        }
+      ]
+    }
+  ]
+}

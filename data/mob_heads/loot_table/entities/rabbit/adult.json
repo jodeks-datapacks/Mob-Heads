@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/black"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/brown"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/evil"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/gold"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/salt"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/toast"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/white"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/rabbit/adult/white_splotched"
+        }
+      ]
+    }
+  ]
+}

@@ -6,35 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/black"
+          "value": "mob_heads:entities/rabbit/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/brown"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/evil"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/gold"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/salt"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/toast"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/white"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/white_splotched"
+          "value": "mob_heads:entities/rabbit/baby"
         }
       ]
     }

@@ -6,47 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/cat/all_black"
+          "value": "mob_heads:entities/cat/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/cat/black"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/british_shorthair"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/calico"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/jellie"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/persian"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/ragdoll"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/red"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/siamese"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/tabby"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/white"
+          "value": "mob_heads:entities/cat/baby"
         }
       ]
     }

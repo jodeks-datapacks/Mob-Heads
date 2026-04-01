@@ -6,35 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/goat/goat"
+          "value": "mob_heads:entities/goat/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/goat/goat_left_horn"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/goat/goat_right_horn"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/goat/goat_no_horns"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/goat/screaming_goat"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/goat/screaming_goat_left_horn"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/goat/screaming_goat_right_horn"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/goat/screaming_goat_right_horn"
+          "value": "mob_heads:entities/goat/baby"
         }
       ]
     }

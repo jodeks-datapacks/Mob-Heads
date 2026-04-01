@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/ashen"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/black"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/chestnut"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/pale"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/rusty"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/snowy"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/spotted"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/striped"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/wolf/baby/woods"
+        }
+      ]
+    }
+  ]
+}

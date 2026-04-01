@@ -6,11 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/fox/red"
+          "value": "mob_heads:entities/fox/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/fox/snow"
+          "value": "mob_heads:entities/fox/baby"
         }
       ]
     }

@@ -6,19 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/bee/angry"
+          "value": "mob_heads:entities/bee/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/bee/angry_pollen"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/bee/normal"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/bee/pollen"
+          "value": "mob_heads:entities/bee/baby"
         }
       ]
     }

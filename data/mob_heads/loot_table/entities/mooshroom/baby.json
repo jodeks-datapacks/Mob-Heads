@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+                {
+          "type": "loot_table",
+          "value": "mob_heads:entities/mooshroom/baby/brown"
+        },        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/mooshroom/baby/red"
+        }
+      ]
+    }
+  ]
+}

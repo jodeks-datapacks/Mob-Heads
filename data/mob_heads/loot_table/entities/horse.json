@@ -6,31 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/horse/black"
+          "value": "mob_heads:entities/horse/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/horse/brown"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/horse/chestnut"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/horse/creamy"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/horse/dark_brown"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/horse/gray"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/horse/white"
+          "value": "mob_heads:entities/horse/baby"
         }
       ]
     }

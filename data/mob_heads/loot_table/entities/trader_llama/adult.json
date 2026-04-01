@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/trader_llama/adult/brown"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/trader_llama/adult/creamy"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/trader_llama/adult/gray"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/trader_llama/adult/white"
+        }
+      ]
+    }
+  ]
+}

@@ -6,39 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/wolf/ashen"
+          "value": "mob_heads:entities/wolf/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/wolf/black"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/chestnut"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/pale"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/rusty"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/snowy"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/spotted"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/striped"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/wolf/woods"
+          "value": "mob_heads:entities/wolf/baby"
         }
       ]
     }

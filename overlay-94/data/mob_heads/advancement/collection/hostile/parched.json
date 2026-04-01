@@ -14,7 +14,7 @@
       }
     },
     "title": {
-      "translate": "entity.minecraft.parched_breeze",
+      "translate": "entity.minecraft.parched",
       "fallback": "Parched",
       "extra": [
         {

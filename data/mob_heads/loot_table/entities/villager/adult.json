@@ -1,0 +1,430 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/weaponsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/weaponsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/weaponsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/savanna/weaponsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/snow/weaponsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/swamp/weaponsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/armorer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/butcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/cartographer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/cleric"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/farmer"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/fisherman"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/fletcher"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/leatherworker"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/librarian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/weaponsmith"
+        }
+      ]
+    }
+  ]
+}

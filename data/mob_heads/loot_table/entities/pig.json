@@ -6,15 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/pig/cold"
+          "value": "mob_heads:entities/pig/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/pig/temperate"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/pig/warm"
+          "value": "mob_heads:entities/pig/baby"
         }
       ]
     }

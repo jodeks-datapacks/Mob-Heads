@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/bee/baby/angry"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/bee/baby/angry_pollen"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/bee/baby/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/bee/baby/pollen"
+        }
+      ]
+    }
+  ]
+}

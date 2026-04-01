@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/all_black"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/black"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/british_shorthair"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/calico"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/jellie"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/persian"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/ragdoll"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/red"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/siamese"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/tabby"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/cat/adult/white"
+        }
+      ]
+    }
+  ]
+}

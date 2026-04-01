@@ -6,23 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/axolotl/blue"
+          "value": "mob_heads:entities/axolotl/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/axolotl/cyan"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/axolotl/gold"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/axolotl/leucistic"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/axolotl/wild"
+          "value": "mob_heads:entities/axolotl/baby"
         }
       ]
     }

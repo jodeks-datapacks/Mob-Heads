@@ -6,15 +6,11 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/cow/cold"
+          "value": "mob_heads:entities/cow/adult"
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/cow/temperate"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cow/warm"
+          "value": "mob_heads:entities/cow/baby"
         }
       ]
     }
