@@ -7,10 +7,6 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/cat/adult"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/cat/baby"
         }
       ]
     }

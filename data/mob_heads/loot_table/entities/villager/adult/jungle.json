@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/jungle/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/jungle/weaponsmith"
         }
       ]
     }

@@ -4,45 +4,65 @@
     {
       "rolls": 1,
       "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/armorer"
+{
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/plains/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/plains/weaponsmith"
         }
       ]
     }

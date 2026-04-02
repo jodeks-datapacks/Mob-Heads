@@ -6,19 +6,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/llama/brown"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/llama/gray"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/llama/white"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/llama/creamy"
+          "value": "mob_heads:entities/llama/adult"
         }
       ]
     }

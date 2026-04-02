@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/snow/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/snow/weaponsmith"
         }
       ]
     }

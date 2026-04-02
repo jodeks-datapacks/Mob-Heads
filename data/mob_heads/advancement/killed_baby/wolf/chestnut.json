@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "killed_wolf": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wolf",
+              "flags": {
+                "is_baby": true
+              },
+              "components": {
+                "minecraft:wolf/variant": "chestnut"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mob_heads:app/baby_heads/wolf/chestnut"
+  }
+}

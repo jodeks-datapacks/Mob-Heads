@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/taiga/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/taiga/weaponsmith"
         }
       ]
     }

@@ -7,10 +7,6 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/polar_bear/adult"
-        },
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/polar_bear/baby"
         }
       ]
     }

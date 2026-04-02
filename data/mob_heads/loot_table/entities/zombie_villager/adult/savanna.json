@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/savanna/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/savanna/weaponsmith"
         }
       ]
     }

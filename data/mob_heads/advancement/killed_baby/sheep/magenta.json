@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "killed_sheep": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:sheep",
+              "flags": {
+                "is_baby": true
+              },
+              "components": {
+                "minecraft:sheep/color": "magenta"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mob_heads:app/baby_heads/sheep/magenta"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "killed_cat": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:cat",
+              "flags": {
+                "is_baby": true
+              },
+              "components": {
+                "minecraft:cat/variant": "british_shorthair"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mob_heads:app/baby_heads/cat/british_shorthair"
+  }
+}

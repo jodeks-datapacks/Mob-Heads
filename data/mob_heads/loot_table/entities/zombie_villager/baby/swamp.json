@@ -5,44 +5,236 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/armorer"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/butcher"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/cartographer"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/cleric"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/farmer"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/fisherman"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/librarian"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/shepherd"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/toolsmith"
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/swamp/weaponsmith"
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjViODA5NDNhMTYzMzljOGI3ZTM2NzIxMmM5NjZjNjczNTM5ZmY4OWQyZDFiZTAwN2FkOGJmMTJmZTgzMzUxZiJ9fX0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "white",
+                "translate": "entity.minecraft.villager.armorer",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&zombie_villager"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 0
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "yellow",
+                "translate": "entity.minecraft.villager.armorer",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&zombie_villager"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 1
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "aqua",
+                "translate": "entity.minecraft.villager.armorer",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&zombie_villager"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 2
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "dark_purple",
+                "translate": "entity.minecraft.villager.armorer",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&zombie_villager"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 3
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "gold",
+                "translate": "entity.minecraft.villager.armorer",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&zombie_villager"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 4
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "green",
+                "translate": "entity.minecraft.villager.armorer",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&zombie_villager"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 5
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.zombie_villager.ambient"
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mob_heads:root",
+                "path": "data.zombie_villager"
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{VillagerData:{type:\"minecraft:swamp\"}}"
+              }
+            }
+          ]
         }
       ]
     }

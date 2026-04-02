@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/zombie_villager/jungle/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/zombie_villager/adult/jungle/weaponsmith"
         }
       ]
     }

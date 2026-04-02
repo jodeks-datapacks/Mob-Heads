@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/desert/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/desert/weaponsmith"
         }
       ]
     }

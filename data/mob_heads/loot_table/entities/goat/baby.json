@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/goat/baby/goat"
+          "value": "mob_heads:entities/goat/baby/normal"
         }
       ]
     }

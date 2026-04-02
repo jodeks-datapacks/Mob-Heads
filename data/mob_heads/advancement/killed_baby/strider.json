@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_strider": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:strider",
+              "flags": {
+                "is_baby": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mob_heads:app/baby_heads/strider"
+  }
+}

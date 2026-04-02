@@ -5,44 +5,64 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/armorer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/armorer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/butcher"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/butcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/cartographer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/cartographer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/cleric"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/cleric"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/farmer"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/farmer"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/fisherman"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/fisherman"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/librarian"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/fletcher"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/shepherd"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/leatherworker"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/toolsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/librarian"
         },
         {
-          "type": "minecraft:loot_table",
-          "value": "mob_heads:entities/villager/taiga/weaponsmith"
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/mason"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/nitwit"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/normal"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/shepherd"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/toolsmith"
+        },
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/villager/adult/taiga/weaponsmith"
         }
       ]
     }
