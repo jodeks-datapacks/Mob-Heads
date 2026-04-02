@@ -37,6 +37,13 @@
                     "text": " "
                   },
                   {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
                     "translate": "mob_heads.head",
                     "fallback": "Head"
                   }
@@ -64,6 +71,13 @@
                 "translate": "entity.minecraft.horse",
                 "italic": false,
                 "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
                   {
                     "text": " "
                   },
@@ -99,6 +113,13 @@
                     "text": " "
                   },
                   {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
                     "translate": "mob_heads.head",
                     "fallback": "Head"
                   }
@@ -126,6 +147,13 @@
                 "translate": "entity.minecraft.horse",
                 "italic": false,
                 "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
                   {
                     "text": " "
                   },
@@ -161,6 +189,13 @@
                     "text": " "
                   },
                   {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
                     "translate": "mob_heads.head",
                     "fallback": "Head"
                   }
@@ -188,6 +223,13 @@
                 "translate": "entity.minecraft.horse",
                 "italic": false,
                 "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
                   {
                     "text": " "
                   },

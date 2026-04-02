@@ -19,7 +19,7 @@
                   "properties": [
                     {
                       "name": "textures",
-                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBhM2U2Yzk2MWZiNGQ2ZWZjZjQ1NzY0NTVmY2QyN2JjNzg0MDEyNTZmZGYzOWIyNTQ4OGYzMTk4NGFmOTZiYSJ9fX0="
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZkMWEwNzk5NTYxMmVhMzE1MDFlNWZlYjZlYjg5MzI3N2I3NDZiZWI1YTA3ZDg3Y2Y4M2Q3Mzc2ZDY1NmYyNSJ9fX0="
                     }
                   ]
                 }
@@ -32,6 +32,13 @@
                 "translate": "entity.minecraft.villager.armorer",
                 "italic": false,
                 "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
                   {
                     "text": " "
                   },
@@ -67,6 +74,13 @@
                     "text": " "
                   },
                   {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
                     "translate": "mob_heads.head",
                     "fallback": "Head"
                   }
@@ -94,6 +108,13 @@
                 "translate": "entity.minecraft.villager.armorer",
                 "italic": false,
                 "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
                   {
                     "text": " "
                   },
@@ -129,6 +150,13 @@
                     "text": " "
                   },
                   {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
                     "translate": "mob_heads.head",
                     "fallback": "Head"
                   }
@@ -160,6 +188,13 @@
                     "text": " "
                   },
                   {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
                     "translate": "mob_heads.head",
                     "fallback": "Head"
                   }
@@ -187,6 +222,13 @@
                 "translate": "entity.minecraft.villager.armorer",
                 "italic": false,
                 "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.baby",
+                    "fallback": "Baby"
+                  },
                   {
                     "text": " "
                   },
