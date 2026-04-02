@@ -4,5 +4,5 @@
          "trigger": "minecraft:location"
       }
    },
-   "parent": "mob_heads:collection/zombie_villager/snow/weaponsmith_snow_zombie_villager"
+   "parent": "mob_heads:collection/zombie_villager/snow/zombie_villager"
 }

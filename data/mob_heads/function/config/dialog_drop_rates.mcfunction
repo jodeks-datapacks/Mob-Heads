@@ -1151,7 +1151,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"d_r_zombie_villager",\
+      key:"d",\
       label: {\
         "translate": "entity.minecraft.zombie_villager",\
         "extra": [\

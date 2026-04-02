@@ -1047,7 +1047,7 @@ type:"minecraft:multi_action",\
       start: 0,\
       end: 5,\
       step: 1,\
-      key:"dialog_rarity_zombie_villager",\
+      key:"dialog",\
       label: {\
         "translate": "entity.minecraft.zombie_villager",\
       },\

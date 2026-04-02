@@ -79,7 +79,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/savanna/toolsmith",
+	"parent": "mob_heads:collection/villager/savanna/villager",
 	"criteria": {
 		"weaponsmith_savanna_villager": {
 			"trigger": "minecraft:inventory_changed",

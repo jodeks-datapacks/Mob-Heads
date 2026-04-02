@@ -65,7 +65,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/taiga/nitwit",
+	"parent": "mob_heads:collection/villager/taiga/toolsmith",
 	"criteria": {
 		"taiga_villager": {
 			"trigger": "minecraft:inventory_changed",

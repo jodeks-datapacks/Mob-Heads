@@ -79,7 +79,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/swamp/toolsmith",
+	"parent": "mob_heads:collection/villager/swamp/villager",
 	"criteria": {
 		"weaponsmith_swamp_villager": {
 			"trigger": "minecraft:inventory_changed",

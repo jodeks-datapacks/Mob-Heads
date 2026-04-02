@@ -115,7 +115,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/jungle/jungle_villager": true
+              "mob_heads:collection/villager/jungle/villager": true
             }
           }
         }

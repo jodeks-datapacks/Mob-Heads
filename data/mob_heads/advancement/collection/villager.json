@@ -101,7 +101,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/desert/desert_villager": true
+              "mob_heads:collection/villager/desert/villager": true
             }
           }
         }
@@ -296,7 +296,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/jungle/jungle_villager": true
+              "mob_heads:collection/villager/jungle/villager": true
             }
           }
         }
@@ -439,7 +439,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/armorer_villager": true
+              "mob_heads:collection/villager/plains/armorer": true
             }
           }
         }
@@ -452,7 +452,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/butcher_villager": true
+              "mob_heads:collection/villager/plains/butcher": true
             }
           }
         }
@@ -465,7 +465,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/cartographer_villager": true
+              "mob_heads:collection/villager/plains/cartographer": true
             }
           }
         }
@@ -478,7 +478,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/cleric_villager": true
+              "mob_heads:collection/villager/plains/cleric": true
             }
           }
         }
@@ -504,7 +504,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/farmer_villager": true
+              "mob_heads:collection/villager/plains/farmer": true
             }
           }
         }
@@ -517,7 +517,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/fisherman_villager": true
+              "mob_heads:collection/villager/plains/fisherman": true
             }
           }
         }
@@ -530,7 +530,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/fletcher_villager": true
+              "mob_heads:collection/villager/plains/fletcher": true
             }
           }
         }
@@ -543,7 +543,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/leatherworker_villager": true
+              "mob_heads:collection/villager/plains/leatherworker": true
             }
           }
         }
@@ -556,7 +556,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/librarian_villager": true
+              "mob_heads:collection/villager/plains/librarian": true
             }
           }
         }
@@ -569,7 +569,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/mason_villager": true
+              "mob_heads:collection/villager/plains/mason": true
             }
           }
         }
@@ -582,7 +582,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/nitwit_villager": true
+              "mob_heads:collection/villager/plains/nitwit": true
             }
           }
         }
@@ -595,7 +595,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/shepherd_villager": true
+              "mob_heads:collection/villager/plains/shepherd": true
             }
           }
         }
@@ -608,7 +608,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/toolsmith_villager": true
+              "mob_heads:collection/villager/plains/toolsmith": true
             }
           }
         }
@@ -621,7 +621,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/plains/weaponsmith_villager": true
+              "mob_heads:collection/villager/plains/weaponsmith": true
             }
           }
         }
@@ -686,7 +686,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/savanna/savanna_villager": true
+              "mob_heads:collection/villager/savanna/villager": true
             }
           }
         }
@@ -881,7 +881,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/snow/snow_villager": true
+              "mob_heads:collection/villager/snow/villager": true
             }
           }
         }
@@ -1076,7 +1076,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/swamp/swamp_villager": true
+              "mob_heads:collection/villager/swamp/villager": true
             }
           }
         }
@@ -1271,7 +1271,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/taiga/taiga_villager": true
+              "mob_heads:collection/villager/taiga/villager": true
             }
           }
         }

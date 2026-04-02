@@ -65,7 +65,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/jungle/nitwit",
+	"parent": "mob_heads:collection/villager/jungle/toolsmith",
 	"criteria": {
 		"jungle_villager": {
 			"trigger": "minecraft:inventory_changed",

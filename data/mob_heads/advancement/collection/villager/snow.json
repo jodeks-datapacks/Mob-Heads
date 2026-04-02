@@ -115,7 +115,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/villager/snow/snow_villager": true
+              "mob_heads:collection/villager/snow/villager": true
             }
           }
         }

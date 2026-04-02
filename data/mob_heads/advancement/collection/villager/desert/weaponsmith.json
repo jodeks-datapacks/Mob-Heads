@@ -79,7 +79,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/desert/toolsmith",
+	"parent": "mob_heads:collection/villager/desert/villager",
 	"criteria": {
 		"weaponsmith_desert_villager": {
 			"trigger": "minecraft:inventory_changed",

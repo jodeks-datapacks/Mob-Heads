@@ -79,7 +79,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/snow/villager",
+	"parent": "mob_heads:collection/villager/snow/nitwit",
 	"criteria": {
 		"shepherd_snow_villager": {
 			"trigger": "minecraft:inventory_changed",

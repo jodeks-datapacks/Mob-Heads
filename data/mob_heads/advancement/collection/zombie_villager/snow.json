@@ -63,7 +63,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/armorer_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/armorer": true
             }
           }
         }
@@ -76,7 +76,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/butcher_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/butcher": true
             }
           }
         }
@@ -89,7 +89,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/cartographer_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/cartographer": true
             }
           }
         }
@@ -102,7 +102,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/cleric_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/cleric": true
             }
           }
         }
@@ -115,7 +115,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/zombie_villager": true
             }
           }
         }
@@ -128,7 +128,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/farmer_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/farmer": true
             }
           }
         }
@@ -141,7 +141,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/fisherman_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/fisherman": true
             }
           }
         }
@@ -154,7 +154,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/fletcher_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/fletcher": true
             }
           }
         }
@@ -167,7 +167,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/leatherworker_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/leatherworker": true
             }
           }
         }
@@ -180,7 +180,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/librarian_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/librarian": true
             }
           }
         }
@@ -193,7 +193,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/mason_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/mason": true
             }
           }
         }
@@ -206,7 +206,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/nitwit_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/nitwit": true
             }
           }
         }
@@ -219,7 +219,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/shepherd_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/shepherd": true
             }
           }
         }
@@ -232,7 +232,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/toolsmith_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/toolsmith": true
             }
           }
         }
@@ -245,7 +245,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/snow/weaponsmith_snow_zombie_villager": true
+              "mob_heads:collection/zombie_villager/snow/weaponsmith": true
             }
           }
         }

@@ -4,5 +4,5 @@
          "trigger": "minecraft:location"
       }
    },
-   "parent": "mob_heads:collection/zombie_villager/swamp/weaponsmith_swamp_zombie_villager"
+   "parent": "mob_heads:collection/zombie_villager/swamp/zombie_villager"
 }

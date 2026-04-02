@@ -79,7 +79,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/plains/villager",
+	"parent": "mob_heads:collection/villager/plains/librarian",
 	"criteria": {
 		"mason_villager": {
 			"trigger": "minecraft:inventory_changed",

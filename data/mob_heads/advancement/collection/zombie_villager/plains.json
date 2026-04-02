@@ -63,7 +63,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/armorer_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/armorer": true
             }
           }
         }
@@ -76,7 +76,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/butcher_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/butcher": true
             }
           }
         }
@@ -89,7 +89,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/cartographer_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/cartographer": true
             }
           }
         }
@@ -102,7 +102,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/cleric_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/cleric": true
             }
           }
         }
@@ -128,7 +128,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/farmer_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/farmer": true
             }
           }
         }
@@ -141,7 +141,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/fisherman_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/fisherman": true
             }
           }
         }
@@ -154,7 +154,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/fletcher_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/fletcher": true
             }
           }
         }
@@ -167,7 +167,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/leatherworker_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/leatherworker": true
             }
           }
         }
@@ -180,7 +180,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/librarian_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/librarian": true
             }
           }
         }
@@ -193,7 +193,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/mason_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/mason": true
             }
           }
         }
@@ -206,7 +206,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/nitwit_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/nitwit": true
             }
           }
         }
@@ -219,7 +219,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/shepherd_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/shepherd": true
             }
           }
         }
@@ -232,7 +232,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/toolsmith_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/toolsmith": true
             }
           }
         }
@@ -245,7 +245,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/plains/weaponsmith_zombie_villager": true
+              "mob_heads:collection/zombie_villager/plains/weaponsmith": true
             }
           }
         }

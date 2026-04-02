@@ -65,7 +65,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/desert/cleric",
+	"parent": "mob_heads:collection/villager/desert/toolsmith",
 	"criteria": {
 		"desert_villager": {
 			"trigger": "minecraft:inventory_changed",

@@ -79,7 +79,7 @@
 		"announce_to_chat": true,
 		"hidden": false
 	},
-	"parent": "mob_heads:collection/villager/taiga/toolsmith",
+	"parent": "mob_heads:collection/villager/taiga/villager",
 	"criteria": {
 		"weaponsmith_taiga_villager": {
 			"trigger": "minecraft:inventory_changed",

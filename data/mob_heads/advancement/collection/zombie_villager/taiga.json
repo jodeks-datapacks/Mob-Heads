@@ -63,7 +63,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/armorer_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/armorer": true
             }
           }
         }
@@ -76,7 +76,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/butcher_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/butcher": true
             }
           }
         }
@@ -89,7 +89,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/cartographer_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/cartographer": true
             }
           }
         }
@@ -102,7 +102,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/cleric_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/cleric": true
             }
           }
         }
@@ -115,7 +115,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/zombie_villager": true
             }
           }
         }
@@ -128,7 +128,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/farmer_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/farmer": true
             }
           }
         }
@@ -141,7 +141,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/fisherman_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/fisherman": true
             }
           }
         }
@@ -154,7 +154,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/fletcher_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/fletcher": true
             }
           }
         }
@@ -167,7 +167,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/leatherworker_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/leatherworker": true
             }
           }
         }
@@ -180,7 +180,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/librarian_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/librarian": true
             }
           }
         }
@@ -193,7 +193,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/mason_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/mason": true
             }
           }
         }
@@ -206,7 +206,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/nitwit_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/nitwit": true
             }
           }
         }
@@ -219,7 +219,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/shepherd_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/shepherd": true
             }
           }
         }
@@ -232,7 +232,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/toolsmith_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/toolsmith": true
             }
           }
         }
@@ -245,7 +245,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/zombie_villager/taiga/weaponsmith_taiga_zombie_villager": true
+              "mob_heads:collection/zombie_villager/taiga/weaponsmith": true
             }
           }
         }

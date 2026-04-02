@@ -1,0 +1,190 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:tube_coral"
+    },
+    "title": {
+      "translate": "mob_heads.advancement.collection.aquatic",
+      "fallback": "Aquatic",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.advancement.collection.aquatic",
+          "fallback": "Aquatic"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/baby",
+  "criteria": {
+    "blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/blue": true
+            }
+          }
+        }
+      }
+    },
+    "cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "gold": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/gold": true
+            }
+          }
+        }
+      }
+    },
+    "leucistic": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/leucistic": true
+            }
+          }
+        }
+      }
+    },
+    "wild": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/wild": true
+            }
+          }
+        }
+      }
+    },
+    "drowned": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/drowned": true
+            }
+          }
+        }
+      }
+    },
+    "dolphin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/dolphin": true
+            }
+          }
+        }
+      }
+    },
+    "glow_squid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/glow_squid": true
+            }
+          }
+        }
+      }
+    },
+    "squid": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/squid": true
+            }
+          }
+        }
+      }
+    },
+    "turtle": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/turtle": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
