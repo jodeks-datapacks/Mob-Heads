@@ -256,7 +256,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.villager.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.villager.yes"
               }
             }
           ],

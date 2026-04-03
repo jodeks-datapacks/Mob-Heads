@@ -257,7 +257,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.llama.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.llama.spit"
               }
             }
           ],

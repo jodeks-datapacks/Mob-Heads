@@ -257,19 +257,11 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.goat.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.goat.horn_break"
               }
             }
           ],
           "conditions": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "minecraft:goat",
-                "nbt": "{HasLeftHorn:1b,HasRightHorn:1b,IsScreamingGoat:0b}"
-              }
-            },
             {
               "condition": "minecraft:random_chance",
               "chance": {

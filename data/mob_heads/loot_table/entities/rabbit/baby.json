@@ -22,10 +22,6 @@
         },
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/rabbit/baby/toast"
-        },
-        {
-          "type": "loot_table",
           "value": "mob_heads:entities/rabbit/baby/white"
         },
         {

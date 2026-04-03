@@ -257,7 +257,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.mooshroom.eat"
+                "minecraft:note_block_sound": "minecraft:entity.mooshroom.suspicious_milk"
               }
             }
           ],

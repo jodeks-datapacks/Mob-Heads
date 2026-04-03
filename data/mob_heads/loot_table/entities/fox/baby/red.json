@@ -257,7 +257,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.fox.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.fox.sleep"
               }
             }
           ],

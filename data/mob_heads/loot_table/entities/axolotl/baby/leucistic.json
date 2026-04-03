@@ -257,18 +257,17 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.axolotl.idle_air"
+                "minecraft:note_block_sound": "minecraft:entity.axolotl.idle_water"
               }
             }
           ],
           "conditions": [
             {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "components": {
-                  "minecraft:axolotl/variant": "lucy"
-                }
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mob_heads:root",
+                "path": "data.axolotl"
               }
             }
           ]

@@ -257,7 +257,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.cat.beg_for_food"
+                "minecraft:note_block_sound": "minecraft:entity.cat.purr"
               }
             }
           ],
