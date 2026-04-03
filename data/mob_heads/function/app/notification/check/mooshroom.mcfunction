@@ -1,7 +1,8 @@
-# red mooshroom variant
 execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.mooshroom.eat"}}}] \
   if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run function mob_heads:app/notification/dropped/mooshroom
 
-# brown mooshroom variant
 execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.mooshroom.convert"}}}] \
+  if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run function mob_heads:app/notification/dropped/mooshroom
+
+execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.mooshroom.suspicious_milk"}}}] \
   if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run function mob_heads:app/notification/dropped/mooshroom
