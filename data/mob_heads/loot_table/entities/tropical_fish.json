@@ -229,55 +229,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -506,55 +459,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -783,55 +689,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -1060,55 +919,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -1337,55 +1149,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -1614,55 +1379,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -1891,55 +1609,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -2168,55 +1839,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -2445,55 +2069,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -2722,55 +2299,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -2999,55 +2529,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -3276,55 +2759,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         },
@@ -3553,55 +2989,8 @@
               }
             },
             {
-              "condition": "minecraft:any_of",
-              "terms": [
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:killed_by_player"
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 1
-                    }
-                  ]
-                },
-                {
-                  "condition": "minecraft:all_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:damage_source_properties",
-                      "predicate": {
-                        "source_entity": {
-                          "type": "minecraft:creeper",
-                          "nbt": "{powered:1b}"
-                        }
-                      }
-                    },
-                    {
-                      "condition": "minecraft:value_check",
-                      "value": {
-                        "type": "minecraft:score",
-                        "target": {
-                          "type": "minecraft:fixed",
-                          "name": "&killed_by_player"
-                        },
-                        "score": "mob_heads.config"
-                      },
-                      "range": 0
-                    }
-                  ]
-                }
-              ]
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
             }
           ]
         }

@@ -17,6 +17,19 @@
     "frame": "challenge"
   },
   "criteria": {
+    "nautilus_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/nautilus": true
+            }
+          }
+        }
+      }
+    },
     "blue_baby": {
       "trigger": "minecraft:tick",
       "conditions": {

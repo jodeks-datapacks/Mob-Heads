@@ -1,24 +1,6 @@
 execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.ambient"}}}] \
-  if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run data modify entity @s Item.components."minecraft:custom_data" set value {mob_heads.checked_head:0b}
-
-execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.ambient","minecraft:custom_data":{mob_heads.checked_head:0b}}}}] \
-  if items entity @s contents player_head run data modify storage mob_heads:root data.entity set value zombie_nautilus
-
-execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.ambient","minecraft:custom_data":{mob_heads.checked_head:0b}}}}] \
-  if items entity @s contents player_head run function mob_heads:config/drop_messages with storage mob_heads:root data
-
-execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.ambient"}}}] \
-  if items entity @s contents player_head run data modify entity @s Item.components."minecraft:custom_data" set value {mob_heads.checked_head:1b}
+  if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run function mob_heads:app/notification/dropped/zombie_nautilus
 
 
 execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.dash"}}}] \
-  if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run data modify entity @s Item.components."minecraft:custom_data" set value {mob_heads.checked_head:0b}
-
-execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.dash","minecraft:custom_data":{mob_heads.checked_head:0b}}}}] \
-  if items entity @s contents player_head run data modify storage mob_heads:root data.entity set value zombie_nautilus
-
-execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.dash","minecraft:custom_data":{mob_heads.checked_head:0b}}}}] \
-  if items entity @s contents player_head run function mob_heads:config/drop_messages with storage mob_heads:root data
-
-execute as @e[type=item,nbt={Item:{components:{"minecraft:note_block_sound":"minecraft:entity.zombie_nautilus.dash"}}}] \
-  if items entity @s contents player_head run data modify entity @s Item.components."minecraft:custom_data" set value {mob_heads.checked_head:1b}
+  if items entity @s contents player_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run function mob_heads:app/notification/dropped/zombie_nautilus
