@@ -11,6 +11,13 @@
           "text": " "
         },
         {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
+        {
+          "text": " "
+        },
+        {
           "translate": "mob_heads.heads",
           "fallback": "Heads"
         }
@@ -26,6 +33,13 @@
         {
           "translate": "entity.minecraft.cow",
           "fallback": "Cow"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
         },
         {
           "text": " "

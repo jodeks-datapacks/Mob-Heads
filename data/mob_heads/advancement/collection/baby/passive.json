@@ -11,6 +11,13 @@
           "text": " "
         },
         {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
+        {
+          "text": " "
+        },
+        {
           "translate": "mob_heads.heads",
           "fallback": "Heads"
         }
@@ -26,6 +33,13 @@
         {
           "translate": "mob_heads.advancement.collection.passive",
           "fallback": "Passive"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
         },
         {
           "text": " "
@@ -232,6 +246,32 @@
             "type": "minecraft:player",
             "advancements": {
               "mob_heads:collection/baby/passive/pig/warm": true
+            }
+          }
+        }
+      }
+    },
+    "polar_bear_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/polar_bear": true
+            }
+          }
+        }
+      }
+    },
+    "goat_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/goat": true
             }
           }
         }

@@ -1,7 +1,17 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:piglin_head"
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWIzMTYwMjBhYjRkODcwZDNiMGM2NzA2OTc5Zjk2YjM2OTRjNjZjOTYwYTAyZjBlODE5MDUyMTRkOTdjMmQ0ZSJ9fX0="
+            }
+          ]
+        }
+      }
     },
     "title": {
       "translate": "entity.minecraft.piglin",
@@ -76,7 +86,17 @@
         ],
         "items": [
           {
-            "items": "minecraft:piglin_head"
+            "items": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWIzMTYwMjBhYjRkODcwZDNiMGM2NzA2OTc5Zjk2YjM2OTRjNjZjOTYwYTAyZjBlODE5MDUyMTRkOTdjMmQ0ZSJ9fX0="
+                  }
+                ]
+              }
+            }
           }
         ]
       }

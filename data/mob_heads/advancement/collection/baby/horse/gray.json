@@ -7,7 +7,7 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGYwZDk1NTg4OWIwMzc4ZDQ5MzNjOTU2Mzk4NTY3ZTc3MDEwM2FlOWVmZjBmNzAyZDBkNTNkNTJlN2Y2YTgzYiJ9fX0="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQyMWEzYjM0NzQxZjgwMjRhYmM5ZTJhNWRiMzNmZDEwYWRkOWQwZWNjOWQwYjUyZDNhYWM5NTNjNjBjMzI0YSJ9fX0="
             }
           ]
         }
@@ -79,7 +79,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/baby/horse/darkbrown",
+  "parent": "mob_heads:collection/baby/horse/dark_brown",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
@@ -106,7 +106,7 @@
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGYwZDk1NTg4OWIwMzc4ZDQ5MzNjOTU2Mzk4NTY3ZTc3MDEwM2FlOWVmZjBmNzAyZDBkNTNkNTJlN2Y2YTgzYiJ9fX0="
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQyMWEzYjM0NzQxZjgwMjRhYmM5ZTJhNWRiMzNmZDEwYWRkOWQwZWNjOWQwYjUyZDNhYWM5NTNjNjBjMzI0YSJ9fX0="
                   }
                 ]
               }

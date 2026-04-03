@@ -17,6 +17,1527 @@
     "frame": "challenge"
   },
   "criteria": {
+    "blue_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/blue": true
+            }
+          }
+        }
+      }
+    },
+    "cyan_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "gold_axolotl_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/gold": true
+            }
+          }
+        }
+      }
+    },
+    "leucistic_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/leucistic": true
+            }
+          }
+        }
+      }
+    },
+    "wild_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/axolotl/wild": true
+            }
+          }
+        }
+      }
+    },
+    "drowned_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/drowned": true
+            }
+          }
+        }
+      }
+    },
+    "dolphin_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/dolphin": true
+            }
+          }
+        }
+      }
+    },
+    "glow_squid_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/glow_squid": true
+            }
+          }
+        }
+      }
+    },
+    "squid_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/squid": true
+            }
+          }
+        }
+      }
+    },
+    "turtle_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/aquatic/turtle": true
+            }
+          }
+        }
+      }
+    },
+    "fox_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/fox/red": true
+            }
+          }
+        }
+      }
+    },
+    "snow_fox_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/fox/snow": true
+            }
+          }
+        }
+      }
+    },
+    "ashen_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/ashen": true
+            }
+          }
+        }
+      }
+    },
+    "black_wolf_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/black": true
+            }
+          }
+        }
+      }
+    },
+    "chestnut_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/chestnut": true
+            }
+          }
+        }
+      }
+    },
+    "pale_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/pale": true
+            }
+          }
+        }
+      }
+    },
+    "rusty_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/rusty": true
+            }
+          }
+        }
+      }
+    },
+    "snowy_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/snowy": true
+            }
+          }
+        }
+      }
+    },
+    "spotted_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/carnivores/wolf/spotted": true
+            }
+          }
+        }
+      }
+    },
+    "all_black_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/all_black": true
+            }
+          }
+        }
+      }
+    },
+    "black_cat_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/black": true
+            }
+          }
+        }
+      }
+    },
+    "british_shorthair_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/british_shorthair": true
+            }
+          }
+        }
+      }
+    },
+    "calico_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/calico": true
+            }
+          }
+        }
+      }
+    },
+    "jellie_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/jellie": true
+            }
+          }
+        }
+      }
+    },
+    "persian_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/persian": true
+            }
+          }
+        }
+      }
+    },
+    "ragdoll_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/ragdoll": true
+            }
+          }
+        }
+      }
+    },
+    "red_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/red": true
+            }
+          }
+        }
+      }
+    },
+    "siamese_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/siamese": true
+            }
+          }
+        }
+      }
+    },
+    "tabby_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/tabby": true
+            }
+          }
+        }
+      }
+    },
+    "white_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/cat/white": true
+            }
+          }
+        }
+      }
+    },
+    "black_horse_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/black": true
+            }
+          }
+        }
+      }
+    },
+    "brown_horse_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/brown": true
+            }
+          }
+        }
+      }
+    },
+    "chestnut_horse_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/chestnut": true
+            }
+          }
+        }
+      }
+    },
+    "creamy_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "darkbrown_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/dark_brown": true
+            }
+          }
+        }
+      }
+    },
+    "donkey_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/donkey": true
+            }
+          }
+        }
+      }
+    },
+    "gray_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/gray": true
+            }
+          }
+        }
+      }
+    },
+    "mule_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/mule": true
+            }
+          }
+        }
+      }
+    },
+    "white_horse_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/horse/white": true
+            }
+          }
+        }
+      }
+    },
+    "husk_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/hostile/husk": true
+            }
+          }
+        }
+      }
+    },
+    "zombie_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/hostile/zombie": true
+            }
+          }
+        }
+      }
+    },
+    "aggressive_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/aggressive": true
+            }
+          }
+        }
+      }
+    },
+    "brown_panda_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/brown": true
+            }
+          }
+        }
+      }
+    },
+    "lazy_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/lazy": true
+            }
+          }
+        }
+      }
+    },
+    "normal_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/normal": true
+            }
+          }
+        }
+      }
+    },
+    "playful_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/playful": true
+            }
+          }
+        }
+      }
+    },
+    "weak_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/weak": true
+            }
+          }
+        }
+      }
+    },
+    "worried_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/panda/worried": true
+            }
+          }
+        }
+      }
+    },
+    "ocelot_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/jungle/ocelot": true
+            }
+          }
+        }
+      }
+    },
+    "brown_llama_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/brown": true
+            }
+          }
+        }
+      }
+    },
+    "creamy_llama_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "gray_llama_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/gray": true
+            }
+          }
+        }
+      }
+    },
+    "white_llama_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/white": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_brown_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/trader_llama/brown": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_creamy_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/trader_llama/creamy": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_gray_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/trader_llama/gray": true
+            }
+          }
+        }
+      }
+    },
+    "trader_llama_white_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/llama/trader_llama/white": true
+            }
+          }
+        }
+      }
+    },
+    "red_mooshroom_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/mooshroom/red": true
+            }
+          }
+        }
+      }
+    },
+    "brown_mooshroom_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/mooshroom/brown": true
+            }
+          }
+        }
+      }
+    },
+    "hoglin_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/nether/hoglin": true
+            }
+          }
+        }
+      }
+    },
+    "piglin_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/nether/piglin": true
+            }
+          }
+        }
+      }
+    },
+    "strider_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/nether/strider": true
+            }
+          }
+        }
+      }
+    },
+    "zoglin_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/nether/zoglin": true
+            }
+          }
+        }
+      }
+    },
+    "zombified_piglin_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/nether/zombified_piglin": true
+            }
+          }
+        }
+      }
+    },
+    "normal_bee_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/bee/normal": true
+            }
+          }
+        }
+      }
+    },
+    "angry_bee_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/bee/angry": true
+            }
+          }
+        }
+      }
+    },
+    "angry_pollen_bee_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/bee/angry_pollen": true
+            }
+          }
+        }
+      }
+    },
+    "pollen_bee_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/bee/pollen": true
+            }
+          }
+        }
+      }
+    },
+    "armadillo_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/armadillo": true
+            }
+          }
+        }
+      }
+    },
+    "camel_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/camel": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_warm_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/chicken/warm": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_cold_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/chicken/cold": true
+            }
+          }
+        }
+      }
+    },
+    "chicken_temperate_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/chicken/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "cow_cold_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/cow/cold": true
+            }
+          }
+        }
+      }
+    },
+    "cow_temperate_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/cow/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "cow_warm_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/cow/warm": true
+            }
+          }
+        }
+      }
+    },
+    "pig_cold_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/pig/cold": true
+            }
+          }
+        }
+      }
+    },
+    "pig_temperate_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/pig/temperate": true
+            }
+          }
+        }
+      }
+    },
+    "pig_warm_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/pig/warm": true
+            }
+          }
+        }
+      }
+    },
+    "black_rabbit_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/rabbit/black": true
+            }
+          }
+        }
+      }
+    },
+    "brown_rabbit_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/rabbit/brown": true
+            }
+          }
+        }
+      }
+    },
+    "gold_rabbit_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/rabbit/gold": true
+            }
+          }
+        }
+      }
+    },
+    "salt_rabbit_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/rabbit/salt": true
+            }
+          }
+        }
+      }
+    },
+    "white_rabbit_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/rabbit/white": true
+            }
+          }
+        }
+      }
+    },
+    "white_splotched_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/rabbit/white_splotched": true
+            }
+          }
+        }
+      }
+    },
+    "black_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/black": true
+            }
+          }
+        }
+      }
+    },
+    "blue_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/blue": true
+            }
+          }
+        }
+      }
+    },
+    "brown_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/brown": true
+            }
+          }
+        }
+      }
+    },
+    "cyan_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "gray_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/gray": true
+            }
+          }
+        }
+      }
+    },
+    "green_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/green": true
+            }
+          }
+        }
+      }
+    },
+    "light_blue_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "light_gray_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "lime_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/lime": true
+            }
+          }
+        }
+      }
+    },
+    "magenta_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "orange_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/orange": true
+            }
+          }
+        }
+      }
+    },
+    "pink_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/pink": true
+            }
+          }
+        }
+      }
+    },
+    "purple_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/purple": true
+            }
+          }
+        }
+      }
+    },
+    "red_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/red": true
+            }
+          }
+        }
+      }
+    },
+    "white_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/white": true
+            }
+          }
+        }
+      }
+    },
+    "yellow_sheep_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/sheep/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "desert_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/desert": true
+            }
+          }
+        }
+      }
+    },
+    "jungle_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/jungle": true
+            }
+          }
+        }
+      }
+    },
+    "plains_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/plains": true
+            }
+          }
+        }
+      }
+    },
+    "savanna_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/savanna": true
+            }
+          }
+        }
+      }
+    },
+    "snow_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/snow": true
+            }
+          }
+        }
+      }
+    },
+    "swamp_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/swamp": true
+            }
+          }
+        }
+      }
+    },
+    "taiga_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/villager/taiga": true
+            }
+          }
+        }
+      }
+    },
+    "desert_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/desert": true
+            }
+          }
+        }
+      }
+    },
+    "jungle_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/jungle": true
+            }
+          }
+        }
+      }
+    },
+    "plains_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/plains": true
+            }
+          }
+        }
+      }
+    },
+    "savanna_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/savanna": true
+            }
+          }
+        }
+      }
+    },
+    "snow_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/snow": true
+            }
+          }
+        }
+      }
+    },
+    "swamp_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/swamp": true
+            }
+          }
+        }
+      }
+    },
+    "taiga_zombie_villager_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/zombie_villager/taiga": true
+            }
+          }
+        }
+      }
+    },
+    "polar_bear_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/polar_bear": true
+            }
+          }
+        }
+      }
+    },
+    "goat_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/goat": true
+            }
+          }
+        }
+      }
+    },
     "blue_dory": {
       "trigger": "minecraft:tick",
       "conditions": {
