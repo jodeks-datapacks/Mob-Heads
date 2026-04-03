@@ -7,15 +7,30 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/bee/baby/angry"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/bee/baby/angry_pollen"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/bee/baby/normal"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/bee/baby/pollen"

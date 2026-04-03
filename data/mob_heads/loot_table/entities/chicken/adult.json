@@ -7,11 +7,21 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/chicken/adult/cold"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/chicken/adult/temperate"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/chicken/adult/warm"

@@ -5,31 +5,61 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/desert"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/jungle"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/plains"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/savanna"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/snow"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/swamp"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
-          "type": "loot_table",
+          "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/baby/taiga"
         }
       ]

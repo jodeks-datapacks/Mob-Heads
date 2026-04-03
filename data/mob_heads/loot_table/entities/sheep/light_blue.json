@@ -7,7 +7,12 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/sheep/adult/light_blue"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/sheep/baby/light_blue"

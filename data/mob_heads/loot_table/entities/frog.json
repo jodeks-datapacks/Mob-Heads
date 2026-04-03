@@ -7,11 +7,21 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/frog/cold"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/frog/temperate"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/frog/warm"

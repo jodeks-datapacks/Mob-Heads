@@ -7,23 +7,57 @@
         {
           "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/adult/desert"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/adult/jungle"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "mob_heads:entities/villager/adult/plains"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/adult/savanna"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/adult/snow"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/adult/swamp"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:loot_table",
           "value": "mob_heads:entities/villager/adult/taiga"
