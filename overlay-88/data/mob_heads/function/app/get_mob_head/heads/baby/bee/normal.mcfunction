@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:custom_name={"text":"Bee Head","color":"white",italic:false},note_block_sound="minecraft:entity.bee.loop",profile={properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODkwZWZjOGFhNWFhYzI3NDJhYjA0NTY0NTAxYzRmNTZlOWM3MTY5YjI3MmQwNTMwZjc4YzIwOTg2NTU3NzkyOCJ9fX0="}]}] 1

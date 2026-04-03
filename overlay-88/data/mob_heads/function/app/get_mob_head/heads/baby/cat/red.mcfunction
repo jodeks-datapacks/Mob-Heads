@@ -1,0 +1,1 @@
+give @s minecraft:player_head[minecraft:custom_name={"text":"Cat Head","color":"white",italic:false},note_block_sound="minecraft:entity.cat.ambient",profile={properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmEyYWQ3MjA0OGM3YTI3M2RkNjljOGY1Njc4ZTY5NDY3NTk1OTAxYjlmYWNlYTMwMTMwNDRmY2NlOGJjNmE0ZiJ9fX0="}]}] 1
