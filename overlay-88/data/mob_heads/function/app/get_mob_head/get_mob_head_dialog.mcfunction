@@ -10014,6 +10014,286 @@ dialog show @s {\
         command:"function mob_heads:app/get_mob_head/heads/baby/zombified_piglin"\
       },\
       "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZkMWEwNzk5NTYxMmVhMzE1MDFlNWZlYjZlYjg5MzI3N2I3NDZiZWI1YTA3ZDg3Y2Y4M2Q3Mzc2ZDY1NmYyNSJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/desert"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRhNjZkODcwNjA0Mjc4NWMwMGE0OWE0MzA3NzEyYjdjOWY2ZDA4ODAxZGI1MGRjMDhlYWQzZWQ2NzQxMmJlMyJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/jungle"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2UwY2Y0MDc3ZjMzZmI0MDU3MjA0YzQyOTc1YzhjMTg4MzBjMDc1ZGM3OWMwYjJkM2M4MDgyY2UzY2RjNjgxZiJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/plains"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjczNWIyMzE4OGRkNzk0NWM0ZGIwMjM5NmE5N2RjNzlkMjk1Nzc1YmMwZjdhNTViOWNlNWY0OGRiOWY3MWQ3ZCJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/savanna"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVjNTU1NWYwMzRiOWJkMzA5ZDcyOTAzYmU4ODU4YzgwMDM2NmFhZmJjZTg1ODU1MmRlNTQzNWI4ZTk2NjdjNCJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/snow"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ4MmRkMzc5OTk2OGRiYjk5OGNhZTE0ZWJmZDRmNGU0NTZjYjI0NWQwOTMyN2Y2NGUxNDZiMTA0NDhhN2MzYyJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/swamp"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAzMjNiNjBhNGUyNjBkNDgzMDA0ZTk2MzM0MzI5ODAxZmVhM2U3YzQzNTQ5NzVlM2ZhZGY4N2I4ZjNlZjA5In19fQ=="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/villager/taiga"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM0ZjdhNjkzYjZlMTcxOWI0ODYyMDQwZWM1OGRmYzJmNDg0YTczNGE0MjdjMzViNjA1ZDkyNGFjNjVhYWRmIn19fQ=="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/desert"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThiMTU1Y2FlYTY3N2I4MmVkYzIwYjYxNGQ0ZjIzMTk4N2UyMGY4YzQwYjVhNmVjZWQ2OGZlNWEyZjA3MTljMiJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/jungle"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJiMzQxNzk4ZmYxMjcyM2YwZDkxNDI1OTZhZmU1YTg1NzU0YjMwMmQ1YzU1OTFmYjQwMWQwY2ZlNzBmMmQxMSJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/plains"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM5ODFiOTIzNjY2MmJiY2QxNmIwM2E2MGRhZGMzZDI1NGJiNmIyN2MyMjg2NjhiODQwYmMwODdlY2EwZjBhZCJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/savanna"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2VlOWU5YmJhZGRhMzNiZDU1ZTNmYzUyNDI5NDE0YzJhN2UxYmVjZTEyNzhhZWIwMWZhMDkyNjFhMmIwY2EyZSJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/snow"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGVkMGU5MzkyNjRiMjhjNjEyMTI4NGUyOTIwMDVhYTIyMzFkMzk5ODM0M2Y2MTZjODgzMGYxMWI1MmM1ZTA1ZSJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/swamp"\
+      },\
+      "width": 22\
+    },\
+    {\
+      "label": {\
+        "player": {\
+          "properties": [\
+            {\
+              "name": "textures",\
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2M5OGMyNWI0MDU3NzA1ZDg0ZmEyMzBmZDFkZTIyYjU2NjY4ZjczM2MxOTJlNjFlZjhhMTY3NGFiMWJiODNiMiJ9fX0="\
+            }\
+          ]\
+        },\
+        "extra": [\
+          "|"\
+        ]\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:app/get_mob_head/heads/baby/zombie_villager/taiga"\
+      },\
+      "width": 22\
     }\
   ]\
 }

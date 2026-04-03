@@ -1,4 +1,3 @@
-
 # normal creeper
   execute as @e[type=item,nbt={Item:{id:"minecraft:creeper_head"}}] \
     if items entity @s contents creeper_head unless entity @s[nbt={Item:{components:{"minecraft:custom_data":{mob_heads.checked_head:1b}}}}] run data modify entity @s Item.components."minecraft:custom_data" set value {mob_heads.checked_head:0b}
