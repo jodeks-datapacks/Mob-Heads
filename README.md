@@ -9,8 +9,7 @@
 [![jodeks discord - discord badge - pixel badge - pixel discord badge - jodeks datapacks - datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
 [![matrix - datapacks matrix - jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
 [![armor stand arms minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/mob-heads/issues)&nbsp;&nbsp;
-[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](
-https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![jodeks datapacks kofi - jodek kofi - minecraft datapack kofi donation](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
 [![github sponsor jodek donation datapacks minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
 
 </div>
@@ -21,8 +20,15 @@ https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https
 
 </div>
 
+<div align="center">
+  
+[![github translations jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Translation.png)](https://github.com/jodeks-datapacks/Jodeks-Translations)
+
+</div>
+
 ## Features
-**1.** 300+ unique heads --> every mob and variant in the game
+
+**1.** 500+ unique heads --> every mob and variant in the game
 
 **2.** Custom note block sounds for all heads
 
@@ -34,15 +40,15 @@ https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https
 
 ## Config
 
-Run ingame: 
+Run ingame:
 
 ```
 /trigger mob_heads.config
 ```
+
 - Choose between player kill or charged creeper drops
 - Adjust drop rates
 - Change drop messages
-
 
 If you want to give yourself a head:
 
@@ -52,102 +58,801 @@ If you want to give yourself a head:
 
 > Looting does not affect drop rates
 
+## Heads
+
+<table>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Blue Axolotl</b><br/>Drop Rate: 10%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Cyan Axolotl</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Gold Axolotl</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Lucy Axolotl</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Wild Axolotl</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Blue Axolotl Baby</b><br/>Drop Rate: 10%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Cyan Axolotl Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Gold Axolotl Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Lucy Axolotl Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Wild Axolotl Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Drowned</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Drowned Baby</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Guardian</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Pufferfish</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Cod</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Dolphin</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Dolphin Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Glow Squid</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Glow Squid Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Salmon</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Squid</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Turtle</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Blue Dory</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Cichlid</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Clownfish</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Cotton Candy Betta</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Goatfish</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Parrotfish</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Queen Angelfish</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Red Lipped Blenny</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Red Snapper</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Tomate Clownfish</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Triggerfish</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>White Gray Dasher</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Yellowtail</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Angry Pollen Bee</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Angry Bee</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Normal Bee</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Pollen Bee</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Angry Pollen Bee Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Angry Bee Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Normal Bee Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Pollen Bee Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Elder Guardian</b><br/>Drop Rate: 15%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Ender Dragon</b><br/>Drop Rate: 20%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Warden</b><br/>Drop Rate: 15%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Wither</b><br/>Drop Rate: 20%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Wither Special</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Fox</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Snow Fox</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Fox Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Snow Fox Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Ashen Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Black Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Chestnut Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Pale Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Rusty Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Snowy Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Spotted Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Striped Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Woods Wolf</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Ashen Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Black Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Chestnut Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Pale Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Rusty Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Snowy Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Spotted Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Striped Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Woods Wolf Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>All Black Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Black Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>British Shorthair Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Calico Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Jellie Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Persian Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Ragdoll Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Red Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Siamese Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Tabby Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>White Cat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>All Black Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Black Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>British Shorthair Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Calico Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Jellie Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Persian Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Ragdoll Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Red Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Siamese Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Tabby Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>White Cat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Enderman</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Endermite</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Shulker</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Cold Frog</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Temperate Frog</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Warm Frog</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Tadpole</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Goat</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Goat Left Horn</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Goat No Horns</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Goat Right Horn</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Screaming Goat</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Screaming Goat Left Horn</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Screaming Goat No Horns</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Screaming Goat Right Horn</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Goat Baby</b><br/>Drop Rate: 5%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Iron Golem</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Snow Golem</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Normal Copper Golem</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Exposed Copper Golem</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Weathered Copper Golem</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Oxidized Copper Golem</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Black Horse</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Brown Horse</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Chestnut Horse</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Creamy Horse</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Dark Brown Horse</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Gray Horse</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>White Horse</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Donkey</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Mule</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Black Horse Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Brown Horse Baby</b><br/>Drop Rate: 2%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Chestnut Horse Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Creamy Horse Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Dark Brown Horse Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Gray Horse Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>White Horse Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Donkey Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+   <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"/><br/>
+     <b>Mule Baby</b><br/>Drop Rate: 3%<br/>
+     <audio controls src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/sounds/Nautilus_ambient5.ogg" style="width:80px;height:24px"/>
+   </td>
+  </tr>
+</table>
+
 ## Default drop rates
 
-| **#** | **Mob** | **Drop Rate** |
-|-------|--------------------------------------------------|---------------|
-| 1 | Allay | 5% |
-| 2 | Armadillo | 5% |
-| 3 | Axolotl | 5% |
-| 4 | Blue Axolotl | 10% |
-| 5 | Bat | 5% |
-| 6 | Bee | 5% |
-| 7 | Blaze | 3% |
-| 8 | Bogged | 5% |
-| 9 | Breeze | 5% |
-| 10 | Camel | 5% |
-| 11 | Camel Husk | 7% |
-| 12 | Cat | 5% |
-| 13 | Cave Spider | 3% |
-| 14 | Chicken | 2% |
-| 15 | Cod | 2% |
-| 16 | Copper Golem | 3% |
-| 17 | Cow | 2% |
-| 18 | Creaking | 5% |
-| 19 | Creeper | 2% |
-| 20 | Charged Creeper | 10% |
-| 21 | Dolphin | 5% |
-| 22 | Donkey | 5% |
-| 23 | Drowned | 2% |
-| 24 | Elder Guardian | 15% |
-| 25 | Ender Dragon | 20% |
-| 26 | Enderman | 2% |
-| 27 | Endermite | 5% |
-| 28 | Evoker | 5% |
-| 29 | Fox | 5% |
-| 30 | Frog | 5% |
-| 31 | Ghast | 3% |
-| 32 | Glow Squid | 5% |
-| 33 | Goat | 5% |
-| 34 | Guardian | 2% |
-| 35 | Happy Ghast | 5% |
-| 36 | Hoglin | 3% |
-| 37 | Horse | 5% |
-| 38 | Husk | 3% |
-| 39 | Illusioner | 5% |
-| 40 | Iron Golem | 3% |
-| 41 | Llama | 5% |
-| 42 | Magma Cube | 5% |
-| 43 | Mooshroom | 5% |
-| 44 | Brown Mooshroom | 10% |
-| 45 | Mule | 5% |
-| 46 | Nautilus | 5% |
-| 47 | Ozelot | 5% |
-| 48 | Normal & Weak Panda | 5% |
-| 49 | Lazy, Brown, Playful, Aggressive, Worried Panda | 10% |
-| 50 | Parched | 5% |
-| 51 | Parrot | 5% |
-| 52 | Phantom | 3% |
-| 53 | Pig | 2% |
-| 54 | Pilgin Brute | 10% |
-| 55 | Piglin | 3% |
-| 56 | Pillager | 2% |
-| 57 | Polar Bear | 5% |
-| 58 | Pufferfish | 5% |
-| 59 | Rabbit | 5% |
-| 60 | Ravager | 5% |
-| 61 | Salmon | 3% |
-| 62 | Sheep | 2% |
-| 63 | Shulker | 5% |
-| 64 | Silverfish | 2% |
-| 65 | Skeleton Horse | 10% |
-| 66 | Skeleton | 2% |
-| 67 | Slime | 2% |
-| 68 | Sniffer | 5% |
-| 69 | Snow Golem | 2% |
-| 70 | Spider | 2% |
-| 71 | Squid | 3% |
-| 72 | Stray | 3% |
-| 73 | Strider | 5% |
-| 74 | Tadpole | 5% |
-| 75 | Trader Llama | 3% |
-| 76 | Tropical Fish | 5% |
-| 77 | Turtle | 5% |
-| 78 | Vex | 5% |
-| 79 | Villager | 5% |
-| 80 | Vindicator | 3% |
-| 81 | Wandering Trader | 5% |
-| 82 | Warden | 15% |
-| 83 | Witch | 2% |
-| 84 | Wither | 20% |
-| 85 | Special Wither Skull | 5% |
-| 86 | Wolf | 5% |
-| 87 | Zoglin | 5% |
-| 88 | Zombie Horse | 5% |
-| 89 | Zombie Nautilus | 5% |
-| 90 | Zombie Villager | 7% |
-| 91 | Zombie | 2% |
-| 92 | Zombified Piglin | 2% |
+| **#** | **Mob**                                         | **Drop Rate** |
+| ----- | ----------------------------------------------- | ------------- |
+| 1     | Allay                                           | 5%            |
+| 2     | Armadillo                                       | 5%            |
+| 3     | Axolotl                                         | 5%            |
+| 4     | Blue Axolotl                                    | 10%           |
+| 5     | Bat                                             | 5%            |
+| 6     | Bee                                             | 5%            |
+| 7     | Blaze                                           | 3%            |
+| 8     | Bogged                                          | 5%            |
+| 9     | Breeze                                          | 5%            |
+| 10    | Camel                                           | 5%            |
+| 11    | Camel Husk                                      | 7%            |
+| 12    | Cat                                             | 5%            |
+| 13    | Cave Spider                                     | 3%            |
+| 14    | Chicken                                         | 2%            |
+| 15    | Cod                                             | 2%            |
+| 16    | Copper Golem                                    | 3%            |
+| 17    | Cow                                             | 2%            |
+| 18    | Creaking                                        | 5%            |
+| 19    | Creeper                                         | 2%            |
+| 20    | Charged Creeper                                 | 10%           |
+| 21    | Dolphin                                         | 5%            |
+| 22    | Donkey                                          | 5%            |
+| 23    | Drowned                                         | 2%            |
+| 24    | Elder Guardian                                  | 15%           |
+| 25    | Ender Dragon                                    | 20%           |
+| 26    | Enderman                                        | 2%            |
+| 27    | Endermite                                       | 5%            |
+| 28    | Evoker                                          | 5%            |
+| 29    | Fox                                             | 5%            |
+| 30    | Frog                                            | 5%            |
+| 31    | Ghast                                           | 3%            |
+| 32    | Glow Squid                                      | 5%            |
+| 33    | Goat                                            | 5%            |
+| 34    | Guardian                                        | 2%            |
+| 35    | Happy Ghast                                     | 5%            |
+| 36    | Hoglin                                          | 3%            |
+| 37    | Horse                                           | 5%            |
+| 38    | Husk                                            | 3%            |
+| 39    | Illusioner                                      | 5%            |
+| 40    | Iron Golem                                      | 3%            |
+| 41    | Llama                                           | 5%            |
+| 42    | Magma Cube                                      | 5%            |
+| 43    | Mooshroom                                       | 5%            |
+| 44    | Brown Mooshroom                                 | 10%           |
+| 45    | Mule                                            | 5%            |
+| 46    | Nautilus                                        | 5%            |
+| 47    | Ozelot                                          | 5%            |
+| 48    | Normal & Weak Panda                             | 5%            |
+| 49    | Lazy, Brown, Playful, Aggressive, Worried Panda | 10%           |
+| 50    | Parched                                         | 5%            |
+| 51    | Parrot                                          | 5%            |
+| 52    | Phantom                                         | 3%            |
+| 53    | Pig                                             | 2%            |
+| 54    | Pilgin Brute                                    | 10%           |
+| 55    | Piglin                                          | 3%            |
+| 56    | Pillager                                        | 2%            |
+| 57    | Polar Bear                                      | 5%            |
+| 58    | Pufferfish                                      | 5%            |
+| 59    | Rabbit                                          | 5%            |
+| 60    | Ravager                                         | 5%            |
+| 61    | Salmon                                          | 3%            |
+| 62    | Sheep                                           | 2%            |
+| 63    | Shulker                                         | 5%            |
+| 64    | Silverfish                                      | 2%            |
+| 65    | Skeleton Horse                                  | 10%           |
+| 66    | Skeleton                                        | 2%            |
+| 67    | Slime                                           | 2%            |
+| 68    | Sniffer                                         | 5%            |
+| 69    | Snow Golem                                      | 2%            |
+| 70    | Spider                                          | 2%            |
+| 71    | Squid                                           | 3%            |
+| 72    | Stray                                           | 3%            |
+| 73    | Strider                                         | 5%            |
+| 74    | Tadpole                                         | 5%            |
+| 75    | Trader Llama                                    | 3%            |
+| 76    | Tropical Fish                                   | 5%            |
+| 77    | Turtle                                          | 5%            |
+| 78    | Vex                                             | 5%            |
+| 79    | Villager                                        | 5%            |
+| 80    | Vindicator                                      | 3%            |
+| 81    | Wandering Trader                                | 5%            |
+| 82    | Warden                                          | 15%           |
+| 83    | Witch                                           | 2%            |
+| 84    | Wither                                          | 20%           |
+| 85    | Special Wither Skull                            | 5%            |
+| 86    | Wolf                                            | 5%            |
+| 87    | Zoglin                                          | 5%            |
+| 88    | Zombie Horse                                    | 5%            |
+| 89    | Zombie Nautilus                                 | 5%            |
+| 90    | Zombie Villager                                 | 7%            |
+| 91    | Zombie                                          | 2%            |
+| 92    | Zombified Piglin                                | 2%            |
 
 ### Config [1.21.5 and below] To change drop rates, rarities and drop messages
 
@@ -155,7 +860,7 @@ If you want to give yourself a head:
 
 Head to: `MobHeads/data/mobheads/function/config`
 
-and then edit the specific file (drop _rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
+and then edit the specific file (drop \_rates.mcfunction , rarity.mcfunction , drop_messages.mcfunction)
 
 don't forget to save the file and run /reload afterwards
 
@@ -166,7 +871,7 @@ don't forget to save the file and run /reload afterwards
   <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
  </picture><br>
 
- If something doesn't work, feel free to join the [discord server](https://discord.gg/z2n3qTzQY6)
+If something doesn't work, feel free to join the [discord server](https://discord.gg/z2n3qTzQY6)
 
 <details>
   <summary>How to Install a Datapack in Singleplayer</summary>
@@ -186,7 +891,6 @@ don't forget to save the file and run /reload afterwards
 
 3. **Add the Datapack**  
    Drag the datapack (a `.zip` file or directory) into the Minecraft window.
-
    - A confirmation screen will appear. Click **"Yes"**.
 
 4. **Activate the Datapack**  
@@ -194,19 +898,21 @@ don't forget to save the file and run /reload afterwards
 
 ![Minecraft Settings Image](https://cdn.modrinth.com/data/cached_images/7997495b82957b1f318b28f8de321508d6d43f19_0.webp)
 
-5. **Complete World Creation**  
-   - Click **"Done"** at the bottom of the screen.  
+5. **Complete World Creation**
+   - Click **"Done"** at the bottom of the screen.
    - Continue creating your world and click **"Create New World"**.
 
 ---
 
 ### ⚠️ IMPORTANT ⚠️
-The datapack only works if cheats are enabled.  
+
+The datapack only works if cheats are enabled.
 
 You can verify the datapack is active by typing:  
 `/datapack list enabled`
 
 This command should list an entry named `[file/<your datapack file/directory name>]`.
+
   </details>
   
   <details>
@@ -217,25 +923,27 @@ This command should list an entry named `[file/<your datapack file/directory nam
 1. **Open Minecraft**  
    Launch the game.
 
-2. **Select Your World**  
+2. **Select Your World**
    - Choose the world you want to install the datapack for.
    - Click **"Edit"**, then **"Open World Folder"**.
 
-3. **Add the Datapack**  
-   - Open the folder named `datapacks`.  
+3. **Add the Datapack**
+   - Open the folder named `datapacks`.
    - Place the datapack into this folder. It should be a `.zip` file or a directory.
 
-4. **Reload the World**  
+4. **Reload the World**
    - If you are in the world during installation, type `/reload` in the chat or press **F3 + T** to reload resources.  
-   *(Make sure cheats are enabled.)*
+     _(Make sure cheats are enabled.)_
 
 ---
 
 ### ⚠️ IMPORTANT ⚠️
+
 The datapack only works if cheats are enabled.
 
 You can verify the datapack is active by typing:  
 `/datapack list enabled`
+
   </details>
   
   <details>
@@ -249,13 +957,15 @@ But don't worry this works without any problems.
 If you don't want to change this permanently check out [this guide](#).
 
 ### 1. You need [NBTExplorer](https://github.com/jaquadro/NBTExplorer/releases/tag/v2.8.0-win)
+
 > NBTExplorer is an open-source NBT editor for all common sources of NBT data. It's mainly intended for editing Minecraft game data.
- 
+
 ### 2. Open NBTExplorer and open your Minecraft world, where you want to enable Cheats/Admincommands.
 
 ![NBTExplorer Image](https://cdn.discordapp.com/attachments/1270449267961757726/1270449504532955247/image.png?ex=674ea60d&is=674d548d&hm=dfabe212b0cb5c712f588e3c13e7ea33f5ee7040456cbead753f2e76b9dfa87f&)
 
 ### 3. Navigate to:
+
 - `<Your Minecraft World>`
 - `level.dat`
 - `Data`
@@ -276,7 +986,6 @@ If you don't want to change this permanently check out [this guide](#).
 ![Save Image](https://cdn.discordapp.com/attachments/1270449267961757726/1270450071997124638/image.png?ex=674ea694&is=674d5514&hm=791b00e3692832d9054e346700ca6e40976d9356f9d598830eed1dd42741f372&)
 
 That's it. You are done. You can now join your world and check if you have permission to change your `gamemode`, for example.
-
 
   </details>
   
@@ -319,16 +1028,15 @@ Now, you should be able to use commands like changing your gamemode. Keep in min
 1. **Open Your Server Folder**  
    Navigate to your server folder, then open the folder for the world you wish to install the datapack in (default: `world`).
 
-2. **Add the Datapack**  
-   - The datapack should be a `.zip` file.  
+2. **Add the Datapack**
+   - The datapack should be a `.zip` file.
    - Place the datapack into a folder named `datapacks` inside the world folder.
 
-3. **Reload the Server**  
+3. **Reload the Server**
    - Type `/reload` from the console or as a level 3 operator if the server was running during the installation.
-</details>
-<details>
-  <summary>How to Uninstall a Datapack</summary>
-
+   </details>
+   <details>
+     <summary>How to Uninstall a Datapack</summary>
 
 ### How to Uninstall a Datapack from Your Singleplayer World or Server
 
@@ -336,44 +1044,45 @@ Now, you should be able to use commands like changing your gamemode. Keep in min
    For my datapacks, run the command:  
    `/function datapack_name:uninstall`
 
-2. **Delete the Datapack**  
-   - Delete the datapack from the folder you placed it in.  
+2. **Delete the Datapack**
+   - Delete the datapack from the folder you placed it in.
    - Alternatively, you can run:  
      `/datapack disable [file/your data pack file/directory name]`
 
 3. **Reload the World or Server**  
-   After deleting or disabling the datapack, run:  
-   `/reload`
+ After deleting or disabling the datapack, run:  
+ `/reload`
 </details>
 <details>
   <summary>How to Install a Mod on a Minecraft Server</summary>
 
 ### Step-by-Step Guide to Installing a Mod on a Minecraft Server
 
-1. **Download the Mod**  
+1. **Download the Mod**
    - Make sure to download the **correct version** of the Mod that matches your server's Minecraft version.
    - **Important:** The mod file should be a `.jar` file.
 
-2. **Ensure No Datapacks or Other Mods Conflict**  
+2. **Ensure No Datapacks or Other Mods Conflict**
    - Do not have both a datapack and a mod installed at the same time, as they may conflict.
    - Only install one or the other, depending on your server's setup.
 
-3. **Locate the Mods Folder**  
+3. **Locate the Mods Folder**
    - Open your server's root directory.
-   - Inside this directory, find the folder named `mods`.  
+   - Inside this directory, find the folder named `mods`.
    - If the `mods` folder doesn't exist, create one.
 
-4. **Install the Mod**  
+4. **Install the Mod**
    - Paste the downloaded `.jar` file for the Mod into the `mods` folder.
 
-5. **Restart the Server**  
+5. **Restart the Server**
    - After adding the Mod to the `mods` folder, restart your Minecraft server for the mod to be activated.
 
-6. **Verify Mod Installation**  
+6. **Verify Mod Installation**
    - Once the server has restarted, join the server and check if the Mod is working.
    - You can use `/mods` or a similar command (depending on the mod) to see if the Mod has been successfully loaded.
 
 ### Additional Tips
+
 - **Backup Your Server:** Always create a backup before installing the Mod to avoid data loss in case something goes wrong.
 - **Ensure Mod Compatibility:** Check that the Mod is compatible with your Minecraft server version and any other mods you have installed.
 </details>
@@ -400,6 +1109,7 @@ You can use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search
 - Iron Golem
 
 ### Rare = 0.1 = 10 %
+
 - Bat
 - Bee
 - Blaze
@@ -409,7 +1119,7 @@ You can use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search
 - Drowned
 - Enderman
 - Evoker
-- Frog (variants: cold, temperate, warm) 
+- Frog (variants: cold, temperate, warm)
 - Glow Squid
 - Guardian
 - Hoglin
@@ -426,12 +1136,13 @@ You can use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search
 - Salmon
 - Slime
 - Squid
-- Tropical Fish 
+- Tropical Fish
 - Villager (snow, savanna, plains, desert, jungle, taiga)
 - Witch
 - Wolf (woods, spotted, striped, snowy, rusty, pale, chestnut, black, ashen)
 
-### Epic 0.2 = 20 % 
+### Epic 0.2 = 20 %
+
 - Armadillo
 - Allay
 - Axolotl (variants: pink, wild, gold, cyan, blue)
@@ -462,19 +1173,20 @@ You can use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search
 - Vindicator
 - Wandering Trader
 - Zoglin
-- Zombie Horse 
+- Zombie Horse
 - Zombie Villager
 - Zombified Piglin
 
 ### Legendary 0.3 = 30%
+
 - Sniffer
 - Warden
 - Panda (variants: normal, lazy, worried, playful, weak, aggressive)
 
-
 ### Mythic 0.5 = 50%
-- Enderdragon 
-- Wither 
+
+- Enderdragon
+- Wither
 - Brown Panda
 
 </details>
@@ -483,15 +1195,11 @@ You can use <kbd>Ctrl</kbd> + <kbd>F</kbd> to search
 
 _In the datapack, you can edit these chances by changing the value in:_
 
-
 ```
 data/minecraft/loot_tables/entities/entity.json
 ```
 
-
 _in there, look for "conditions" and the condition "random_chance" and change the "chance" to the value in % you want the head to drop_
-
-
 
 #
 
