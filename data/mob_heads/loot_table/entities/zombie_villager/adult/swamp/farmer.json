@@ -237,6 +237,24 @@
             {
               "condition": "reference",
               "name": "mob_heads:should_head_drop"
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "flags": {
+                  "is_baby": false
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "flags": {
+                  "is_baby": false
+                }
+              }
             }
           ]
         }

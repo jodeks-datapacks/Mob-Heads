@@ -7,59 +7,129 @@
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/armorer"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/butcher"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/cartographer"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/cleric"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/farmer"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/fisherman"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/fletcher"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/leatherworker"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/librarian"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/mason"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/nitwit"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/normal"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/shepherd"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/toolsmith"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/swamp/weaponsmith"

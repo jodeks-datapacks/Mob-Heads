@@ -269,10 +269,6 @@
                 "storage": "mob_heads:root",
                 "path": "data.hoglin"
               }
-            },
-            {
-              "condition": "reference",
-              "name": "mob_heads:should_head_drop"
             }
           ]
         }

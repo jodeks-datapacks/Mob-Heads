@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "killed_wolf": {
+    "killed_trader_llama": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": [
@@ -8,7 +8,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "minecraft:wolf",
+              "type": "minecraft:trader_llama",
               "flags": {
                 "is_baby": true
               },

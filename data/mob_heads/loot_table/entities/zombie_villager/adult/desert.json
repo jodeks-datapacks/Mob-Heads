@@ -4,62 +4,132 @@
     {
       "rolls": 1,
       "entries": [
-{
+        {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/armorer"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/butcher"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/cartographer"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/cleric"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/farmer"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/fisherman"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/fletcher"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/leatherworker"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/librarian"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/mason"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/nitwit"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/normal"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/shepherd"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/toolsmith"
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "loot_table",
           "value": "mob_heads:entities/zombie_villager/adult/desert/weaponsmith"

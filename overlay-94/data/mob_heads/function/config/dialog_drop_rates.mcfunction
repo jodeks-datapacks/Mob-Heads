@@ -1269,7 +1269,7 @@ type:"minecraft:multi_action",\
     {\
       label: {\
         "translate": "mob_heads.config.set_1",\
-        "fallback": "Set everything to 1"\
+        "fallback": "Set everything to 100%"\
       },\
       action:{\
         type:"run_command",\

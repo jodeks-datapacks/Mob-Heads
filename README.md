@@ -54,100 +54,100 @@ If you want to give yourself a head:
 
 ## Default drop rates
 
-| **#** | **Mob**                                         | **Drop Rate** |
-|-------|-------------------------------------------------|---------------|
-| 1     | Allay                                           | 1%            |
-| 2     | Armadillo                                       | 1%            |
-| 3     | Axolotl                                         | 1%            |
-| 4     | Blue Axolotl                                    | 5%            |
-| 5     | Bat                                             | 1%            |
-| 6     | Bee                                             | 1%            |
-| 7     | Blaze                                           | 0.5%          |
-| 8     | Bogged                                          | 1%            |
-| 9     | Breeze                                          | 1%            |
-| 10    | Camel                                           | 2%            |
-| 11    | Camel Husk                                      | 3%            |
-| 12    | Cat                                             | 2%            |
-| 13    | Cave Spider                                     | 0.5%          |
-| 14    | Chicken                                         | 0.1%          |
-| 15    | Cod                                             | 0.1%          |
-| 16    | Copper Golem                                    | 0.5%          |
-| 17    | Cow                                             | 0.1%          |
-| 18    | Creaking                                        | 0.1%          |
-| 19    | Creeper                                         | 0.1%          |
-| 20    | Charged Creeper                                 | 2%            |
-| 21    | Dolphin                                         | 1%            |
-| 22    | Donkey                                          | 1%            |
-| 23    | Drowned                                         | 0.1%          |
-| 24    | Elder Guardian                                  | 5%            |
-| 25    | Ender Dragon                                    | 5%            |
-| 26    | Enderman                                        | 0.1%          |
-| 27    | Endermite                                       | 1%            |
-| 28    | Evoker                                          | 1%            |
-| 29    | Fox                                             | 1%            |
-| 30    | Frog                                            | 1%            |
-| 31    | Ghast                                           | 0.5%          |
-| 32    | Glow Squid                                      | 1%            |
-| 33    | Goat                                            | 1%            |
-| 34    | Guardian                                        | 0.1%          |
-| 35    | Happy Ghast                                     | 1%            |
-| 36    | Hoglin                                          | 0.5%          |
-| 37    | Horse                                           | 1%            |
-| 38    | Husk                                            | 0.5%          |
-| 39    | Illusioner                                      | 0.5%          |
-| 40    | Iron Golem                                      | 0.5%          |
-| 41    | Llama                                           | 1%            |
-| 42    | Magma Cube                                      | 1%            |
-| 43    | Mooshroom                                       | 1%            |
-| 44    | Brown Mooshroom                                 | 2%            |
-| 45    | Mule                                            | 1%            |
-| 46    | Nautilus                                        | 1%            |
-| 47    | Ozelot                                          | 1%            |
-| 48    | Normal & Weak Panda                             | 1%            |
-| 49    | Lazy, Brown, Playful, Aggressive, Worried Panda | 2%            |
-| 50    | Parched                                         | 1%            |
-| 51    | Parrot                                          | 1%            |
-| 52    | Phantom                                         | 0.5%          |
-| 53    | Pig                                             | 0.1%          |
-| 54    | Pilgin Brute                                    | 2%            |
-| 55    | Piglin                                          | 0.5%          |
-| 56    | Pillager                                        | 0.1%          |
-| 57    | Polar Bear                                      | 1%            |
-| 58    | Pufferfish                                      | 1%            |
-| 59    | Rabbit                                          | 1%            |
-| 60    | Ravager                                         | 1%            |
-| 61    | Salmon                                          | 0.5%          |
-| 62    | Sheep                                           | 0.1%          |
-| 63    | Shulker                                         | 1%            |
-| 64    | Silverfish                                      | 0.1%          |
-| 65    | Skeleton Horse                                  | 2%            |
-| 66    | Skeleton                                        | 0.1%          |
-| 67    | Slime                                           | 0.1%          |
-| 68    | Sniffer                                         | 1%            |
-| 69    | Snow Golem                                      | 0.1%          |
-| 70    | Spider                                          | 0.1%          |
-| 71    | Squid                                           | 0.5%          |
-| 72    | Stray                                           | 0.5%          |
-| 73    | Strider                                         | 1%            |
-| 74    | Tadpole                                         | 1%            |
-| 75    | Trader Llama                                    | 0.5%          |
-| 76    | Tropical Fish                                   | 1%            |
-| 77    | Turtle                                          | 1%            |
-| 78    | Vex                                             | 1%            |
-| 79    | Villager                                        | 1%            |
-| 80    | Vindicator                                      | 0.5%          |
-| 81    | Wandering Trader                                | 1%            |
-| 82    | Warden                                          | 5%            |
-| 83    | Witch                                           | 0.1%          |
-| 84    | Wither                                          | 5%            |
-| 85    | Special Wither Skull                            | 1%            |
-| 86    | Wolf                                            | 1%            |
-| 87    | Zoglin                                          | 1%            |
-| 88    | Zombie Horse                                    | 1%            |
-| 89    | Zombie Nautilus                                 | 1%            |
-| 90    | Zombie Villager                                 | 3%            |
-| 91    | Zombie                                          | 0.1%          |
-| 92    | Zombified Piglin                                | 0.1%          |
+| **#** | **Mob** | **Drop Rate** |
+|-------|--------------------------------------------------|---------------|
+| 1 | Allay | 5% |
+| 2 | Armadillo | 5% |
+| 3 | Axolotl | 5% |
+| 4 | Blue Axolotl | 10% |
+| 5 | Bat | 5% |
+| 6 | Bee | 5% |
+| 7 | Blaze | 3% |
+| 8 | Bogged | 5% |
+| 9 | Breeze | 5% |
+| 10 | Camel | 5% |
+| 11 | Camel Husk | 7% |
+| 12 | Cat | 5% |
+| 13 | Cave Spider | 3% |
+| 14 | Chicken | 2% |
+| 15 | Cod | 2% |
+| 16 | Copper Golem | 3% |
+| 17 | Cow | 2% |
+| 18 | Creaking | 5% |
+| 19 | Creeper | 2% |
+| 20 | Charged Creeper | 10% |
+| 21 | Dolphin | 5% |
+| 22 | Donkey | 5% |
+| 23 | Drowned | 2% |
+| 24 | Elder Guardian | 15% |
+| 25 | Ender Dragon | 20% |
+| 26 | Enderman | 2% |
+| 27 | Endermite | 5% |
+| 28 | Evoker | 5% |
+| 29 | Fox | 5% |
+| 30 | Frog | 5% |
+| 31 | Ghast | 3% |
+| 32 | Glow Squid | 5% |
+| 33 | Goat | 5% |
+| 34 | Guardian | 2% |
+| 35 | Happy Ghast | 5% |
+| 36 | Hoglin | 3% |
+| 37 | Horse | 5% |
+| 38 | Husk | 3% |
+| 39 | Illusioner | 5% |
+| 40 | Iron Golem | 3% |
+| 41 | Llama | 5% |
+| 42 | Magma Cube | 5% |
+| 43 | Mooshroom | 5% |
+| 44 | Brown Mooshroom | 10% |
+| 45 | Mule | 5% |
+| 46 | Nautilus | 5% |
+| 47 | Ozelot | 5% |
+| 48 | Normal & Weak Panda | 5% |
+| 49 | Lazy, Brown, Playful, Aggressive, Worried Panda | 10% |
+| 50 | Parched | 5% |
+| 51 | Parrot | 5% |
+| 52 | Phantom | 3% |
+| 53 | Pig | 2% |
+| 54 | Pilgin Brute | 10% |
+| 55 | Piglin | 3% |
+| 56 | Pillager | 2% |
+| 57 | Polar Bear | 5% |
+| 58 | Pufferfish | 5% |
+| 59 | Rabbit | 5% |
+| 60 | Ravager | 5% |
+| 61 | Salmon | 3% |
+| 62 | Sheep | 2% |
+| 63 | Shulker | 5% |
+| 64 | Silverfish | 2% |
+| 65 | Skeleton Horse | 10% |
+| 66 | Skeleton | 2% |
+| 67 | Slime | 2% |
+| 68 | Sniffer | 5% |
+| 69 | Snow Golem | 2% |
+| 70 | Spider | 2% |
+| 71 | Squid | 3% |
+| 72 | Stray | 3% |
+| 73 | Strider | 5% |
+| 74 | Tadpole | 5% |
+| 75 | Trader Llama | 3% |
+| 76 | Tropical Fish | 5% |
+| 77 | Turtle | 5% |
+| 78 | Vex | 5% |
+| 79 | Villager | 5% |
+| 80 | Vindicator | 3% |
+| 81 | Wandering Trader | 5% |
+| 82 | Warden | 15% |
+| 83 | Witch | 2% |
+| 84 | Wither | 20% |
+| 85 | Special Wither Skull | 5% |
+| 86 | Wolf | 5% |
+| 87 | Zoglin | 5% |
+| 88 | Zombie Horse | 5% |
+| 89 | Zombie Nautilus | 5% |
+| 90 | Zombie Villager | 7% |
+| 91 | Zombie | 2% |
+| 92 | Zombified Piglin | 2% |
 
 ### Config [1.21.5 and below] To change drop rates, rarities and drop messages
 

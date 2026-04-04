@@ -21,6 +21,13 @@
           "text": " "
         },
         {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
+        {
+          "text": " "
+        },
+        {
           "translate": "entity.minecraft.villager",
           "fallback": "Villager"
         },
@@ -37,6 +44,13 @@
       "translate": "mob_heads.advancement.collection.collect_the",
       "fallback": "Collect the",
       "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
         {
           "text": " "
         },

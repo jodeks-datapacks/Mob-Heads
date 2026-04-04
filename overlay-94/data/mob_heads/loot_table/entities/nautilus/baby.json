@@ -12,7 +12,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.nautilus.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.nautilus.eat"
               }
             },
             {
@@ -269,10 +269,6 @@
                 "storage": "mob_heads:root",
                 "path": "data.nautilus"
               }
-            },
-            {
-              "condition": "reference",
-              "name": "mob_heads:should_head_drop"
             }
           ]
         }

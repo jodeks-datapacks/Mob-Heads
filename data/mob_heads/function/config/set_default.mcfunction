@@ -3,8 +3,8 @@ data modify storage mob_heads:root data.dialog_drop_notification set value "$(di
 execute unless score &drop_notification mob_heads.config = &drop_notification mob_heads.config run scoreboard players set &drop_notification mob_heads.config 1
 
 # 1 = player, 0 = charged creeper
-execute unless data storage mob_heads:root data.killed_by_player_initial run data modify storage mob_heads:root data.killed_by_player_initial set value 1
-execute unless data storage mob_heads:root data.killed_by_charged_creeper_initial run data modify storage mob_heads:root data.killed_by_charged_creeper_initial set value 0
+execute unless data storage mob_heads:root data.killed_by_playerial run data modify storage mob_heads:root data.killed_by_playerial set value 1
+execute unless data storage mob_heads:root data.killed_by_charged_creeperial run data modify storage mob_heads:root data.killed_by_charged_creeperial set value 0
 data modify storage mob_heads:root data.dialog_killed_by set value "$(dialog_killed_by)"
 execute unless score &killed_by_player mob_heads.config = &killed_by_player mob_heads.config run scoreboard players set &killed_by_player mob_heads.config 1
 
@@ -369,232 +369,232 @@ execute unless score &killed_by_player mob_heads.config = &killed_by_player mob_
 
 # Drop rates
   # Default drop rates
-    execute unless data storage mob_heads:root data.allay run data modify storage mob_heads:root data.allay set value 0.01
-    execute unless data storage mob_heads:root data.armadillo run data modify storage mob_heads:root data.armadillo set value 0.01
-    execute unless data storage mob_heads:root data.axolotl run data modify storage mob_heads:root data.axolotl set value 0.01
-    execute unless data storage mob_heads:root data.axolotl_blue run data modify storage mob_heads:root data.axolotl_blue set value 0.05
+execute unless data storage mob_heads:root data.allay run data modify storage mob_heads:root data.allay set value 0.05
+    execute unless data storage mob_heads:root data.armadillo run data modify storage mob_heads:root data.armadillo set value 0.05
+    execute unless data storage mob_heads:root data.axolotl run data modify storage mob_heads:root data.axolotl set value 0.05
+    execute unless data storage mob_heads:root data.axolotl_blue run data modify storage mob_heads:root data.axolotl_blue set value 0.1
 
-    execute unless data storage mob_heads:root data.bat run data modify storage mob_heads:root data.bat set value 0.01
-    execute unless data storage mob_heads:root data.bee run data modify storage mob_heads:root data.bee set value 0.01
-    execute unless data storage mob_heads:root data.blaze run data modify storage mob_heads:root data.blaze set value 0.005
-    execute unless data storage mob_heads:root data.bogged run data modify storage mob_heads:root data.bogged set value 0.01
-    execute unless data storage mob_heads:root data.breeze run data modify storage mob_heads:root data.breeze set value 0.01
+    execute unless data storage mob_heads:root data.bat run data modify storage mob_heads:root data.bat set value 0.05
+    execute unless data storage mob_heads:root data.bee run data modify storage mob_heads:root data.bee set value 0.05
+    execute unless data storage mob_heads:root data.blaze run data modify storage mob_heads:root data.blaze set value 0.03
+    execute unless data storage mob_heads:root data.bogged run data modify storage mob_heads:root data.bogged set value 0.05
+    execute unless data storage mob_heads:root data.breeze run data modify storage mob_heads:root data.breeze set value 0.05
 
-    execute unless data storage mob_heads:root data.camel run data modify storage mob_heads:root data.camel set value 0.02
-    execute unless data storage mob_heads:root data.cat run data modify storage mob_heads:root data.cat set value 0.02
-    execute unless data storage mob_heads:root data.cave_spider run data modify storage mob_heads:root data.cave_spider set value 0.005
-    execute unless data storage mob_heads:root data.chicken run data modify storage mob_heads:root data.chicken set value 0.001
-    execute unless data storage mob_heads:root data.cod run data modify storage mob_heads:root data.cod set value 0.001
-    execute unless data storage mob_heads:root data.cow run data modify storage mob_heads:root data.cow set value 0.001
-    execute unless data storage mob_heads:root data.creaking run data modify storage mob_heads:root data.creaking set value 0.001
-    execute unless data storage mob_heads:root data.creeper run data modify storage mob_heads:root data.creeper set value 0.001
-    execute unless data storage mob_heads:root data.creeper_charged run data modify storage mob_heads:root data.creeper_charged set value 0.02
+    execute unless data storage mob_heads:root data.camel run data modify storage mob_heads:root data.camel set value 0.05
+    execute unless data storage mob_heads:root data.cat run data modify storage mob_heads:root data.cat set value 0.05
+    execute unless data storage mob_heads:root data.cave_spider run data modify storage mob_heads:root data.cave_spider set value 0.03
+    execute unless data storage mob_heads:root data.chicken run data modify storage mob_heads:root data.chicken set value 0.02
+    execute unless data storage mob_heads:root data.cod run data modify storage mob_heads:root data.cod set value 0.02
+    execute unless data storage mob_heads:root data.cow run data modify storage mob_heads:root data.cow set value 0.02
+    execute unless data storage mob_heads:root data.creaking run data modify storage mob_heads:root data.creaking set value 0.05
+    execute unless data storage mob_heads:root data.creeper run data modify storage mob_heads:root data.creeper set value 0.02
+    execute unless data storage mob_heads:root data.creeper_charged run data modify storage mob_heads:root data.creeper_charged set value 0.1
 
-    execute unless data storage mob_heads:root data.dolphin run data modify storage mob_heads:root data.dolphin set value 0.01
-    execute unless data storage mob_heads:root data.donkey run data modify storage mob_heads:root data.donkey set value 0.01
-    execute unless data storage mob_heads:root data.drowned run data modify storage mob_heads:root data.drowned set value 0.001
+    execute unless data storage mob_heads:root data.dolphin run data modify storage mob_heads:root data.dolphin set value 0.05
+    execute unless data storage mob_heads:root data.donkey run data modify storage mob_heads:root data.donkey set value 0.05
+    execute unless data storage mob_heads:root data.drowned run data modify storage mob_heads:root data.drowned set value 0.02
 
-    execute unless data storage mob_heads:root data.elder_guardian run data modify storage mob_heads:root data.elder_guardian set value 0.05
-    execute unless data storage mob_heads:root data.ender_dragon run data modify storage mob_heads:root data.ender_dragon set value 0.05
-    execute unless data storage mob_heads:root data.enderman run data modify storage mob_heads:root data.enderman set value 0.001
-    execute unless data storage mob_heads:root data.endermite run data modify storage mob_heads:root data.endermite set value 0.01
-    execute unless data storage mob_heads:root data.evoker run data modify storage mob_heads:root data.evoker set value 0.01
+    execute unless data storage mob_heads:root data.elder_guardian run data modify storage mob_heads:root data.elder_guardian set value 0.15
+    execute unless data storage mob_heads:root data.ender_dragon run data modify storage mob_heads:root data.ender_dragon set value 0.2
+    execute unless data storage mob_heads:root data.enderman run data modify storage mob_heads:root data.enderman set value 0.02
+    execute unless data storage mob_heads:root data.endermite run data modify storage mob_heads:root data.endermite set value 0.05
+    execute unless data storage mob_heads:root data.evoker run data modify storage mob_heads:root data.evoker set value 0.05
 
-    execute unless data storage mob_heads:root data.fox run data modify storage mob_heads:root data.fox set value 0.01
-    execute unless data storage mob_heads:root data.frog run data modify storage mob_heads:root data.frog set value 0.01
+    execute unless data storage mob_heads:root data.fox run data modify storage mob_heads:root data.fox set value 0.05
+    execute unless data storage mob_heads:root data.frog run data modify storage mob_heads:root data.frog set value 0.05
 
-    execute unless data storage mob_heads:root data.ghast run data modify storage mob_heads:root data.ghast set value 0.005
-    execute unless data storage mob_heads:root data.glow_squid run data modify storage mob_heads:root data.glow_squid set value 0.01
-    execute unless data storage mob_heads:root data.goat run data modify storage mob_heads:root data.goat set value 0.01
-    execute unless data storage mob_heads:root data.guardian run data modify storage mob_heads:root data.guardian set value 0.001
+    execute unless data storage mob_heads:root data.ghast run data modify storage mob_heads:root data.ghast set value 0.03
+    execute unless data storage mob_heads:root data.glow_squid run data modify storage mob_heads:root data.glow_squid set value 0.05
+    execute unless data storage mob_heads:root data.goat run data modify storage mob_heads:root data.goat set value 0.05
+    execute unless data storage mob_heads:root data.guardian run data modify storage mob_heads:root data.guardian set value 0.02
 
-    execute unless data storage mob_heads:root data.happy_ghast run data modify storage mob_heads:root data.happy_ghast set value 0.01
-    execute unless data storage mob_heads:root data.hoglin run data modify storage mob_heads:root data.hoglin set value 0.005
-    execute unless data storage mob_heads:root data.horse run data modify storage mob_heads:root data.horse set value 0.01
-    execute unless data storage mob_heads:root data.husk run data modify storage mob_heads:root data.husk set value 0.005
+    execute unless data storage mob_heads:root data.happy_ghast run data modify storage mob_heads:root data.happy_ghast set value 0.05
+    execute unless data storage mob_heads:root data.hoglin run data modify storage mob_heads:root data.hoglin set value 0.03
+    execute unless data storage mob_heads:root data.horse run data modify storage mob_heads:root data.horse set value 0.05
+    execute unless data storage mob_heads:root data.husk run data modify storage mob_heads:root data.husk set value 0.03
 
-    execute unless data storage mob_heads:root data.illusioner run data modify storage mob_heads:root data.illusioner set value 0.005
-    execute unless data storage mob_heads:root data.iron_golem run data modify storage mob_heads:root data.iron_golem set value 0.005
+    execute unless data storage mob_heads:root data.illusioner run data modify storage mob_heads:root data.illusioner set value 0.05
+    execute unless data storage mob_heads:root data.iron_golem run data modify storage mob_heads:root data.iron_golem set value 0.03
 
-    execute unless data storage mob_heads:root data.llama run data modify storage mob_heads:root data.llama set value 0.01
+    execute unless data storage mob_heads:root data.llama run data modify storage mob_heads:root data.llama set value 0.05
 
-    execute unless data storage mob_heads:root data.magma_cube run data modify storage mob_heads:root data.magma_cube set value 0.01
-    execute unless data storage mob_heads:root data.mooshroom run data modify storage mob_heads:root data.mooshroom set value 0.01
-    execute unless data storage mob_heads:root data.mooshroom_brown run data modify storage mob_heads:root data.mooshroom_brown set value 0.02
-    execute unless data storage mob_heads:root data.mule run data modify storage mob_heads:root data.mule set value 0.01
+    execute unless data storage mob_heads:root data.magma_cube run data modify storage mob_heads:root data.magma_cube set value 0.05
+    execute unless data storage mob_heads:root data.mooshroom run data modify storage mob_heads:root data.mooshroom set value 0.05
+    execute unless data storage mob_heads:root data.mooshroom_brown run data modify storage mob_heads:root data.mooshroom_brown set value 0.1
+    execute unless data storage mob_heads:root data.mule run data modify storage mob_heads:root data.mule set value 0.05
 
-    execute unless data storage mob_heads:root data.ocelot run data modify storage mob_heads:root data.ocelot set value 0.01
+    execute unless data storage mob_heads:root data.ocelot run data modify storage mob_heads:root data.ocelot set value 0.05
 
-    execute unless data storage mob_heads:root data.panda run data modify storage mob_heads:root data.panda set value 0.01
-    execute unless data storage mob_heads:root data.panda_special run data modify storage mob_heads:root data.panda_special set value 0.02
-    execute unless data storage mob_heads:root data.parrot run data modify storage mob_heads:root data.parrot set value 0.01
-    execute unless data storage mob_heads:root data.phantom run data modify storage mob_heads:root data.phantom set value 0.005
-    execute unless data storage mob_heads:root data.pig run data modify storage mob_heads:root data.pig set value 0.001
-    execute unless data storage mob_heads:root data.piglin_brute run data modify storage mob_heads:root data.piglin_brute set value 0.02
-    execute unless data storage mob_heads:root data.piglin run data modify storage mob_heads:root data.piglin set value 0.005
-    execute unless data storage mob_heads:root data.pillager run data modify storage mob_heads:root data.pillager set value 0.001
-    execute unless data storage mob_heads:root data.polar_bear run data modify storage mob_heads:root data.polar_bear set value 0.01
-    execute unless data storage mob_heads:root data.pufferfish run data modify storage mob_heads:root data.pufferfish set value 0.01
+    execute unless data storage mob_heads:root data.panda run data modify storage mob_heads:root data.panda set value 0.05
+    execute unless data storage mob_heads:root data.panda_special run data modify storage mob_heads:root data.panda_special set value 0.1
+    execute unless data storage mob_heads:root data.parrot run data modify storage mob_heads:root data.parrot set value 0.05
+    execute unless data storage mob_heads:root data.phantom run data modify storage mob_heads:root data.phantom set value 0.03
+    execute unless data storage mob_heads:root data.pig run data modify storage mob_heads:root data.pig set value 0.02
+    execute unless data storage mob_heads:root data.piglin_brute run data modify storage mob_heads:root data.piglin_brute set value 0.1
+    execute unless data storage mob_heads:root data.piglin run data modify storage mob_heads:root data.piglin set value 0.03
+    execute unless data storage mob_heads:root data.pillager run data modify storage mob_heads:root data.pillager set value 0.02
+    execute unless data storage mob_heads:root data.polar_bear run data modify storage mob_heads:root data.polar_bear set value 0.05
+    execute unless data storage mob_heads:root data.pufferfish run data modify storage mob_heads:root data.pufferfish set value 0.05
 
-    execute unless data storage mob_heads:root data.rabbit run data modify storage mob_heads:root data.rabbit set value 0.01
-    execute unless data storage mob_heads:root data.ravager run data modify storage mob_heads:root data.ravager set value 0.01
+    execute unless data storage mob_heads:root data.rabbit run data modify storage mob_heads:root data.rabbit set value 0.05
+    execute unless data storage mob_heads:root data.ravager run data modify storage mob_heads:root data.ravager set value 0.05
 
-    execute unless data storage mob_heads:root data.salmon run data modify storage mob_heads:root data.salmon set value 0.005
-    execute unless data storage mob_heads:root data.sheep run data modify storage mob_heads:root data.sheep set value 0.001
-    execute unless data storage mob_heads:root data.shulker run data modify storage mob_heads:root data.shulker set value 0.01
-    execute unless data storage mob_heads:root data.silverfish run data modify storage mob_heads:root data.silverfish set value 0.001
-    execute unless data storage mob_heads:root data.skeleton_horse run data modify storage mob_heads:root data.skeleton_horse set value 0.02
-    execute unless data storage mob_heads:root data.skeleton run data modify storage mob_heads:root data.skeleton set value 0.001
-    execute unless data storage mob_heads:root data.slime run data modify storage mob_heads:root data.slime set value 0.001
-    execute unless data storage mob_heads:root data.sniffer run data modify storage mob_heads:root data.sniffer set value 0.01
-    execute unless data storage mob_heads:root data.snow_golem run data modify storage mob_heads:root data.snow_golem set value 0.001
-    execute unless data storage mob_heads:root data.spider run data modify storage mob_heads:root data.spider set value 0.001
-    execute unless data storage mob_heads:root data.squid run data modify storage mob_heads:root data.squid set value 0.005
-    execute unless data storage mob_heads:root data.stray run data modify storage mob_heads:root data.stray set value 0.005
-    execute unless data storage mob_heads:root data.strider run data modify storage mob_heads:root data.strider set value 0.01
+    execute unless data storage mob_heads:root data.salmon run data modify storage mob_heads:root data.salmon set value 0.03
+    execute unless data storage mob_heads:root data.sheep run data modify storage mob_heads:root data.sheep set value 0.02
+    execute unless data storage mob_heads:root data.shulker run data modify storage mob_heads:root data.shulker set value 0.05
+    execute unless data storage mob_heads:root data.silverfish run data modify storage mob_heads:root data.silverfish set value 0.02
+    execute unless data storage mob_heads:root data.skeleton_horse run data modify storage mob_heads:root data.skeleton_horse set value 0.1
+    execute unless data storage mob_heads:root data.skeleton run data modify storage mob_heads:root data.skeleton set value 0.02
+    execute unless data storage mob_heads:root data.slime run data modify storage mob_heads:root data.slime set value 0.02
+    execute unless data storage mob_heads:root data.sniffer run data modify storage mob_heads:root data.sniffer set value 0.05
+    execute unless data storage mob_heads:root data.snow_golem run data modify storage mob_heads:root data.snow_golem set value 0.02
+    execute unless data storage mob_heads:root data.spider run data modify storage mob_heads:root data.spider set value 0.02
+    execute unless data storage mob_heads:root data.squid run data modify storage mob_heads:root data.squid set value 0.03
+    execute unless data storage mob_heads:root data.stray run data modify storage mob_heads:root data.stray set value 0.03
+    execute unless data storage mob_heads:root data.strider run data modify storage mob_heads:root data.strider set value 0.05
 
-    execute unless data storage mob_heads:root data.tadpole run data modify storage mob_heads:root data.tadpole set value 0.01
-    execute unless data storage mob_heads:root data.trader_llama run data modify storage mob_heads:root data.trader_llama set value 0.005
-    execute unless data storage mob_heads:root data.tropical_fish run data modify storage mob_heads:root data.tropical_fish set value 0.01
-    execute unless data storage mob_heads:root data.turtle run data modify storage mob_heads:root data.turtle set value 0.01
+    execute unless data storage mob_heads:root data.tadpole run data modify storage mob_heads:root data.tadpole set value 0.05
+    execute unless data storage mob_heads:root data.trader_llama run data modify storage mob_heads:root data.trader_llama set value 0.03
+    execute unless data storage mob_heads:root data.tropical_fish run data modify storage mob_heads:root data.tropical_fish set value 0.05
+    execute unless data storage mob_heads:root data.turtle run data modify storage mob_heads:root data.turtle set value 0.05
 
-    execute unless data storage mob_heads:root data.vex run data modify storage mob_heads:root data.vex set value 0.01
-    execute unless data storage mob_heads:root data.villager run data modify storage mob_heads:root data.villager set value 0.01
-    execute unless data storage mob_heads:root data.vindicator run data modify storage mob_heads:root data.vindicator set value 0.005
+    execute unless data storage mob_heads:root data.vex run data modify storage mob_heads:root data.vex set value 0.05
+    execute unless data storage mob_heads:root data.villager run data modify storage mob_heads:root data.villager set value 0.05
+    execute unless data storage mob_heads:root data.vindicator run data modify storage mob_heads:root data.vindicator set value 0.03
 
-    execute unless data storage mob_heads:root data.wandering_trader run data modify storage mob_heads:root data.wandering_trader set value 0.01
-    execute unless data storage mob_heads:root data.warden run data modify storage mob_heads:root data.warden set value 0.05
-    execute unless data storage mob_heads:root data.witch run data modify storage mob_heads:root data.witch set value 0.001
-    execute unless data storage mob_heads:root data.wither run data modify storage mob_heads:root data.wither set value 0.05
-    execute unless data storage mob_heads:root data.wither_invulnerable run data modify storage mob_heads:root data.wither_invulnerable set value 0.01
-    execute unless data storage mob_heads:root data.wolf run data modify storage mob_heads:root data.wolf set value 0.01
+    execute unless data storage mob_heads:root data.wandering_trader run data modify storage mob_heads:root data.wandering_trader set value 0.05
+    execute unless data storage mob_heads:root data.warden run data modify storage mob_heads:root data.warden set value 0.15
+    execute unless data storage mob_heads:root data.witch run data modify storage mob_heads:root data.witch set value 0.02
+    execute unless data storage mob_heads:root data.wither run data modify storage mob_heads:root data.wither set value 0.2
+    execute unless data storage mob_heads:root data.wither_invulnerable run data modify storage mob_heads:root data.wither_invulnerable set value 0.05
+    execute unless data storage mob_heads:root data.wolf run data modify storage mob_heads:root data.wolf set value 0.05
 
-    execute unless data storage mob_heads:root data.zoglin run data modify storage mob_heads:root data.zoglin set value 0.01
-    execute unless data storage mob_heads:root data.zombie_horse run data modify storage mob_heads:root data.zombie_horse set value 0.01
-    execute unless data storage mob_heads:root data.zombie_villager run data modify storage mob_heads:root data.zombie_villager set value 0.03
-    execute unless data storage mob_heads:root data.zombie run data modify storage mob_heads:root data.zombie set value 0.001
-    execute unless data storage mob_heads:root data.zombified_piglin run data modify storage mob_heads:root data.zombified_piglin set value 0.001
-
-  # Updates
-    execute unless data storage mob_heads:root data.copper_golem run data modify storage mob_heads:root data.copper_golem set value 0.005
-    execute unless data storage mob_heads:root data.nautilus run data modify storage mob_heads:root data.nautilus set value 0.01
-    execute unless data storage mob_heads:root data.parched run data modify storage mob_heads:root data.parched set value 0.01
-    execute unless data storage mob_heads:root data.zombie_nautilus run data modify storage mob_heads:root data.zombie_nautilus set value 0.01
-    execute unless data storage mob_heads:root data.camel_husk run data modify storage mob_heads:root data.camel_husk set value 0.03
-
-  # Initial drop rates
-    execute unless data storage mob_heads:root data.allay_init run data modify storage mob_heads:root data.allay_init set value 0.01
-    execute unless data storage mob_heads:root data.armadillo_init run data modify storage mob_heads:root data.armadillo_init set value 0.01
-    execute unless data storage mob_heads:root data.axolotl_init run data modify storage mob_heads:root data.axolotl_init set value 0.01
-    execute unless data storage mob_heads:root data.axolotl_blue_init run data modify storage mob_heads:root data.axolotl_blue_init set value 0.05
-
-    execute unless data storage mob_heads:root data.bat_init run data modify storage mob_heads:root data.bat_init set value 0.01
-    execute unless data storage mob_heads:root data.bee_init run data modify storage mob_heads:root data.bee_init set value 0.01
-    execute unless data storage mob_heads:root data.blaze_init run data modify storage mob_heads:root data.blaze_init set value 0.005
-    execute unless data storage mob_heads:root data.bogged_init run data modify storage mob_heads:root data.bogged_init set value 0.01
-    execute unless data storage mob_heads:root data.breeze_init run data modify storage mob_heads:root data.breeze_init set value 0.01
-
-    execute unless data storage mob_heads:root data.camel_init run data modify storage mob_heads:root data.camel_init set value 0.02
-    execute unless data storage mob_heads:root data.cat_init run data modify storage mob_heads:root data.cat_init set value 0.02
-    execute unless data storage mob_heads:root data.cave_spider_init run data modify storage mob_heads:root data.cave_spider_init set value 0.005
-    execute unless data storage mob_heads:root data.chicken_init run data modify storage mob_heads:root data.chicken_init set value 0.001
-    execute unless data storage mob_heads:root data.cod_init run data modify storage mob_heads:root data.cod_init set value 0.001
-    execute unless data storage mob_heads:root data.cow_init run data modify storage mob_heads:root data.cow_init set value 0.001
-    execute unless data storage mob_heads:root data.creaking_init run data modify storage mob_heads:root data.creaking_init set value 0.001
-    execute unless data storage mob_heads:root data.creeper_init run data modify storage mob_heads:root data.creeper_init set value 0.001
-    execute unless data storage mob_heads:root data.creeper_charged_init run data modify storage mob_heads:root data.creeper_charged_init set value 0.02
-
-    execute unless data storage mob_heads:root data.dolphin_init run data modify storage mob_heads:root data.dolphin_init set value 0.01
-    execute unless data storage mob_heads:root data.donkey_init run data modify storage mob_heads:root data.donkey_init set value 0.01
-    execute unless data storage mob_heads:root data.drowned_init run data modify storage mob_heads:root data.drowned_init set value 0.001
-
-    execute unless data storage mob_heads:root data.elder_guardian_init run data modify storage mob_heads:root data.elder_guardian_init set value 0.05
-    execute unless data storage mob_heads:root data.ender_dragon_init run data modify storage mob_heads:root data.ender_dragon_init set value 0.05
-    execute unless data storage mob_heads:root data.enderman_init run data modify storage mob_heads:root data.enderman_init set value 0.001
-    execute unless data storage mob_heads:root data.endermite_init run data modify storage mob_heads:root data.endermite_init set value 0.01
-    execute unless data storage mob_heads:root data.evoker_init run data modify storage mob_heads:root data.evoker_init set value 0.01
-
-    execute unless data storage mob_heads:root data.fox_init run data modify storage mob_heads:root data.fox_init set value 0.01
-    execute unless data storage mob_heads:root data.frog_init run data modify storage mob_heads:root data.frog_init set value 0.01
-
-    execute unless data storage mob_heads:root data.ghast_init run data modify storage mob_heads:root data.ghast_init set value 0.005
-    execute unless data storage mob_heads:root data.glow_squid_init run data modify storage mob_heads:root data.glow_squid_init set value 0.01
-    execute unless data storage mob_heads:root data.goat_init run data modify storage mob_heads:root data.goat_init set value 0.01
-    execute unless data storage mob_heads:root data.guardian_init run data modify storage mob_heads:root data.guardian_init set value 0.001
-
-    execute unless data storage mob_heads:root data.happy_ghast_init run data modify storage mob_heads:root data.happy_ghast_init set value 0.01
-    execute unless data storage mob_heads:root data.hoglin_init run data modify storage mob_heads:root data.hoglin_init set value 0.005
-    execute unless data storage mob_heads:root data.horse_init run data modify storage mob_heads:root data.horse_init set value 0.01
-    execute unless data storage mob_heads:root data.husk_init run data modify storage mob_heads:root data.husk_init set value 0.005
-
-    execute unless data storage mob_heads:root data.illusioner_init run data modify storage mob_heads:root data.illusioner_init set value 0.005
-    execute unless data storage mob_heads:root data.iron_golem_init run data modify storage mob_heads:root data.iron_golem_init set value 0.005
-
-    execute unless data storage mob_heads:root data.llama_init run data modify storage mob_heads:root data.llama_init set value 0.01
-
-    execute unless data storage mob_heads:root data.magma_cube_init run data modify storage mob_heads:root data.magma_cube_init set value 0.01
-    execute unless data storage mob_heads:root data.mooshroom_init run data modify storage mob_heads:root data.mooshroom_init set value 0.01
-    execute unless data storage mob_heads:root data.mooshroom_brown_init run data modify storage mob_heads:root data.mooshroom_brown_init set value 0.02
-    execute unless data storage mob_heads:root data.mule_init run data modify storage mob_heads:root data.mule_init set value 0.01
-
-    execute unless data storage mob_heads:root data.ocelot_init run data modify storage mob_heads:root data.ocelot_init set value 0.01
-
-    execute unless data storage mob_heads:root data.panda_init run data modify storage mob_heads:root data.panda_init set value 0.01
-    execute unless data storage mob_heads:root data.panda_special_init run data modify storage mob_heads:root data.panda_special_init set value 0.02
-    execute unless data storage mob_heads:root data.parrot_init run data modify storage mob_heads:root data.parrot_init set value 0.01
-    execute unless data storage mob_heads:root data.phantom_init run data modify storage mob_heads:root data.phantom_init set value 0.005
-    execute unless data storage mob_heads:root data.pig_init run data modify storage mob_heads:root data.pig_init set value 0.001
-    execute unless data storage mob_heads:root data.piglin_brute_init run data modify storage mob_heads:root data.piglin_brute_init set value 0.02
-    execute unless data storage mob_heads:root data.piglin_init run data modify storage mob_heads:root data.piglin_init set value 0.005
-    execute unless data storage mob_heads:root data.pillager_init run data modify storage mob_heads:root data.pillager_init set value 0.001
-    execute unless data storage mob_heads:root data.polar_bear_init run data modify storage mob_heads:root data.polar_bear_init set value 0.01
-    execute unless data storage mob_heads:root data.pufferfish_init run data modify storage mob_heads:root data.pufferfish_init set value 0.01
-
-    execute unless data storage mob_heads:root data.rabbit_init run data modify storage mob_heads:root data.rabbit_init set value 0.01
-    execute unless data storage mob_heads:root data.ravager_init run data modify storage mob_heads:root data.ravager_init set value 0.01
-
-    execute unless data storage mob_heads:root data.salmon_init run data modify storage mob_heads:root data.salmon_init set value 0.005
-    execute unless data storage mob_heads:root data.sheep_init run data modify storage mob_heads:root data.sheep_init set value 0.001
-    execute unless data storage mob_heads:root data.shulker_init run data modify storage mob_heads:root data.shulker_init set value 0.01
-    execute unless data storage mob_heads:root data.silverfish_init run data modify storage mob_heads:root data.silverfish_init set value 0.001
-    execute unless data storage mob_heads:root data.skeleton_horse_init run data modify storage mob_heads:root data.skeleton_horse_init set value 0.02
-    execute unless data storage mob_heads:root data.skeleton_init run data modify storage mob_heads:root data.skeleton_init set value 0.001
-    execute unless data storage mob_heads:root data.slime_init run data modify storage mob_heads:root data.slime_init set value 0.001
-    execute unless data storage mob_heads:root data.sniffer_init run data modify storage mob_heads:root data.sniffer_init set value 0.01
-    execute unless data storage mob_heads:root data.snow_golem_init run data modify storage mob_heads:root data.snow_golem_init set value 0.001
-    execute unless data storage mob_heads:root data.spider_init run data modify storage mob_heads:root data.spider_init set value 0.001
-    execute unless data storage mob_heads:root data.squid_init run data modify storage mob_heads:root data.squid_init set value 0.005
-    execute unless data storage mob_heads:root data.stray_init run data modify storage mob_heads:root data.stray_init set value 0.005
-    execute unless data storage mob_heads:root data.strider_init run data modify storage mob_heads:root data.strider_init set value 0.01
-
-    execute unless data storage mob_heads:root data.tadpole_init run data modify storage mob_heads:root data.tadpole_init set value 0.01
-    execute unless data storage mob_heads:root data.trader_llama_init run data modify storage mob_heads:root data.trader_llama_init set value 0.005
-    execute unless data storage mob_heads:root data.tropical_fish_init run data modify storage mob_heads:root data.tropical_fish_init set value 0.01
-    execute unless data storage mob_heads:root data.turtle_init run data modify storage mob_heads:root data.turtle_init set value 0.01
-
-    execute unless data storage mob_heads:root data.vex_init run data modify storage mob_heads:root data.vex_init set value 0.01
-    execute unless data storage mob_heads:root data.villager_init run data modify storage mob_heads:root data.villager_init set value 0.01
-    execute unless data storage mob_heads:root data.vindicator_init run data modify storage mob_heads:root data.vindicator_init set value 0.005
-
-    execute unless data storage mob_heads:root data.wandering_trader_init run data modify storage mob_heads:root data.wandering_trader_init set value 0.01
-    execute unless data storage mob_heads:root data.warden_init run data modify storage mob_heads:root data.warden_init set value 0.05
-    execute unless data storage mob_heads:root data.witch_init run data modify storage mob_heads:root data.witch_init set value 0.001
-    execute unless data storage mob_heads:root data.wither_init run data modify storage mob_heads:root data.wither_init set value 0.05
-    execute unless data storage mob_heads:root data.wither_invulnerable_init run data modify storage mob_heads:root data.wither_invulnerable_init set value 0.01
-    execute unless data storage mob_heads:root data.wolf_init run data modify storage mob_heads:root data.wolf_init set value 0.01
-
-    execute unless data storage mob_heads:root data.zoglin_init run data modify storage mob_heads:root data.zoglin_init set value 0.01
-    execute unless data storage mob_heads:root data.zombie_horse_init run data modify storage mob_heads:root data.zombie_horse_init set value 0.01
-    execute unless data storage mob_heads:root data.zombie_villager_init run data modify storage mob_heads:root data.zombie_villager_init set value 0.03
-    execute unless data storage mob_heads:root data.zombie_init run data modify storage mob_heads:root data.zombie_init set value 0.001
-    execute unless data storage mob_heads:root data.zombified_piglin_init run data modify storage mob_heads:root data.zombified_piglin_init set value 0.001
+    execute unless data storage mob_heads:root data.zoglin run data modify storage mob_heads:root data.zoglin set value 0.05
+    execute unless data storage mob_heads:root data.zombie_horse run data modify storage mob_heads:root data.zombie_horse set value 0.05
+    execute unless data storage mob_heads:root data.zombie_villager run data modify storage mob_heads:root data.zombie_villager set value 0.07
+    execute unless data storage mob_heads:root data.zombie run data modify storage mob_heads:root data.zombie set value 0.02
+    execute unless data storage mob_heads:root data.zombified_piglin run data modify storage mob_heads:root data.zombified_piglin set value 0.02
 
   # Updates
-    execute unless data storage mob_heads:root data.copper_golem_init run data modify storage mob_heads:root data.copper_golem_init set value 0.005
-    execute unless data storage mob_heads:root data.nautilus_init run data modify storage mob_heads:root data.nautilus_init set value 0.01
-    execute unless data storage mob_heads:root data.parched_init run data modify storage mob_heads:root data.parched_init set value 0.01
-    execute unless data storage mob_heads:root data.zombie_nautilus_init run data modify storage mob_heads:root data.zombie_nautilus_init set value 0.01
-    execute unless data storage mob_heads:root data.camel_husk_init run data modify storage mob_heads:root data.camel_husk_init set value 0.03
+    execute unless data storage mob_heads:root data.copper_golem run data modify storage mob_heads:root data.copper_golem set value 0.03
+    execute unless data storage mob_heads:root data.nautilus run data modify storage mob_heads:root data.nautilus set value 0.05
+    execute unless data storage mob_heads:root data.parched run data modify storage mob_heads:root data.parched set value 0.05
+    execute unless data storage mob_heads:root data.zombie_nautilus run data modify storage mob_heads:root data.zombie_nautilus set value 0.05
+    execute unless data storage mob_heads:root data.camel_husk run data modify storage mob_heads:root data.camel_husk set value 0.07
+
+  # Init drop rates
+    execute unless data storage mob_heads:root data.allay_init run data modify storage mob_heads:root data.allay_init set value 0.05
+    execute unless data storage mob_heads:root data.armadillo_init run data modify storage mob_heads:root data.armadillo_init set value 0.05
+    execute unless data storage mob_heads:root data.axolotl_init run data modify storage mob_heads:root data.axolotl_init set value 0.05
+    execute unless data storage mob_heads:root data.axolotl_blue_init run data modify storage mob_heads:root data.axolotl_blue_init set value 0.1
+
+    execute unless data storage mob_heads:root data.bat_init run data modify storage mob_heads:root data.bat_init set value 0.05
+    execute unless data storage mob_heads:root data.bee_init run data modify storage mob_heads:root data.bee_init set value 0.05
+    execute unless data storage mob_heads:root data.blaze_init run data modify storage mob_heads:root data.blaze_init set value 0.03
+    execute unless data storage mob_heads:root data.bogged_init run data modify storage mob_heads:root data.bogged_init set value 0.05
+    execute unless data storage mob_heads:root data.breeze_init run data modify storage mob_heads:root data.breeze_init set value 0.05
+
+    execute unless data storage mob_heads:root data.camel_init run data modify storage mob_heads:root data.camel_init set value 0.05
+    execute unless data storage mob_heads:root data.cat_init run data modify storage mob_heads:root data.cat_init set value 0.05
+    execute unless data storage mob_heads:root data.cave_spider_init run data modify storage mob_heads:root data.cave_spider_init set value 0.03
+    execute unless data storage mob_heads:root data.chicken_init run data modify storage mob_heads:root data.chicken_init set value 0.02
+    execute unless data storage mob_heads:root data.cod_init run data modify storage mob_heads:root data.cod_init set value 0.02
+    execute unless data storage mob_heads:root data.cow_init run data modify storage mob_heads:root data.cow_init set value 0.02
+    execute unless data storage mob_heads:root data.creaking_init run data modify storage mob_heads:root data.creaking_init set value 0.05
+    execute unless data storage mob_heads:root data.creeper_init run data modify storage mob_heads:root data.creeper_init set value 0.02
+    execute unless data storage mob_heads:root data.creeper_charged_init run data modify storage mob_heads:root data.creeper_charged_init set value 0.1
+
+    execute unless data storage mob_heads:root data.dolphin_init run data modify storage mob_heads:root data.dolphin_init set value 0.05
+    execute unless data storage mob_heads:root data.donkey_init run data modify storage mob_heads:root data.donkey_init set value 0.05
+    execute unless data storage mob_heads:root data.drowned_init run data modify storage mob_heads:root data.drowned_init set value 0.02
+
+    execute unless data storage mob_heads:root data.elder_guardian_init run data modify storage mob_heads:root data.elder_guardian_init set value 0.15
+    execute unless data storage mob_heads:root data.ender_dragon_init run data modify storage mob_heads:root data.ender_dragon_init set value 0.2
+    execute unless data storage mob_heads:root data.enderman_init run data modify storage mob_heads:root data.enderman_init set value 0.02
+    execute unless data storage mob_heads:root data.endermite_init run data modify storage mob_heads:root data.endermite_init set value 0.05
+    execute unless data storage mob_heads:root data.evoker_init run data modify storage mob_heads:root data.evoker_init set value 0.05
+
+    execute unless data storage mob_heads:root data.fox_init run data modify storage mob_heads:root data.fox_init set value 0.05
+    execute unless data storage mob_heads:root data.frog_init run data modify storage mob_heads:root data.frog_init set value 0.05
+
+    execute unless data storage mob_heads:root data.ghast_init run data modify storage mob_heads:root data.ghast_init set value 0.03
+    execute unless data storage mob_heads:root data.glow_squid_init run data modify storage mob_heads:root data.glow_squid_init set value 0.05
+    execute unless data storage mob_heads:root data.goat_init run data modify storage mob_heads:root data.goat_init set value 0.05
+    execute unless data storage mob_heads:root data.guardian_init run data modify storage mob_heads:root data.guardian_init set value 0.02
+
+    execute unless data storage mob_heads:root data.happy_ghast_init run data modify storage mob_heads:root data.happy_ghast_init set value 0.05
+    execute unless data storage mob_heads:root data.hoglin_init run data modify storage mob_heads:root data.hoglin_init set value 0.03
+    execute unless data storage mob_heads:root data.horse_init run data modify storage mob_heads:root data.horse_init set value 0.05
+    execute unless data storage mob_heads:root data.husk_init run data modify storage mob_heads:root data.husk_init set value 0.03
+
+    execute unless data storage mob_heads:root data.illusioner_init run data modify storage mob_heads:root data.illusioner_init set value 0.05
+    execute unless data storage mob_heads:root data.iron_golem_init run data modify storage mob_heads:root data.iron_golem_init set value 0.03
+
+    execute unless data storage mob_heads:root data.llama_init run data modify storage mob_heads:root data.llama_init set value 0.05
+
+    execute unless data storage mob_heads:root data.magma_cube_init run data modify storage mob_heads:root data.magma_cube_init set value 0.05
+    execute unless data storage mob_heads:root data.mooshroom_init run data modify storage mob_heads:root data.mooshroom_init set value 0.05
+    execute unless data storage mob_heads:root data.mooshroom_brown_init run data modify storage mob_heads:root data.mooshroom_brown_init set value 0.1
+    execute unless data storage mob_heads:root data.mule_init run data modify storage mob_heads:root data.mule_init set value 0.05
+
+    execute unless data storage mob_heads:root data.ocelot_init run data modify storage mob_heads:root data.ocelot_init set value 0.05
+
+    execute unless data storage mob_heads:root data.panda_init run data modify storage mob_heads:root data.panda_init set value 0.05
+    execute unless data storage mob_heads:root data.panda_special_init run data modify storage mob_heads:root data.panda_special_init set value 0.1
+    execute unless data storage mob_heads:root data.parrot_init run data modify storage mob_heads:root data.parrot_init set value 0.05
+    execute unless data storage mob_heads:root data.phantom_init run data modify storage mob_heads:root data.phantom_init set value 0.03
+    execute unless data storage mob_heads:root data.pig_init run data modify storage mob_heads:root data.pig_init set value 0.02
+    execute unless data storage mob_heads:root data.piglin_brute_init run data modify storage mob_heads:root data.piglin_brute_init set value 0.1
+    execute unless data storage mob_heads:root data.piglin_init run data modify storage mob_heads:root data.piglin_init set value 0.03
+    execute unless data storage mob_heads:root data.pillager_init run data modify storage mob_heads:root data.pillager_init set value 0.02
+    execute unless data storage mob_heads:root data.polar_bear_init run data modify storage mob_heads:root data.polar_bear_init set value 0.05
+    execute unless data storage mob_heads:root data.pufferfish_init run data modify storage mob_heads:root data.pufferfish_init set value 0.05
+
+    execute unless data storage mob_heads:root data.rabbit_init run data modify storage mob_heads:root data.rabbit_init set value 0.05
+    execute unless data storage mob_heads:root data.ravager_init run data modify storage mob_heads:root data.ravager_init set value 0.05
+
+    execute unless data storage mob_heads:root data.salmon_init run data modify storage mob_heads:root data.salmon_init set value 0.03
+    execute unless data storage mob_heads:root data.sheep_init run data modify storage mob_heads:root data.sheep_init set value 0.02
+    execute unless data storage mob_heads:root data.shulker_init run data modify storage mob_heads:root data.shulker_init set value 0.05
+    execute unless data storage mob_heads:root data.silverfish_init run data modify storage mob_heads:root data.silverfish_init set value 0.02
+    execute unless data storage mob_heads:root data.skeleton_horse_init run data modify storage mob_heads:root data.skeleton_horse_init set value 0.1
+    execute unless data storage mob_heads:root data.skeleton_init run data modify storage mob_heads:root data.skeleton_init set value 0.02
+    execute unless data storage mob_heads:root data.slime_init run data modify storage mob_heads:root data.slime_init set value 0.02
+    execute unless data storage mob_heads:root data.sniffer_init run data modify storage mob_heads:root data.sniffer_init set value 0.05
+    execute unless data storage mob_heads:root data.snow_golem_init run data modify storage mob_heads:root data.snow_golem_init set value 0.02
+    execute unless data storage mob_heads:root data.spider_init run data modify storage mob_heads:root data.spider_init set value 0.02
+    execute unless data storage mob_heads:root data.squid_init run data modify storage mob_heads:root data.squid_init set value 0.03
+    execute unless data storage mob_heads:root data.stray_init run data modify storage mob_heads:root data.stray_init set value 0.03
+    execute unless data storage mob_heads:root data.strider_init run data modify storage mob_heads:root data.strider_init set value 0.05
+
+    execute unless data storage mob_heads:root data.tadpole_init run data modify storage mob_heads:root data.tadpole_init set value 0.05
+    execute unless data storage mob_heads:root data.trader_llama_init run data modify storage mob_heads:root data.trader_llama_init set value 0.03
+    execute unless data storage mob_heads:root data.tropical_fish_init run data modify storage mob_heads:root data.tropical_fish_init set value 0.05
+    execute unless data storage mob_heads:root data.turtle_init run data modify storage mob_heads:root data.turtle_init set value 0.05
+
+    execute unless data storage mob_heads:root data.vex_init run data modify storage mob_heads:root data.vex_init set value 0.05
+    execute unless data storage mob_heads:root data.villager_init run data modify storage mob_heads:root data.villager_init set value 0.05
+    execute unless data storage mob_heads:root data.vindicator_init run data modify storage mob_heads:root data.vindicator_init set value 0.03
+
+    execute unless data storage mob_heads:root data.wandering_trader_init run data modify storage mob_heads:root data.wandering_trader_init set value 0.05
+    execute unless data storage mob_heads:root data.warden_init run data modify storage mob_heads:root data.warden_init set value 0.15
+    execute unless data storage mob_heads:root data.witch_init run data modify storage mob_heads:root data.witch_init set value 0.02
+    execute unless data storage mob_heads:root data.wither_init run data modify storage mob_heads:root data.wither_init set value 0.2
+    execute unless data storage mob_heads:root data.wither_invulnerable_init run data modify storage mob_heads:root data.wither_invulnerable_init set value 0.05
+    execute unless data storage mob_heads:root data.wolf_init run data modify storage mob_heads:root data.wolf_init set value 0.05
+
+    execute unless data storage mob_heads:root data.zoglin_init run data modify storage mob_heads:root data.zoglin_init set value 0.05
+    execute unless data storage mob_heads:root data.zombie_horse_init run data modify storage mob_heads:root data.zombie_horse_init set value 0.05
+    execute unless data storage mob_heads:root data.zombie_villager_init run data modify storage mob_heads:root data.zombie_villager_init set value 0.07
+    execute unless data storage mob_heads:root data.zombie_init run data modify storage mob_heads:root data.zombie_init set value 0.02
+    execute unless data storage mob_heads:root data.zombified_piglin_init run data modify storage mob_heads:root data.zombified_piglin_init set value 0.02
+
+  # Updates
+    execute unless data storage mob_heads:root data.copper_golem_init run data modify storage mob_heads:root data.copper_golem_init set value 0.03
+    execute unless data storage mob_heads:root data.nautilus_init run data modify storage mob_heads:root data.nautilus_init set value 0.05
+    execute unless data storage mob_heads:root data.parched_init run data modify storage mob_heads:root data.parched_init set value 0.05
+    execute unless data storage mob_heads:root data.zombie_nautilus_init run data modify storage mob_heads:root data.zombie_nautilus_init set value 0.05
+    execute unless data storage mob_heads:root data.camel_husk_init run data modify storage mob_heads:root data.camel_husk_init set value 0.07
 
   # Dialog drop rates
     data modify storage mob_heads:root data.drop_rate_allay set value "$(drop_rate_allay)"
