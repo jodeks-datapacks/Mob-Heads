@@ -454,7 +454,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     execute unless data storage mob_heads:root data.strider run data modify storage mob_heads:root data.strider set value 0.05
 
     execute unless data storage mob_heads:root data.tadpole run data modify storage mob_heads:root data.tadpole set value 0.05
-    execute unless data storage mob_heads:root data.trader_llama run data modify storage mob_heads:root data.trader_llama set value 0.03
+    execute unless data storage mob_heads:root data.trader_llama run data modify storage mob_heads:root data.trader_llama set value 0.05
     execute unless data storage mob_heads:root data.tropical_fish run data modify storage mob_heads:root data.tropical_fish set value 0.05
     execute unless data storage mob_heads:root data.turtle run data modify storage mob_heads:root data.turtle set value 0.05
 
@@ -568,7 +568,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     execute unless data storage mob_heads:root data.strider_init run data modify storage mob_heads:root data.strider_init set value 0.05
 
     execute unless data storage mob_heads:root data.tadpole_init run data modify storage mob_heads:root data.tadpole_init set value 0.05
-    execute unless data storage mob_heads:root data.trader_llama_init run data modify storage mob_heads:root data.trader_llama_init set value 0.03
+    execute unless data storage mob_heads:root data.trader_llama_init run data modify storage mob_heads:root data.trader_llama_init set value 0.05
     execute unless data storage mob_heads:root data.tropical_fish_init run data modify storage mob_heads:root data.tropical_fish_init set value 0.05
     execute unless data storage mob_heads:root data.turtle_init run data modify storage mob_heads:root data.turtle_init set value 0.05
 

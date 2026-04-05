@@ -89,7 +89,7 @@
     data modify storage mob_heads:root data.strider set value 0.05
 
     data modify storage mob_heads:root data.tadpole set value 0.05
-    data modify storage mob_heads:root data.trader_llama set value 0.03
+    data modify storage mob_heads:root data.trader_llama set value 0.05
     data modify storage mob_heads:root data.tropical_fish set value 0.05
     data modify storage mob_heads:root data.turtle set value 0.05
 
@@ -203,7 +203,7 @@
     data modify storage mob_heads:root data.strider_init set value 0.05
 
     data modify storage mob_heads:root data.tadpole_init set value 0.05
-    data modify storage mob_heads:root data.trader_llama_init set value 0.03
+    data modify storage mob_heads:root data.trader_llama_init set value 0.05
     data modify storage mob_heads:root data.tropical_fish_init set value 0.05
     data modify storage mob_heads:root data.turtle_init set value 0.05
 
