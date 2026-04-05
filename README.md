@@ -21,6 +21,8 @@
 </div>
 
 <div align="center">
+
+<br>
   
 [![github translations jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Translation.png)](https://github.com/jodeks-datapacks/Jodeks-Translations)
 
