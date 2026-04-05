@@ -66,2796 +66,2786 @@ If you want to give yourself a head:
 
 </div>
 
+<!-- HEADS_TABLE_START -->
 <table align="center">
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Allay</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armadillo</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/allay.webp" width="48"><br>
+              <b>Allay</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
+    <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armadillo.webp" width="48"><br>
+              <b>Armadillo</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armadillo Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armadillo_baby.webp" width="48"><br>
+              <b>Armadillo Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blue Axolotl</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blue_axolotl.webp" width="48"><br>
+              <b>Blue Axolotl</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cyan Axolotl</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cyan_axolotl.webp" width="48"><br>
+              <b>Cyan Axolotl</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
-  <tr>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gold Axolotl</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Lucy Axolotl</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+  <tr>
+    <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gold_axolotl.webp" width="48"><br>
+              <b>Gold Axolotl</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
+    <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/lucy_axolotl.webp" width="48"><br>
+              <b>Lucy Axolotl</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Wild Axolotl</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/wild_axolotl.webp" width="48"><br>
+              <b>Wild Axolotl</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blue Axolotl Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blue_axolotl_baby.webp" width="48"><br>
+              <b>Blue Axolotl Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cyan Axolotl Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cyan_axolotl_baby.webp" width="48"><br>
+              <b>Cyan Axolotl Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gold Axolotl Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Lucy Axolotl Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+    <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gold_axolotl_baby.webp" width="48"><br>
+              <b>Gold Axolotl Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
+    <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/lucy_axolotl_baby.webp" width="48"><br>
+              <b>Lucy Axolotl Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Wild Axolotl Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/wild_axolotl_baby.webp" width="48"><br>
+              <b>Wild Axolotl Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Bat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/bat.webp" width="48"><br>
+              <b>Bat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Angry Pollen Bee</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/angry_pollen_bee.webp" width="48"><br>
+              <b>Angry Pollen Bee</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Angry Bee</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Bee</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/angry_bee.webp" width="48"><br>
+              <b>Angry Bee</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
+    <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_bee.webp" width="48"><br>
+              <b>Normal Bee</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pollen Bee</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pollen_bee.webp" width="48"><br>
+              <b>Pollen Bee</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Angry Pollen Bee Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/angry_pollen_bee_baby.webp" width="48"><br>
+              <b>Angry Pollen Bee Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Angry Bee Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/angry_bee_baby.webp" width="48"><br>
+              <b>Angry Bee Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Bee Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_bee_baby.webp" width="48"><br>
+              <b>Normal Bee Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pollen Bee Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pollen_bee_baby.webp" width="48"><br>
+              <b>Pollen Bee Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blaze</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blaze.webp" width="48"><br>
+              <b>Blaze</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Bogged</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/bogged.webp" width="48"><br>
+              <b>Bogged</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Breeze</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/breeze.webp" width="48"><br>
+              <b>Breeze</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Camel</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/camel.webp" width="48"><br>
+              <b>Camel</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Camel Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/camel_baby.webp" width="48"><br>
+              <b>Camel Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Camel Husk</b><br>Drop Rate: 7%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/camel_husk.webp" width="48"><br>
+              <b>Camel Husk</b><br>Drop Rate: 7%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>All Black Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/all_black_cat.webp" width="48"><br>
+              <b>All Black Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_cat.webp" width="48"><br>
+              <b>Black Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>British Shorthair Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/british_shorthair_cat.webp" width="48"><br>
+              <b>British Shorthair Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Calico Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/calico_cat.webp" width="48"><br>
+              <b>Calico Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Jellie Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/jellie_cat.webp" width="48"><br>
+              <b>Jellie Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Persian Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/persian_cat.webp" width="48"><br>
+              <b>Persian Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ragdoll Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ragdoll_cat.webp" width="48"><br>
+              <b>Ragdoll Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_cat.webp" width="48"><br>
+              <b>Red Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Siamese Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/siamese_cat.webp" width="48"><br>
+              <b>Siamese Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Tabby Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tabby_cat.webp" width="48"><br>
+              <b>Tabby Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Cat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_cat.webp" width="48"><br>
+              <b>White Cat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>All Black Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/all_black_cat_baby.webp" width="48"><br>
+              <b>All Black Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_cat_baby.webp" width="48"><br>
+              <b>Black Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>British Shorthair Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/british_shorthair_cat_baby.webp" width="48"><br>
+              <b>British Shorthair Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Calico Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/calico_cat_baby.webp" width="48"><br>
+              <b>Calico Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Jellie Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/jellie_cat_baby.webp" width="48"><br>
+              <b>Jellie Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Persian Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/persian_cat_baby.webp" width="48"><br>
+              <b>Persian Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ragdoll Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ragdoll_cat_baby.webp" width="48"><br>
+              <b>Ragdoll Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_cat_baby.webp" width="48"><br>
+              <b>Red Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Siamese Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/siamese_cat_baby.webp" width="48"><br>
+              <b>Siamese Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Tabby Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tabby_cat_baby.webp" width="48"><br>
+              <b>Tabby Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Cat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_cat_baby.webp" width="48"><br>
+              <b>White Cat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cave Spider</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cave_spider.webp" width="48"><br>
+              <b>Cave Spider</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Chicken</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_chicken.webp" width="48"><br>
+              <b>Cold Chicken</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Chicken</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_chicken.webp" width="48"><br>
+              <b>Temperate Chicken</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Chicken</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_chicken.webp" width="48"><br>
+              <b>Warm Chicken</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Chicken Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_chicken_baby.webp" width="48"><br>
+              <b>Cold Chicken Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Chicken Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_chicken_baby.webp" width="48"><br>
+              <b>Temperate Chicken Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Chicken Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_chicken_baby.webp" width="48"><br>
+              <b>Warm Chicken Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cod</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cod.webp" width="48"><br>
+              <b>Cod</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Copper Golem</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_copper_golem.webp" width="48"><br>
+              <b>Normal Copper Golem</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Exposed Copper Golem</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/exposed_copper_golem.webp" width="48"><br>
+              <b>Exposed Copper Golem</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weathered Copper Golem</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weathered_copper_golem.webp" width="48"><br>
+              <b>Weathered Copper Golem</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Oxidized Copper Golem</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/oxidized_copper_golem.webp" width="48"><br>
+              <b>Oxidized Copper Golem</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Cow</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_cow.webp" width="48"><br>
+              <b>Cold Cow</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Cow</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_cow.webp" width="48"><br>
+              <b>Temperate Cow</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Cow</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_cow.webp" width="48"><br>
+              <b>Warm Cow</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Cow Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_cow_baby.webp" width="48"><br>
+              <b>Cold Cow Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Cow Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_cow_baby.webp" width="48"><br>
+              <b>Temperate Cow Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Cow Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_cow_baby.webp" width="48"><br>
+              <b>Warm Cow Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creaking</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creaking.webp" width="48"><br>
+              <b>Creaking</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creeper</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creeper.webp" width="48"><br>
+              <b>Creeper</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Charged Creeper</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/charged_creeper.webp" width="48"><br>
+              <b>Charged Creeper</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Dolphin</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/dolphin.webp" width="48"><br>
+              <b>Dolphin</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Dolphin Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/dolphin_baby.webp" width="48"><br>
+              <b>Dolphin Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Donkey</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/donkey.webp" width="48"><br>
+              <b>Donkey</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Donkey Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/donkey_baby.webp" width="48"><br>
+              <b>Donkey Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Drowned</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/drowned.webp" width="48"><br>
+              <b>Drowned</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Drowned Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/drowned_baby.webp" width="48"><br>
+              <b>Drowned Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Elder Guardian</b><br>Drop Rate: 15%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/elder_guardian.webp" width="48"><br>
+              <b>Elder Guardian</b><br>Drop Rate: 15%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ender Dragon</b><br>Drop Rate: 20%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ender_dragon.webp" width="48"><br>
+              <b>Ender Dragon</b><br>Drop Rate: 20%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Enderman</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/enderman.webp" width="48"><br>
+              <b>Enderman</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Endermite</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/endermite.webp" width="48"><br>
+              <b>Endermite</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Evoker</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/evoker.webp" width="48"><br>
+              <b>Evoker</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fox</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fox.webp" width="48"><br>
+              <b>Fox</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snow Fox</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snow_fox.webp" width="48"><br>
+              <b>Snow Fox</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fox Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fox_baby.webp" width="48"><br>
+              <b>Fox Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snow Fox Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snow_fox_baby.webp" width="48"><br>
+              <b>Snow Fox Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Frog</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_frog.webp" width="48"><br>
+              <b>Cold Frog</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Frog</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_frog.webp" width="48"><br>
+              <b>Temperate Frog</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Frog</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_frog.webp" width="48"><br>
+              <b>Warm Frog</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ghast</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ghast.webp" width="48"><br>
+              <b>Ghast</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Glow Squid</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/glow_squid.webp" width="48"><br>
+              <b>Glow Squid</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Glow Squid Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/glow_squid_baby.webp" width="48"><br>
+              <b>Glow Squid Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Goat</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/goat.webp" width="48"><br>
+              <b>Goat</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Goat Left Horn</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/goat_left_horn.webp" width="48"><br>
+              <b>Goat Left Horn</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Goat No Horns</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/goat_no_horns.webp" width="48"><br>
+              <b>Goat No Horns</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Goat Right Horn</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/goat_right_horn.webp" width="48"><br>
+              <b>Goat Right Horn</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Screaming Goat</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/screaming_goat.webp" width="48"><br>
+              <b>Screaming Goat</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Screaming Goat Left Horn</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/screaming_goat_left_horn.webp" width="48"><br>
+              <b>Screaming Goat Left Horn</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Screaming Goat No Horns</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/screaming_goat_no_horns.webp" width="48"><br>
+              <b>Screaming Goat No Horns</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Screaming Goat Right Horn</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/screaming_goat_right_horn.webp" width="48"><br>
+              <b>Screaming Goat Right Horn</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Goat Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/goat_baby.webp" width="48"><br>
+              <b>Goat Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Guardian</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/guardian.webp" width="48"><br>
+              <b>Guardian</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Happy Ghast</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/happy_ghast.webp" width="48"><br>
+              <b>Happy Ghast</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Hoglin</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/hoglin.webp" width="48"><br>
+              <b>Hoglin</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Hoglin Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/hoglin_baby.webp" width="48"><br>
+              <b>Hoglin Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_horse.webp" width="48"><br>
+              <b>Black Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_horse.webp" width="48"><br>
+              <b>Brown Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Chestnut Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/chestnut_horse.webp" width="48"><br>
+              <b>Chestnut Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creamy Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creamy_horse.webp" width="48"><br>
+              <b>Creamy Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Dark Brown Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/dark_brown_horse.webp" width="48"><br>
+              <b>Dark Brown Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_horse.webp" width="48"><br>
+              <b>Gray Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Horse</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_horse.webp" width="48"><br>
+              <b>White Horse</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mule</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mule.webp" width="48"><br>
+              <b>Mule</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_horse_baby.webp" width="48"><br>
+              <b>Black Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_horse_baby.webp" width="48"><br>
+              <b>Brown Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Chestnut Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/chestnut_horse_baby.webp" width="48"><br>
+              <b>Chestnut Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creamy Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creamy_horse_baby.webp" width="48"><br>
+              <b>Creamy Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Dark Brown Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/dark_brown_horse_baby.webp" width="48"><br>
+              <b>Dark Brown Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_horse_baby.webp" width="48"><br>
+              <b>Gray Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Horse Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_horse_baby.webp" width="48"><br>
+              <b>White Horse Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Husk</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/husk.webp" width="48"><br>
+              <b>Husk</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Husk Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/husk_baby.webp" width="48"><br>
+              <b>Husk Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Iron Golem</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/iron_golem.webp" width="48"><br>
+              <b>Iron Golem</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_llama.webp" width="48"><br>
+              <b>Brown Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creamy Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creamy_llama.webp" width="48"><br>
+              <b>Creamy Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_llama.webp" width="48"><br>
+              <b>Gray Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_llama.webp" width="48"><br>
+              <b>White Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_llama_baby.webp" width="48"><br>
+              <b>Brown Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creamy Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creamy_llama_baby.webp" width="48"><br>
+              <b>Creamy Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_llama_baby.webp" width="48"><br>
+              <b>Gray Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_llama_baby.webp" width="48"><br>
+              <b>White Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Magma Cube</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/magma_cube.webp" width="48"><br>
+              <b>Magma Cube</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Mooshroom</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_mooshroom.webp" width="48"><br>
+              <b>Red Mooshroom</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Mooshroom Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_mooshroom_baby.webp" width="48"><br>
+              <b>Red Mooshroom Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Mooshroom</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_mooshroom.webp" width="48"><br>
+              <b>Brown Mooshroom</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Mooshroom Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_mooshroom_baby.webp" width="48"><br>
+              <b>Brown Mooshroom Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mule Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mule_baby.webp" width="48"><br>
+              <b>Mule Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nautilus</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nautilus.webp" width="48"><br>
+              <b>Nautilus</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ocelot</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ocelot.webp" width="48"><br>
+              <b>Ocelot</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ocelot Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ocelot_baby.webp" width="48"><br>
+              <b>Ocelot Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Aggressive Panda</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/aggressive_panda.webp" width="48"><br>
+              <b>Aggressive Panda</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Panda</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_panda.webp" width="48"><br>
+              <b>Brown Panda</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Lazy Panda</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/lazy_panda.webp" width="48"><br>
+              <b>Lazy Panda</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Panda</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_panda.webp" width="48"><br>
+              <b>Normal Panda</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Playful Panda</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/playful_panda.webp" width="48"><br>
+              <b>Playful Panda</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weak Panda</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weak_panda.webp" width="48"><br>
+              <b>Weak Panda</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Worried Panda</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/worried_panda.webp" width="48"><br>
+              <b>Worried Panda</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Aggressive Panda Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/aggressive_panda_baby.webp" width="48"><br>
+              <b>Aggressive Panda Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Panda Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_panda_baby.webp" width="48"><br>
+              <b>Brown Panda Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Lazy Panda Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/lazy_panda_baby.webp" width="48"><br>
+              <b>Lazy Panda Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Panda Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_panda_baby.webp" width="48"><br>
+              <b>Normal Panda Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Playful Panda Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/playful_panda_baby.webp" width="48"><br>
+              <b>Playful Panda Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weak Panda Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weak_panda_baby.webp" width="48"><br>
+              <b>Weak Panda Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Worried Panda Baby</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/worried_panda_baby.webp" width="48"><br>
+              <b>Worried Panda Baby</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Parched</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/parched.webp" width="48"><br>
+              <b>Parched</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blue Parrot</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blue_parrot.webp" width="48"><br>
+              <b>Blue Parrot</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Parrot</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_parrot.webp" width="48"><br>
+              <b>Gray Parrot</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Green Parrot</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/green_parrot.webp" width="48"><br>
+              <b>Green Parrot</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Blue Parrot</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_blue_parrot.webp" width="48"><br>
+              <b>Red Blue Parrot</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Yellow Blue Parrot</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/yellow_blue_parrot.webp" width="48"><br>
+              <b>Yellow Blue Parrot</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Phantom</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/phantom.webp" width="48"><br>
+              <b>Phantom</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Pig</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_pig.webp" width="48"><br>
+              <b>Cold Pig</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Pig</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_pig.webp" width="48"><br>
+              <b>Temperate Pig</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Pig</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_pig.webp" width="48"><br>
+              <b>Warm Pig</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cold Pig Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cold_pig_baby.webp" width="48"><br>
+              <b>Cold Pig Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Temperate Pig Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/temperate_pig_baby.webp" width="48"><br>
+              <b>Temperate Pig Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warm Pig Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warm_pig_baby.webp" width="48"><br>
+              <b>Warm Pig Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Piglin Brute</b><br>Drop Rate: 10%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/piglin_brute.webp" width="48"><br>
+              <b>Piglin Brute</b><br>Drop Rate: 10%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Piglin</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/piglin.webp" width="48"><br>
+              <b>Piglin</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Piglin Baby</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/piglin_baby.webp" width="48"><br>
+              <b>Piglin Baby</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pillager</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pillager.webp" width="48"><br>
+              <b>Pillager</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Polar Bear</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/polar_bear.webp" width="48"><br>
+              <b>Polar Bear</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Polar Bear Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/polar_bear_baby.webp" width="48"><br>
+              <b>Polar Bear Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pufferfish</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pufferfish.webp" width="48"><br>
+              <b>Pufferfish</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_rabbit.webp" width="48"><br>
+              <b>Black Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_rabbit.webp" width="48"><br>
+              <b>Brown Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Evil Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/evil_rabbit.webp" width="48"><br>
+              <b>Evil Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gold Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gold_rabbit.webp" width="48"><br>
+              <b>Gold Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Salt Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/salt_rabbit.webp" width="48"><br>
+              <b>Salt Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toast Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toast_rabbit.webp" width="48"><br>
+              <b>Toast Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Splotched Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_splotched_rabbit.webp" width="48"><br>
+              <b>White Splotched Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Rabbit</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_rabbit.webp" width="48"><br>
+              <b>White Rabbit</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Rabbit Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_rabbit_baby.webp" width="48"><br>
+              <b>Black Rabbit Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Rabbit Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_rabbit_baby.webp" width="48"><br>
+              <b>Brown Rabbit Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gold Rabbit Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gold_rabbit_baby.webp" width="48"><br>
+              <b>Gold Rabbit Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Salt Rabbit Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/salt_rabbit_baby.webp" width="48"><br>
+              <b>Salt Rabbit Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Splotched Rabbit Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_splotched_rabbit_baby.webp" width="48"><br>
+              <b>White Splotched Rabbit Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Rabbit Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_rabbit_baby.webp" width="48"><br>
+              <b>White Rabbit Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ravager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ravager.webp" width="48"><br>
+              <b>Ravager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Salmon</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/salmon.webp" width="48"><br>
+              <b>Salmon</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_sheep.webp" width="48"><br>
+              <b>Black Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blue Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blue_sheep.webp" width="48"><br>
+              <b>Blue Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_sheep.webp" width="48"><br>
+              <b>Brown Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cyan Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cyan_sheep.webp" width="48"><br>
+              <b>Cyan Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_sheep.webp" width="48"><br>
+              <b>Gray Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Green Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/green_sheep.webp" width="48"><br>
+              <b>Green Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Light Blue Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/light_blue_sheep.webp" width="48"><br>
+              <b>Light Blue Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Light Gray Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/light_gray_sheep.webp" width="48"><br>
+              <b>Light Gray Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Lime Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/lime_sheep.webp" width="48"><br>
+              <b>Lime Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Magenta Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/magenta_sheep.webp" width="48"><br>
+              <b>Magenta Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Orange Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/orange_sheep.webp" width="48"><br>
+              <b>Orange Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pink Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pink_sheep.webp" width="48"><br>
+              <b>Pink Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Purple Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/purple_sheep.webp" width="48"><br>
+              <b>Purple Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_sheep.webp" width="48"><br>
+              <b>Red Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_sheep.webp" width="48"><br>
+              <b>White Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Yellow Sheep</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/yellow_sheep.webp" width="48"><br>
+              <b>Yellow Sheep</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_sheep_baby.webp" width="48"><br>
+              <b>Black Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blue Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blue_sheep_baby.webp" width="48"><br>
+              <b>Blue Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_sheep_baby.webp" width="48"><br>
+              <b>Brown Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cyan Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cyan_sheep_baby.webp" width="48"><br>
+              <b>Cyan Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_sheep_baby.webp" width="48"><br>
+              <b>Gray Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Green Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/green_sheep_baby.webp" width="48"><br>
+              <b>Green Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Light Blue Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/light_blue_sheep_baby.webp" width="48"><br>
+              <b>Light Blue Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Light Gray Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/light_gray_sheep_baby.webp" width="48"><br>
+              <b>Light Gray Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Lime Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/lime_sheep_baby.webp" width="48"><br>
+              <b>Lime Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Magenta Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/magenta_sheep_baby.webp" width="48"><br>
+              <b>Magenta Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Orange Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/orange_sheep_baby.webp" width="48"><br>
+              <b>Orange Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pink Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pink_sheep_baby.webp" width="48"><br>
+              <b>Pink Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Purple Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/purple_sheep_baby.webp" width="48"><br>
+              <b>Purple Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_sheep_baby.webp" width="48"><br>
+              <b>Red Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_sheep_baby.webp" width="48"><br>
+              <b>White Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Yellow Sheep Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/yellow_sheep_baby.webp" width="48"><br>
+              <b>Yellow Sheep Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shulker</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shulker.webp" width="48"><br>
+              <b>Shulker</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Silverfish</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/silverfish.webp" width="48"><br>
+              <b>Silverfish</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Skeleton Horse</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/skeleton_horse.webp" width="48"><br>
+              <b>Skeleton Horse</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Skeleton</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/skeleton.webp" width="48"><br>
+              <b>Skeleton</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Slime</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/slime.webp" width="48"><br>
+              <b>Slime</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Sniffer</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/sniffer.webp" width="48"><br>
+              <b>Sniffer</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Sniffer Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/sniffer_baby.webp" width="48"><br>
+              <b>Sniffer Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snow Golem</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snow_golem.webp" width="48"><br>
+              <b>Snow Golem</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Spider</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/spider.webp" width="48"><br>
+              <b>Spider</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Squid</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/squid.webp" width="48"><br>
+              <b>Squid</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Stray</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/stray.webp" width="48"><br>
+              <b>Stray</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Strider</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/strider.webp" width="48"><br>
+              <b>Strider</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Tadpole</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tadpole.webp" width="48"><br>
+              <b>Tadpole</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Trader Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_trader_llama.webp" width="48"><br>
+              <b>Brown Trader Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creamy Trader Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creamy_trader_llama.webp" width="48"><br>
+              <b>Creamy Trader Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Trader Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_trader_llama.webp" width="48"><br>
+              <b>Gray Trader Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Trader Llama</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_trader_llama.webp" width="48"><br>
+              <b>White Trader Llama</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Brown Trader Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/brown_trader_llama_baby.webp" width="48"><br>
+              <b>Brown Trader Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Creamy Trader Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/creamy_trader_llama_baby.webp" width="48"><br>
+              <b>Creamy Trader Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Gray Trader Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/gray_trader_llama_baby.webp" width="48"><br>
+              <b>Gray Trader Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Trader Llama Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_trader_llama_baby.webp" width="48"><br>
+              <b>White Trader Llama Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Blue Dory</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/blue_dory.webp" width="48"><br>
+              <b>Blue Dory</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cichlid</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cichlid.webp" width="48"><br>
+              <b>Cichlid</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Clownfish</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/clownfish.webp" width="48"><br>
+              <b>Clownfish</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cotton Candy Betta</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cotton_candy_betta.webp" width="48"><br>
+              <b>Cotton Candy Betta</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Goatfish</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/goatfish.webp" width="48"><br>
+              <b>Goatfish</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Parrotfish</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/parrotfish.webp" width="48"><br>
+              <b>Parrotfish</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Queen Angelfish</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/queen_angelfish.webp" width="48"><br>
+              <b>Queen Angelfish</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Lipped Blenny</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_lipped_blenny.webp" width="48"><br>
+              <b>Red Lipped Blenny</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Red Snapper</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/red_snapper.webp" width="48"><br>
+              <b>Red Snapper</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Tomate Clownfish</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tomate_clownfish.webp" width="48"><br>
+              <b>Tomate Clownfish</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Triggerfish</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/triggerfish.webp" width="48"><br>
+              <b>Triggerfish</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>White Gray Dasher</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/white_gray_dasher.webp" width="48"><br>
+              <b>White Gray Dasher</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Yellowtail</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/yellowtail.webp" width="48"><br>
+              <b>Yellowtail</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Turtle</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/turtle.webp" width="48"><br>
+              <b>Turtle</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Vex</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/vex.webp" width="48"><br>
+              <b>Vex</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Vindicator</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/vindicator.webp" width="48"><br>
+              <b>Vindicator</b><br>Drop Rate: 3%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_desert_villager.webp" width="48"><br>
+              <b>Armorer Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_desert_villager.webp" width="48"><br>
+              <b>Butcher Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_desert_villager.webp" width="48"><br>
+              <b>Cartographer Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_desert_villager.webp" width="48"><br>
+              <b>Cleric Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_desert_villager.webp" width="48"><br>
+              <b>Farmer Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_desert_villager.webp" width="48"><br>
+              <b>Fisherman Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_desert_villager.webp" width="48"><br>
+              <b>Fletcher Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_desert_villager.webp" width="48"><br>
+              <b>Leatherworker Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_desert_villager.webp" width="48"><br>
+              <b>Librarian Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_desert_villager.webp" width="48"><br>
+              <b>Mason Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_desert_villager.webp" width="48"><br>
+              <b>Nitwit Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_desert_villager.webp" width="48"><br>
+              <b>Shepherd Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_desert_villager.webp" width="48"><br>
+              <b>Toolsmith Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_desert_villager.webp" width="48"><br>
+              <b>Normal Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Desert Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_desert_villager.webp" width="48"><br>
+              <b>Weaponsmith Desert Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_jungle_villager.webp" width="48"><br>
+              <b>Armorer Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_jungle_villager.webp" width="48"><br>
+              <b>Butcher Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_jungle_villager.webp" width="48"><br>
+              <b>Cartographer Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_jungle_villager.webp" width="48"><br>
+              <b>Cleric Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_jungle_villager.webp" width="48"><br>
+              <b>Farmer Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_jungle_villager.webp" width="48"><br>
+              <b>Fisherman Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_jungle_villager.webp" width="48"><br>
+              <b>Fletcher Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_jungle_villager.webp" width="48"><br>
+              <b>Leatherworker Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_jungle_villager.webp" width="48"><br>
+              <b>Librarian Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_jungle_villager.webp" width="48"><br>
+              <b>Mason Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_jungle_villager.webp" width="48"><br>
+              <b>Nitwit Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_jungle_villager.webp" width="48"><br>
+              <b>Shepherd Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_jungle_villager.webp" width="48"><br>
+              <b>Toolsmith Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_jungle_villager.webp" width="48"><br>
+              <b>Normal Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Jungle Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_jungle_villager.webp" width="48"><br>
+              <b>Weaponsmith Jungle Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_plains_villager.webp" width="48"><br>
+              <b>Armorer Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_plains_villager.webp" width="48"><br>
+              <b>Butcher Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_plains_villager.webp" width="48"><br>
+              <b>Cartographer Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_plains_villager.webp" width="48"><br>
+              <b>Cleric Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_plains_villager.webp" width="48"><br>
+              <b>Farmer Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_plains_villager.webp" width="48"><br>
+              <b>Fisherman Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_plains_villager.webp" width="48"><br>
+              <b>Fletcher Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_plains_villager.webp" width="48"><br>
+              <b>Leatherworker Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_plains_villager.webp" width="48"><br>
+              <b>Librarian Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_plains_villager.webp" width="48"><br>
+              <b>Mason Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_plains_villager.webp" width="48"><br>
+              <b>Nitwit Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_plains_villager.webp" width="48"><br>
+              <b>Shepherd Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_plains_villager.webp" width="48"><br>
+              <b>Toolsmith Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_plains_villager.webp" width="48"><br>
+              <b>Normal Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Plains Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_plains_villager.webp" width="48"><br>
+              <b>Weaponsmith Plains Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_savanna_villager.webp" width="48"><br>
+              <b>Armorer Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_savanna_villager.webp" width="48"><br>
+              <b>Butcher Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_savanna_villager.webp" width="48"><br>
+              <b>Cartographer Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_savanna_villager.webp" width="48"><br>
+              <b>Cleric Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_savanna_villager.webp" width="48"><br>
+              <b>Farmer Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_savanna_villager.webp" width="48"><br>
+              <b>Fisherman Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_savanna_villager.webp" width="48"><br>
+              <b>Fletcher Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_savanna_villager.webp" width="48"><br>
+              <b>Leatherworker Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_savanna_villager.webp" width="48"><br>
+              <b>Librarian Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_savanna_villager.webp" width="48"><br>
+              <b>Mason Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_savanna_villager.webp" width="48"><br>
+              <b>Nitwit Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_savanna_villager.webp" width="48"><br>
+              <b>Shepherd Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_savanna_villager.webp" width="48"><br>
+              <b>Toolsmith Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_savanna_villager.webp" width="48"><br>
+              <b>Normal Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Savanna Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_savanna_villager.webp" width="48"><br>
+              <b>Weaponsmith Savanna Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_snow_villager.webp" width="48"><br>
+              <b>Armorer Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_snow_villager.webp" width="48"><br>
+              <b>Butcher Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_snow_villager.webp" width="48"><br>
+              <b>Cartographer Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_snow_villager.webp" width="48"><br>
+              <b>Cleric Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_snow_villager.webp" width="48"><br>
+              <b>Farmer Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_snow_villager.webp" width="48"><br>
+              <b>Fisherman Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_snow_villager.webp" width="48"><br>
+              <b>Fletcher Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_snow_villager.webp" width="48"><br>
+              <b>Leatherworker Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_snow_villager.webp" width="48"><br>
+              <b>Librarian Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_snow_villager.webp" width="48"><br>
+              <b>Mason Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_snow_villager.webp" width="48"><br>
+              <b>Nitwit Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_snow_villager.webp" width="48"><br>
+              <b>Shepherd Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_snow_villager.webp" width="48"><br>
+              <b>Toolsmith Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_snow_villager.webp" width="48"><br>
+              <b>Normal Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Snow Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_snow_villager.webp" width="48"><br>
+              <b>Weaponsmith Snow Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_swamp_villager.webp" width="48"><br>
+              <b>Armorer Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_swamp_villager.webp" width="48"><br>
+              <b>Butcher Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_swamp_villager.webp" width="48"><br>
+              <b>Cartographer Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_swamp_villager.webp" width="48"><br>
+              <b>Cleric Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_swamp_villager.webp" width="48"><br>
+              <b>Farmer Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_swamp_villager.webp" width="48"><br>
+              <b>Fisherman Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_swamp_villager.webp" width="48"><br>
+              <b>Fletcher Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_swamp_villager.webp" width="48"><br>
+              <b>Leatherworker Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_swamp_villager.webp" width="48"><br>
+              <b>Librarian Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_swamp_villager.webp" width="48"><br>
+              <b>Mason Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_swamp_villager.webp" width="48"><br>
+              <b>Nitwit Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_swamp_villager.webp" width="48"><br>
+              <b>Shepherd Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_swamp_villager.webp" width="48"><br>
+              <b>Toolsmith Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_swamp_villager.webp" width="48"><br>
+              <b>Normal Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_swamp_villager.webp" width="48"><br>
+              <b>Weaponsmith Swamp Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_taiga_villager.webp" width="48"><br>
+              <b>Armorer Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_taiga_villager.webp" width="48"><br>
+              <b>Butcher Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_taiga_villager.webp" width="48"><br>
+              <b>Cartographer Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_taiga_villager.webp" width="48"><br>
+              <b>Cleric Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_taiga_villager.webp" width="48"><br>
+              <b>Farmer Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_taiga_villager.webp" width="48"><br>
+              <b>Fisherman Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_taiga_villager.webp" width="48"><br>
+              <b>Fletcher Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_taiga_villager.webp" width="48"><br>
+              <b>Leatherworker Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_taiga_villager.webp" width="48"><br>
+              <b>Librarian Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_taiga_villager.webp" width="48"><br>
+              <b>Mason Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_taiga_villager.webp" width="48"><br>
+              <b>Nitwit Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_taiga_villager.webp" width="48"><br>
+              <b>Shepherd Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_taiga_villager.webp" width="48"><br>
+              <b>Toolsmith Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_taiga_villager.webp" width="48"><br>
+              <b>Normal Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Taiga Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_taiga_villager.webp" width="48"><br>
+              <b>Weaponsmith Taiga Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Desert Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/desert_villager_baby.webp" width="48"><br>
+              <b>Desert Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Jungle Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/jungle_villager_baby.webp" width="48"><br>
+              <b>Jungle Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Plains Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/plains_villager_baby.webp" width="48"><br>
+              <b>Plains Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Savanna Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/savanna_villager_baby.webp" width="48"><br>
+              <b>Savanna Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snow Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snow_villager_baby.webp" width="48"><br>
+              <b>Snow Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Swamp Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/swamp_villager_baby.webp" width="48"><br>
+              <b>Swamp Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Taiga Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/taiga_villager_baby.webp" width="48"><br>
+              <b>Taiga Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Vindicator</b><br>Drop Rate: 3%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/wandering_trader.webp" width="48"><br>
+              <b>Wandering Trader</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Wandering Trader</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/warden.webp" width="48"><br>
+              <b>Warden</b><br>Drop Rate: 15%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Warden</b><br>Drop Rate: 15%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/witch.webp" width="48"><br>
+              <b>Witch</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Witch</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/wither.webp" width="48"><br>
+              <b>Wither</b><br>Drop Rate: 20%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Wither</b><br>Drop Rate: 20%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/wither_special.webp" width="48"><br>
+              <b>Wither Special</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Wither Special</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/wither_skeleton.webp" width="48"><br>
+              <b>Wither Skeleton</b><br>Drop Rate: 2.5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Wither Skeleton</b><br>Drop Rate: 2.5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ashen_wolf.webp" width="48"><br>
+              <b>Ashen Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ashen Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_wolf.webp" width="48"><br>
+              <b>Black Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/chestnut_wolf.webp" width="48"><br>
+              <b>Chestnut Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Chestnut Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pale_wolf.webp" width="48"><br>
+              <b>Pale Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pale Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/rusty_wolf.webp" width="48"><br>
+              <b>Rusty Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Rusty Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snowy_wolf.webp" width="48"><br>
+              <b>Snowy Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snowy Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/spotted_wolf.webp" width="48"><br>
+              <b>Spotted Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Spotted Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/striped_wolf.webp" width="48"><br>
+              <b>Striped Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Striped Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/woods_wolf.webp" width="48"><br>
+              <b>Woods Wolf</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Woods Wolf</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/ashen_wolf_baby.webp" width="48"><br>
+              <b>Ashen Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Ashen Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/black_wolf_baby.webp" width="48"><br>
+              <b>Black Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Black Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/chestnut_wolf_baby.webp" width="48"><br>
+              <b>Chestnut Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Chestnut Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/pale_wolf_baby.webp" width="48"><br>
+              <b>Pale Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Pale Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/rusty_wolf_baby.webp" width="48"><br>
+              <b>Rusty Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Rusty Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snowy_wolf_baby.webp" width="48"><br>
+              <b>Snowy Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snowy Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/spotted_wolf_baby.webp" width="48"><br>
+              <b>Spotted Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Spotted Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/striped_wolf_baby.webp" width="48"><br>
+              <b>Striped Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Striped Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/woods_wolf_baby.webp" width="48"><br>
+              <b>Woods Wolf Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Woods Wolf Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zoglin.webp" width="48"><br>
+              <b>Zoglin</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zoglin</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zoglin_baby.webp" width="48"><br>
+              <b>Zoglin Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zoglin Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zombie_horse.webp" width="48"><br>
+              <b>Zombie Horse</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zombie Horse</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_desert_zombie_villager.webp" width="48"><br>
+              <b>Armorer Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_desert_zombie_villager.webp" width="48"><br>
+              <b>Butcher Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_desert_zombie_villager.webp" width="48"><br>
+              <b>Cartographer Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_desert_zombie_villager.webp" width="48"><br>
+              <b>Cleric Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_desert_zombie_villager.webp" width="48"><br>
+              <b>Farmer Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_desert_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_desert_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_desert_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_desert_zombie_villager.webp" width="48"><br>
+              <b>Librarian Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_desert_zombie_villager.webp" width="48"><br>
+              <b>Mason Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_desert_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_desert_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_desert_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_desert_zombie_villager.webp" width="48"><br>
+              <b>Normal Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_desert_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Desert Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Desert Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_jungle_zombie_villager.webp" width="48"><br>
+              <b>Armorer Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_jungle_zombie_villager.webp" width="48"><br>
+              <b>Butcher Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_jungle_zombie_villager.webp" width="48"><br>
+              <b>Cartographer Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_jungle_zombie_villager.webp" width="48"><br>
+              <b>Cleric Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_jungle_zombie_villager.webp" width="48"><br>
+              <b>Farmer Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_jungle_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_jungle_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_jungle_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_jungle_zombie_villager.webp" width="48"><br>
+              <b>Librarian Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_jungle_zombie_villager.webp" width="48"><br>
+              <b>Mason Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_jungle_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_jungle_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_jungle_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_jungle_zombie_villager.webp" width="48"><br>
+              <b>Normal Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_jungle_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Jungle Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_plains_zombie_villager.webp" width="48"><br>
+              <b>Armorer Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_plains_zombie_villager.webp" width="48"><br>
+              <b>Butcher Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_plains_zombie_villager.webp" width="48"><br>
+              <b>Cartographer Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_plains_zombie_villager.webp" width="48"><br>
+              <b>Cleric Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_plains_zombie_villager.webp" width="48"><br>
+              <b>Farmer Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_plains_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_plains_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_plains_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_plains_zombie_villager.webp" width="48"><br>
+              <b>Librarian Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_plains_zombie_villager.webp" width="48"><br>
+              <b>Mason Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_plains_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_plains_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_plains_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_plains_zombie_villager.webp" width="48"><br>
+              <b>Normal Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_plains_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Plains Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Plains Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_savanna_zombie_villager.webp" width="48"><br>
+              <b>Armorer Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_savanna_zombie_villager.webp" width="48"><br>
+              <b>Butcher Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_savanna_zombie_villager.webp" width="48"><br>
+              <b>Cartographer Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_savanna_zombie_villager.webp" width="48"><br>
+              <b>Cleric Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_savanna_zombie_villager.webp" width="48"><br>
+              <b>Farmer Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_savanna_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_savanna_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_savanna_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_savanna_zombie_villager.webp" width="48"><br>
+              <b>Librarian Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_savanna_zombie_villager.webp" width="48"><br>
+              <b>Mason Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_savanna_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_savanna_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_savanna_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_savanna_zombie_villager.webp" width="48"><br>
+              <b>Normal Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_savanna_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Savanna Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_snow_zombie_villager.webp" width="48"><br>
+              <b>Armorer Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_snow_zombie_villager.webp" width="48"><br>
+              <b>Butcher Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_snow_zombie_villager.webp" width="48"><br>
+              <b>Cartographer Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_snow_zombie_villager.webp" width="48"><br>
+              <b>Cleric Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_snow_zombie_villager.webp" width="48"><br>
+              <b>Farmer Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_snow_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_snow_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_snow_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_snow_zombie_villager.webp" width="48"><br>
+              <b>Librarian Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_snow_zombie_villager.webp" width="48"><br>
+              <b>Mason Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_snow_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_snow_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_snow_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_snow_zombie_villager.webp" width="48"><br>
+              <b>Normal Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_snow_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Snow Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Snow Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_swamp_zombie_villager.webp" width="48"><br>
+              <b>Armorer Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_swamp_zombie_villager.webp" width="48"><br>
+              <b>Butcher Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_swamp_zombie_villager.webp" width="48"><br>
+              <b>Cleric Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Swamp Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_swamp_zombie_villager.webp" width="48"><br>
+              <b>Farmer Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_swamp_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_swamp_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_swamp_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_swamp_zombie_villager.webp" width="48"><br>
+              <b>Librarian Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_swamp_zombie_villager.webp" width="48"><br>
+              <b>Mason Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_swamp_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_swamp_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_swamp_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_swamp_zombie_villager.webp" width="48"><br>
+              <b>Normal Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_swamp_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/armorer_taiga_zombie_villager.webp" width="48"><br>
+              <b>Armorer Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Swamp Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/butcher_taiga_zombie_villager.webp" width="48"><br>
+              <b>Butcher Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Armorer Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cartographer_taiga_zombie_villager.webp" width="48"><br>
+              <b>Cartographer Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Butcher Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/cleric_taiga_zombie_villager.webp" width="48"><br>
+              <b>Cleric Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cartographer Taiga ZombieVillager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/farmer_taiga_zombie_villager.webp" width="48"><br>
+              <b>Farmer Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Cleric Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fisherman_taiga_zombie_villager.webp" width="48"><br>
+              <b>Fisherman Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Farmer Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/fletcher_taiga_zombie_villager.webp" width="48"><br>
+              <b>Fletcher Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fisherman Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/leatherworker_taiga_zombie_villager.webp" width="48"><br>
+              <b>Leatherworker Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Fletcher Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/librarian_taiga_zombie_villager.webp" width="48"><br>
+              <b>Librarian Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Leatherworker Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/mason_taiga_zombie_villager.webp" width="48"><br>
+              <b>Mason Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Librarian Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/nitwit_taiga_zombie_villager.webp" width="48"><br>
+              <b>Nitwit Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Mason Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/shepherd_taiga_zombie_villager.webp" width="48"><br>
+              <b>Shepherd Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Nitwit Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/toolsmith_taiga_zombie_villager.webp" width="48"><br>
+              <b>Toolsmith Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Shepherd Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/normal_taiga_zombie_villager.webp" width="48"><br>
+              <b>Normal Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Toolsmith Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/weaponsmith_taiga_zombie_villager.webp" width="48"><br>
+              <b>Weaponsmith Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Normal Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/desert_zombie_villager_baby.webp" width="48"><br>
+              <b>Desert Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Weaponsmith Taiga Zombie Villager</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/jungle_zombie_villager_baby.webp" width="48"><br>
+              <b>Jungle Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Desert Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/plains_zombie_villager_baby.webp" width="48"><br>
+              <b>Plains Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Jungle Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/savanna_zombie_villager_baby.webp" width="48"><br>
+              <b>Savanna Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Plains Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/snow_zombie_villager_baby.webp" width="48"><br>
+              <b>Snow Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Savanna Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/swamp_zombie_villager_baby.webp" width="48"><br>
+              <b>Swamp Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Snow Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/taiga_zombie_villager_baby.webp" width="48"><br>
+              <b>Taiga Zombie Villager Baby</b><br>Drop Rate: 5%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Swamp Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zombie.webp" width="48"><br>
+              <b>Zombie</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
   <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Taiga Zombie Villager Baby</b><br>Drop Rate: 5%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zombie_baby.webp" width="48"><br>
+              <b>Zombie Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zombie</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zombie_nautilus.webp" width="48"><br>
+              <b>Zombie Nautilus</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zombie Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zombified_piglin.webp" width="48"><br>
+              <b>Zombified Piglin</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zombie Nautilus</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zombified Piglin</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/baby_ocelot.webp" width="48"><br>
-        <b>Zombified Piglin Baby</b><br>Drop Rate: 2%<br>
-        <a href="https://minecraft.wiki/images" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
-    </td>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/zombified_piglin_baby.webp" width="48"><br>
+              <b>Zombified Piglin Baby</b><br>Drop Rate: 2%<br>
+              <a href="None" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png" width="" height=""></a>
+          </td>
   </tr>
 </table>
+<!-- HEADS_TABLE_END -->
 
 ## Default drop rates
 
