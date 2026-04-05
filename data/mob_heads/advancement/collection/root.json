@@ -17,6 +17,58 @@
     "frame": "challenge"
   },
   "criteria": {
+    "happy_ghast_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/happy_ghast": true
+            }
+          }
+        }
+      }
+    },
+    "sniffer_baby": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/baby/passive/sniffer": true
+            }
+          }
+        }
+      }
+    },
+    "evil_rabbit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/evil": true
+            }
+          }
+        }
+      }
+    },
+    "toast_rabbit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/rabbit/toast": true
+            }
+          }
+        }
+      }
+    },
     "blue_baby": {
       "trigger": "minecraft:tick",
       "conditions": {

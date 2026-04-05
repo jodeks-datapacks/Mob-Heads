@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "killed_happy_ghast": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:happy_ghast",
+              "flags": {
+                "is_baby": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mob_heads:app/baby_heads/happy_ghast"
+  }
+}

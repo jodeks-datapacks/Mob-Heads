@@ -7,22 +7,22 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM0Y2Y3NWU5YTUxMTNjNDRlMTBmOGQ2ZWUzMzMzNWRhNDE5M2FkNTY2ZWM3Y2Q2NTdkZTFjNzY4YjFlYjJkYyJ9fX0="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxMzJmMjg4NjVjZTRkYzA2MDYzNjkzOTQ0NzQ0MGZmMDQzMzk3N2YzYjZjNzNhZGM2NzRkYjJmYjRkYjY5NiJ9fX0="
             }
           ]
         }
       }
     },
     "title": {
-      "translate": "entity.minecraft.polar_bear",
-      "fallback": "Polar Bear",
+      "translate": "mob_heads.rabbit.toast",
+      "fallback": "Toast",
       "extra": [
         {
           "text": " "
         },
         {
-          "translate": "mob_heads.baby",
-          "fallback": "Baby"
+          "translate": "entity.minecraft.rabbit",
+          "fallback": "Rabbit"
         },
         {
           "text": " "
@@ -41,15 +41,15 @@
           "text": " "
         },
         {
-          "translate": "mob_heads.baby",
-          "fallback": "Baby"
+          "translate": "mob_heads.rabbit.toast",
+          "fallback": "Toast"
         },
         {
           "text": " "
         },
         {
-          "translate": "entity.minecraft.polar_bear",
-          "fallback": "Polar Bear"
+          "translate": "entity.minecraft.rabbit",
+          "fallback": "Rabbit"
         },
         {
           "text": " "
@@ -62,10 +62,9 @@
     },
     "frame": "task",
     "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
+    "announce_to_chat": true
   },
-  "parent": "mob_heads:collection/baby/passive/happy_ghast",
+  "parent": "mob_heads:collection/rabbit/white",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
@@ -92,7 +91,7 @@
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWM0Y2Y3NWU5YTUxMTNjNDRlMTBmOGQ2ZWUzMzMzNWRhNDE5M2FkNTY2ZWM3Y2Q2NTdkZTFjNzY4YjFlYjJkYyJ9fX0="
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxMzJmMjg4NjVjZTRkYzA2MDYzNjkzOTQ0NzQ0MGZmMDQzMzk3N2YzYjZjNzNhZGM2NzRkYjJmYjRkYjY5NiJ9fX0="
                   }
                 ]
               }
