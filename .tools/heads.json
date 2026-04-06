@@ -97,7 +97,7 @@
   },
   {
     "name": "Normal Bee",
-    "image": "normal_bee",
+    "image": "bee",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Bee_loop2.ogg"
   },
@@ -121,7 +121,7 @@
   },
   {
     "name": "Normal Bee Baby",
-    "image": "bee_normal_baby",
+    "image": "bee_baby",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Bee_sting.ogg"
   },
@@ -349,7 +349,7 @@
   },
   {
     "name": "Normal Copper Golem",
-    "image": "copper_golem_normal",
+    "image": "copper_golem",
     "drop_rate": "3%",
     "sound": "https://minecraft.wiki/images/Copper_golem_regular_step1.wav"
   },
@@ -583,7 +583,7 @@
   },
   {
     "name": "Screaming Goat Left Horn",
-    "image": "goat_screaming_goat_left_horn",
+    "image": "goat_screaming_left_horn",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
@@ -871,7 +871,7 @@
   },
   {
     "name": "Normal Panda",
-    "image": "panda_normal",
+    "image": "panda",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Panda_bleat1.ogg"
   },
@@ -913,7 +913,7 @@
   },
   {
     "name": "Normal Panda Baby",
-    "image": "panda_normal_baby",
+    "image": "panda_baby",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
@@ -961,13 +961,13 @@
   },
   {
     "name": "Red Blue Parrot",
-    "image": "parrot_red_blue",
+    "image": "parrot_red",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
   {
     "name": "Yellow Blue Parrot",
-    "image": "parrot_yellow_blue",
+    "image": "parrot_cyan",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Cotton Candy Betta",
-    "image": "tropical_fish_cotton_candy_betta",
+    "image": "tropical_fish_candy_betta",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
   },
@@ -1663,7 +1663,7 @@
   },
   {
     "name": "Normal Desert Villager",
-    "image": "villager_desert_normal",
+    "image": "villager_desert",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -1753,7 +1753,7 @@
   },
   {
     "name": "Normal Jungle Villager",
-    "image": "villager_jungle_normal",
+    "image": "villager_jungle",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -1843,7 +1843,7 @@
   },
   {
     "name": "Normal Plains Villager",
-    "image": "villager_plains_normal",
+    "image": "villager_plains",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -1933,7 +1933,7 @@
   },
   {
     "name": "Normal Savanna Villager",
-    "image": "villager_savanna_normal",
+    "image": "villager_savanna",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "name": "Normal Snow Villager",
-    "image": "villager_snow_normal",
+    "image": "villager_snow",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "name": "Normal Swamp Villager",
-    "image": "villager_swamp_normal",
+    "image": "villager_swamp",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -2203,7 +2203,7 @@
   },
   {
     "name": "Normal Taiga Villager",
-    "image": "villager_taiga_normal",
+    "image": "villager_taiga",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "name": "Wither Special",
-    "image": "wither_special",
+    "image": "wither_invulnerable",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Wither_spawn.ogg"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "name": "Normal Desert Zombie Villager",
-    "image": "zombie_villager_desert_normal",
+    "image": "zombie_villager_desert",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "Normal Jungle Zombie Villager",
-    "image": "zombie_villager_jungle_normal",
+    "image": "zombie_villager_jungle",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
@@ -2683,7 +2683,7 @@
   },
   {
     "name": "Normal Plains Zombie Villager",
-    "image": "zombie_villager_plains_normal",
+    "image": "zombie_villager_plains",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
@@ -2773,7 +2773,7 @@
   },
   {
     "name": "Normal Savanna Zombie Villager",
-    "image": "zombie_villager_savanna_normal",
+    "image": "zombie_villager_savanna",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
@@ -2863,7 +2863,7 @@
   },
   {
     "name": "Normal Snow Zombie Villager",
-    "image": "zombie_villager_snow_normal",
+    "image": "zombie_villager_snow",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "name": "Normal Swamp Zombie Villager",
-    "image": "zombie_villager_swamp_normal",
+    "image": "zombie_villager_swamp",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
@@ -3037,7 +3037,7 @@
   },
   {
     "name": "Normal Taiga Zombie Villager",
-    "image": "zombie_villager_taiga_normal",
+    "image": "zombie_villager_taiga",
     "drop_rate": "5%",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
