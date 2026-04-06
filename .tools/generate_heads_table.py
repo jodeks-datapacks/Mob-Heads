@@ -17,7 +17,7 @@ for i in range(0, len(heads), COLS):
           cells.append(f"""    <td align="center">
               <img src="{HEADS_URL}/{h['image']}.webp" width="48"><br>
               <b>{h['name']}</b><br>Drop Rate: {h['drop_rate']}<br>
-              <a href="{sound_url}" target="_blank"><img src="{BADGE_URL}" width="" height=""></a>
+              <a href="{sound_url}" target="_blank"><img src="{BADGE_URL}"></a>
           </td>""")
     rows.append("  <tr>\n" + "\n".join(cells) + "\n  </tr>")
 
