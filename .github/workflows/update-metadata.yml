@@ -1,0 +1,28 @@
+name: Update Metadata
+
+on:
+  workflow_dispatch:
+    inputs:
+      targets:
+        description: 'What to update (comma-separated: icon, description, body)'
+        required: true
+        default: 'icon,description,body'
+        type: choice
+        options:
+          - 'icon,description,body'
+          - 'icon'
+          - 'description'
+          - 'body'
+          - 'icon,description'
+          - 'icon,body'
+          - 'description,body'
+
+jobs:
+  update:
+    uses: jodeks-datapacks/.github/.github/workflows/metadata-update.yml@main
+    with:
+      targets: ${{ inputs.targets }}
+    secrets:
+      MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+    permissions:
+      contents: write
