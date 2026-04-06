@@ -7,7 +7,7 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTlhNjc1ZWRiM2NiYTBmMzQzNmFlOTQ3M2NmMDM1OTJiN2E0OWQzODgxMzU3OTA4NGQ2MzdlNzY1OTk5OWI4ZSJ9fX0="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJiY2Q0MmU1MGFjZjFiZWQ4YzM0Y2E2ZjBlMGU0ZmE0YTE0YTJmOTJjY2UyM2YxYTZjZDc4NGQ3OTNjMmJlMCJ9fX0="
             }
           ]
         }
@@ -91,7 +91,7 @@
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTlhNjc1ZWRiM2NiYTBmMzQzNmFlOTQ3M2NmMDM1OTJiN2E0OWQzODgxMzU3OTA4NGQ2MzdlNzY1OTk5OWI4ZSJ9fX0="
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJiY2Q0MmU1MGFjZjFiZWQ4YzM0Y2E2ZjBlMGU0ZmE0YTE0YTJmOTJjY2UyM2YxYTZjZDc4NGQ3OTNjMmJlMCJ9fX0="
                   }
                 ]
               }

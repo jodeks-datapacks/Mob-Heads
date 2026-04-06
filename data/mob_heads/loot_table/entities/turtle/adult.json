@@ -20,7 +20,7 @@
                   "properties": [
                     {
                       "name": "textures",
-                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZhNTUyMTM5OTY2YzVmYWMxYjk4MDYxY2UyM2ZjMGRkZWYwNThjMTYzMTQyZGQ2ZDFjNzY4Y2QyZGEyMDdjMiJ9fX0="
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYxY2QzZTVmN2E5YmI1OGEwZWQyNGRmOTRlMjc1MTNlYTYxYzdhNDFmMzNlMDE4MGFkOWM4NWY1MzI3ZjdjNSJ9fX0="
                     }
                   ]
                 }
@@ -215,7 +215,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.turtle.ambient_land"
+                "minecraft:note_block_sound": "minecraft:entity.turtle.swim_land"
               }
             }
           ],

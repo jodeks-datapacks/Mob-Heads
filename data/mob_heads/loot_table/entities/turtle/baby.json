@@ -257,7 +257,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.turtle.swim"
+                "minecraft:note_block_sound": "minecraft:entity.turtle.egg_hatch"
               }
             }
           ],

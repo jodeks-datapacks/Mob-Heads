@@ -191,7 +191,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.panda.hurt"
+                "minecraft:note_block_sound": "minecraft:entity.panda.cant_breed"
               }
             }
           ],

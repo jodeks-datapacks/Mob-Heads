@@ -215,7 +215,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.elder_guardian.ambient"
+                "minecraft:note_block_sound": "minecraft:entity.elder_guardian.curse"
               }
             }
           ],
