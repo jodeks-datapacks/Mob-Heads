@@ -208,7 +208,7 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "nbt": "{MainGene:\"brown\"}"
+                "nbt": "{MainGene:\"brown\",HiddenGene:\"brown\"}"
               }
             },
             {

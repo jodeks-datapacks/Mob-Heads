@@ -1216,26 +1216,6 @@ type:"minecraft:multi_action",\
   actions:[\
     {\
       label: {\
-        "translate": "mob_heads.config.set_1",\
-        "fallback": "Set everything to 100%"\
-      },\
-      action:{\
-        type:"run_command",\
-        command:"function mob_heads:config/update/set_1"\
-      }\
-    },\
-    {\
-      label: {\
-        "translate": "jodek.config.copy_to_clipboard",\
-        "fallback": "Copy config to clipboard"\
-      },\
-      action:{\
-        type:"copy_to_clipboard",\
-        value:"function mob_heads:config/update/update_drop_rates {dialog_drop_rate_multiplier:$(dialog_drop_rate_multiplier), drop_rate_allay:$(drop_rate_allay), drop_rate_armadillo:$(drop_rate_armadillo), drop_rate_axolotl:$(drop_rate_axolotl), drop_rate_axolotl_blue:$(drop_rate_axolotl_blue), drop_rate_bat:$(drop_rate_bat), drop_rate_bee:$(drop_rate_bee), drop_rate_blaze:$(drop_rate_blaze), drop_rate_bogged:$(drop_rate_bogged), drop_rate_breeze:$(drop_rate_breeze), drop_rate_camel:$(drop_rate_camel), drop_rate_cat:$(drop_rate_cat), drop_rate_cave_spider:$(drop_rate_cave_spider), drop_rate_chicken:$(drop_rate_chicken), drop_rate_cod:$(drop_rate_cod), drop_rate_copper_golem:$(drop_rate_copper_golem), drop_rate_cow:$(drop_rate_cow), drop_rate_creaking:$(drop_rate_creaking), drop_rate_creeper:$(drop_rate_creeper), drop_rate_creeper_charged:$(drop_rate_creeper_charged), drop_rate_dolphin:$(drop_rate_dolphin), drop_rate_donkey:$(drop_rate_donkey), drop_rate_drowned:$(drop_rate_drowned), drop_rate_elder_guardian:$(drop_rate_elder_guardian), drop_rate_ender_dragon:$(drop_rate_ender_dragon), drop_rate_enderman:$(drop_rate_enderman), drop_rate_endermite:$(drop_rate_endermite), drop_rate_evoker:$(drop_rate_evoker), drop_rate_fox:$(drop_rate_fox), drop_rate_frog:$(drop_rate_frog), drop_rate_ghast:$(drop_rate_ghast), drop_rate_glow_squid:$(drop_rate_glow_squid), drop_rate_goat:$(drop_rate_goat), drop_rate_guardian:$(drop_rate_guardian), drop_rate_happy_ghast:$(drop_rate_happy_ghast), drop_rate_hoglin:$(drop_rate_hoglin), drop_rate_horse:$(drop_rate_horse), drop_rate_husk:$(drop_rate_husk), drop_rate_illusioner:$(drop_rate_illusioner), drop_rate_iron_golem:$(drop_rate_iron_golem), drop_rate_llama:$(drop_rate_llama), drop_rate_magma_cube:$(drop_rate_magma_cube), drop_rate_mooshroom:$(drop_rate_mooshroom), drop_rate_mooshroom_brown:$(drop_rate_mooshroom_brown), drop_rate_mule:$(drop_rate_mule), drop_rate_ocelot:$(drop_rate_ocelot), drop_rate_panda:$(drop_rate_panda), drop_rate_panda_special:$(drop_rate_panda_special), drop_rate_parrot:$(drop_rate_parrot), drop_rate_phantom:$(drop_rate_phantom), drop_rate_pig:$(drop_rate_pig), drop_rate_piglin_brute:$(drop_rate_piglin_brute), drop_rate_piglin:$(drop_rate_piglin), drop_rate_pillager:$(drop_rate_pillager), drop_rate_polar_bear:$(drop_rate_polar_bear), drop_rate_pufferfish:$(drop_rate_pufferfish), drop_rate_rabbit:$(drop_rate_rabbit), drop_rate_ravager:$(drop_rate_ravager), drop_rate_salmon:$(drop_rate_salmon), drop_rate_sheep:$(drop_rate_sheep), drop_rate_shulker:$(drop_rate_shulker), drop_rate_silverfish:$(drop_rate_silverfish), drop_rate_skeleton_horse:$(drop_rate_skeleton_horse), drop_rate_skeleton:$(drop_rate_skeleton), drop_rate_slime:$(drop_rate_slime), drop_rate_sniffer:$(drop_rate_sniffer), drop_rate_snow_golem:$(drop_rate_snow_golem), drop_rate_spider:$(drop_rate_spider), drop_rate_squid:$(drop_rate_squid), drop_rate_stray:$(drop_rate_stray), drop_rate_strider:$(drop_rate_strider), drop_rate_tadpole:$(drop_rate_tadpole), drop_rate_trader_llama:$(drop_rate_trader_llama), drop_rate_tropical_fish:$(drop_rate_tropical_fish), drop_rate_turtle:$(drop_rate_turtle), drop_rate_vex:$(drop_rate_vex), drop_rate_villager:$(drop_rate_villager), drop_rate_vindicator:$(drop_rate_vindicator), drop_rate_wandering_trader:$(drop_rate_wandering_trader), drop_rate_warden:$(drop_rate_warden), drop_rate_witch:$(drop_rate_witch), drop_rate_wither:$(drop_rate_wither), drop_rate_wither_invulnerable:$(drop_rate_wither_invulnerable), drop_rate_wolf:$(drop_rate_wolf), drop_rate_zoglin:$(drop_rate_zoglin), drop_rate_zombie_horse:$(drop_rate_zombie_horse), drop_rate_zombie_villager:$(drop_rate_zombie_villager), drop_rate_zombie:$(drop_rate_zombie), drop_rate_zombified_piglin:$(drop_rate_zombified_piglin)}"\
-      }\
-    },\
-    {\
-      label: {\
         "translate": "jodek.config.reset",\
         "fallback": "Reset config"\
       },\

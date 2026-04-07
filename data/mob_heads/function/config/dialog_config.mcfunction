@@ -77,6 +77,16 @@ $dialog show @s {\
   actions:[\
     {\
       label: {\
+        "translate": "mob_heads.config.set_1",\
+        "fallback": "Set drop rates to 100%"\
+      },\
+      action:{\
+        type:"run_command",\
+        command:"function mob_heads:config/update/set_1"\
+      }\
+    },\
+    {\
+      label: {\
         "translate": "mob_heads.config.drop_rates",\
         "fallback": "Drop Rates"\
       },\

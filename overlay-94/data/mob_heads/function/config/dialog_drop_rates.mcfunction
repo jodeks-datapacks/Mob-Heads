@@ -1268,16 +1268,6 @@ type:"minecraft:multi_action",\
   actions:[\
     {\
       label: {\
-        "translate": "mob_heads.config.set_1",\
-        "fallback": "Set everything to 100%"\
-      },\
-      action:{\
-        type:"run_command",\
-        command:"function mob_heads:config/update/set_1"\
-      }\
-    },\
-    {\
-      label: {\
         "translate": "jodek.config.reset",\
         "fallback": "Reset config"\
       },\

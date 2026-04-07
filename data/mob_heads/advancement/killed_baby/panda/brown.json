@@ -12,7 +12,7 @@
               "flags": {
                 "is_baby": true
               },
-              "nbt": "{MainGene:\"brown\"}"
+              "nbt": "{MainGene:\"brown\",HiddenGene:\"brown\"}"
             }
           }
         ]

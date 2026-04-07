@@ -1575,7 +1575,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:boolean",\
-      key:"dialog_drop",\
+      key:"drop_notification_zombie_villager",\
       label: {\
         "translate": "entity.minecraft.zombie_villager",\
         "extra": [\
