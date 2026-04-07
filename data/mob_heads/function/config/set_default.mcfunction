@@ -3,7 +3,7 @@ data modify storage mob_heads:root data.dialog_drop_notification set value "$(di
 execute unless score &drop_notification mob_heads.config = &drop_notification mob_heads.config run scoreboard players set &drop_notification mob_heads.config 1
 
 # 1 = player, 0 = charged creeper
-execute unless data storage mob_heads:root data.killed_by_playerial run data modify storage mob_heads:root data.killed_by_playerial set value 1
+execute unless data storage mob_heads:root data.killed_by_player_initial run data modify storage mob_heads:root data.killed_by_player_initial set value 1
 execute unless data storage mob_heads:root data.killed_by_charged_creeper_initial run data modify storage mob_heads:root data.killed_by_charged_creeper_initial set value 0
 data modify storage mob_heads:root data.dialog_killed_by set value "$(dialog_killed_by)"
 execute unless score &killed_by_player mob_heads.config = &killed_by_player mob_heads.config run scoreboard players set &killed_by_player mob_heads.config 1

@@ -1,221 +1,221 @@
-$data modify storage mob_heads:root data.drop_rate_multiplier set value $(dialog_d_r_multiplier)
+$data modify storage mob_heads:root data.drop_rate_multiplier set value $(dialog_drop_rate_multiplier)
 
-$data modify storage mob_heads:root data.allay_init set value $(d_r_allay)
-$data modify storage mob_heads:root data.armadillo_init set value $(d_r_armadillo)
-$data modify storage mob_heads:root data.axolotl_init set value $(d_r_axolotl)
-$data modify storage mob_heads:root data.axolotl_blue_init set value $(d_r_axolotl_blue)
+$data modify storage mob_heads:root data.allay_init set value $(drop_rate_allay)
+$data modify storage mob_heads:root data.armadillo_init set value $(drop_rate_armadillo)
+$data modify storage mob_heads:root data.axolotl_init set value $(drop_rate_axolotl)
+$data modify storage mob_heads:root data.axolotl_blue_init set value $(drop_rate_axolotl_blue)
 
-$data modify storage mob_heads:root data.bat_init set value $(d_r_bat)
-$data modify storage mob_heads:root data.bee_init set value $(d_r_bee)
-$data modify storage mob_heads:root data.blaze_init set value $(d_r_blaze)
-$data modify storage mob_heads:root data.bogged_init set value $(d_r_bogged)
-$data modify storage mob_heads:root data.breeze_init set value $(d_r_breeze)
+$data modify storage mob_heads:root data.bat_init set value $(drop_rate_bat)
+$data modify storage mob_heads:root data.bee_init set value $(drop_rate_bee)
+$data modify storage mob_heads:root data.blaze_init set value $(drop_rate_blaze)
+$data modify storage mob_heads:root data.bogged_init set value $(drop_rate_bogged)
+$data modify storage mob_heads:root data.breeze_init set value $(drop_rate_breeze)
 
-$data modify storage mob_heads:root data.camel_init set value $(d_r_camel)
-$data modify storage mob_heads:root data.cat_init set value $(d_r_cat)
-$data modify storage mob_heads:root data.cave_spider_init set value $(d_r_cave_spider)
-$data modify storage mob_heads:root data.chicken_init set value $(d_r_chicken)
-$data modify storage mob_heads:root data.cod_init set value $(d_r_cod)
-$data modify storage mob_heads:root data.cow_init set value $(d_r_cow)
-$data modify storage mob_heads:root data.creaking_init set value $(d_r_creaking)
-$data modify storage mob_heads:root data.creeper_init set value $(d_r_creeper)
-$data modify storage mob_heads:root data.creeper_charged_init set value $(d_r_creeper_charged)
+$data modify storage mob_heads:root data.camel_init set value $(drop_rate_camel)
+$data modify storage mob_heads:root data.cat_init set value $(drop_rate_cat)
+$data modify storage mob_heads:root data.cave_spider_init set value $(drop_rate_cave_spider)
+$data modify storage mob_heads:root data.chicken_init set value $(drop_rate_chicken)
+$data modify storage mob_heads:root data.cod_init set value $(drop_rate_cod)
+$data modify storage mob_heads:root data.cow_init set value $(drop_rate_cow)
+$data modify storage mob_heads:root data.creaking_init set value $(drop_rate_creaking)
+$data modify storage mob_heads:root data.creeper_init set value $(drop_rate_creeper)
+$data modify storage mob_heads:root data.creeper_charged_init set value $(drop_rate_creeper_charged)
 
-$data modify storage mob_heads:root data.dolphin_init set value $(d_r_dolphin)
-$data modify storage mob_heads:root data.donkey_init set value $(d_r_donkey)
-$data modify storage mob_heads:root data.drowned_init set value $(d_r_drowned)
+$data modify storage mob_heads:root data.dolphin_init set value $(drop_rate_dolphin)
+$data modify storage mob_heads:root data.donkey_init set value $(drop_rate_donkey)
+$data modify storage mob_heads:root data.drowned_init set value $(drop_rate_drowned)
 
-$data modify storage mob_heads:root data.elder_guardian_init set value $(d_r_elder_guardian)
-$data modify storage mob_heads:root data.ender_dragon_init set value $(d_r_ender_dragon)
-$data modify storage mob_heads:root data.enderman_init set value $(d_r_enderman)
-$data modify storage mob_heads:root data.endermite_init set value $(d_r_endermite)
-$data modify storage mob_heads:root data.evoker_init set value $(d_r_evoker)
+$data modify storage mob_heads:root data.elder_guardian_init set value $(drop_rate_elder_guardian)
+$data modify storage mob_heads:root data.ender_dragon_init set value $(drop_rate_ender_dragon)
+$data modify storage mob_heads:root data.enderman_init set value $(drop_rate_enderman)
+$data modify storage mob_heads:root data.endermite_init set value $(drop_rate_endermite)
+$data modify storage mob_heads:root data.evoker_init set value $(drop_rate_evoker)
 
-$data modify storage mob_heads:root data.fox_init set value $(d_r_fox)
-$data modify storage mob_heads:root data.frog_init set value $(d_r_frog)
+$data modify storage mob_heads:root data.fox_init set value $(drop_rate_fox)
+$data modify storage mob_heads:root data.frog_init set value $(drop_rate_frog)
 
-$data modify storage mob_heads:root data.ghast_init set value $(d_r_ghast)
-$data modify storage mob_heads:root data.glow_squid_init set value $(d_r_glow_squid)
-$data modify storage mob_heads:root data.goat_init set value $(d_r_goat)
-$data modify storage mob_heads:root data.guardian_init set value $(d_r_guardian)
+$data modify storage mob_heads:root data.ghast_init set value $(drop_rate_ghast)
+$data modify storage mob_heads:root data.glow_squid_init set value $(drop_rate_glow_squid)
+$data modify storage mob_heads:root data.goat_init set value $(drop_rate_goat)
+$data modify storage mob_heads:root data.guardian_init set value $(drop_rate_guardian)
 
-$data modify storage mob_heads:root data.happy_ghast_init set value $(d_r_happy_ghast)
-$data modify storage mob_heads:root data.hoglin_init set value $(d_r_hoglin)
-$data modify storage mob_heads:root data.horse_init set value $(d_r_horse)
-$data modify storage mob_heads:root data.husk_init set value $(d_r_husk)
+$data modify storage mob_heads:root data.happy_ghast_init set value $(drop_rate_happy_ghast)
+$data modify storage mob_heads:root data.hoglin_init set value $(drop_rate_hoglin)
+$data modify storage mob_heads:root data.horse_init set value $(drop_rate_horse)
+$data modify storage mob_heads:root data.husk_init set value $(drop_rate_husk)
 
-$data modify storage mob_heads:root data.illusioner_init set value $(d_r_illusioner)
-$data modify storage mob_heads:root data.iron_golem_init set value $(d_r_iron_golem)
+$data modify storage mob_heads:root data.illusioner_init set value $(drop_rate_illusioner)
+$data modify storage mob_heads:root data.iron_golem_init set value $(drop_rate_iron_golem)
 
-$data modify storage mob_heads:root data.llama_init set value $(d_r_llama)
+$data modify storage mob_heads:root data.llama_init set value $(drop_rate_llama)
 
-$data modify storage mob_heads:root data.magma_cube_init set value $(d_r_magma_cube)
-$data modify storage mob_heads:root data.mooshroom_init set value $(d_r_mooshroom)
-$data modify storage mob_heads:root data.mooshroom_brown_init set value $(d_r_mooshroom_brown)
-$data modify storage mob_heads:root data.mule_init set value $(d_r_mule)
+$data modify storage mob_heads:root data.magma_cube_init set value $(drop_rate_magma_cube)
+$data modify storage mob_heads:root data.mooshroom_init set value $(drop_rate_mooshroom)
+$data modify storage mob_heads:root data.mooshroom_brown_init set value $(drop_rate_mooshroom_brown)
+$data modify storage mob_heads:root data.mule_init set value $(drop_rate_mule)
 
-$data modify storage mob_heads:root data.ocelot_init set value $(d_r_ocelot)
-
-# panda = normal, weak
-$data modify storage mob_heads:root data.panda_init set value $(d_r_panda)
-# panda special = lazy, brown, playful, aggressive, worried
-$data modify storage mob_heads:root data.panda_special_init set value $(d_r_panda_special)
-$data modify storage mob_heads:root data.parrot_init set value $(d_r_parrot)
-$data modify storage mob_heads:root data.phantom_init set value $(d_r_phantom)
-$data modify storage mob_heads:root data.pig_init set value $(d_r_pig)
-$data modify storage mob_heads:root data.piglin_brute_init set value $(d_r_piglin_brute)
-$data modify storage mob_heads:root data.piglin_init set value $(d_r_piglin)
-$data modify storage mob_heads:root data.pillager_init set value $(d_r_pillager)
-$data modify storage mob_heads:root data.polar_bear_init set value $(d_r_polar_bear)
-$data modify storage mob_heads:root data.pufferfish_init set value $(d_r_pufferfish)
-
-$data modify storage mob_heads:root data.rabbit_init set value $(d_r_rabbit)
-$data modify storage mob_heads:root data.ravager_init set value $(d_r_ravager)
-
-$data modify storage mob_heads:root data.salmon_init set value $(d_r_salmon)
-$data modify storage mob_heads:root data.sheep_init set value $(d_r_sheep)
-$data modify storage mob_heads:root data.shulker_init set value $(d_r_shulker)
-$data modify storage mob_heads:root data.silverfish_init set value $(d_r_silverfish)
-$data modify storage mob_heads:root data.skeleton_horse_init set value $(d_r_skeleton_horse)
-$data modify storage mob_heads:root data.skeleton_init set value $(d_r_skeleton)
-$data modify storage mob_heads:root data.slime_init set value $(d_r_slime)
-$data modify storage mob_heads:root data.sniffer_init set value $(d_r_sniffer)
-$data modify storage mob_heads:root data.snow_golem_init set value $(d_r_snow_golem)
-$data modify storage mob_heads:root data.spider_init set value $(d_r_spider)
-$data modify storage mob_heads:root data.squid_init set value $(d_r_squid)
-$data modify storage mob_heads:root data.stray_init set value $(d_r_stray)
-$data modify storage mob_heads:root data.strider_init set value $(d_r_strider)
-
-$data modify storage mob_heads:root data.tadpole_init set value $(d_r_tadpole)
-$data modify storage mob_heads:root data.trader_llama_init set value $(d_r_trader_llama)
-$data modify storage mob_heads:root data.tropical_fish_init set value $(d_r_tropical_fish)
-$data modify storage mob_heads:root data.turtle_init set value $(d_r_turtle)
-
-$data modify storage mob_heads:root data.vex_init set value $(d_r_vex)
-$data modify storage mob_heads:root data.villager_init set value $(d_r_villager)
-$data modify storage mob_heads:root data.vindicator_init set value $(d_r_vindicator)
-
-$data modify storage mob_heads:root data.wandering_trader_init set value $(d_r_wandering_trader)
-$data modify storage mob_heads:root data.warden_init set value $(d_r_warden)
-$data modify storage mob_heads:root data.witch_init set value $(d_r_witch)
-$data modify storage mob_heads:root data.wither_init set value $(d_r_wither)
-$data modify storage mob_heads:root data.wither_invulnerable_init set value $(d_r_wither_invulnerable)
-$data modify storage mob_heads:root data.wolf_init set value $(d_r_wolf)
-
-$data modify storage mob_heads:root data.zoglin_init set value $(d_r_zoglin)
-$data modify storage mob_heads:root data.zombie_horse_init set value $(d_r_zombie_horse)
-$data modify storage mob_heads:root data.zombie_villager_init set value $(d_r_zombie_villager)
-$data modify storage mob_heads:root data.zombie_init set value $(d_r_zombie)
-$data modify storage mob_heads:root data.zombified_piglin_init set value $(d_r_zombified_piglin)
-
-
-data modify storage mob_heads:root data.d_r_allay set value "$(drop_rate_allay)"
-data modify storage mob_heads:root data.d_r_armadillo set value "$(drop_rate_armadillo)"
-data modify storage mob_heads:root data.d_r_axolotl set value "$(drop_rate_axolotl)"
-data modify storage mob_heads:root data.d_r_axolotl_blue set value "$(drop_rate_axolotl_blue)"
-
-data modify storage mob_heads:root data.d_r_bat set value "$(drop_rate_bat)"
-data modify storage mob_heads:root data.d_r_bee set value "$(drop_rate_bee)"
-data modify storage mob_heads:root data.d_r_blaze set value "$(drop_rate_blaze)"
-data modify storage mob_heads:root data.d_r_bogged set value "$(drop_rate_bogged)"
-data modify storage mob_heads:root data.d_r_breeze set value "$(drop_rate_breeze)"
-
-data modify storage mob_heads:root data.d_r_camel set value "$(drop_rate_camel)"
-data modify storage mob_heads:root data.d_r_cat set value "$(drop_rate_cat)"
-data modify storage mob_heads:root data.d_r_cave_spider set value "$(drop_rate_cave_spider)"
-data modify storage mob_heads:root data.d_r_chicken set value "$(drop_rate_chicken)"
-data modify storage mob_heads:root data.d_r_cod set value "$(drop_rate_cod)"
-data modify storage mob_heads:root data.d_r_cow set value "$(drop_rate_cow)"
-data modify storage mob_heads:root data.d_r_creaking set value "$(drop_rate_creaking)"
-data modify storage mob_heads:root data.d_r_creeper set value "$(drop_rate_creeper)"
-data modify storage mob_heads:root data.d_r_creeper_charged set value "$(drop_rate_creeper_charged)"
-
-data modify storage mob_heads:root data.d_r_dolphin set value "$(drop_rate_dolphin)"
-data modify storage mob_heads:root data.d_r_donkey set value "$(drop_rate_donkey)"
-data modify storage mob_heads:root data.d_r_drowned set value "$(drop_rate_drowned)"
-
-data modify storage mob_heads:root data.d_r_elder_guardian set value "$(drop_rate_elder_guardian)"
-data modify storage mob_heads:root data.d_r_ender_dragon set value "$(drop_rate_ender_dragon)"
-data modify storage mob_heads:root data.d_r_enderman set value "$(drop_rate_enderman)"
-data modify storage mob_heads:root data.d_r_endermite set value "$(drop_rate_endermite)"
-data modify storage mob_heads:root data.d_r_evoker set value "$(drop_rate_evoker)"
-
-data modify storage mob_heads:root data.d_r_fox set value "$(drop_rate_fox)"
-data modify storage mob_heads:root data.d_r_frog set value "$(drop_rate_frog)"
-
-data modify storage mob_heads:root data.d_r_ghast set value "$(drop_rate_ghast)"
-data modify storage mob_heads:root data.d_r_glow_squid set value "$(drop_rate_glow_squid)"
-data modify storage mob_heads:root data.d_r_goat set value "$(drop_rate_goat)"
-data modify storage mob_heads:root data.d_r_guardian set value "$(drop_rate_guardian)"
-
-data modify storage mob_heads:root data.d_r_happy_ghast set value "$(drop_rate_happy_ghast)"
-data modify storage mob_heads:root data.d_r_hoglin set value "$(drop_rate_hoglin)"
-data modify storage mob_heads:root data.d_r_horse set value "$(drop_rate_horse)"
-data modify storage mob_heads:root data.d_r_husk set value "$(drop_rate_husk)"
-
-data modify storage mob_heads:root data.d_r_illusioner set value "$(drop_rate_illusioner)"
-data modify storage mob_heads:root data.d_r_iron_golem set value "$(drop_rate_iron_golem)"
-
-data modify storage mob_heads:root data.d_r_llama set value "$(drop_rate_llama)"
-
-data modify storage mob_heads:root data.d_r_magma_cube set value "$(drop_rate_magma_cube)"
-data modify storage mob_heads:root data.d_r_mooshroom set value "$(drop_rate_mooshroom)"
-data modify storage mob_heads:root data.d_r_mooshroom_brown set value "$(drop_rate_mooshroom_brown)"
-data modify storage mob_heads:root data.d_r_mule set value "$(drop_rate_mule)"
-
-data modify storage mob_heads:root data.d_r_ocelot set value "$(drop_rate_ocelot)"
+$data modify storage mob_heads:root data.ocelot_init set value $(drop_rate_ocelot)
 
 # panda = normal, weak
-data modify storage mob_heads:root data.d_r_panda set value "$(drop_rate_panda)"
+$data modify storage mob_heads:root data.panda_init set value $(drop_rate_panda)
 # panda special = lazy, brown, playful, aggressive, worried
-data modify storage mob_heads:root data.d_r_panda_special set value "$(drop_rate_panda_special)"
-data modify storage mob_heads:root data.d_r_parrot set value "$(drop_rate_parrot)"
-data modify storage mob_heads:root data.d_r_phantom set value "$(drop_rate_phantom)"
-data modify storage mob_heads:root data.d_r_pig set value "$(drop_rate_pig)"
-data modify storage mob_heads:root data.d_r_piglin_brute set value "$(drop_rate_piglin_brute)"
-data modify storage mob_heads:root data.d_r_piglin set value "$(drop_rate_piglin)"
-data modify storage mob_heads:root data.d_r_pillager set value "$(drop_rate_pillager)"
-data modify storage mob_heads:root data.d_r_polar_bear set value "$(drop_rate_polar_bear)"
-data modify storage mob_heads:root data.d_r_pufferfish set value "$(drop_rate_pufferfish)"
+$data modify storage mob_heads:root data.panda_special_init set value $(drop_rate_panda_special)
+$data modify storage mob_heads:root data.parrot_init set value $(drop_rate_parrot)
+$data modify storage mob_heads:root data.phantom_init set value $(drop_rate_phantom)
+$data modify storage mob_heads:root data.pig_init set value $(drop_rate_pig)
+$data modify storage mob_heads:root data.piglin_brute_init set value $(drop_rate_piglin_brute)
+$data modify storage mob_heads:root data.piglin_init set value $(drop_rate_piglin)
+$data modify storage mob_heads:root data.pillager_init set value $(drop_rate_pillager)
+$data modify storage mob_heads:root data.polar_bear_init set value $(drop_rate_polar_bear)
+$data modify storage mob_heads:root data.pufferfish_init set value $(drop_rate_pufferfish)
 
-data modify storage mob_heads:root data.d_r_rabbit set value "$(drop_rate_rabbit)"
-data modify storage mob_heads:root data.d_r_ravager set value "$(drop_rate_ravager)"
+$data modify storage mob_heads:root data.rabbit_init set value $(drop_rate_rabbit)
+$data modify storage mob_heads:root data.ravager_init set value $(drop_rate_ravager)
 
-data modify storage mob_heads:root data.d_r_salmon set value "$(drop_rate_salmon)"
-data modify storage mob_heads:root data.d_r_sheep set value "$(drop_rate_sheep)"
-data modify storage mob_heads:root data.d_r_shulker set value "$(drop_rate_shulker)"
-data modify storage mob_heads:root data.d_r_silverfish set value "$(drop_rate_silverfish)"
-data modify storage mob_heads:root data.d_r_skeleton_horse set value "$(drop_rate_skeleton_horse)"
-data modify storage mob_heads:root data.d_r_skeleton set value "$(drop_rate_skeleton)"
-data modify storage mob_heads:root data.d_r_slime set value "$(drop_rate_slime)"
-data modify storage mob_heads:root data.d_r_sniffer set value "$(drop_rate_sniffer)"
-data modify storage mob_heads:root data.d_r_snow_golem set value "$(drop_rate_snow_golem)"
-data modify storage mob_heads:root data.d_r_spider set value "$(drop_rate_spider)"
-data modify storage mob_heads:root data.d_r_squid set value "$(drop_rate_squid)"
-data modify storage mob_heads:root data.d_r_stray set value "$(drop_rate_stray)"
-data modify storage mob_heads:root data.d_r_strider set value "$(drop_rate_strider)"
+$data modify storage mob_heads:root data.salmon_init set value $(drop_rate_salmon)
+$data modify storage mob_heads:root data.sheep_init set value $(drop_rate_sheep)
+$data modify storage mob_heads:root data.shulker_init set value $(drop_rate_shulker)
+$data modify storage mob_heads:root data.silverfish_init set value $(drop_rate_silverfish)
+$data modify storage mob_heads:root data.skeleton_horse_init set value $(drop_rate_skeleton_horse)
+$data modify storage mob_heads:root data.skeleton_init set value $(drop_rate_skeleton)
+$data modify storage mob_heads:root data.slime_init set value $(drop_rate_slime)
+$data modify storage mob_heads:root data.sniffer_init set value $(drop_rate_sniffer)
+$data modify storage mob_heads:root data.snow_golem_init set value $(drop_rate_snow_golem)
+$data modify storage mob_heads:root data.spider_init set value $(drop_rate_spider)
+$data modify storage mob_heads:root data.squid_init set value $(drop_rate_squid)
+$data modify storage mob_heads:root data.stray_init set value $(drop_rate_stray)
+$data modify storage mob_heads:root data.strider_init set value $(drop_rate_strider)
 
-data modify storage mob_heads:root data.d_r_tadpole set value "$(drop_rate_tadpole)"
-data modify storage mob_heads:root data.d_r_trader_llama set value "$(drop_rate_trader_llama)"
-data modify storage mob_heads:root data.d_r_tropical_fish set value "$(drop_rate_tropical_fish)"
-data modify storage mob_heads:root data.d_r_turtle set value "$(drop_rate_turtle)"
+$data modify storage mob_heads:root data.tadpole_init set value $(drop_rate_tadpole)
+$data modify storage mob_heads:root data.trader_llama_init set value $(drop_rate_trader_llama)
+$data modify storage mob_heads:root data.tropical_fish_init set value $(drop_rate_tropical_fish)
+$data modify storage mob_heads:root data.turtle_init set value $(drop_rate_turtle)
 
-data modify storage mob_heads:root data.d_r_vex set value "$(drop_rate_vex)"
-data modify storage mob_heads:root data.d_r_villager set value "$(drop_rate_villager)"
-data modify storage mob_heads:root data.d_r_vindicator set value "$(drop_rate_vindicator)"
+$data modify storage mob_heads:root data.vex_init set value $(drop_rate_vex)
+$data modify storage mob_heads:root data.villager_init set value $(drop_rate_villager)
+$data modify storage mob_heads:root data.vindicator_init set value $(drop_rate_vindicator)
 
-data modify storage mob_heads:root data.d_r_wandering_trader set value "$(drop_rate_wandering_trader)"
-data modify storage mob_heads:root data.d_r_warden set value "$(drop_rate_warden)"
-data modify storage mob_heads:root data.d_r_witch set value "$(drop_rate_witch)"
-data modify storage mob_heads:root data.d_r_wither set value "$(drop_rate_wither)"
-data modify storage mob_heads:root data.d_r_wither_invulnerable set value "$(drop_rate_wither_invulnerable)"
-data modify storage mob_heads:root data.d_r_wolf set value "$(drop_rate_wolf)"
+$data modify storage mob_heads:root data.wandering_trader_init set value $(drop_rate_wandering_trader)
+$data modify storage mob_heads:root data.warden_init set value $(drop_rate_warden)
+$data modify storage mob_heads:root data.witch_init set value $(drop_rate_witch)
+$data modify storage mob_heads:root data.wither_init set value $(drop_rate_wither)
+$data modify storage mob_heads:root data.wither_invulnerable_init set value $(drop_rate_wither_invulnerable)
+$data modify storage mob_heads:root data.wolf_init set value $(drop_rate_wolf)
 
-data modify storage mob_heads:root data.d_r_zoglin set value "$(drop_rate_zoglin)"
-data modify storage mob_heads:root data.d_r_zombie_horse set value "$(drop_rate_zombie_horse)"
-data modify storage mob_heads:root data.d_r_zombie_villager set value "$(drop_rate_zombie_villager)"
-data modify storage mob_heads:root data.d_r_zombie set value "$(drop_rate_zombie)"
-data modify storage mob_heads:root data.d_r_zombified_piglin set value "$(drop_rate_zombified_piglin)"
+$data modify storage mob_heads:root data.zoglin_init set value $(drop_rate_zoglin)
+$data modify storage mob_heads:root data.zombie_horse_init set value $(drop_rate_zombie_horse)
+$data modify storage mob_heads:root data.zombie_villager_init set value $(drop_rate_zombie_villager)
+$data modify storage mob_heads:root data.zombie_init set value $(drop_rate_zombie)
+$data modify storage mob_heads:root data.zombified_piglin_init set value $(drop_rate_zombified_piglin)
+
+
+data modify storage mob_heads:root data.drop_rate_allay set value "$(drop_rate_allay)"
+data modify storage mob_heads:root data.drop_rate_armadillo set value "$(drop_rate_armadillo)"
+data modify storage mob_heads:root data.drop_rate_axolotl set value "$(drop_rate_axolotl)"
+data modify storage mob_heads:root data.drop_rate_axolotl_blue set value "$(drop_rate_axolotl_blue)"
+
+data modify storage mob_heads:root data.drop_rate_bat set value "$(drop_rate_bat)"
+data modify storage mob_heads:root data.drop_rate_bee set value "$(drop_rate_bee)"
+data modify storage mob_heads:root data.drop_rate_blaze set value "$(drop_rate_blaze)"
+data modify storage mob_heads:root data.drop_rate_bogged set value "$(drop_rate_bogged)"
+data modify storage mob_heads:root data.drop_rate_breeze set value "$(drop_rate_breeze)"
+
+data modify storage mob_heads:root data.drop_rate_camel set value "$(drop_rate_camel)"
+data modify storage mob_heads:root data.drop_rate_cat set value "$(drop_rate_cat)"
+data modify storage mob_heads:root data.drop_rate_cave_spider set value "$(drop_rate_cave_spider)"
+data modify storage mob_heads:root data.drop_rate_chicken set value "$(drop_rate_chicken)"
+data modify storage mob_heads:root data.drop_rate_cod set value "$(drop_rate_cod)"
+data modify storage mob_heads:root data.drop_rate_cow set value "$(drop_rate_cow)"
+data modify storage mob_heads:root data.drop_rate_creaking set value "$(drop_rate_creaking)"
+data modify storage mob_heads:root data.drop_rate_creeper set value "$(drop_rate_creeper)"
+data modify storage mob_heads:root data.drop_rate_creeper_charged set value "$(drop_rate_creeper_charged)"
+
+data modify storage mob_heads:root data.drop_rate_dolphin set value "$(drop_rate_dolphin)"
+data modify storage mob_heads:root data.drop_rate_donkey set value "$(drop_rate_donkey)"
+data modify storage mob_heads:root data.drop_rate_drowned set value "$(drop_rate_drowned)"
+
+data modify storage mob_heads:root data.drop_rate_elder_guardian set value "$(drop_rate_elder_guardian)"
+data modify storage mob_heads:root data.drop_rate_ender_dragon set value "$(drop_rate_ender_dragon)"
+data modify storage mob_heads:root data.drop_rate_enderman set value "$(drop_rate_enderman)"
+data modify storage mob_heads:root data.drop_rate_endermite set value "$(drop_rate_endermite)"
+data modify storage mob_heads:root data.drop_rate_evoker set value "$(drop_rate_evoker)"
+
+data modify storage mob_heads:root data.drop_rate_fox set value "$(drop_rate_fox)"
+data modify storage mob_heads:root data.drop_rate_frog set value "$(drop_rate_frog)"
+
+data modify storage mob_heads:root data.drop_rate_ghast set value "$(drop_rate_ghast)"
+data modify storage mob_heads:root data.drop_rate_glow_squid set value "$(drop_rate_glow_squid)"
+data modify storage mob_heads:root data.drop_rate_goat set value "$(drop_rate_goat)"
+data modify storage mob_heads:root data.drop_rate_guardian set value "$(drop_rate_guardian)"
+
+data modify storage mob_heads:root data.drop_rate_happy_ghast set value "$(drop_rate_happy_ghast)"
+data modify storage mob_heads:root data.drop_rate_hoglin set value "$(drop_rate_hoglin)"
+data modify storage mob_heads:root data.drop_rate_horse set value "$(drop_rate_horse)"
+data modify storage mob_heads:root data.drop_rate_husk set value "$(drop_rate_husk)"
+
+data modify storage mob_heads:root data.drop_rate_illusioner set value "$(drop_rate_illusioner)"
+data modify storage mob_heads:root data.drop_rate_iron_golem set value "$(drop_rate_iron_golem)"
+
+data modify storage mob_heads:root data.drop_rate_llama set value "$(drop_rate_llama)"
+
+data modify storage mob_heads:root data.drop_rate_magma_cube set value "$(drop_rate_magma_cube)"
+data modify storage mob_heads:root data.drop_rate_mooshroom set value "$(drop_rate_mooshroom)"
+data modify storage mob_heads:root data.drop_rate_mooshroom_brown set value "$(drop_rate_mooshroom_brown)"
+data modify storage mob_heads:root data.drop_rate_mule set value "$(drop_rate_mule)"
+
+data modify storage mob_heads:root data.drop_rate_ocelot set value "$(drop_rate_ocelot)"
+
+# panda = normal, weak
+data modify storage mob_heads:root data.drop_rate_panda set value "$(drop_rate_panda)"
+# panda special = lazy, brown, playful, aggressive, worried
+data modify storage mob_heads:root data.drop_rate_panda_special set value "$(drop_rate_panda_special)"
+data modify storage mob_heads:root data.drop_rate_parrot set value "$(drop_rate_parrot)"
+data modify storage mob_heads:root data.drop_rate_phantom set value "$(drop_rate_phantom)"
+data modify storage mob_heads:root data.drop_rate_pig set value "$(drop_rate_pig)"
+data modify storage mob_heads:root data.drop_rate_piglin_brute set value "$(drop_rate_piglin_brute)"
+data modify storage mob_heads:root data.drop_rate_piglin set value "$(drop_rate_piglin)"
+data modify storage mob_heads:root data.drop_rate_pillager set value "$(drop_rate_pillager)"
+data modify storage mob_heads:root data.drop_rate_polar_bear set value "$(drop_rate_polar_bear)"
+data modify storage mob_heads:root data.drop_rate_pufferfish set value "$(drop_rate_pufferfish)"
+
+data modify storage mob_heads:root data.drop_rate_rabbit set value "$(drop_rate_rabbit)"
+data modify storage mob_heads:root data.drop_rate_ravager set value "$(drop_rate_ravager)"
+
+data modify storage mob_heads:root data.drop_rate_salmon set value "$(drop_rate_salmon)"
+data modify storage mob_heads:root data.drop_rate_sheep set value "$(drop_rate_sheep)"
+data modify storage mob_heads:root data.drop_rate_shulker set value "$(drop_rate_shulker)"
+data modify storage mob_heads:root data.drop_rate_silverfish set value "$(drop_rate_silverfish)"
+data modify storage mob_heads:root data.drop_rate_skeleton_horse set value "$(drop_rate_skeleton_horse)"
+data modify storage mob_heads:root data.drop_rate_skeleton set value "$(drop_rate_skeleton)"
+data modify storage mob_heads:root data.drop_rate_slime set value "$(drop_rate_slime)"
+data modify storage mob_heads:root data.drop_rate_sniffer set value "$(drop_rate_sniffer)"
+data modify storage mob_heads:root data.drop_rate_snow_golem set value "$(drop_rate_snow_golem)"
+data modify storage mob_heads:root data.drop_rate_spider set value "$(drop_rate_spider)"
+data modify storage mob_heads:root data.drop_rate_squid set value "$(drop_rate_squid)"
+data modify storage mob_heads:root data.drop_rate_stray set value "$(drop_rate_stray)"
+data modify storage mob_heads:root data.drop_rate_strider set value "$(drop_rate_strider)"
+
+data modify storage mob_heads:root data.drop_rate_tadpole set value "$(drop_rate_tadpole)"
+data modify storage mob_heads:root data.drop_rate_trader_llama set value "$(drop_rate_trader_llama)"
+data modify storage mob_heads:root data.drop_rate_tropical_fish set value "$(drop_rate_tropical_fish)"
+data modify storage mob_heads:root data.drop_rate_turtle set value "$(drop_rate_turtle)"
+
+data modify storage mob_heads:root data.drop_rate_vex set value "$(drop_rate_vex)"
+data modify storage mob_heads:root data.drop_rate_villager set value "$(drop_rate_villager)"
+data modify storage mob_heads:root data.drop_rate_vindicator set value "$(drop_rate_vindicator)"
+
+data modify storage mob_heads:root data.drop_rate_wandering_trader set value "$(drop_rate_wandering_trader)"
+data modify storage mob_heads:root data.drop_rate_warden set value "$(drop_rate_warden)"
+data modify storage mob_heads:root data.drop_rate_witch set value "$(drop_rate_witch)"
+data modify storage mob_heads:root data.drop_rate_wither set value "$(drop_rate_wither)"
+data modify storage mob_heads:root data.drop_rate_wither_invulnerable set value "$(drop_rate_wither_invulnerable)"
+data modify storage mob_heads:root data.drop_rate_wolf set value "$(drop_rate_wolf)"
+
+data modify storage mob_heads:root data.drop_rate_zoglin set value "$(drop_rate_zoglin)"
+data modify storage mob_heads:root data.drop_rate_zombie_horse set value "$(drop_rate_zombie_horse)"
+data modify storage mob_heads:root data.drop_rate_zombie_villager set value "$(drop_rate_zombie_villager)"
+data modify storage mob_heads:root data.drop_rate_zombie set value "$(drop_rate_zombie)"
+data modify storage mob_heads:root data.drop_rate_zombified_piglin set value "$(drop_rate_zombified_piglin)"
 
 #allay
   execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.allay_init 1000

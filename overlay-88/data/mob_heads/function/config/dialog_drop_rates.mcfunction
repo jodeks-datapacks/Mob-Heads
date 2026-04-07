@@ -1164,7 +1164,7 @@ type:"minecraft:multi_action",\
     },\
     {\
       type:"minecraft:text",\
-      key:"drop",\
+      key:"drop_rate_zombie_villager",\
       label: {\
         "translate": "entity.minecraft.zombie_villager",\
         "extra": [\
