@@ -1,0 +1,114 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU5MGY2ZDQwZDA1YTkwMzc0ZDNmY2IzNTllNjM5NTQ3ODRjZjgyZjQwYTY0NmQ4MTM1YWU1YTc0Y2Q3MTM1NSJ9fX0="
+            }
+          ]
+        }
+      }
+    },
+    "title": {
+      "text": "K",
+      "color": "#E69A53",
+      "extra": [
+        {
+          "text": "r",
+          "color": "#453D36"
+        },
+        {
+          "text": "ü",
+          "color": "#F0F0F0"
+        },
+        {
+          "text": "m",
+          "color": "#CD8949"
+        },
+        {
+          "text": "e",
+          "color": "#453D36"
+        },
+        {
+          "text": "l",
+          "color": "#E69A53"
+        },
+        {
+          "text": "'",
+          "color": "#E6E6E6"
+        },
+        {
+          "text": "s",
+          "color": "#706459"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "G",
+          "color": "#CD8949"
+        },
+        {
+          "text": "i",
+          "color": "#827467 "
+        },
+        {
+          "text": "f",
+          "color": "#FCFCFC"
+        },
+        {
+          "text": "t",
+          "color": "#453D36"
+        }
+      ]
+    },
+    "description": {
+      "text": "Tribute to my cat"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "mob_heads:collection/cat/white",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mob_heads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU5MGY2ZDQwZDA1YTkwMzc0ZDNmY2IzNTllNjM5NTQ3ODRjZjgyZjQwYTY0NmQ4MTM1YWU1YTc0Y2Q3MTM1NSJ9fX0="
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

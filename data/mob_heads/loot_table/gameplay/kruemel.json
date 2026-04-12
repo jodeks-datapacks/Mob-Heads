@@ -1,0 +1,114 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU5MGY2ZDQwZDA1YTkwMzc0ZDNmY2IzNTllNjM5NTQ3ODRjZjgyZjQwYTY0NmQ4MTM1YWU1YTc0Y2Q3MTM1NSJ9fX0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "K",
+                "color": "#E69A53",
+                "extra": [
+                  {
+                    "text": "r",
+                    "color": "#453D36"
+                  },
+                  {
+                    "text": "ü",
+                    "color": "#F0F0F0"
+                  },
+                  {
+                    "text": "m",
+                    "color": "#CD8949"
+                  },
+                  {
+                    "text": "e",
+                    "color": "#453D36"
+                  },
+                  {
+                    "text": "l",
+                    "color": "#E69A53"
+                  },
+                  {
+                    "text": "'",
+                    "color": "#E6E6E6"
+                  },
+                  {
+                    "text": "s",
+                    "color": "#706459"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "text": "G",
+                    "color": "#CD8949"
+                  },
+                  {
+                    "text": "i",
+                    "color": "#827467 "
+                  },
+                  {
+                    "text": "f",
+                    "color": "#FCFCFC"
+                  },
+                  {
+                    "text": "t",
+                    "color": "#453D36"
+                  }
+                ]
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                "Eternal forever"
+              ],
+              "mode": "replace_all"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "entity.cat.purr"
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "components": {
+                  "minecraft:cat/variant": "calico"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

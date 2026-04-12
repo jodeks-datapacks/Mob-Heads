@@ -4,5 +4,5 @@
       "trigger": "minecraft:location"
     }
   },
-  "parent": "mob_heads:collection/cat/white"
+  "parent": "mob_heads:collection/cat/kruemel"
 }
