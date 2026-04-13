@@ -8,15 +8,6 @@
           "value": "mob_heads:entities/sheep/adult/yellow"
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "loot_table",
-          "value": "mob_heads:entities/sheep/baby/yellow"
-        }
-      ]
     }
   ]
 }
