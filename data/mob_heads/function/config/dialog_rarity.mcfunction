@@ -96,7 +96,15 @@ type:"minecraft:multi_action",\
       step: 1,\
       key:"dialog_rarity_axolotl_blue",\
       label: {\
-        "translate": "mob_heads.entity.blue_axolotl"\
+        "translate": "item.minecraft.firework_star.blue",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "entity.minecraft.axolotl"\
+          }\
+        ]\
       },\
       initial: $(rarity_axolotl_blue)\
     },\
@@ -250,7 +258,8 @@ type:"minecraft:multi_action",\
       step: 1,\
       key:"dialog_rarity_creeper_charged",\
       label: {\
-        "translate": "mob_heads.entity.charged_creeper"\
+        "translate": "mob_heads.entity.charged_creeper",\
+        "fallback": "Charged Creeper",\
       },\
       initial: $(rarity_creeper_charged)\
     },\
@@ -558,7 +567,8 @@ type:"minecraft:multi_action",\
       step: 1,\
       key:"dialog_rarity_panda_special",\
       label: {\
-        "translate": "mob_heads.entity.special_panda"\
+        "translate": "mob_heads.entity.special_panda",\
+        "fallback": "Special Panda",\
       },\
       initial: $(rarity_panda_special)\
     },\

@@ -80,8 +80,14 @@ type:"minecraft:multi_action",\
       type:"minecraft:text",\
       key:"drop_rate_axolotl_blue",\
       label: {\
-        "translate": "mob_heads.entity.blue_axolotl",\
+        "translate": "item.minecraft.firework_star.blue",\
         "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "entity.minecraft.axolotl"\
+          },\
           {\
             "text": " ($(axolotl_blue))"\
           }\
@@ -276,6 +282,7 @@ type:"minecraft:multi_action",\
       key:"drop_rate_creeper_charged",\
       label: {\
         "translate": "mob_heads.entity.charged_creeper",\
+        "fallback": "Charged Creeper",\
         "extra": [\
           {\
             "text": " ($(creeper_charged))"\
@@ -650,6 +657,7 @@ type:"minecraft:multi_action",\
       key:"drop_rate_panda_special",\
       label: {\
         "translate": "mob_heads.entity.special_panda",\
+        "fallback": "Special Panda",\
         "extra": [\
           {\
             "text": " ($(panda_special))"\

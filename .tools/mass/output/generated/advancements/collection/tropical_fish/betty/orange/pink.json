@@ -1,0 +1,115 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODE2NTA2MTc1MywKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4ZTJmODA4YTFhMDIxMmI1ZjAyMzg3ZDE1MzIwODhhOWVmNTYzZjIyYjEyYzA2Mjg2YzM0M2YxMmJlODUzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        }
+      }
+    },
+    "title": {
+      "translate": "mob_heads.tropical_fish.betty",
+      "fallback": "Betty",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.orange"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.pink"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.tropical_fish.betty",
+          "fallback": "Betty"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.orange"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.pink"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mob_heads:collection/tropical_fish/betty/orange/orange",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mob_heads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODE2NTA2MTc1MywKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4ZTJmODA4YTFhMDIxMmI1ZjAyMzg3ZDE1MzIwODhhOWVmNTYzZjIyYjEyYzA2Mjg2YzM0M2YxMmJlODUzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

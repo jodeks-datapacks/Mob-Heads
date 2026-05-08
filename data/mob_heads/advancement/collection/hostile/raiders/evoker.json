@@ -51,7 +51,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/hostile/raiders/vindicator",
+  "parent": "mob_heads:collection/hostile/raiders/johnny",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",

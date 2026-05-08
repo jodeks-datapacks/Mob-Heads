@@ -34,8 +34,7 @@
           "text": " "
         },
         {
-          "translate": "entity.minecraft.allay",
-          "fallback": "Allay"
+          "translate": "entity.minecraft.allay"
         },
         {
           "text": " "

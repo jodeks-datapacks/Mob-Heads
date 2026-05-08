@@ -15,14 +15,12 @@
     },
     "title": {
       "translate": "item.minecraft.firework_star.blue",
-      "fallback": "Blue",
       "extra": [
         {
           "text": " "
         },
         {
-          "translate": "entity.minecraft.axolotl",
-          "fallback": "Axolotl"
+          "translate": "entity.minecraft.axolotl"
         },
         {
           "text": " "
@@ -41,15 +39,13 @@
           "text": " "
         },
         {
-          "translate": "item.minecraft.firework_star.blue",
-          "fallback": "Blue"
+          "translate": "item.minecraft.firework_star.blue"
         },
         {
           "text": " "
         },
         {
-          "translate": "entity.minecraft.axolotl",
-          "fallback": "Axolotl"
+          "translate": "entity.minecraft.axolotl"
         },
         {
           "text": " "
