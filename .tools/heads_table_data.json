@@ -3,6 +3,8 @@
     "name": "Allay",
     "image": "allay",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Allay_idle_with_item1.ogg"
   },
   {
@@ -21,6 +23,8 @@
     "name": "Blue Axolotl",
     "image": "axolotl_blue",
     "drop_rate": "10%",
+    "category": "A",
+    "sub_category": "axolotl",
     "sound": "https://minecraft.wiki/images/Axolotl_attack1.ogg"
   },
   {

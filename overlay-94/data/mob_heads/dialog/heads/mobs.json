@@ -340,6 +340,26 @@
           "properties": [
             {
               "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzUwYmZjOWIyY2M0MGY0ZDhkMDIyNGNjYmFiYWMyNmIzMzhhYTk0N2Q5OWRjZGU3NjlmODU5YjU5YjhkMGIwZSJ9fX0="
+            }
+          ]
+        },
+        "extra": [
+          "|"
+        ]
+      },
+      "action":{
+        "type":"run_command",
+        "command":"function mob_heads:app/get_mob_head/mobs/heads/camel_husk"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
               "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTIxMGZiMGRlYTUwNWQwNmUyNjM2Y2FkMDQ2YzZlMjdkOGU0OTk4YTc1MjllYjZhZGQyZjI5MTMwMjJkM2Q1OSJ9fX0"
             }
           ]
@@ -1900,6 +1920,26 @@
           "properties": [
             {
               "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjRhZWNlZmY1ZjI2ZGQ4NDEzYzVjMDM1NDdjMjM0YWMwMzEwOGQxODdhZjBiOWNkODM0YThjZTEyNTk4NTkxYyJ9fX0="
+            }
+          ]
+        },
+        "extra": [
+          "|"
+        ]
+      },
+      "action":{
+        "type":"run_command",
+        "command":"function mob_heads:app/get_mob_head/mobs/heads/parched"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
               "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjBlMDNiMTBjMTVlZTU2MDE0MjM4NjdkZmI4YmNiY2JjOTE5Y2E5NmMwZWVhNjMwNzNlYzhlNzk1ZWFiZDA1ZiJ9fX0"
             }
           ]
@@ -3451,6 +3491,46 @@
       "action":{
         "type":"run_command",
         "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI5OTI4ZmRmMGQ5NzUzNDlmMjU4NzQwZDM0Y2E4ZTViMjc1MWI2YzVhM2MyOTMxZTQ1MWEzODY3NDc5YTc4ZSJ9fX0="
+            }
+          ]
+        },
+        "extra": [
+          "|"
+        ]
+      },
+      "action":{
+        "type":"run_command",
+        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie_nautilus"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxNmUxOGY0MDBiOGM0ODE5MGIzNDM4YTc1ZmVlZmRhNDUzNjdmMGFlNWQ0ZTQ5NzMyYzQxNzI1MTY1MGVjZiJ9fX0="
+            }
+          ]
+        },
+        "extra": [
+          "|"
+        ]
+      },
+      "action":{
+        "type":"run_command",
+        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie_nautilus_coral"
       },
       "width": 22
     },

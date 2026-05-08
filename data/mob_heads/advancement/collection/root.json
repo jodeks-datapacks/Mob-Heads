@@ -2916,6 +2916,19 @@
         }
       }
     },
+    "vex_charging": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/vex_charging": true
+            }
+          }
+        }
+      }
+    },
     "witch": {
       "trigger": "minecraft:tick",
       "conditions": {

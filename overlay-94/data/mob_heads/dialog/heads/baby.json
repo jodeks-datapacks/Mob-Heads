@@ -1040,6 +1040,26 @@
           "properties": [
             {
               "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQzZWFjMGMzYWQ4NzRiZjk0ODdlNThkYzQ3ODdiYzkwMzQ2MGZlNzY3OWRkNmNjZTk1OGNjYmVhNjQ2Y2JmNCJ9fX0="
+            }
+          ]
+        },
+        "extra": [
+          "|"
+        ]
+      },
+      "action":{
+        "type":"run_command",
+        "command":"function mob_heads:app/get_mob_head/baby/heads/nautilus"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
               "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjAzMDdmNWYzZTNmNTYyMzQ0NjZlZmVkNGI1Y2I4YzEwNGU4NGJlNWU4NGQ2MTBlMjRmYzJjY2NhYzIxMjcxZSJ9fX0="
             }
           ]
