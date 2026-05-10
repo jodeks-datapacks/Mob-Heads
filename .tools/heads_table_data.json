@@ -11,12 +11,16 @@
     "name": "Armadillo",
     "image": "armadillo",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Armadillo_ambient2.ogg"
   },
   {
     "name": "Armadillo Baby",
     "image": "armadillo_baby",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Armadillo_roll2.ogg"
   },
   {
@@ -24,3127 +28,4063 @@
     "image": "axolotl_blue",
     "drop_rate": "10%",
     "category": "A",
-    "sub_category": "axolotl",
+    "sub_category": "Axolotl",
     "sound": "https://minecraft.wiki/images/Axolotl_attack1.ogg"
   },
   {
     "name": "Cyan Axolotl",
     "image": "axolotl_cyan",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl",
     "sound": "https://minecraft.wiki/images/Axolotl_idle_air2.ogg"
   },
   {
     "name": "Gold Axolotl",
     "image": "axolotl_gold",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl",
     "sound": "https://minecraft.wiki/images/Axolotl_idle_air2.ogg"
   },
   {
     "name": "Lucy Axolotl",
     "image": "axolotl_lucy",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl",
     "sound": "https://minecraft.wiki/images/Axolotl_idle_air2.ogg"
   },
   {
     "name": "Wild Axolotl",
     "image": "axolotl_wild",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl",
     "sound": "https://minecraft.wiki/images/Axolotl_idle_air2.ogg"
   },
   {
     "name": "Blue Axolotl Baby",
     "image": "axolotl_blue_baby",
     "drop_rate": "10%",
+    "category": "A",
+    "sub_category": "Axolotl Baby",
     "sound": "https://minecraft.wiki/images/Axolotl_idle2.ogg"
   },
   {
     "name": "Cyan Axolotl Baby",
     "image": "axolotl_cyan_baby",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl Baby",
     "sound": "https://minecraft.wiki/images/Axolotl_idle2.ogg"
   },
   {
     "name": "Gold Axolotl Baby",
     "image": "axolotl_gold_baby",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl Baby",
     "sound": "https://minecraft.wiki/images/Axolotl_idle2.ogg"
   },
   {
     "name": "Lucy Axolotl Baby",
     "image": "axolotl_lucy_baby",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl Baby",
     "sound": "https://minecraft.wiki/images/Axolotl_idle2.ogg"
   },
   {
     "name": "Wild Axolotl Baby",
     "image": "axolotl_wild_baby",
     "drop_rate": "5%",
+    "category": "A",
+    "sub_category": "Axolotl Baby",
     "sound": "https://minecraft.wiki/images/Axolotl_idle2.ogg"
   },
   {
     "name": "Bat",
     "image": "bat",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Bat_idle1.ogg"
   },
   {
     "name": "Angry Pollen Bee",
     "image": "bee_angry_pollen",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee",
     "sound": "https://minecraft.wiki/images/Bee_loop2.ogg"
   },
   {
     "name": "Angry Bee",
     "image": "bee_angry",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee",
     "sound": "https://minecraft.wiki/images/Bee_loop2.ogg"
   },
   {
     "name": "Normal Bee",
     "image": "bee",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee",
     "sound": "https://minecraft.wiki/images/Bee_loop2.ogg"
   },
   {
     "name": "Pollen Bee",
     "image": "bee_pollen",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee",
     "sound": "https://minecraft.wiki/images/Bee_loop2.ogg"
   },
   {
     "name": "Angry Pollen Bee Baby",
     "image": "bee_angry_pollen_baby",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee Baby",
     "sound": "https://minecraft.wiki/images/Bee_sting.ogg"
   },
   {
     "name": "Angry Bee Baby",
     "image": "bee_angry_baby",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee Baby",
     "sound": "https://minecraft.wiki/images/Bee_sting.ogg"
   },
   {
     "name": "Normal Bee Baby",
     "image": "bee_baby",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee Baby",
     "sound": "https://minecraft.wiki/images/Bee_sting.ogg"
   },
   {
     "name": "Pollen Bee Baby",
     "image": "bee_pollen_baby",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "Bee Baby",
     "sound": "https://minecraft.wiki/images/Bee_sting.ogg"
   },
   {
     "name": "Blaze",
     "image": "blaze",
     "drop_rate": "3%",
+    "category": "B",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Blaze_idle1.ogg"
   },
   {
     "name": "Bogged",
     "image": "bogged",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Bogged_ambient1.ogg"
   },
   {
     "name": "Breeze",
     "image": "breeze",
     "drop_rate": "5%",
+    "category": "B",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Breeze_shoot_JE1_BE1.ogg"
   },
   {
     "name": "Camel",
     "image": "camel",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Camel_ambient2.ogg"
   },
   {
     "name": "Camel Baby",
     "image": "camel_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Camel_sit1.ogg"
   },
   {
     "name": "Camel Husk",
     "image": "camel_husk",
     "drop_rate": "7%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Camel_Husk_ambient3.ogg"
   },
   {
     "name": "All Black Cat",
     "image": "cat_all_black",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Black Cat",
     "image": "cat_black",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "British Shorthair Cat",
     "image": "cat_british_shorthair",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Calico Cat",
     "image": "cat_calico",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Jellie Cat",
     "image": "cat_jellie",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Persian Cat",
     "image": "cat_persian",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Ragdoll Cat",
     "image": "cat_ragdoll",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Red Cat",
     "image": "cat_red",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Siamese Cat",
     "image": "cat_siamese",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "Tabby Cat",
     "image": "cat_tabby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "White Cat",
     "image": "cat_white",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat",
     "sound": "https://minecraft.wiki/images/Cat_beg1.ogg"
   },
   {
     "name": "All Black Cat Baby",
     "image": "cat_all_black_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Black Cat Baby",
     "image": "cat_black_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "British Shorthair Cat Baby",
     "image": "cat_british_shorthair_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Calico Cat Baby",
     "image": "cat_calico_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Jellie Cat Baby",
     "image": "cat_jellie_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Persian Cat Baby",
     "image": "cat_persian_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Ragdoll Cat Baby",
     "image": "cat_ragdoll_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Red Cat Baby",
     "image": "cat_red_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Siamese Cat Baby",
     "image": "cat_siamese_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Tabby Cat Baby",
     "image": "cat_tabby_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "White Cat Baby",
     "image": "cat_white_baby",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "Cat Baby",
     "sound": "https://minecraft.wiki/images/Cat_purr3.ogg"
   },
   {
     "name": "Cave Spider",
     "image": "cave_spider",
     "drop_rate": "3%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Spider_step4.ogg"
   },
   {
     "name": "Cold Chicken",
     "image": "chicken_cold",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Chicken",
     "sound": "https://minecraft.wiki/images/Chicken_idle2.ogg"
   },
   {
     "name": "Temperate Chicken",
     "image": "chicken_temperate",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Chicken",
     "sound": "https://minecraft.wiki/images/Chicken_idle2.ogg"
   },
   {
     "name": "Warm Chicken",
     "image": "chicken_warm",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Chicken",
     "sound": "https://minecraft.wiki/images/Chicken_idle2.ogg"
   },
   {
     "name": "Cold Chicken Baby",
     "image": "chicken_cold_baby",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Chicken Baby",
     "sound": "https://minecraft.wiki/images/Chicken_baby_ambient2.ogg"
   },
   {
     "name": "Temperate Chicken Baby",
     "image": "chicken_temperate_baby",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Chicken Baby",
     "sound": "https://minecraft.wiki/images/Chicken_baby_ambient2.ogg"
   },
   {
     "name": "Warm Chicken Baby",
     "image": "chicken_warm_baby",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Chicken Baby",
     "sound": "https://minecraft.wiki/images/Chicken_baby_ambient2.ogg"
   },
   {
     "name": "Cod",
     "image": "cod",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
   },
   {
     "name": "Normal Copper Golem",
     "image": "copper_golem",
     "drop_rate": "3%",
+    "category": "C",
+    "sub_category": "Copper Golem",
     "sound": "https://minecraft.wiki/images/Copper_golem_regular_step1.wav"
   },
   {
     "name": "Exposed Copper Golem",
     "image": "copper_golem_exposed",
     "drop_rate": "3%",
+    "category": "C",
+    "sub_category": "Copper Golem",
     "sound": "https://minecraft.wiki/images/Copper_golem_regular_step1.wav"
   },
   {
     "name": "Weathered Copper Golem",
     "image": "copper_golem_weathered",
     "drop_rate": "3%",
+    "category": "C",
+    "sub_category": "Copper Golem",
     "sound": "https://minecraft.wiki/images/Copper_golem_weathered_step2.wav"
   },
   {
     "name": "Oxidized Copper Golem",
     "image": "copper_golem_oxidized",
     "drop_rate": "3%",
+    "category": "C",
+    "sub_category": "Copper Golem",
     "sound": "https://minecraft.wiki/images/Copper_golem_oxidized_step1.wav"
   },
   {
     "name": "Cold Cow",
     "image": "cow_cold",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Cow",
     "sound": "https://minecraft.wiki/images/Cow_idle3.ogg"
   },
   {
     "name": "Temperate Cow",
     "image": "cow_temperate",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Cow",
     "sound": "https://minecraft.wiki/images/Cow_idle3.ogg"
   },
   {
     "name": "Warm Cow",
     "image": "cow_warm",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Cow",
     "sound": "https://minecraft.wiki/images/Cow_idle3.ogg"
   },
   {
     "name": "Cold Cow Baby",
     "image": "cow_cold_baby",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Cow Baby",
     "sound": "https://minecraft.wiki/images/Cow_milk1.ogg"
   },
   {
     "name": "Temperate Cow Baby",
     "image": "cow_temperate_baby",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Cow Baby",
     "sound": "https://minecraft.wiki/images/Cow_milk1.ogg"
   },
   {
     "name": "Warm Cow Baby",
     "image": "cow_warm_baby",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "Cow Baby",
     "sound": "https://minecraft.wiki/images/Cow_milk1.ogg"
   },
   {
     "name": "Creaking",
     "image": "creaking",
     "drop_rate": "5%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Creaking_idle1.ogg"
   },
   {
     "name": "Creeper",
     "image": "creeper",
     "drop_rate": "2%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Creeper_hurt1.ogg"
   },
   {
     "name": "Charged Creeper",
     "image": "creeper_charged",
     "drop_rate": "10%",
+    "category": "C",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Creeper_hurt1.ogg"
   },
   {
     "name": "Dolphin",
     "image": "dolphin",
     "drop_rate": "5%",
+    "category": "D",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Dolphin_idle4.oggnull"
   },
   {
     "name": "Dolphin Baby",
     "image": "dolphin_baby",
     "drop_rate": "5%",
+    "category": "D",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Dolphin_water_idle1.ogg"
   },
   {
     "name": "Donkey",
     "image": "donkey",
     "drop_rate": "3%",
+    "category": "D",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Donkey_idle3.ogg"
   },
   {
     "name": "Donkey Baby",
     "image": "donkey_baby",
     "drop_rate": "3%",
+    "category": "D",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Horse_eat1.ogg"
   },
   {
     "name": "Drowned",
     "image": "drowned",
     "drop_rate": "2%",
+    "category": "D",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Drowned_idle4.ogg"
   },
   {
     "name": "Drowned Baby",
     "image": "drowned_baby",
     "drop_rate": "2%",
+    "category": "D",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Trident_throw1.ogg"
   },
   {
     "name": "Elder Guardian",
     "image": "elder_guardian",
     "drop_rate": "15%",
+    "category": "E",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Curse.ogg"
   },
   {
     "name": "Ender Dragon",
     "image": "ender_dragon",
     "drop_rate": "20%",
+    "category": "E",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Ender_dragon_idle3.ogg"
   },
   {
     "name": "Enderman",
     "image": "enderman",
     "drop_rate": "2%",
+    "category": "E",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Enderman_idle4.ogg"
   },
   {
     "name": "Endermite",
     "image": "endermite",
     "drop_rate": "5%",
+    "category": "E",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Silverfish_idle2.ogg"
   },
   {
     "name": "Evoker",
     "image": "evoker",
     "drop_rate": "5%",
+    "category": "E",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Evoker_idle4.ogg"
   },
   {
     "name": "Fox",
     "image": "fox",
     "drop_rate": "5%",
+    "category": "F",
+    "sub_category": "Fox",
     "sound": "https://minecraft.wiki/images/Fox_idle1.ogg"
   },
   {
     "name": "Snow Fox",
     "image": "fox_snow",
     "drop_rate": "5%",
+    "category": "F",
+    "sub_category": "Fox",
     "sound": "https://minecraft.wiki/images/Fox_sniff2.ogg"
   },
   {
     "name": "Fox Baby",
     "image": "fox_baby",
     "drop_rate": "5%",
+    "category": "F",
+    "sub_category": "Fox",
     "sound": "https://minecraft.wiki/images/Fox_sleep3.ogg"
   },
   {
     "name": "Snow Fox Baby",
     "image": "fox_snow_baby",
     "drop_rate": "5%",
+    "category": "F",
+    "sub_category": "Fox",
     "sound": "https://minecraft.wiki/images/Fox_sleep3.ogg"
   },
   {
     "name": "Cold Frog",
     "image": "frog_cold",
     "drop_rate": "2%",
+    "category": "F",
+    "sub_category": "Frog",
     "sound": "https://minecraft.wiki/images/Frog_idle1.ogg"
   },
   {
     "name": "Temperate Frog",
     "image": "frog_temperate",
     "drop_rate": "5%",
+    "category": "F",
+    "sub_category": "Frog",
     "sound": "https://minecraft.wiki/images/Frog_death1.ogg"
   },
   {
     "name": "Warm Frog",
     "image": "frog_warm",
     "drop_rate": "5%",
+    "category": "F",
+    "sub_category": "Frog",
     "sound": "https://minecraft.wiki/images/Frog_hurt1.ogg"
   },
   {
     "name": "Ghast",
     "image": "ghast",
     "drop_rate": "3%",
+    "category": "G",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Ghast_idle4.ogg"
   },
   {
     "name": "Glow Squid",
     "image": "glow_squid",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Glow_Squid_ambient1.ogg"
   },
   {
     "name": "Glow Squid Baby",
     "image": "glow_squid_baby",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Glow_Squid_squirt1.ogg"
   },
   {
     "name": "Goat",
     "image": "goat",
     "drop_rate": "2%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Goat Left Horn",
     "image": "goat_left_horn",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Goat No Horns",
     "image": "goat_no_horns",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Goat Right Horn",
     "image": "goat_right_horn",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Screaming Goat",
     "image": "goat_screaming",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Screaming Goat Left Horn",
     "image": "goat_screaming_left_horn",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Screaming Goat No Horns",
     "image": "goat_screaming_no_horns",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Screaming Goat Right Horn",
     "image": "goat_screaming_right_horn",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_idle1.ogg"
   },
   {
     "name": "Goat Baby",
     "image": "goat_baby",
     "drop_rate": "5%",
+    "category": "G",
+    "sub_category": "Goat",
     "sound": "https://minecraft.wiki/images/Goat_horn_break2.ogg"
   },
   {
     "name": "Guardian",
     "image": "guardian",
     "drop_rate": "3%",
+    "category": "G",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Guardian_land_idle1.ogg"
   },
   {
     "name": "Happy Ghast",
     "image": "happy_ghast",
     "drop_rate": "5%",
+    "category": "H",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Happy_Ghast_ambient4.wav"
   },
   {
     "name": "Happy Ghast Baby",
     "image": "happy_ghast_baby",
     "drop_rate": "5%",
+    "category": "H",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Ghastling_ambient5.wav"
   },
   {
     "name": "Hoglin",
     "image": "hoglin",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Hoglin_idle1.ogg"
   },
   {
     "name": "Hoglin Baby",
     "image": "hoglin_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Hoglin_converted1.ogg"
   },
   {
     "name": "Black Horse",
     "image": "horse_black",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "Brown Horse",
     "image": "horse_brown",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "Chestnut Horse",
     "image": "horse_chestnut",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "Creamy Horse",
     "image": "horse_creamy",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "Dark Brown Horse",
     "image": "horse_dark_brown",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "Gray Horse",
     "image": "horse_gray",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "White Horse",
     "image": "horse_white",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Horse_idle2.ogg"
   },
   {
     "name": "Mule",
     "image": "mule",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Donkey_idle1.ogg"
   },
   {
     "name": "Mule Baby",
     "image": "mule_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse",
     "sound": "https://minecraft.wiki/images/Donkey_hurt2.ogg"
   },
   {
     "name": "Black Horse Baby",
     "image": "horse_black_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "Brown Horse Baby",
     "image": "horse_brown_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "Chestnut Horse Baby",
     "image": "horse_chestnut_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "Creamy Horse Baby",
     "image": "horse_creamy_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "Dark Brown Horse Baby",
     "image": "horse_dark_brown_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "Gray Horse Baby",
     "image": "horse_gray_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "White Horse Baby",
     "image": "horse_white_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "Horse Baby",
     "sound": "https://minecraft.wiki/images/Horse_gallop1.ogg"
   },
   {
     "name": "Husk",
     "image": "husk",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Husk_idle1.ogg"
   },
   {
     "name": "Husk Baby",
     "image": "husk_baby",
     "drop_rate": "3%",
+    "category": "H",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Husk_convert_to_zombie1.ogg"
   },
   {
     "name": "Iron Golem",
     "image": "iron_golem",
     "drop_rate": "3%",
+    "category": "I",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Iron_golem_hurt1.ogg"
   },
   {
     "name": "Brown Llama",
     "image": "llama_brown",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama",
     "sound": "https://minecraft.wiki/images/Llama_idle1.ogg"
   },
   {
     "name": "Creamy Llama",
     "image": "llama_creamy",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama",
     "sound": "https://minecraft.wiki/images/Llama_idle1.ogg"
   },
   {
     "name": "Gray Llama",
     "image": "llama_gray",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama",
     "sound": "https://minecraft.wiki/images/Llama_idle1.ogg"
   },
   {
     "name": "White Llama",
     "image": "llama_white",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama",
     "sound": "https://minecraft.wiki/images/Llama_idle1.ogg"
   },
   {
     "name": "Brown Llama Baby",
     "image": "llama_brown_baby",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "Creamy Llama Baby",
     "image": "llama_creamy_baby",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "Gray Llama Baby",
     "image": "llama_gray_baby",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "White Llama Baby",
     "image": "llama_white_baby",
     "drop_rate": "5%",
+    "category": "L",
+    "sub_category": "Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "Magma Cube",
     "image": "magma_cube",
     "drop_rate": "5%",
+    "category": "M",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Slime_big1.ogg"
   },
   {
     "name": "Red Mooshroom",
     "image": "mooshroom_red",
     "drop_rate": "5%",
+    "category": "M",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Mooshroom_eat1.ogg"
   },
   {
     "name": "Red Mooshroom Baby",
     "image": "mooshroom_red_baby",
     "drop_rate": "5%",
+    "category": "M",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Mooshroom_milk1.ogg"
   },
   {
     "name": "Brown Mooshroom",
     "image": "mooshroom_brown",
     "drop_rate": "10%",
+    "category": "M",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Mooshroom_convert1.ogg"
   },
   {
     "name": "Brown Mooshroom Baby",
     "image": "mooshroom_brown_baby",
     "drop_rate": "10%",
+    "category": "M",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Mooshroom_milk1.ogg"
   },
   {
     "name": "Nautilus",
     "image": "nautilus",
     "drop_rate": "3%",
+    "category": "N",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Nautilus_ambient1.ogg"
   },
   {
     "name": "Nautilus Baby",
     "image": "nautilus_baby",
     "drop_rate": "3%",
+    "category": "N",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Nautilus_eat1.ogg"
   },
   {
     "name": "Ocelot",
     "image": "ocelot",
     "drop_rate": "5%",
+    "category": "O",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Ocelot_idle1.ogg"
   },
   {
     "name": "Ocelot Baby",
     "image": "ocelot_baby",
     "drop_rate": "2%",
+    "category": "O",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Cat_hurt1.ogg"
   },
   {
     "name": "Aggressive Panda",
     "image": "panda_aggressive",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_idle3.ogg"
   },
   {
     "name": "Brown Panda",
     "image": "panda_brown",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_bleat1.ogg"
   },
   {
     "name": "Lazy Panda",
     "image": "panda_lazy",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_idle3.ogg"
   },
   {
     "name": "Normal Panda",
     "image": "panda",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_bleat1.ogg"
   },
   {
     "name": "Playful Panda",
     "image": "panda_playful",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_idle3.ogg"
   },
   {
     "name": "Weak Panda",
     "image": "panda_weak",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_idle3.ogg"
   },
   {
     "name": "Worried Panda",
     "image": "panda_worried",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda",
     "sound": "https://minecraft.wiki/images/Panda_idle3.ogg"
   },
   {
     "name": "Aggressive Panda Baby",
     "image": "panda_aggressive_baby",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Brown Panda Baby",
     "image": "panda_brown_baby",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Lazy Panda Baby",
     "image": "panda_lazy_baby",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Normal Panda Baby",
     "image": "panda_baby",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Playful Panda Baby",
     "image": "panda_playful_baby",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Weak Panda Baby",
     "image": "panda_weak_baby",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Worried Panda Baby",
     "image": "panda_worried_baby",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "Panda Baby",
     "sound": "https://minecraft.wiki/images/Panda_sneeze1.ogg"
   },
   {
     "name": "Parched",
     "image": "parched",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Parched_ambient1.ogg"
   },
   {
     "name": "Blue Parrot",
     "image": "parrot_blue",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Parrot",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
   {
     "name": "Gray Parrot",
     "image": "parrot_gray",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Parrot",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
   {
     "name": "Green Parrot",
     "image": "parrot_green",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Parrot",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
   {
     "name": "Red Blue Parrot",
     "image": "parrot_red",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Parrot",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
   {
     "name": "Yellow Blue Parrot",
     "image": "parrot_cyan",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "Parrot",
     "sound": "https://minecraft.wiki/images/Parrot_idle6.ogg"
   },
   {
     "name": "Phantom",
     "image": "phantom",
     "drop_rate": "3%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Phantom_idle4.ogg"
   },
   {
     "name": "Cold Pig",
     "image": "pig_cold",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "Pig",
     "sound": "https://minecraft.wiki/images/Pig_idle1.ogg"
   },
   {
     "name": "Temperate Pig",
     "image": "pig_temperate",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "Pig",
     "sound": "https://minecraft.wiki/images/Pig_idle1.ogg"
   },
   {
     "name": "Warm Pig",
     "image": "pig_warm",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "Pig",
     "sound": "https://minecraft.wiki/images/Pig_idle1.ogg"
   },
   {
     "name": "Cold Pig Baby",
     "image": "pig_cold_baby",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "Pig Baby",
     "sound": "https://minecraft.wiki/images/Pig_baby_ambient4.ogg"
   },
   {
     "name": "Temperate Pig Baby",
     "image": "pig_temperate_baby",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "Pig Baby",
     "sound": "https://minecraft.wiki/images/Pig_baby_ambient4.ogg"
   },
   {
     "name": "Warm Pig Baby",
     "image": "pig_warm_baby",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "Pig Baby",
     "sound": "https://minecraft.wiki/images/Pig_baby_ambient4.ogg"
   },
   {
     "name": "Piglin Brute",
     "image": "piglin_brute",
     "drop_rate": "10%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Piglin_brute_idle1.ogg"
   },
   {
     "name": "Piglin",
     "image": "piglin",
     "drop_rate": "3%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Piglin_idle1.ogg"
   },
   {
     "name": "Piglin Baby",
     "image": "piglin_baby",
     "drop_rate": "3%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Piglin_retreat1.ogg"
   },
   {
     "name": "Pillager",
     "image": "pillager",
     "drop_rate": "2%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Pillager_idle1.ogg"
   },
   {
     "name": "Polar Bear",
     "image": "polar_bear",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Polar_bear_idle4.ogg"
   },
   {
     "name": "Polar Bear Baby",
     "image": "polar_bear_baby",
     "drop_rate": "5%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Baby_polar_bear_idle3.ogg"
   },
   {
     "name": "Pufferfish",
     "image": "pufferfish",
     "drop_rate": "3%",
+    "category": "P",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Pufferfish_blow_up1.ogg"
   },
   {
     "name": "Black Rabbit",
     "image": "rabbit_black",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "Brown Rabbit",
     "image": "rabbit_brown",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "Evil Rabbit",
     "image": "rabbit_evil",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_attack3.ogg"
   },
   {
     "name": "Gold Rabbit",
     "image": "rabbit_gold",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "Salt Rabbit",
     "image": "rabbit_salt",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "Toast Rabbit",
     "image": "rabbit_toast",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "White Splotched Rabbit",
     "image": "rabbit_white_splotched",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "White Rabbit",
     "image": "rabbit_white",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit",
     "sound": "https://minecraft.wiki/images/Rabbit_idle1.ogg"
   },
   {
     "name": "Black Rabbit Baby",
     "image": "rabbit_black_baby",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit Baby",
     "sound": "https://minecraft.wiki/images/Rabbit_hurt1.ogg"
   },
   {
     "name": "Brown Rabbit Baby",
     "image": "rabbit_brown_baby",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit Baby",
     "sound": "https://minecraft.wiki/images/Rabbit_hurt1.ogg"
   },
   {
     "name": "Gold Rabbit Baby",
     "image": "rabbit_gold_baby",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit Baby",
     "sound": "https://minecraft.wiki/images/Rabbit_hurt1.ogg"
   },
   {
     "name": "Salt Rabbit Baby",
     "image": "rabbit_salt_baby",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit Baby",
     "sound": "https://minecraft.wiki/images/Rabbit_hurt1.ogg"
   },
   {
     "name": "White Splotched Rabbit Baby",
     "image": "rabbit_white_splotched_baby",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit Baby",
     "sound": "https://minecraft.wiki/images/Rabbit_hurt1.ogg"
   },
   {
     "name": "White Rabbit Baby",
     "image": "rabbit_white_baby",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "Rabbit Baby",
     "sound": "https://minecraft.wiki/images/Rabbit_hurt1.ogg"
   },
   {
     "name": "Ravager",
     "image": "ravager",
     "drop_rate": "5%",
+    "category": "R",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Ravager_idle1.ogg"
   },
   {
     "name": "Salmon",
     "image": "salmon",
     "drop_rate": "3%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Fish_flop1.ogg"
   },
   {
     "name": "Black Sheep",
     "image": "sheep_black",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Blue Sheep",
     "image": "sheep_blue",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Brown Sheep",
     "image": "sheep_brown",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Cyan Sheep",
     "image": "sheep_cyan",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Gray Sheep",
     "image": "sheep_gray",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Green Sheep",
     "image": "sheep_green",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Light Blue Sheep",
     "image": "sheep_light_blue",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Light Gray Sheep",
     "image": "sheep_light_gray",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Lime Sheep",
     "image": "sheep_lime",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Magenta Sheep",
     "image": "sheep_magenta",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Orange Sheep",
     "image": "sheep_orange",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Pink Sheep",
     "image": "sheep_pink",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Purple Sheep",
     "image": "sheep_purple",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Red Sheep",
     "image": "sheep_red",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "White Sheep",
     "image": "sheep_white",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Yellow Sheep",
     "image": "sheep_yellow",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Black Sheep Baby",
     "image": "sheep_black_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Blue Sheep Baby",
     "image": "sheep_blue_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Brown Sheep Baby",
     "image": "sheep_brown_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Cyan Sheep Baby",
     "image": "sheep_cyan_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Gray Sheep Baby",
     "image": "sheep_gray_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Green Sheep Baby",
     "image": "sheep_green_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Light Blue Sheep Baby",
     "image": "sheep_light_blue_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Light Gray Sheep Baby",
     "image": "sheep_light_gray_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Lime Sheep Baby",
     "image": "sheep_lime_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Magenta Sheep Baby",
     "image": "sheep_magenta_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Orange Sheep Baby",
     "image": "sheep_orange_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Pink Sheep Baby",
     "image": "sheep_pink_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Purple Sheep Baby",
     "image": "sheep_purple_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Red Sheep Baby",
     "image": "sheep_red_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "White Sheep Baby",
     "image": "sheep_white_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "Yellow Sheep Baby",
     "image": "sheep_yellow_baby",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep Baby",
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
     "name": "_jeb Sheep",
     "image": "sheep_jeb",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "Sheep",
     "sound": "https://minecraft.wiki/images/Sheep1.ogg"
   },
   {
     "name": "Shulker",
     "image": "shulker",
     "drop_rate": "5%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Shulker_idle4.ogg"
   },
   {
     "name": "Silverfish",
     "image": "silverfish",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Silverfish_idle2.ogg"
   },
   {
     "name": "Skeleton Horse",
     "image": "skeleton_horse",
     "drop_rate": "5%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Skeleton_horse_idle3.ogg"
   },
   {
     "name": "Skeleton",
     "image": "skeleton",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Skeleton_idle1.ogg"
   },
   {
     "name": "Slime",
     "image": "slime",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Slime_big1.ogg"
   },
   {
     "name": "Sniffer",
     "image": "sniffer",
     "drop_rate": "5%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Sniffer_happy3.ogg"
   },
   {
     "name": "Sniffer Baby",
     "image": "sniffer_baby",
     "drop_rate": "5%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Sniffer_sniffing1.ogg"
   },
   {
     "name": "Snow Golem",
     "image": "snow_golem",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "",
+    "sound": "https://minecraft.wiki/images/Snow_golem_hurt1.ogg"
+  },
+  {
+    "name": "Snow Golem Pumpkin",
+    "image": "snow_golem_pumpkin",
+    "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Snow_golem_hurt1.ogg"
   },
   {
     "name": "Spider",
     "image": "spider",
     "drop_rate": "2%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Spider_idle1.ogg"
   },
   {
     "name": "Squid",
     "image": "squid",
     "drop_rate": "3%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Squid_idle2.ogg"
   },
   {
     "name": "Squid Baby",
     "image": "squid_baby",
     "drop_rate": "3%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Squid_shoot1.ogg"
   },
   {
     "name": "Stray",
     "image": "stray",
     "drop_rate": "3%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Stray_idle3.ogg"
   },
   {
     "name": "Strider",
     "image": "strider",
     "drop_rate": "5%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Strider_idle2.ogg"
   },
   {
     "name": "Strider Baby",
     "image": "strider_baby",
     "drop_rate": "5%",
+    "category": "S",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Strider_happy2.ogg"
   },
   {
     "name": "Tadpole",
     "image": "tadpole",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
   },
   {
     "name": "Brown Trader Llama",
     "image": "trader_llama_brown",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "Creamy Trader Llama",
     "image": "trader_llama_creamy",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "Gray Trader Llama",
     "image": "trader_llama_gray",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "White Trader Llama",
     "image": "trader_llama_white",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama",
     "sound": "https://minecraft.wiki/images/Llama_spit1.ogg"
   },
   {
     "name": "Brown Trader Llama Baby",
     "image": "trader_llama_brown_baby",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_swag.ogg"
   },
   {
     "name": "Creamy Trader Llama Baby",
     "image": "trader_llama_creamy_baby",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_swag.ogg"
   },
   {
     "name": "Gray Trader Llama Baby",
     "image": "trader_llama_gray_baby",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_swag.ogg"
   },
   {
     "name": "White Trader Llama Baby",
     "image": "trader_llama_white_baby",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "Trader Llama Baby",
     "sound": "https://minecraft.wiki/images/Llama_swag.ogg"
-  },
-  {
-    "name": "Blue Dory",
-    "image": "tropical_fish_blue_dory",
-    "drop_rate": "2%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Cichlid",
-    "image": "tropical_fish_cichlid",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Clownfish",
-    "image": "tropical_fish_clownfish",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Cotton Candy Betta",
-    "image": "tropical_fish_candy_betta",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Goatfish",
-    "image": "tropical_fish_goatfish",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Parrotfish",
-    "image": "tropical_fish_parrotfish",
-    "drop_rate": "3%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Queen Angelfish",
-    "image": "tropical_fish_queen_angelfish",
-    "drop_rate": "3%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Red Lipped Blenny",
-    "image": "tropical_fish_red_lipped_blenny",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Red Snapper",
-    "image": "tropical_fish_red_snapper",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Tomate Clownfish",
-    "image": "tropical_fish_tomate_clownfish",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Triggerfish",
-    "image": "tropical_fish_triggerfish",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "White Gray Dasher",
-    "image": "tropical_fish_white_gray_dasher",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
-  },
-  {
-    "name": "Yellowtail",
-    "image": "tropical_fish_yellowtail",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Fish_flop3.ogg"
   },
   {
     "name": "Turtle",
     "image": "turtle",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Turtle_swim1.ogg"
   },
   {
     "name": "Turtle Baby",
     "image": "turtle_baby",
     "drop_rate": "5%",
+    "category": "T",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Turtle_egg_hatch3.ogg"
   },
   {
     "name": "Vex",
     "image": "vex",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Vex",
     "sound": "https://minecraft.wiki/images/Vex_idle3.ogg"
   },
   {
     "name": "Charging Vex",
     "image": "vex_charging",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Vex",
     "sound": "https://minecraft.wiki/w/File:Vex_charge1.ogg"
   },
   {
     "name": "Vindicator",
     "image": "vindicator",
     "drop_rate": "3%",
+    "category": "V",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Vindicator_idle1.ogg"
   },
   {
     "name": "Johnny",
     "image": "vindicator_johnny",
     "drop_rate": "3%",
+    "category": "V",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/w/File:Vindicator_celebrate2.ogg"
   },
   {
     "name": "Armorer Desert Villager",
     "image": "villager_desert_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Desert Villager",
     "image": "villager_desert_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Desert Villager",
     "image": "villager_desert_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Desert Villager",
     "image": "villager_desert_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Desert Villager",
     "image": "villager_desert_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Desert Villager",
     "image": "villager_desert_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Desert Villager",
     "image": "villager_desert_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Desert Villager",
     "image": "villager_desert_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Desert Villager",
     "image": "villager_desert_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Desert Villager",
     "image": "villager_desert_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Desert Villager",
     "image": "villager_desert_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Desert Villager",
     "image": "villager_desert_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Desert Villager",
     "image": "villager_desert_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Desert Villager",
     "image": "villager_desert",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Desert Villager",
     "image": "villager_desert_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Armorer Jungle Villager",
     "image": "villager_jungle_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Jungle Villager",
     "image": "villager_jungle_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Jungle Villager",
     "image": "villager_jungle_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Jungle Villager",
     "image": "villager_jungle_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Jungle Villager",
     "image": "villager_jungle_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Jungle Villager",
     "image": "villager_jungle_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Jungle Villager",
     "image": "villager_jungle_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Jungle Villager",
     "image": "villager_jungle_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Jungle Villager",
     "image": "villager_jungle_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Jungle Villager",
     "image": "villager_jungle_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Jungle Villager",
     "image": "villager_jungle_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Jungle Villager",
     "image": "villager_jungle_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Jungle Villager",
     "image": "villager_jungle_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Jungle Villager",
     "image": "villager_jungle",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Jungle Villager",
     "image": "villager_jungle_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Armorer Plains Villager",
     "image": "villager_plains_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Plains Villager",
     "image": "villager_plains_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Plains Villager",
     "image": "villager_plains_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Plains Villager",
     "image": "villager_plains_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Plains Villager",
     "image": "villager_plains_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Plains Villager",
     "image": "villager_plains_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Plains Villager",
     "image": "villager_plains_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Plains Villager",
     "image": "villager_plains_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Plains Villager",
     "image": "villager_plains_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Plains Villager",
     "image": "villager_plains_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Plains Villager",
     "image": "villager_plains_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Plains Villager",
     "image": "villager_plains_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Plains Villager",
     "image": "villager_plains_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Plains Villager",
     "image": "villager_plains",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Plains Villager",
     "image": "villager_plains_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Armorer Savanna Villager",
     "image": "villager_savanna_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Savanna Villager",
     "image": "villager_savanna_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Savanna Villager",
     "image": "villager_savanna_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Savanna Villager",
     "image": "villager_savanna_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Savanna Villager",
     "image": "villager_savanna_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Savanna Villager",
     "image": "villager_savanna_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Savanna Villager",
     "image": "villager_savanna_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Savanna Villager",
     "image": "villager_savanna_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Savanna Villager",
     "image": "villager_savanna_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Savanna Villager",
     "image": "villager_savanna_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Savanna Villager",
     "image": "villager_savanna_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Savanna Villager",
     "image": "villager_savanna_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Savanna Villager",
     "image": "villager_savanna_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Savanna Villager",
     "image": "villager_savanna",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Savanna Villager",
     "image": "villager_savanna_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Armorer Snow Villager",
     "image": "villager_snow_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Snow Villager",
     "image": "villager_snow_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Snow Villager",
     "image": "villager_snow_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Snow Villager",
     "image": "villager_snow_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Snow Villager",
     "image": "villager_snow_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Snow Villager",
     "image": "villager_snow_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Snow Villager",
     "image": "villager_snow_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Snow Villager",
     "image": "villager_snow_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Snow Villager",
     "image": "villager_snow_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Snow Villager",
     "image": "villager_snow_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Snow Villager",
     "image": "villager_snow_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Snow Villager",
     "image": "villager_snow_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Snow Villager",
     "image": "villager_snow_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Snow Villager",
     "image": "villager_snow",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Snow Villager",
     "image": "villager_snow_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Armorer Swamp Villager",
     "image": "villager_swamp_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Swamp Villager",
     "image": "villager_swamp_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Swamp Villager",
     "image": "villager_swamp_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Swamp Villager",
     "image": "villager_swamp_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Swamp Villager",
     "image": "villager_swamp_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Swamp Villager",
     "image": "villager_swamp_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Swamp Villager",
     "image": "villager_swamp_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Swamp Villager",
     "image": "villager_swamp_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Swamp Villager",
     "image": "villager_swamp_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Swamp Villager",
     "image": "villager_swamp_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Swamp Villager",
     "image": "villager_swamp_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Swamp Villager",
     "image": "villager_swamp_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Swamp Villager",
     "image": "villager_swamp_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Swamp Villager",
     "image": "villager_swamp",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Swamp Villager",
     "image": "villager_swamp_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Armorer Taiga Villager",
     "image": "villager_taiga_armorer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Butcher Taiga Villager",
     "image": "villager_taiga_butcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cartographer Taiga Villager",
     "image": "villager_taiga_cartographer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Cleric Taiga Villager",
     "image": "villager_taiga_cleric",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Farmer Taiga Villager",
     "image": "villager_taiga_farmer",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fisherman Taiga Villager",
     "image": "villager_taiga_fisherman",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Fletcher Taiga Villager",
     "image": "villager_taiga_fletcher",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Taiga Villager",
     "image": "villager_taiga_leatherworker",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Librarian Taiga Villager",
     "image": "villager_taiga_librarian",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Mason Taiga Villager",
     "image": "villager_taiga_mason",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Nitwit Taiga Villager",
     "image": "villager_taiga_nitwit",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Shepherd Taiga Villager",
     "image": "villager_taiga_shepherd",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Taiga Villager",
     "image": "villager_taiga_toolsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Normal Taiga Villager",
     "image": "villager_taiga",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Taiga Villager",
     "image": "villager_taiga_weaponsmith",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager",
     "sound": "https://minecraft.wiki/images/Villager_idle2.ogg"
   },
   {
     "name": "Desert Villager Baby",
     "image": "villager_desert_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_deny1.ogg"
   },
   {
     "name": "Jungle Villager Baby",
     "image": "villager_jungle_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_deny1.ogg"
   },
   {
     "name": "Plains Villager Baby",
     "image": "villager_plains_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_deny1.ogg"
   },
   {
     "name": "Savanna Villager Baby",
     "image": "villager_savanna_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_accept2.ogg"
   },
   {
     "name": "Snow Villager Baby",
     "image": "villager_snow_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_accept2.ogg"
   },
   {
     "name": "Swamp Villager Baby",
     "image": "villager_swamp_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_accept2.ogg"
   },
   {
     "name": "Taiga Villager Baby",
     "image": "villager_taiga_baby",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "Villager Baby",
     "sound": "https://minecraft.wiki/images/Villager_accept2.ogg"
-  },
-  {
-    "name": "Vindicator",
-    "image": "vindicator",
-    "drop_rate": "5%",
-    "sound": "https://minecraft.wiki/images/Vindicator_idle1.ogg"
   },
   {
     "name": "Wandering Trader",
     "image": "wandering_trader",
     "drop_rate": "5%",
+    "category": "V",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Wandering_trader_idle3.ogg"
   },
   {
     "name": "Warden",
     "image": "warden",
     "drop_rate": "15%",
+    "category": "W",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Warden_ambient1.ogg"
   },
   {
     "name": "Witch",
     "image": "witch",
     "drop_rate": "2%",
+    "category": "W",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Witch_idle4.ogg"
   },
   {
     "name": "Wither",
     "image": "wither",
     "drop_rate": "20%",
+    "category": "W",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Wither_idle1.ogg"
   },
   {
     "name": "Wither Special",
     "image": "wither_invulnerable",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Wither_spawn.ogg"
   },
   {
     "name": "Wither Skeleton",
     "image": "wither_skeleton",
     "drop_rate": "2.5%",
+    "category": "W",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Wither_skeleton_idle1.ogg"
   },
   {
     "name": "Ashen Wolf",
     "image": "wolf_ashen",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Black Wolf",
     "image": "wolf_black",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Chestnut Wolf",
     "image": "wolf_chestnut",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Pale Wolf",
     "image": "wolf_pale",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Rusty Wolf",
     "image": "wolf_rusty",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Snowy Wolf",
     "image": "wolf_snowy",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Spotted Wolf",
     "image": "wolf_spotted",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Striped Wolf",
     "image": "wolf_striped",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Woods Wolf",
     "image": "wolf_woods",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf",
     "sound": "https://minecraft.wiki/images/Wolf_idle1.ogg"
   },
   {
     "name": "Ashen Wolf Baby",
     "image": "wolf_ashen_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Black Wolf Baby",
     "image": "wolf_black_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Chestnut Wolf Baby",
     "image": "wolf_chestnut_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Pale Wolf Baby",
     "image": "wolf_pale_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Rusty Wolf Baby",
     "image": "wolf_rusty_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Snowy Wolf Baby",
     "image": "wolf_snowy_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Spotted Wolf Baby",
     "image": "wolf_spotted_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Striped Wolf Baby",
     "image": "wolf_striped_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Woods Wolf Baby",
     "image": "wolf_woods_baby",
     "drop_rate": "5%",
+    "category": "W",
+    "sub_category": "Wolf Baby",
     "sound": "https://minecraft.wiki/images/Wolf_baby_ambient7.ogg"
   },
   {
     "name": "Zoglin",
     "image": "zoglin",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zoglin_idle3.ogg"
   },
   {
     "name": "Zoglin Baby",
     "image": "zoglin_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Hoglin_converted1.ogg"
   },
   {
     "name": "Zombie Horse",
     "image": "zombie_horse",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zombie_horse_idle1.ogg"
   },
   {
     "name": "Armorer Desert Zombie Villager",
     "image": "zombie_villager_desert_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Desert Zombie Villager",
     "image": "zombie_villager_desert_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cartographer Desert Zombie Villager",
     "image": "zombie_villager_desert_cartographer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Desert Zombie Villager",
     "image": "zombie_villager_desert_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Desert Zombie Villager",
     "image": "zombie_villager_desert_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Desert Zombie Villager",
     "image": "zombie_villager_desert_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Desert Zombie Villager",
     "image": "zombie_villager_desert_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Desert Zombie Villager",
     "image": "zombie_villager_desert_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Desert Zombie Villager",
     "image": "zombie_villager_desert_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Desert Zombie Villager",
     "image": "zombie_villager_desert_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Desert Zombie Villager",
     "image": "zombie_villager_desert_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Desert Zombie Villager",
     "image": "zombie_villager_desert_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Desert Zombie Villager",
     "image": "zombie_villager_desert_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Desert Zombie Villager",
     "image": "zombie_villager_desert",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Desert Zombie Villager",
     "image": "zombie_villager_desert_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Armorer Jungle Zombie Villager",
     "image": "zombie_villager_jungle_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Jungle Zombie Villager",
     "image": "zombie_villager_jungle_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cartographer Jungle Zombie Villager",
     "image": "zombie_villager_jungle_cartographer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Jungle Zombie Villager",
     "image": "zombie_villager_jungle_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Jungle Zombie Villager",
     "image": "zombie_villager_jungle_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Jungle Zombie Villager",
     "image": "zombie_villager_jungle_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Jungle Zombie Villager",
     "image": "zombie_villager_jungle_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Jungle Zombie Villager",
     "image": "zombie_villager_jungle_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Jungle Zombie Villager",
     "image": "zombie_villager_jungle_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Jungle Zombie Villager",
     "image": "zombie_villager_jungle_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Jungle Zombie Villager",
     "image": "zombie_villager_jungle_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Jungle Zombie Villager",
     "image": "zombie_villager_jungle_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Jungle Zombie Villager",
     "image": "zombie_villager_jungle_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Jungle Zombie Villager",
     "image": "zombie_villager_jungle",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Jungle Zombie Villager",
     "image": "zombie_villager_jungle_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Armorer Plains Zombie Villager",
     "image": "zombie_villager_plains_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Plains Zombie Villager",
     "image": "zombie_villager_plains_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cartographer Plains Zombie Villager",
     "image": "zombie_villager_plains_cartographer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Plains Zombie Villager",
     "image": "zombie_villager_plains_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Plains Zombie Villager",
     "image": "zombie_villager_plains_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Plains Zombie Villager",
     "image": "zombie_villager_plains_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Plains Zombie Villager",
     "image": "zombie_villager_plains_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Plains Zombie Villager",
     "image": "zombie_villager_plains_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Plains Zombie Villager",
     "image": "zombie_villager_plains_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Plains Zombie Villager",
     "image": "zombie_villager_plains_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Plains Zombie Villager",
     "image": "zombie_villager_plains_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Plains Zombie Villager",
     "image": "zombie_villager_plains_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Plains Zombie Villager",
     "image": "zombie_villager_plains_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Plains Zombie Villager",
     "image": "zombie_villager_plains",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Plains Zombie Villager",
     "image": "zombie_villager_plains_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Armorer Savanna Zombie Villager",
     "image": "zombie_villager_savanna_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Savanna Zombie Villager",
     "image": "zombie_villager_savanna_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cartographer Savanna Zombie Villager",
     "image": "zombie_villager_savanna_cartographer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Savanna Zombie Villager",
     "image": "zombie_villager_savanna_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Savanna Zombie Villager",
     "image": "zombie_villager_savanna_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Savanna Zombie Villager",
     "image": "zombie_villager_savanna_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Savanna Zombie Villager",
     "image": "zombie_villager_savanna_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Savanna Zombie Villager",
     "image": "zombie_villager_savanna_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Savanna Zombie Villager",
     "image": "zombie_villager_savanna_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Savanna Zombie Villager",
     "image": "zombie_villager_savanna_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Savanna Zombie Villager",
     "image": "zombie_villager_savanna_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Savanna Zombie Villager",
     "image": "zombie_villager_savanna_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Savanna Zombie Villager",
     "image": "zombie_villager_savanna_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Savanna Zombie Villager",
     "image": "zombie_villager_savanna",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Savanna Zombie Villager",
     "image": "zombie_villager_savanna_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Armorer Snow Zombie Villager",
     "image": "zombie_villager_snow_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Snow Zombie Villager",
     "image": "zombie_villager_snow_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cartographer Snow Zombie Villager",
     "image": "zombie_villager_snow_cartographer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Snow Zombie Villager",
     "image": "zombie_villager_snow_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Snow Zombie Villager",
     "image": "zombie_villager_snow_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Snow Zombie Villager",
     "image": "zombie_villager_snow_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Snow Zombie Villager",
     "image": "zombie_villager_snow_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Snow Zombie Villager",
     "image": "zombie_villager_snow_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Snow Zombie Villager",
     "image": "zombie_villager_snow_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Snow Zombie Villager",
     "image": "zombie_villager_snow_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Snow Zombie Villager",
     "image": "zombie_villager_snow_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Snow Zombie Villager",
     "image": "zombie_villager_snow_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Snow Zombie Villager",
     "image": "zombie_villager_snow_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Snow Zombie Villager",
     "image": "zombie_villager_snow",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Snow Zombie Villager",
     "image": "zombie_villager_snow_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Armorer Swamp Zombie Villager",
     "image": "zombie_villager_swamp_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Swamp Zombie Villager",
     "image": "zombie_villager_swamp_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Swamp Zombie Villager",
     "image": "zombie_villager_swamp_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Swamp Zombie Villager",
     "image": "zombie_villager_swamp_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Swamp Zombie Villager",
     "image": "zombie_villager_swamp_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Swamp Zombie Villager",
     "image": "zombie_villager_swamp_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Swamp Zombie Villager",
     "image": "zombie_villager_swamp_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Swamp Zombie Villager",
     "image": "zombie_villager_swamp_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Swamp Zombie Villager",
     "image": "zombie_villager_swamp_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Swamp Zombie Villager",
     "image": "zombie_villager_swamp_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Swamp Zombie Villager",
     "image": "zombie_villager_swamp_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Swamp Zombie Villager",
     "image": "zombie_villager_swamp_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Swamp Zombie Villager",
     "image": "zombie_villager_swamp",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Swamp Zombie Villager",
     "image": "zombie_villager_swamp_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Armorer Taiga Zombie Villager",
     "image": "zombie_villager_taiga_armorer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Butcher Taiga Zombie Villager",
     "image": "zombie_villager_taiga_butcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cartographer Taiga Zombie Villager",
     "image": "zombie_villager_taiga_cartographer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Cleric Taiga Zombie Villager",
     "image": "zombie_villager_taiga_cleric",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Farmer Taiga Zombie Villager",
     "image": "zombie_villager_taiga_farmer",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fisherman Taiga Zombie Villager",
     "image": "zombie_villager_taiga_fisherman",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Fletcher Taiga Zombie Villager",
     "image": "zombie_villager_taiga_fletcher",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Leatherworker Taiga Zombie Villager",
     "image": "zombie_villager_taiga_leatherworker",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Librarian Taiga Zombie Villager",
     "image": "zombie_villager_taiga_librarian",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Mason Taiga Zombie Villager",
     "image": "zombie_villager_taiga_mason",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Nitwit Taiga Zombie Villager",
     "image": "zombie_villager_taiga_nitwit",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Shepherd Taiga Zombie Villager",
     "image": "zombie_villager_taiga_shepherd",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Toolsmith Taiga Zombie Villager",
     "image": "zombie_villager_taiga_toolsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Normal Taiga Zombie Villager",
     "image": "zombie_villager_taiga",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Weaponsmith Taiga Zombie Villager",
     "image": "zombie_villager_taiga_weaponsmith",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager",
     "sound": "https://minecraft.wiki/images/Zombie_villager_idle2.ogg"
   },
   {
     "name": "Desert Zombie Villager Baby",
     "image": "zombie_villager_desert_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Jungle Zombie Villager Baby",
     "image": "zombie_villager_jungle_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Plains Zombie Villager Baby",
     "image": "zombie_villager_plains_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Savanna Zombie Villager Baby",
     "image": "zombie_villager_savanna_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Snow Zombie Villager Baby",
     "image": "zombie_villager_snow_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Swamp Zombie Villager Baby",
     "image": "zombie_villager_swamp_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Taiga Zombie Villager Baby",
     "image": "zombie_villager_taiga_baby",
     "drop_rate": "5%",
+    "category": "Z",
+    "sub_category": "Zombie Villager Baby",
     "sound": "https://minecraft.wiki/images/Zombie_infect.ogg"
   },
   {
     "name": "Zombie",
     "image": "zombie",
     "drop_rate": "2%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zombie_idle1.ogg"
   },
   {
     "name": "Zombie Baby",
     "image": "zombie_baby",
     "drop_rate": "2%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zombie_hurt1.ogg"
   },
   {
     "name": "Zombie Nautilus",
     "image": "nautilus_zombie",
     "drop_rate": "2%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zombie_Nautilus_ambient2.ogg"
   },
   {
     "name": "Zombie Nautilus Coral",
     "image": "nautilus_zombie",
     "drop_rate": "2%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Nautilus_dash2.ogg"
   },
   {
     "name": "Zombified Piglin",
     "image": "zombified_piglin",
     "drop_rate": "2%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zombie_pigman_idle1.ogg"
   },
   {
     "name": "Zombified Piglin Baby",
     "image": "zombified_piglin_baby",
     "drop_rate": "2%",
+    "category": "Z",
+    "sub_category": "",
     "sound": "https://minecraft.wiki/images/Zombie_pigman_hurt1.ogg"
   }
 ]

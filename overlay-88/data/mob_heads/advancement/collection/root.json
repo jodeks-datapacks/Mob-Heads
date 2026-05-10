@@ -17,6 +17,19 @@
     "frame": "challenge"
   },
   "criteria": {
+    "snow_golem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/golem/snow_golem_pumpkin": true
+            }
+          }
+        }
+      }
+    },
     "_jeb": {
       "trigger": "minecraft:tick",
       "conditions": {

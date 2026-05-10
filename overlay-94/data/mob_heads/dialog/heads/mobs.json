@@ -1,6 +1,6 @@
 {
-  "type":"minecraft:multi_action",
-  "title":"Get Mob Head",
+  "type": "minecraft:multi_action",
+  "title": "Get Mob Head",
   "body": {
     "type": "minecraft:plain_message",
     "contents": [
@@ -13,7 +13,7 @@
   "pause": false,
   "columns": 15,
   "after_action": "none",
-  "actions":[
+  "actions": [
     {
       "label": {
         "player": {
@@ -24,13 +24,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/allay"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/allay"
       },
       "width": 22
     },
@@ -44,13 +42,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/armadillo"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/armadillo"
       },
       "width": 22
     },
@@ -64,13 +60,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/axolotl/blue"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/axolotl/blue"
       },
       "width": 22
     },
@@ -84,13 +78,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/axolotl/cyan"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/axolotl/cyan"
       },
       "width": 22
     },
@@ -104,13 +96,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/axolotl/gold"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/axolotl/gold"
       },
       "width": 22
     },
@@ -124,13 +114,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/axolotl/wild"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/axolotl/wild"
       },
       "width": 22
     },
@@ -144,13 +132,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/axolotl/leucistic"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/axolotl/leucistic"
       },
       "width": 22
     },
@@ -164,13 +150,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/bat"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/bat"
       },
       "width": 22
     },
@@ -184,13 +168,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/bee/normal"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/bee/normal"
       },
       "width": 22
     },
@@ -204,13 +186,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/bee/pollen"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/bee/pollen"
       },
       "width": 22
     },
@@ -224,13 +204,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/bee/angry"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/bee/angry"
       },
       "width": 22
     },
@@ -244,13 +222,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/bee/angry_pollen"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/bee/angry_pollen"
       },
       "width": 22
     },
@@ -264,13 +240,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/blaze"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/blaze"
       },
       "width": 22
     },
@@ -284,13 +258,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/bogged"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/bogged"
       },
       "width": 22
     },
@@ -304,13 +276,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/breeze"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/breeze"
       },
       "width": 22
     },
@@ -324,13 +294,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/camel"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/camel"
       },
       "width": 22
     },
@@ -344,13 +312,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/camel_husk"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/camel_husk"
       },
       "width": 22
     },
@@ -364,13 +330,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/tabby"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/tabby"
       },
       "width": 22
     },
@@ -384,13 +348,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/siamese"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/siamese"
       },
       "width": 22
     },
@@ -404,13 +366,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/red"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/red"
       },
       "width": 22
     },
@@ -424,13 +384,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/ragdoll"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/ragdoll"
       },
       "width": 22
     },
@@ -444,13 +402,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/persian"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/persian"
       },
       "width": 22
     },
@@ -464,13 +420,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/jellie"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/jellie"
       },
       "width": 22
     },
@@ -484,13 +438,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/calico"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/calico"
       },
       "width": 22
     },
@@ -504,13 +456,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/white"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/white"
       },
       "width": 22
     },
@@ -524,13 +474,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/tuxedo"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/tuxedo"
       },
       "width": 22
     },
@@ -544,13 +492,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/british_shorthair"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/british_shorthair"
       },
       "width": 22
     },
@@ -564,13 +510,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cat/black"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cat/black"
       },
       "width": 22
     },
@@ -584,13 +528,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cave_spider"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cave_spider"
       },
       "width": 22
     },
@@ -604,13 +546,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/chicken/warm"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/chicken/warm"
       },
       "width": 22
     },
@@ -624,13 +564,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/chicken/temperate"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/chicken/temperate"
       },
       "width": 22
     },
@@ -644,13 +582,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/chicken/cold"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/chicken/cold"
       },
       "width": 22
     },
@@ -664,13 +600,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/copper_golem/normal"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/copper_golem/normal"
       },
       "width": 22
     },
@@ -684,13 +618,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/copper_golem/exposed"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/copper_golem/exposed"
       },
       "width": 22
     },
@@ -704,13 +636,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/copper_golem/weathered"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/copper_golem/weathered"
       },
       "width": 22
     },
@@ -724,13 +654,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/copper_golem/oxidized"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/copper_golem/oxidized"
       },
       "width": 22
     },
@@ -744,13 +672,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cod"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cod"
       },
       "width": 22
     },
@@ -764,13 +690,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cow/cold"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cow/cold"
       },
       "width": 22
     },
@@ -784,13 +708,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cow/temperate"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cow/temperate"
       },
       "width": 22
     },
@@ -804,13 +726,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/cow/warm"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/cow/warm"
       },
       "width": 22
     },
@@ -824,13 +744,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/creaking"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/creaking"
       },
       "width": 22
     },
@@ -844,13 +762,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/charged_creeper"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/charged_creeper"
       },
       "width": 22
     },
@@ -864,13 +780,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/creeper"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/creeper"
       },
       "width": 22
     },
@@ -884,13 +798,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/dolphin"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/dolphin"
       },
       "width": 22
     },
@@ -904,13 +816,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/donkey"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/donkey"
       },
       "width": 22
     },
@@ -924,13 +834,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/drowned"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/drowned"
       },
       "width": 22
     },
@@ -944,13 +852,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/elder_guardian"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/elder_guardian"
       },
       "width": 22
     },
@@ -964,13 +870,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/ender_dragon"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/ender_dragon"
       },
       "width": 22
     },
@@ -984,13 +888,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/enderman"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/enderman"
       },
       "width": 22
     },
@@ -1004,13 +906,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/endermite"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/endermite"
       },
       "width": 22
     },
@@ -1024,13 +924,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/evoker"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/evoker"
       },
       "width": 22
     },
@@ -1044,13 +942,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/fox"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/fox"
       },
       "width": 22
     },
@@ -1064,13 +960,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/fox_snow"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/fox_snow"
       },
       "width": 22
     },
@@ -1084,13 +978,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/frog/warm"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/frog/warm"
       },
       "width": 22
     },
@@ -1104,13 +996,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/frog/temperate"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/frog/temperate"
       },
       "width": 22
     },
@@ -1124,13 +1014,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/frog/cold"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/frog/cold"
       },
       "width": 22
     },
@@ -1144,13 +1032,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/ghast"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/ghast"
       },
       "width": 22
     },
@@ -1164,13 +1050,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/glow_squid"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/glow_squid"
       },
       "width": 22
     },
@@ -1184,13 +1068,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat_no_horns"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat_no_horns"
       },
       "width": 22
     },
@@ -1204,13 +1086,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat_left_horn"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat_left_horn"
       },
       "width": 22
     },
@@ -1224,13 +1104,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat_right_horn"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat_right_horn"
       },
       "width": 22
     },
@@ -1244,13 +1122,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/screaming_goat"
       },
       "width": 22
     },
@@ -1264,13 +1140,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/goat_no_horns"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/goat_no_horns"
       },
       "width": 22
     },
@@ -1284,13 +1158,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/goat_left_horn"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/goat_left_horn"
       },
       "width": 22
     },
@@ -1304,13 +1176,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/goat_right_horn"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/goat_right_horn"
       },
       "width": 22
     },
@@ -1324,13 +1194,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/goat/goat"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/goat/goat"
       },
       "width": 22
     },
@@ -1344,13 +1212,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/guardian"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/guardian"
       },
       "width": 22
     },
@@ -1364,13 +1230,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/happy_ghast"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/happy_ghast"
       },
       "width": 22
     },
@@ -1384,13 +1248,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/hoglin"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/hoglin"
       },
       "width": 22
     },
@@ -1404,13 +1266,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/black"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/black"
       },
       "width": 22
     },
@@ -1424,13 +1284,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/brown"
       },
       "width": 22
     },
@@ -1444,13 +1302,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/chestnut"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/chestnut"
       },
       "width": 22
     },
@@ -1464,13 +1320,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/creamy"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/creamy"
       },
       "width": 22
     },
@@ -1484,13 +1338,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/darkbrown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/darkbrown"
       },
       "width": 22
     },
@@ -1504,13 +1356,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/gray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/gray"
       },
       "width": 22
     },
@@ -1524,13 +1374,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/horse/white"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/horse/white"
       },
       "width": 22
     },
@@ -1544,13 +1392,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/husk"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/husk"
       },
       "width": 22
     },
@@ -1564,13 +1410,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/illusioner"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/illusioner"
       },
       "width": 22
     },
@@ -1584,13 +1428,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/iron_golem"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/iron_golem"
       },
       "width": 22
     },
@@ -1604,13 +1446,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/llama/brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/llama/brown"
       },
       "width": 22
     },
@@ -1624,13 +1464,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/llama/creamy"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/llama/creamy"
       },
       "width": 22
     },
@@ -1644,13 +1482,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/llama/gray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/llama/gray"
       },
       "width": 22
     },
@@ -1664,13 +1500,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/llama/white"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/llama/white"
       },
       "width": 22
     },
@@ -1684,13 +1518,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/magma_cube"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/magma_cube"
       },
       "width": 22
     },
@@ -1704,13 +1536,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/mooshroom_red"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/mooshroom_red"
       },
       "width": 22
     },
@@ -1724,13 +1554,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/mooshroom_brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/mooshroom_brown"
       },
       "width": 22
     },
@@ -1744,13 +1572,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/mule"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/mule"
       },
       "width": 22
     },
@@ -1764,13 +1590,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/ocelot"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/ocelot"
       },
       "width": 22
     },
@@ -1784,13 +1608,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/aggressive"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/aggressive"
       },
       "width": 22
     },
@@ -1804,13 +1626,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/brown"
       },
       "width": 22
     },
@@ -1824,13 +1644,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/lazy"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/lazy"
       },
       "width": 22
     },
@@ -1844,13 +1662,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/normal"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/normal"
       },
       "width": 22
     },
@@ -1864,13 +1680,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/playful"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/playful"
       },
       "width": 22
     },
@@ -1884,13 +1698,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/weak"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/weak"
       },
       "width": 22
     },
@@ -1904,13 +1716,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/panda/worried"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/panda/worried"
       },
       "width": 22
     },
@@ -1924,13 +1734,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/parched"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/parched"
       },
       "width": 22
     },
@@ -1944,13 +1752,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/parrot/blue"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/parrot/blue"
       },
       "width": 22
     },
@@ -1964,13 +1770,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/parrot/gray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/parrot/gray"
       },
       "width": 22
     },
@@ -1984,13 +1788,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/parrot/green"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/parrot/green"
       },
       "width": 22
     },
@@ -2004,13 +1806,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/parrot/red_blue"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/parrot/red_blue"
       },
       "width": 22
     },
@@ -2024,13 +1824,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/parrot/yellow_blue"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/parrot/yellow_blue"
       },
       "width": 22
     },
@@ -2044,13 +1842,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/phantom"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/phantom"
       },
       "width": 22
     },
@@ -2064,13 +1860,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/pig/cold"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/pig/cold"
       },
       "width": 22
     },
@@ -2084,13 +1878,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/pig/temperate"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/pig/temperate"
       },
       "width": 22
     },
@@ -2104,13 +1896,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/pig/warm"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/pig/warm"
       },
       "width": 22
     },
@@ -2124,13 +1914,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/piglin_brute"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/piglin_brute"
       },
       "width": 22
     },
@@ -2144,13 +1932,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/piglin"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/piglin"
       },
       "width": 22
     },
@@ -2164,13 +1950,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/pillager"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/pillager"
       },
       "width": 22
     },
@@ -2184,13 +1968,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/polar_bear"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/polar_bear"
       },
       "width": 22
     },
@@ -2204,13 +1986,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/pufferfish"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/pufferfish"
       },
       "width": 22
     },
@@ -2224,13 +2004,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/black"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/black"
       },
       "width": 22
     },
@@ -2244,13 +2022,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/brown"
       },
       "width": 22
     },
@@ -2264,13 +2040,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/evil"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/evil"
       },
       "width": 22
     },
@@ -2284,13 +2058,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/gold"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/gold"
       },
       "width": 22
     },
@@ -2304,13 +2076,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/salt"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/salt"
       },
       "width": 22
     },
@@ -2324,13 +2094,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/toast"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/toast"
       },
       "width": 22
     },
@@ -2344,13 +2112,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/white_splotched"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/white_splotched"
       },
       "width": 22
     },
@@ -2364,13 +2130,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/rabbit/white"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/rabbit/white"
       },
       "width": 22
     },
@@ -2384,13 +2148,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/ravager"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/ravager"
       },
       "width": 22
     },
@@ -2404,13 +2166,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/salmon"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/salmon"
       },
       "width": 22
     },
@@ -2424,13 +2184,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/black"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/black"
       },
       "width": 22
     },
@@ -2444,13 +2202,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/blue"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/blue"
       },
       "width": 22
     },
@@ -2464,13 +2220,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/brown"
       },
       "width": 22
     },
@@ -2484,13 +2238,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/cyan"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/cyan"
       },
       "width": 22
     },
@@ -2504,13 +2256,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/gray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/gray"
       },
       "width": 22
     },
@@ -2524,13 +2274,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/green"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/green"
       },
       "width": 22
     },
@@ -2544,13 +2292,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/light_blue"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/light_blue"
       },
       "width": 22
     },
@@ -2564,13 +2310,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/light_gray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/light_gray"
       },
       "width": 22
     },
@@ -2584,13 +2328,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/lime"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/lime"
       },
       "width": 22
     },
@@ -2604,13 +2346,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/magenta"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/magenta"
       },
       "width": 22
     },
@@ -2624,13 +2364,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/orange"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/orange"
       },
       "width": 22
     },
@@ -2644,13 +2382,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/pink"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/pink"
       },
       "width": 22
     },
@@ -2664,13 +2400,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/purple"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/purple"
       },
       "width": 22
     },
@@ -2684,13 +2418,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/red"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/red"
       },
       "width": 22
     },
@@ -2704,13 +2436,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/white"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/white"
       },
       "width": 22
     },
@@ -2724,13 +2454,29 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sheep/yellow"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/yellow"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdlMmJmNTM5YzhlMGFkNDY4ZTUyN2I0N2NmM2EyMWQ0ZTlhY2UxODcyM2E3MjI0OWI3ZDYzZTg1ZmI4YWUwIn19fQ=="
+            }
+          ]
+        },
+        "extra": ["|"]
+      },
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sheep/_jeb"
       },
       "width": 22
     },
@@ -2744,13 +2490,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/shulker"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/shulker"
       },
       "width": 22
     },
@@ -2764,13 +2508,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/silverfish"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/silverfish"
       },
       "width": 22
     },
@@ -2784,13 +2526,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/skeleton_horse"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/skeleton_horse"
       },
       "width": 22
     },
@@ -2804,13 +2544,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/skeleton"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/skeleton"
       },
       "width": 22
     },
@@ -2824,13 +2562,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/slime"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/slime"
       },
       "width": 22
     },
@@ -2844,13 +2580,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/sniffer"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/sniffer"
       },
       "width": 22
     },
@@ -2864,13 +2598,29 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/snow_golem"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/snow_golem"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ1NGNjNGE4ZDBmZDhhMDQxZDg4N2Y3ZmIwODdiMjBiNWU1NDBmNGUwZjE4NzcxNWIyOGNiMTJmY2ZjNzljZCJ9fX0="
+            }
+          ]
+        },
+        "extra": ["|"]
+      },
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/snow_golem_pumpkin"
       },
       "width": 22
     },
@@ -2884,13 +2634,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/spider"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/spider"
       },
       "width": 22
     },
@@ -2904,13 +2652,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/squid"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/squid"
       },
       "width": 22
     },
@@ -2924,13 +2670,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/stray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/stray"
       },
       "width": 22
     },
@@ -2944,13 +2688,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/strider"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/strider"
       },
       "width": 22
     },
@@ -2964,13 +2706,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/tadpole"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/tadpole"
       },
       "width": 22
     },
@@ -2984,13 +2724,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/trader_llama/brown"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/trader_llama/brown"
       },
       "width": 22
     },
@@ -3004,13 +2742,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/trader_llama/creamy"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/trader_llama/creamy"
       },
       "width": 22
     },
@@ -3024,13 +2760,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/trader_llama/gray"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/trader_llama/gray"
       },
       "width": 22
     },
@@ -3044,13 +2778,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/trader_llama/white"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/trader_llama/white"
       },
       "width": 22
     },
@@ -3064,13 +2796,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/turtle"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/turtle"
       },
       "width": 22
     },
@@ -3084,13 +2814,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/vex"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/vex"
       },
       "width": 22
     },
@@ -3104,13 +2832,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/vex_charging"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/vex_charging"
       },
       "width": 22
     },
@@ -3124,13 +2850,29 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/vindicator"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/vindicator"
+      },
+      "width": 22
+    },
+    {
+      "label": {
+        "player": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmVlZDgzNzU1NGE1YmQ1NzUwYmQwNjg4Yzk0ZThkYjdlZmU3ODc3ODZhZTk0NWQ4YWM1Mzk1YzdjNGEyYzIwZSJ9fX0="
+            }
+          ]
+        },
+        "extra": ["|"]
+      },
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/vindicator_johnny"
       },
       "width": 22
     },
@@ -3144,13 +2886,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wandering_trader"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wandering_trader"
       },
       "width": 22
     },
@@ -3164,13 +2904,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/warden"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/warden"
       },
       "width": 22
     },
@@ -3184,13 +2922,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/witch"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/witch"
       },
       "width": 22
     },
@@ -3204,13 +2940,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wither_skeleton"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wither_skeleton"
       },
       "width": 22
     },
@@ -3224,13 +2958,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wither"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wither"
       },
       "width": 22
     },
@@ -3244,13 +2976,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wither_invulnerable"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wither_invulnerable"
       },
       "width": 22
     },
@@ -3264,13 +2994,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/ashen"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/ashen"
       },
       "width": 22
     },
@@ -3284,13 +3012,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/black"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/black"
       },
       "width": 22
     },
@@ -3304,13 +3030,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/chestnut"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/chestnut"
       },
       "width": 22
     },
@@ -3324,13 +3048,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/pale"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/pale"
       },
       "width": 22
     },
@@ -3344,13 +3066,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/rusty"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/rusty"
       },
       "width": 22
     },
@@ -3364,13 +3084,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/snowy"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/snowy"
       },
       "width": 22
     },
@@ -3384,13 +3102,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/spotted"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/spotted"
       },
       "width": 22
     },
@@ -3404,13 +3120,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/striped"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/striped"
       },
       "width": 22
     },
@@ -3424,13 +3138,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/wolf/woods"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/wolf/woods"
       },
       "width": 22
     },
@@ -3444,13 +3156,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/zoglin"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/zoglin"
       },
       "width": 22
     },
@@ -3464,13 +3174,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie_horse"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/zombie_horse"
       },
       "width": 22
     },
@@ -3484,13 +3192,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/zombie"
       },
       "width": 22
     },
@@ -3504,13 +3210,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie_nautilus"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/zombie_nautilus"
       },
       "width": 22
     },
@@ -3524,13 +3228,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombie_nautilus_coral"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/zombie_nautilus_coral"
       },
       "width": 22
     },
@@ -3544,13 +3246,11 @@
             }
           ]
         },
-        "extra": [
-          "|"
-        ]
+        "extra": ["|"]
       },
-      "action":{
-        "type":"run_command",
-        "command":"function mob_heads:app/get_mob_head/mobs/heads/zombified_piglin"
+      "action": {
+        "type": "run_command",
+        "command": "function mob_heads:app/get_mob_head/mobs/heads/zombified_piglin"
       },
       "width": 22
     }
