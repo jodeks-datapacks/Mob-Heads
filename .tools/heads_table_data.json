@@ -1348,6 +1348,12 @@
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
+    "name": "_jeb Sheep",
+    "image": "sheep_jeb",
+    "drop_rate": "2%",
+    "sound": "https://minecraft.wiki/images/Sheep1.ogg"
+  },
+  {
     "name": "Shulker",
     "image": "shulker",
     "drop_rate": "5%",
@@ -1582,10 +1588,22 @@
     "sound": "https://minecraft.wiki/images/Vex_idle3.ogg"
   },
   {
+    "name": "Charging Vex",
+    "image": "vex_charging",
+    "drop_rate": "5%",
+    "sound": "https://minecraft.wiki/w/File:Vex_charge1.ogg"
+  },
+  {
     "name": "Vindicator",
     "image": "vindicator",
     "drop_rate": "3%",
     "sound": "https://minecraft.wiki/images/Vindicator_idle1.ogg"
+  },
+  {
+    "name": "Johnny",
+    "image": "vindicator_johnny",
+    "drop_rate": "3%",
+    "sound": "https://minecraft.wiki/w/File:Vindicator_celebrate2.ogg"
   },
   {
     "name": "Armorer Desert Villager",
