@@ -1,4 +1,5 @@
 <!-- TROPICAL_TABLE_START -->
+
 # Tropical Fish Heads
 
 ## Betty
@@ -7619,8 +7620,8 @@
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/flopper/brown_brown_(1).png" width="48"><br>
-              <b>Brown Brown_(1) Flopper</b><br>Drop Rate: 5%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/flopper/brown_brown.png" width="48"><br>
+              <b>Brown Brown Flopper</b><br>Drop Rate: 5%<br>
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
@@ -8980,8 +8981,8 @@
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/glitter/black_whtie.png" width="48"><br>
-              <b>Black Whtie Glitter</b><br>Drop Rate: 5%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/glitter/black_white.png" width="48"><br>
+              <b>Black White Glitter</b><br>Drop Rate: 5%<br>
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
   </tr>
@@ -9538,8 +9539,8 @@
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/glitter/light_blue_whtie.png" width="48"><br>
-              <b>Light Blue_whtie Glitter</b><br>Drop Rate: 5%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/glitter/light_blue_white.png" width="48"><br>
+              <b>Light Blue_white Glitter</b><br>Drop Rate: 5%<br>
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
   </tr>
@@ -15377,8 +15378,8 @@
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/stripey/green_whtie.png" width="48"><br>
-              <b>Green Whtie Stripey</b><br>Drop Rate: 5%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/stripey/green_white.png" width="48"><br>
+              <b>Green White Stripey</b><br>Drop Rate: 5%<br>
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
   </tr>
@@ -15470,8 +15471,8 @@
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/stripey/light_blue_whtie.png" width="48"><br>
-              <b>Light Blue_whtie Stripey</b><br>Drop Rate: 5%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/stripey/light_blue_white.png" width="48"><br>
+              <b>Light Blue_white Stripey</b><br>Drop Rate: 5%<br>
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
   </tr>
@@ -17078,8 +17079,8 @@
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/sunstreak/lime_gray_(1).png" width="48"><br>
-              <b>Lime Gray_(1) Sunstreak</b><br>Drop Rate: 5%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/tropical_fish/sunstreak/lime_gray.png" width="48"><br>
+              <b>Lime Gray Sunstreak</b><br>Drop Rate: 5%<br>
               <a href="https://minecraft.wiki/w/File:Fish_flop4.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
   </tr>

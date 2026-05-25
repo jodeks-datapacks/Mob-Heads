@@ -1,0 +1,115 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODIzNzIyNzUwMiwKICAicHJvZmlsZUlkIiA6ICIxYzI3ZDE1YWE5ZTk0ODFhYjk1ZDBlZTFhYjI2ZGRiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJxVGIwa2VuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1NDMwMjc3NjhlYWY0ZjFlNmE2M2YxMzdkZWQxYjI5MTM1ODVlZDkzN2I4NjI1MjE2OTkzYzc3MGNiOGM0NzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        }
+      }
+    },
+    "title": {
+      "translate": "mob_heads.tropical_fish.kob",
+      "fallback": "Kob",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.yellow"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.blue"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.yellow"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.blue"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.tropical_fish.kob",
+          "fallback": "Kob"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mob_heads:collection/tropical_fish/kob/yellow/black",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mob_heads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3ODIzNzIyNzUwMiwKICAicHJvZmlsZUlkIiA6ICIxYzI3ZDE1YWE5ZTk0ODFhYjk1ZDBlZTFhYjI2ZGRiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJxVGIwa2VuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1NDMwMjc3NjhlYWY0ZjFlNmE2M2YxMzdkZWQxYjI5MTM1ODVlZDkzN2I4NjI1MjE2OTkzYzc3MGNiOGM0NzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

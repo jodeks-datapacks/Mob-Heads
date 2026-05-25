@@ -1,0 +1,3374 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:tube_coral"
+    },
+    "title": {
+      "translate": "mob_heads.tropical_fish.flopper",
+      "fallback": "Flopper",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.tropical_fish.flopper",
+          "fallback": "Flopper"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/tropical_fish/root",
+  "criteria": {
+    "flopper_black_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_black_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/black/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_blue_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/blue/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_brown_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/brown/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_cyan_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/cyan/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_green_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/green/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_blue_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_blue/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_light_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/light_gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_lime_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/lime/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_magenta_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/magenta/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_orange_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/orange/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_pink_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/pink/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_purple_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/purple/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_red_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/red/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_white_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/white/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/black": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/brown": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/green": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/lime": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/orange": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/pink": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/purple": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/red": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/white": true
+            }
+          }
+        }
+      }
+    },
+    "flopper_yellow_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/flopper/yellow/yellow": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

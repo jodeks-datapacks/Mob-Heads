@@ -5,12 +5,22 @@
     "type": "minecraft:plain_message",
     "contents": [
       "Click on a head and click 'Run Command'",
-      "n",
-      "n",
+      "\n",
+      "\n",
       "Close with escape"
     ]
   },
   "pause": false,
+  "exit_action": {
+    "label": {
+      "translate": "jodek.exit",
+      "fallback": "Exit"
+    },
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "mob_heads:get_mob_head"
+    }
+  },
   "columns": 15,
   "after_action": "none",
   "actions": [

@@ -112,6 +112,27 @@ def gen_loot_table(fish_type: str, variant: str, texture: str) -> dict:
     }
 
 
+def gen_variant_summary_loot_table(fish_type: str, entries: list) -> dict:
+    groups = group_entries_by_body_color(entries)
+    pools = []
+    for body_color, group_entries in groups.items():
+        for entry in group_entries:
+            pattern_color = parse_colors(entry["variant"])[1]
+            pools.append({
+                "rolls": 1,
+                "entries": [
+                    {
+                        "type": "loot_table",
+                        "value": f"mob_heads:entities/tropical_fish/{fish_type}/{body_color}/{pattern_color}"
+                    }
+                ]
+            })
+    return {
+        "type": "minecraft:entity",
+        "pools": pools
+    }
+
+
 def write_loot_tables_for_fish_type(fish_type: str, entries: list):
     groups = group_entries_by_body_color(entries)
     base = OUTPUT_ROOT / "loot_table" / "tropical_fish"
@@ -124,3 +145,8 @@ def write_loot_tables_for_fish_type(fish_type: str, entries: list):
                 base / fish_type / body_color / f"{pattern_color}.json",
                 jdump(gen_loot_table(fish_type, variant, entry["texture"]))
             )
+
+    write(
+        base / f"{fish_type}.json",
+        jdump(gen_variant_summary_loot_table(fish_type, entries))
+    )

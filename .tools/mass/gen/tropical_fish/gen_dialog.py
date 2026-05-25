@@ -1,10 +1,10 @@
 """
-04_build_dialog.py
+build_dialog.py
 Generates the dialog mcfunction for a fish type (all 256 variants as clickable heads).
 
 Usage:
-  python 04_build_dialog.py <FishType>
-  python 04_build_dialog.py Betty
+  python build_dialog.py <FishType>
+  python build_dialog.py Betty
 
 Input:  .tools/mass/output/head_data/<fish_type>.json
 Output: .tools/mass/output/generated/get_mob_head/tropical_fish/<fish_type>_dialog.mcfunction
@@ -70,44 +70,44 @@ def build_dialog(fish_type: str, entries: list) -> str:
     actions_str = ",\n".join(actions)
 
     return (
-        'dialog show @s {\\\n'
-        '  type:"minecraft:multi_action",\\\n'
-        '  title:"Get Mob Head",\\\n'
-        '  "body": {\\\n'
-        '    "type": "minecraft:plain_message",\\\n'
-        '    "contents": [\\\n'
-        '      "Click on a head and click \\"Run Command\\"",\\\n'
-        '      "\\n",\\\n'
-        '      "\\n",\\\n'
-        '      "Close with escape"\\\n'
-        '    ]\\\n'
-        '  },\\\n'
-        '  columns:15,\\\n'
-        '  "after_action": "none",\\\n'
-        '  actions:[\\\n'
-        + actions_str.replace("\n", "\\\n")
-        + "\\\n"
-        '  ]\\\n'
+        'dialog show @s {\n'
+        '  type:"minecraft:multi_action",\n'
+        '  title:"Get Mob Head",\n'
+        '  "body": {\n'
+        '    "type": "minecraft:plain_message",\n'
+        '    "contents": [\n'
+        '      "Click on a head and click "Run Command"",\n'
+        '      "n",\n'
+        '      "n",\n'
+        '      "Close with escape"\n'
+        '    ]\n'
+        '  },\n'
+        '  columns:15,\n'
+        '  "after_action": "none",\n'
+        '  actions:[\n'
+        + actions_str.replace("\n", "\n")
+        + "\n"
+        '  ]\n'
         '}\n'
     )
 
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python 04_build_dialog.py <FishType>")
+        print("Usage: python build_dialog.py <FishType>")
         sys.exit(1)
 
     fish_type  = slug(sys.argv[1])
     cache_path = DATA_DIR / f"{fish_type}.json"
 
     if not cache_path.exists():
-        print(f"ERROR: {cache_path} not found — run 02_upload_skins.py first")
+        print(f"ERROR: {cache_path} not found — run upload_skins.py first")
         sys.exit(1)
 
     entries = json.loads(cache_path.read_text(encoding="utf-8"))
     print(f"Building dialog for '{fish_type}' ({len(entries)} variants)...")
 
-    out_path = OUTPUT_ROOT / f"get_mob_head/tropical_fish/{fish_type}_dialog.mcfunction"
+    out_path = OUTPUT_ROOT / f"get_mob_head/tropical_fish/{fish_type}_dialog.json"
     write(out_path, build_dialog(fish_type, entries))
 
     print(f"\nDone.")

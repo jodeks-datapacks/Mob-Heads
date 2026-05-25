@@ -36,7 +36,7 @@ import sys
 import json
 
 from _constants import DATA_DIR, OUTPUT_ROOT, SCRIPT_DIR, slug
-from gen_advancements import write_advancements_for_fish_type, write_shared_advancements
+from gen_advancements import write_advancements_for_fish_type, write_shared_advancements, write_root_advancement
 from gen_loot_table import write_loot_tables_for_fish_type
 from gen_mcfunctions import write_mcfunctions_for_fish_type, write_shared_mcfunctions
 
@@ -44,9 +44,30 @@ from gen_mcfunctions import write_mcfunctions_for_fish_type, write_shared_mcfunc
 def main():
     if len(sys.argv) < 2:
         print("Usage: python build_files.py <FishType>")
+        print("       python build_files.py root")
         sys.exit(1)
 
-    fish_type  = slug(sys.argv[1])
+    arg = sys.argv[1].lower()
+
+    if arg == "root":
+        if not DATA_DIR.exists():
+            print(f"ERROR: {DATA_DIR} not found — run upload_skins.py first")
+            sys.exit(1)
+        all_fish = {}
+        for cache_path in sorted(DATA_DIR.glob("*.json")):
+            fish_type = cache_path.stem
+            all_fish[fish_type] = json.loads(cache_path.read_text(encoding="utf-8"))
+        if not all_fish:
+            print(f"ERROR: no fish data found in {DATA_DIR}")
+            sys.exit(1)
+        total = sum(len(v) for v in all_fish.values())
+        print(f"Building root advancement ({len(all_fish)} fish types, {total} variants)...")
+        print("\n[root advancement]")
+        write_root_advancement(all_fish)
+        print(f"\nDone. Output: {OUTPUT_ROOT.relative_to(SCRIPT_DIR)}")
+        return
+
+    fish_type  = slug(arg)
     cache_path = DATA_DIR / f"{fish_type}.json"
 
     if not cache_path.exists():

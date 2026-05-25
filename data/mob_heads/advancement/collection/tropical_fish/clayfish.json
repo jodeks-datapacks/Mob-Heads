@@ -1,0 +1,3374 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:tube_coral"
+    },
+    "title": {
+      "translate": "mob_heads.tropical_fish.clayfish",
+      "fallback": "Clayfish",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.tropical_fish.clayfish",
+          "fallback": "Clayfish"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/tropical_fish/root",
+  "criteria": {
+    "clayfish_black_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_black_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/black/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_cyan_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/cyan/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_green_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/green/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_blue_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_blue/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_light_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/light_gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_lime_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/lime/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_magenta_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/magenta/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_orange_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/orange/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_purple_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/purple/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_red_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/red/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_white_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/white/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/black": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/lime": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/orange": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/purple": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/red": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/white": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_yellow_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/yellow/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_blue_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/blue/pink": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_brown_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/brown/brown": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/green": true
+            }
+          }
+        }
+      }
+    },
+    "clayfish_pink_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/clayfish/pink/red": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

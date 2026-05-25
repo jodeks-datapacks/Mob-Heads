@@ -1,0 +1,3374 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:tube_coral"
+    },
+    "title": {
+      "translate": "mob_heads.tropical_fish.dasher",
+      "fallback": "Dasher",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.tropical_fish.dasher",
+          "fallback": "Dasher"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/tropical_fish/root",
+  "criteria": {
+    "dasher_black_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_black_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/black/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_blue_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/blue/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_brown_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/brown/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_cyan_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/cyan/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_green_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/green/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_blue_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_blue/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_light_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/light_gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_lime_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/lime/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_magenta_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/magenta/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_orange_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/orange/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_pink_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/pink/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_purple_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/purple/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_red_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/red/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_white_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/white/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/black": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/brown": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/green": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/lime": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/orange": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/pink": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/purple": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/red": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/white": true
+            }
+          }
+        }
+      }
+    },
+    "dasher_yellow_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/tropical_fish/dasher/yellow/yellow": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

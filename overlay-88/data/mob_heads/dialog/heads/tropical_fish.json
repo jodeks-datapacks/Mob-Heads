@@ -1,0 +1,140 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "mob_heads.title.get_mob_head",
+    "fallback": "Get Mob Head"
+  },
+  "columns": 1,
+  "exit_action": {
+    "label": {
+      "translate": "jodek.exit",
+      "fallback": "Exit"
+    },
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "mob_heads:get_mob_head"
+    }
+  },
+  "actions": [
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.betty",
+        "fallback": "Betty"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/betty_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.blockfish",
+        "fallback": "Blockfish"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/blockfish_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.brinely",
+        "fallback": "Brinely"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/brinely_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.clayfish",
+        "fallback": "Clayfish"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/clayfish_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.dasher",
+        "fallback": "Dasher"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/dasher_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.flopper",
+        "fallback": "Flopper"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/flopper_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.glitter",
+        "fallback": "Glitter"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/glitter_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.bob",
+        "fallback": "Kob"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/kob_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.snooper",
+        "fallback": "Snooper"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/snooper_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.spotty",
+        "fallback": "Spotty"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/spotty_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.stripey",
+        "fallback": "Stripey"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/stripey_dialog"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.tropical_fish.sunstreak",
+        "fallback": "Sunstreak"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish/sunstreak_dialog"
+      }
+    }
+  ]
+}

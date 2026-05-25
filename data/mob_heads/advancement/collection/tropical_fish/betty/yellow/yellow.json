@@ -21,20 +21,20 @@
           "text": " "
         },
         {
-          "translate": "item.minecraft.firework_star.yellow"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "item.minecraft.firework_star.yellow"
-        },
-        {
-          "text": " "
-        },
-        {
           "translate": "mob_heads.head",
           "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.yellow"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.yellow"
         }
       ]
     },
@@ -46,20 +46,20 @@
           "text": " "
         },
         {
+          "translate": "item.minecraft.firework_star.yellow"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "item.minecraft.firework_star.yellow"
+        },
+        {
+          "text": " "
+        },
+        {
           "translate": "mob_heads.tropical_fish.betty",
           "fallback": "Betty"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "item.minecraft.firework_star.yellow"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "item.minecraft.firework_star.yellow"
         },
         {
           "text": " "

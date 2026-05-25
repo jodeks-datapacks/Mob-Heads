@@ -42,7 +42,7 @@
   },
   "parent": "mob_heads:collection/tropical_fish/root",
   "criteria": {
-    "black_black": {
+    "betty_black_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -55,7 +55,7 @@
         }
       }
     },
-    "black_blue": {
+    "betty_black_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -68,7 +68,7 @@
         }
       }
     },
-    "black_brown": {
+    "betty_black_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -81,7 +81,7 @@
         }
       }
     },
-    "black_cyan": {
+    "betty_black_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -94,7 +94,7 @@
         }
       }
     },
-    "black_gray": {
+    "betty_black_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -107,7 +107,7 @@
         }
       }
     },
-    "black_green": {
+    "betty_black_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -120,7 +120,7 @@
         }
       }
     },
-    "black_light_blue": {
+    "betty_black_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -133,7 +133,7 @@
         }
       }
     },
-    "black_light_gray": {
+    "betty_black_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -146,7 +146,7 @@
         }
       }
     },
-    "black_lime": {
+    "betty_black_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -159,7 +159,7 @@
         }
       }
     },
-    "black_magenta": {
+    "betty_black_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -172,7 +172,7 @@
         }
       }
     },
-    "black_orange": {
+    "betty_black_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -185,7 +185,7 @@
         }
       }
     },
-    "black_pink": {
+    "betty_black_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -198,7 +198,7 @@
         }
       }
     },
-    "black_purple": {
+    "betty_black_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -211,7 +211,7 @@
         }
       }
     },
-    "black_red": {
+    "betty_black_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -224,7 +224,7 @@
         }
       }
     },
-    "black_white": {
+    "betty_black_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -237,7 +237,7 @@
         }
       }
     },
-    "black_yellow": {
+    "betty_black_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -250,7 +250,7 @@
         }
       }
     },
-    "blue_black": {
+    "betty_blue_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -263,7 +263,7 @@
         }
       }
     },
-    "blue_blue": {
+    "betty_blue_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -276,7 +276,7 @@
         }
       }
     },
-    "blue_brown": {
+    "betty_blue_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -289,7 +289,7 @@
         }
       }
     },
-    "blue_cyan": {
+    "betty_blue_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -302,7 +302,7 @@
         }
       }
     },
-    "blue_gray": {
+    "betty_blue_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -315,7 +315,7 @@
         }
       }
     },
-    "blue_green": {
+    "betty_blue_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -328,7 +328,7 @@
         }
       }
     },
-    "blue_light_blue": {
+    "betty_blue_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -341,7 +341,7 @@
         }
       }
     },
-    "blue_light_gray": {
+    "betty_blue_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -354,7 +354,7 @@
         }
       }
     },
-    "blue_lime": {
+    "betty_blue_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -367,7 +367,7 @@
         }
       }
     },
-    "blue_magenta": {
+    "betty_blue_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -380,7 +380,7 @@
         }
       }
     },
-    "blue_orange": {
+    "betty_blue_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -393,7 +393,7 @@
         }
       }
     },
-    "blue_pink": {
+    "betty_blue_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -406,7 +406,7 @@
         }
       }
     },
-    "blue_purple": {
+    "betty_blue_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -419,7 +419,7 @@
         }
       }
     },
-    "blue_red": {
+    "betty_blue_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -432,7 +432,7 @@
         }
       }
     },
-    "blue_white": {
+    "betty_blue_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -445,7 +445,7 @@
         }
       }
     },
-    "blue_yellow": {
+    "betty_blue_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -458,7 +458,7 @@
         }
       }
     },
-    "brown_black": {
+    "betty_brown_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -471,7 +471,7 @@
         }
       }
     },
-    "brown_blue": {
+    "betty_brown_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -484,7 +484,7 @@
         }
       }
     },
-    "brown_brown": {
+    "betty_brown_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -497,7 +497,7 @@
         }
       }
     },
-    "brown_cyan": {
+    "betty_brown_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -510,7 +510,7 @@
         }
       }
     },
-    "brown_gray": {
+    "betty_brown_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -523,7 +523,7 @@
         }
       }
     },
-    "brown_green": {
+    "betty_brown_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -536,7 +536,7 @@
         }
       }
     },
-    "brown_light_blue": {
+    "betty_brown_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -549,7 +549,7 @@
         }
       }
     },
-    "brown_light_gray": {
+    "betty_brown_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -562,7 +562,7 @@
         }
       }
     },
-    "brown_lime": {
+    "betty_brown_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -575,7 +575,7 @@
         }
       }
     },
-    "brown_magenta": {
+    "betty_brown_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -588,7 +588,7 @@
         }
       }
     },
-    "brown_orange": {
+    "betty_brown_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -601,7 +601,7 @@
         }
       }
     },
-    "brown_pink": {
+    "betty_brown_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -614,7 +614,7 @@
         }
       }
     },
-    "brown_purple": {
+    "betty_brown_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -627,7 +627,7 @@
         }
       }
     },
-    "brown_red": {
+    "betty_brown_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -640,7 +640,7 @@
         }
       }
     },
-    "brown_white": {
+    "betty_brown_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -653,7 +653,7 @@
         }
       }
     },
-    "brown_yellow": {
+    "betty_brown_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -666,7 +666,7 @@
         }
       }
     },
-    "cyan_black": {
+    "betty_cyan_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -679,7 +679,7 @@
         }
       }
     },
-    "cyan_blue": {
+    "betty_cyan_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -692,7 +692,7 @@
         }
       }
     },
-    "cyan_brown": {
+    "betty_cyan_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -705,7 +705,7 @@
         }
       }
     },
-    "cyan_cyan": {
+    "betty_cyan_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -718,7 +718,7 @@
         }
       }
     },
-    "cyan_gray": {
+    "betty_cyan_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -731,7 +731,7 @@
         }
       }
     },
-    "cyan_green": {
+    "betty_cyan_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -744,7 +744,7 @@
         }
       }
     },
-    "cyan_light_blue": {
+    "betty_cyan_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -757,7 +757,7 @@
         }
       }
     },
-    "cyan_light_gray": {
+    "betty_cyan_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -770,7 +770,7 @@
         }
       }
     },
-    "cyan_lime": {
+    "betty_cyan_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -783,7 +783,7 @@
         }
       }
     },
-    "cyan_magenta": {
+    "betty_cyan_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -796,7 +796,7 @@
         }
       }
     },
-    "cyan_orange": {
+    "betty_cyan_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -809,7 +809,7 @@
         }
       }
     },
-    "cyan_purple": {
+    "betty_cyan_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -822,7 +822,7 @@
         }
       }
     },
-    "gray_black": {
+    "betty_gray_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -835,7 +835,7 @@
         }
       }
     },
-    "gray_blue": {
+    "betty_gray_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -848,7 +848,7 @@
         }
       }
     },
-    "gray_brown": {
+    "betty_gray_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -861,7 +861,7 @@
         }
       }
     },
-    "gray_cyan": {
+    "betty_gray_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -874,7 +874,7 @@
         }
       }
     },
-    "gray_gray": {
+    "betty_gray_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -887,7 +887,7 @@
         }
       }
     },
-    "gray_green": {
+    "betty_gray_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -900,7 +900,7 @@
         }
       }
     },
-    "gray_light_blue": {
+    "betty_gray_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -913,7 +913,7 @@
         }
       }
     },
-    "gray_light_gray": {
+    "betty_gray_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -926,7 +926,7 @@
         }
       }
     },
-    "gray_lime": {
+    "betty_gray_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -939,7 +939,7 @@
         }
       }
     },
-    "gray_magenta": {
+    "betty_gray_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -952,7 +952,7 @@
         }
       }
     },
-    "gray_orange": {
+    "betty_gray_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -965,7 +965,7 @@
         }
       }
     },
-    "gray_pink": {
+    "betty_gray_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -978,7 +978,7 @@
         }
       }
     },
-    "gray_purple": {
+    "betty_gray_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -991,7 +991,7 @@
         }
       }
     },
-    "gray_red": {
+    "betty_gray_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1004,7 +1004,7 @@
         }
       }
     },
-    "gray_white": {
+    "betty_gray_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1017,7 +1017,7 @@
         }
       }
     },
-    "gray_yellow": {
+    "betty_gray_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1030,7 +1030,7 @@
         }
       }
     },
-    "green_black": {
+    "betty_green_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1043,7 +1043,7 @@
         }
       }
     },
-    "green_blue": {
+    "betty_green_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1056,7 +1056,7 @@
         }
       }
     },
-    "green_brown": {
+    "betty_green_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1069,7 +1069,7 @@
         }
       }
     },
-    "green_cyan": {
+    "betty_green_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1082,7 +1082,7 @@
         }
       }
     },
-    "green_gray": {
+    "betty_green_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1095,7 +1095,7 @@
         }
       }
     },
-    "green_green": {
+    "betty_green_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1108,7 +1108,7 @@
         }
       }
     },
-    "green_light_blue": {
+    "betty_green_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1121,7 +1121,7 @@
         }
       }
     },
-    "green_light_gray": {
+    "betty_green_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1134,7 +1134,7 @@
         }
       }
     },
-    "green_lime": {
+    "betty_green_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1147,7 +1147,7 @@
         }
       }
     },
-    "green_magenta": {
+    "betty_green_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1160,7 +1160,7 @@
         }
       }
     },
-    "green_orange": {
+    "betty_green_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1173,7 +1173,7 @@
         }
       }
     },
-    "green_pink": {
+    "betty_green_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1186,7 +1186,7 @@
         }
       }
     },
-    "green_purple": {
+    "betty_green_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1199,7 +1199,7 @@
         }
       }
     },
-    "green_red": {
+    "betty_green_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1212,7 +1212,7 @@
         }
       }
     },
-    "green_white": {
+    "betty_green_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1225,7 +1225,7 @@
         }
       }
     },
-    "green_yellow": {
+    "betty_green_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1238,7 +1238,7 @@
         }
       }
     },
-    "light_blue_black": {
+    "betty_light_blue_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1251,7 +1251,7 @@
         }
       }
     },
-    "light_blue_blue": {
+    "betty_light_blue_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1264,7 +1264,7 @@
         }
       }
     },
-    "light_blue_brown": {
+    "betty_light_blue_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1277,7 +1277,7 @@
         }
       }
     },
-    "light_blue_cyan": {
+    "betty_light_blue_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1290,7 +1290,7 @@
         }
       }
     },
-    "light_blue_gray": {
+    "betty_light_blue_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1303,7 +1303,7 @@
         }
       }
     },
-    "light_blue_green": {
+    "betty_light_blue_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1316,7 +1316,7 @@
         }
       }
     },
-    "light_blue_light_blue": {
+    "betty_light_blue_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1329,7 +1329,7 @@
         }
       }
     },
-    "light_blue_light_gray": {
+    "betty_light_blue_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1342,7 +1342,7 @@
         }
       }
     },
-    "light_blue_lime": {
+    "betty_light_blue_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1355,7 +1355,7 @@
         }
       }
     },
-    "light_blue_magenta": {
+    "betty_light_blue_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1368,7 +1368,7 @@
         }
       }
     },
-    "light_blue_orange": {
+    "betty_light_blue_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1381,7 +1381,7 @@
         }
       }
     },
-    "light_blue_pink": {
+    "betty_light_blue_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1394,7 +1394,7 @@
         }
       }
     },
-    "light_blue_purple": {
+    "betty_light_blue_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1407,7 +1407,7 @@
         }
       }
     },
-    "light_blue_red": {
+    "betty_light_blue_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1420,7 +1420,7 @@
         }
       }
     },
-    "light_blue_white": {
+    "betty_light_blue_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1433,7 +1433,7 @@
         }
       }
     },
-    "light_blue_yellow": {
+    "betty_light_blue_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1446,7 +1446,7 @@
         }
       }
     },
-    "light_gray_black": {
+    "betty_light_gray_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1459,7 +1459,7 @@
         }
       }
     },
-    "light_gray_blue": {
+    "betty_light_gray_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1472,7 +1472,7 @@
         }
       }
     },
-    "light_gray_cyan": {
+    "betty_light_gray_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1485,7 +1485,7 @@
         }
       }
     },
-    "light_gray_gray": {
+    "betty_light_gray_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1498,7 +1498,7 @@
         }
       }
     },
-    "light_gray_green": {
+    "betty_light_gray_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1511,7 +1511,7 @@
         }
       }
     },
-    "light_gray_light_blue": {
+    "betty_light_gray_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1524,7 +1524,7 @@
         }
       }
     },
-    "light_gray_light_gray": {
+    "betty_light_gray_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1537,7 +1537,7 @@
         }
       }
     },
-    "light_gray_lime": {
+    "betty_light_gray_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1550,7 +1550,7 @@
         }
       }
     },
-    "light_gray_magenta": {
+    "betty_light_gray_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1563,7 +1563,7 @@
         }
       }
     },
-    "light_gray_orange": {
+    "betty_light_gray_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1576,7 +1576,7 @@
         }
       }
     },
-    "light_gray_pink": {
+    "betty_light_gray_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1589,7 +1589,7 @@
         }
       }
     },
-    "light_gray_purple": {
+    "betty_light_gray_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1602,7 +1602,7 @@
         }
       }
     },
-    "light_gray_red": {
+    "betty_light_gray_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1615,7 +1615,7 @@
         }
       }
     },
-    "light_gray_white": {
+    "betty_light_gray_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1628,7 +1628,7 @@
         }
       }
     },
-    "light_gray_yellow": {
+    "betty_light_gray_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1641,7 +1641,7 @@
         }
       }
     },
-    "lime_black": {
+    "betty_lime_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1654,7 +1654,7 @@
         }
       }
     },
-    "lime_blue": {
+    "betty_lime_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1667,7 +1667,7 @@
         }
       }
     },
-    "lime_brown": {
+    "betty_lime_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1680,7 +1680,7 @@
         }
       }
     },
-    "lime_cyan": {
+    "betty_lime_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1693,7 +1693,7 @@
         }
       }
     },
-    "lime_gray": {
+    "betty_lime_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1706,7 +1706,7 @@
         }
       }
     },
-    "lime_light_blue": {
+    "betty_lime_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1719,7 +1719,7 @@
         }
       }
     },
-    "lime_light_gray": {
+    "betty_lime_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1732,7 +1732,7 @@
         }
       }
     },
-    "lime_lime": {
+    "betty_lime_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1745,7 +1745,7 @@
         }
       }
     },
-    "lime_magenta": {
+    "betty_lime_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1758,7 +1758,7 @@
         }
       }
     },
-    "lime_orange": {
+    "betty_lime_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1771,7 +1771,7 @@
         }
       }
     },
-    "lime_pink": {
+    "betty_lime_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1784,7 +1784,7 @@
         }
       }
     },
-    "lime_purple": {
+    "betty_lime_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1797,7 +1797,7 @@
         }
       }
     },
-    "lime_red": {
+    "betty_lime_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1810,7 +1810,7 @@
         }
       }
     },
-    "lime_white": {
+    "betty_lime_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1823,7 +1823,7 @@
         }
       }
     },
-    "lime_yellow": {
+    "betty_lime_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1836,7 +1836,7 @@
         }
       }
     },
-    "magenta_black": {
+    "betty_magenta_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1849,7 +1849,7 @@
         }
       }
     },
-    "magenta_blue": {
+    "betty_magenta_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1862,7 +1862,7 @@
         }
       }
     },
-    "magenta_brown": {
+    "betty_magenta_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1875,7 +1875,7 @@
         }
       }
     },
-    "magenta_cyan": {
+    "betty_magenta_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1888,7 +1888,7 @@
         }
       }
     },
-    "magenta_gray": {
+    "betty_magenta_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1901,7 +1901,7 @@
         }
       }
     },
-    "magenta_green": {
+    "betty_magenta_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1914,7 +1914,7 @@
         }
       }
     },
-    "magenta_light_blue": {
+    "betty_magenta_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1927,7 +1927,7 @@
         }
       }
     },
-    "magenta_light_gray": {
+    "betty_magenta_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1940,7 +1940,7 @@
         }
       }
     },
-    "magenta_lime": {
+    "betty_magenta_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1953,7 +1953,7 @@
         }
       }
     },
-    "magenta_magenta": {
+    "betty_magenta_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1966,7 +1966,7 @@
         }
       }
     },
-    "magenta_orange": {
+    "betty_magenta_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1979,7 +1979,7 @@
         }
       }
     },
-    "magenta_pink": {
+    "betty_magenta_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -1992,7 +1992,7 @@
         }
       }
     },
-    "magenta_purple": {
+    "betty_magenta_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2005,7 +2005,7 @@
         }
       }
     },
-    "magenta_red": {
+    "betty_magenta_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2018,7 +2018,7 @@
         }
       }
     },
-    "magenta_white": {
+    "betty_magenta_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2031,7 +2031,7 @@
         }
       }
     },
-    "orange_black": {
+    "betty_orange_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2044,7 +2044,7 @@
         }
       }
     },
-    "orange_blue": {
+    "betty_orange_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2057,7 +2057,7 @@
         }
       }
     },
-    "orange_brown": {
+    "betty_orange_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2070,7 +2070,7 @@
         }
       }
     },
-    "orange_cyan": {
+    "betty_orange_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2083,7 +2083,7 @@
         }
       }
     },
-    "orange_gray": {
+    "betty_orange_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2096,7 +2096,7 @@
         }
       }
     },
-    "orange_green": {
+    "betty_orange_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2109,7 +2109,7 @@
         }
       }
     },
-    "orange_light_blue": {
+    "betty_orange_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2122,7 +2122,7 @@
         }
       }
     },
-    "orange_light_gray": {
+    "betty_orange_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2135,7 +2135,7 @@
         }
       }
     },
-    "orange_lime": {
+    "betty_orange_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2148,7 +2148,7 @@
         }
       }
     },
-    "orange_magenta": {
+    "betty_orange_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2161,7 +2161,7 @@
         }
       }
     },
-    "orange_orange": {
+    "betty_orange_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2174,7 +2174,7 @@
         }
       }
     },
-    "orange_pink": {
+    "betty_orange_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2187,7 +2187,7 @@
         }
       }
     },
-    "orange_purple": {
+    "betty_orange_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2200,7 +2200,7 @@
         }
       }
     },
-    "orange_red": {
+    "betty_orange_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2213,7 +2213,7 @@
         }
       }
     },
-    "orange_white": {
+    "betty_orange_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2226,7 +2226,7 @@
         }
       }
     },
-    "orange_yellow": {
+    "betty_orange_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2239,7 +2239,7 @@
         }
       }
     },
-    "pink_black": {
+    "betty_pink_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2252,7 +2252,7 @@
         }
       }
     },
-    "pink_blue": {
+    "betty_pink_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2265,7 +2265,7 @@
         }
       }
     },
-    "pink_brown": {
+    "betty_pink_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2278,7 +2278,7 @@
         }
       }
     },
-    "pink_cyan": {
+    "betty_pink_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2291,7 +2291,7 @@
         }
       }
     },
-    "pink_gray": {
+    "betty_pink_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2304,7 +2304,7 @@
         }
       }
     },
-    "pink_green": {
+    "betty_pink_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2317,7 +2317,7 @@
         }
       }
     },
-    "pink_light_blue": {
+    "betty_pink_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2330,7 +2330,7 @@
         }
       }
     },
-    "pink_light_gray": {
+    "betty_pink_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2343,7 +2343,7 @@
         }
       }
     },
-    "pink_lime": {
+    "betty_pink_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2356,7 +2356,7 @@
         }
       }
     },
-    "pink_magenta": {
+    "betty_pink_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2369,7 +2369,7 @@
         }
       }
     },
-    "pink_orange": {
+    "betty_pink_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2382,7 +2382,7 @@
         }
       }
     },
-    "pink_pink": {
+    "betty_pink_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2395,7 +2395,7 @@
         }
       }
     },
-    "pink_purple": {
+    "betty_pink_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2408,7 +2408,7 @@
         }
       }
     },
-    "pink_red": {
+    "betty_pink_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2421,7 +2421,7 @@
         }
       }
     },
-    "pink_white": {
+    "betty_pink_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2434,7 +2434,7 @@
         }
       }
     },
-    "pink_yellow": {
+    "betty_pink_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2447,7 +2447,7 @@
         }
       }
     },
-    "purple_black": {
+    "betty_purple_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2460,7 +2460,7 @@
         }
       }
     },
-    "purple_blue": {
+    "betty_purple_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2473,7 +2473,7 @@
         }
       }
     },
-    "purple_brown": {
+    "betty_purple_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2486,7 +2486,7 @@
         }
       }
     },
-    "purple_cyan": {
+    "betty_purple_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2499,7 +2499,7 @@
         }
       }
     },
-    "purple_gray": {
+    "betty_purple_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2512,7 +2512,7 @@
         }
       }
     },
-    "purple_green": {
+    "betty_purple_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2525,7 +2525,7 @@
         }
       }
     },
-    "purple_light_blue": {
+    "betty_purple_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2538,7 +2538,7 @@
         }
       }
     },
-    "purple_light_gray": {
+    "betty_purple_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2551,7 +2551,7 @@
         }
       }
     },
-    "purple_lime": {
+    "betty_purple_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2564,7 +2564,7 @@
         }
       }
     },
-    "purple_magenta": {
+    "betty_purple_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2577,7 +2577,7 @@
         }
       }
     },
-    "purple_orange": {
+    "betty_purple_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2590,7 +2590,7 @@
         }
       }
     },
-    "purple_pink": {
+    "betty_purple_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2603,7 +2603,7 @@
         }
       }
     },
-    "purple_purple": {
+    "betty_purple_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2616,7 +2616,7 @@
         }
       }
     },
-    "purple_red": {
+    "betty_purple_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2629,7 +2629,7 @@
         }
       }
     },
-    "purple_white": {
+    "betty_purple_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2642,7 +2642,7 @@
         }
       }
     },
-    "purple_yellow": {
+    "betty_purple_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2655,7 +2655,7 @@
         }
       }
     },
-    "red_black": {
+    "betty_red_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2668,7 +2668,7 @@
         }
       }
     },
-    "red_blue": {
+    "betty_red_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2681,7 +2681,7 @@
         }
       }
     },
-    "red_brown": {
+    "betty_red_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2694,7 +2694,7 @@
         }
       }
     },
-    "red_cyan": {
+    "betty_red_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2707,7 +2707,7 @@
         }
       }
     },
-    "red_gray": {
+    "betty_red_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2720,7 +2720,7 @@
         }
       }
     },
-    "red_green": {
+    "betty_red_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2733,7 +2733,7 @@
         }
       }
     },
-    "red_lime": {
+    "betty_red_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2746,7 +2746,7 @@
         }
       }
     },
-    "red_magenta": {
+    "betty_red_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2759,7 +2759,7 @@
         }
       }
     },
-    "red_orange": {
+    "betty_red_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2772,7 +2772,7 @@
         }
       }
     },
-    "red_pink": {
+    "betty_red_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2785,7 +2785,7 @@
         }
       }
     },
-    "red_purple": {
+    "betty_red_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2798,7 +2798,7 @@
         }
       }
     },
-    "red_red": {
+    "betty_red_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2811,7 +2811,7 @@
         }
       }
     },
-    "red_white": {
+    "betty_red_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2824,7 +2824,7 @@
         }
       }
     },
-    "red_yellow": {
+    "betty_red_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2837,7 +2837,7 @@
         }
       }
     },
-    "white_black": {
+    "betty_white_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2850,7 +2850,7 @@
         }
       }
     },
-    "white_blue": {
+    "betty_white_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2863,7 +2863,7 @@
         }
       }
     },
-    "white_brown": {
+    "betty_white_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2876,7 +2876,7 @@
         }
       }
     },
-    "white_cyan": {
+    "betty_white_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2889,7 +2889,7 @@
         }
       }
     },
-    "white_gray": {
+    "betty_white_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2902,7 +2902,7 @@
         }
       }
     },
-    "white_green": {
+    "betty_white_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2915,7 +2915,7 @@
         }
       }
     },
-    "white_light_blue": {
+    "betty_white_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2928,7 +2928,7 @@
         }
       }
     },
-    "white_light_gray": {
+    "betty_white_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2941,7 +2941,7 @@
         }
       }
     },
-    "white_lime": {
+    "betty_white_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2954,7 +2954,7 @@
         }
       }
     },
-    "white_magenta": {
+    "betty_white_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2967,7 +2967,7 @@
         }
       }
     },
-    "white_orange": {
+    "betty_white_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2980,7 +2980,7 @@
         }
       }
     },
-    "white_pink": {
+    "betty_white_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2993,7 +2993,7 @@
         }
       }
     },
-    "white_purple": {
+    "betty_white_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3006,7 +3006,7 @@
         }
       }
     },
-    "white_red": {
+    "betty_white_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3019,7 +3019,7 @@
         }
       }
     },
-    "white_white": {
+    "betty_white_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3032,7 +3032,7 @@
         }
       }
     },
-    "white_yellow": {
+    "betty_white_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3045,7 +3045,7 @@
         }
       }
     },
-    "yellow_black": {
+    "betty_yellow_black": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3058,7 +3058,7 @@
         }
       }
     },
-    "yellow_blue": {
+    "betty_yellow_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3071,7 +3071,7 @@
         }
       }
     },
-    "yellow_brown": {
+    "betty_yellow_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3084,7 +3084,7 @@
         }
       }
     },
-    "yellow_cyan": {
+    "betty_yellow_cyan": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3097,7 +3097,7 @@
         }
       }
     },
-    "yellow_gray": {
+    "betty_yellow_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3110,7 +3110,7 @@
         }
       }
     },
-    "yellow_green": {
+    "betty_yellow_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3123,7 +3123,7 @@
         }
       }
     },
-    "yellow_light_blue": {
+    "betty_yellow_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3136,7 +3136,7 @@
         }
       }
     },
-    "yellow_light_gray": {
+    "betty_yellow_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3149,7 +3149,7 @@
         }
       }
     },
-    "yellow_lime": {
+    "betty_yellow_lime": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3162,7 +3162,7 @@
         }
       }
     },
-    "yellow_magenta": {
+    "betty_yellow_magenta": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3175,7 +3175,7 @@
         }
       }
     },
-    "yellow_orange": {
+    "betty_yellow_orange": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3188,7 +3188,7 @@
         }
       }
     },
-    "yellow_pink": {
+    "betty_yellow_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3201,7 +3201,7 @@
         }
       }
     },
-    "yellow_purple": {
+    "betty_yellow_purple": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3214,7 +3214,7 @@
         }
       }
     },
-    "yellow_red": {
+    "betty_yellow_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3227,7 +3227,7 @@
         }
       }
     },
-    "yellow_white": {
+    "betty_yellow_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3240,7 +3240,7 @@
         }
       }
     },
-    "yellow_yellow": {
+    "betty_yellow_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3253,7 +3253,7 @@
         }
       }
     },
-    "cyan_pink": {
+    "betty_cyan_pink": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3266,7 +3266,7 @@
         }
       }
     },
-    "cyan_red": {
+    "betty_cyan_red": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3279,7 +3279,7 @@
         }
       }
     },
-    "cyan_white": {
+    "betty_cyan_white": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3292,7 +3292,7 @@
         }
       }
     },
-    "cyan_yellow": {
+    "betty_cyan_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3305,7 +3305,7 @@
         }
       }
     },
-    "light_gray_brown": {
+    "betty_light_gray_brown": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3318,7 +3318,7 @@
         }
       }
     },
-    "lime_green": {
+    "betty_lime_green": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3331,7 +3331,7 @@
         }
       }
     },
-    "magenta_yellow": {
+    "betty_magenta_yellow": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3344,7 +3344,7 @@
         }
       }
     },
-    "red_light_blue": {
+    "betty_red_light_blue": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -3357,7 +3357,7 @@
         }
       }
     },
-    "red_light_gray": {
+    "betty_red_light_gray": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {

@@ -21,6 +21,13 @@
           "text": " "
         },
         {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " "
+        },
+        {
           "translate": "item.minecraft.firework_star.lime"
         },
         {
@@ -28,13 +35,6 @@
         },
         {
           "translate": "item.minecraft.firework_star.light_blue"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "mob_heads.head",
-          "fallback": "Head"
         }
       ]
     },
@@ -46,13 +46,6 @@
           "text": " "
         },
         {
-          "translate": "mob_heads.tropical_fish.betty",
-          "fallback": "Betty"
-        },
-        {
-          "text": " "
-        },
-        {
           "translate": "item.minecraft.firework_star.lime"
         },
         {
@@ -60,6 +53,13 @@
         },
         {
           "translate": "item.minecraft.firework_star.light_blue"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.tropical_fish.betty",
+          "fallback": "Betty"
         },
         {
           "text": " "

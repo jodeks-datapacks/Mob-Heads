@@ -61,18 +61,18 @@ def gen_advancement_collection(
                 "translate": fish_name_key,
                 "fallback": fish_fallback,
                 "extra": [
-                    *color_extras(colors),
                     {"text": " "},
-                    {"translate": "mob_heads.head", "fallback": "Head"}
+                    {"translate": "mob_heads.head", "fallback": "Head"},
+                    *color_extras(colors)
                 ]
             },
             "description": {
                 "translate": "mob_heads.advancement.collection.collect_the",
                 "fallback": "Collect the",
                 "extra": [
+                    *color_extras(colors),
                     {"text": " "},
                     {"translate": fish_name_key, "fallback": fish_fallback},
-                    *color_extras(colors),
                     {"text": " "},
                     {"translate": "mob_heads.head", "fallback": "Head"}
                 ]
@@ -145,7 +145,7 @@ def gen_advancement_fish_type(fish_type: str, entries: list) -> dict:
         variant = entry["variant"]
         colors = parse_colors(variant)
         body_color, pattern_color = colors[0], colors[1]
-        criteria[variant] = {
+        criteria[f"{fish_type}_{variant}"] = {
             "trigger": "minecraft:tick",
             "conditions": {
                 "player": {
@@ -235,6 +235,68 @@ def gen_advancement_killed_mob_check() -> dict:
             "function": f"mob_heads:app/notification/run/{ENTITY_TYPE}"
         }
     }
+
+
+# ── Root (all fish types combined) ───────────────────────────────────────────
+
+def gen_advancement_root(all_fish: dict[str, list]) -> dict:
+    """Root advancement — one criterion per variant across all fish types."""
+    criteria = {}
+    for fish_type, entries in all_fish.items():
+        for entry in entries:
+            variant = entry["variant"]
+            colors = parse_colors(variant)
+            body_color, pattern_color = colors[0], colors[1]
+            key = f"{fish_type}_{variant}"
+            criteria[key] = {
+                "trigger": "minecraft:tick",
+                "conditions": {
+                    "player": {
+                        "type_specific": {
+                            "type": "minecraft:player",
+                            "advancements": {
+                                f"mob_heads:{CATEGORY}/{fish_type}/{body_color}/{pattern_color}": True
+                            }
+                        }
+                    }
+                }
+            }
+
+    return {
+        "display": {
+            "icon": {
+                "id": "minecraft:tropical_fish"
+            },
+            "title": {
+                "translate": NAME_KEY,
+                "fallback": "Tropical Fish",
+                "extra": [
+                    {"text": " "},
+                    {"translate": "mob_heads.heads", "fallback": "Heads"}
+                ]
+            },
+            "description": {
+                "translate": "mob_heads.advancement.collection.collect_all",
+                "fallback": "Collect all",
+                "extra": [
+                    {"text": " "},
+                    {"translate": NAME_KEY, "fallback": "Tropical Fish"},
+                    {"text": " "},
+                    {"translate": "mob_heads.heads", "fallback": "Heads"}
+                ]
+            },
+            "background": "minecraft:block/flowering_azalea_leaves",
+            "frame": "challenge",
+            "show_toast": True,
+            "announce_to_chat": True
+        },
+        "criteria": criteria
+    }
+
+
+def write_root_advancement(all_fish: dict[str, list]):
+    base = OUTPUT_ROOT / "advancements" / "collection"
+    write(base / "tropical_fish.json", jdump(gen_advancement_root(all_fish)))
 
 
 # ── Write functions ───────────────────────────────────────────────────────────

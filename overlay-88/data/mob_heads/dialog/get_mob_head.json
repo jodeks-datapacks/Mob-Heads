@@ -58,12 +58,12 @@
     },
     {
       "label": {
-        "translate": "mob_heads.title.tropcial_fish_heads",
+        "translate": "mob_heads.title.tropical_fish_heads",
         "fallback": "Tropical Fish Heads"
       },
       "action": {
         "type": "minecraft:show_dialog",
-        "dialog": "mob_heads:heads/tropcial_fish"
+        "dialog": "mob_heads:heads/tropical_fish"
       }
     }
   ]

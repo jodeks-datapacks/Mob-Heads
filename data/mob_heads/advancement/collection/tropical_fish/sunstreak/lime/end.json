@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "end": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "parent": "mob_heads:collection/tropical_fish/sunstreak/lime/yellow"
+}
