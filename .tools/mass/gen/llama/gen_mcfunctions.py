@@ -1,40 +1,44 @@
 """
 gen_mcfunctions.py
-mcfunction generators for tropical fish heads.
+mcfunction generators for happy_ghast heads.
 
 Generates per variant:
-  get_mob_head/tropical_fish/<fish_type>/<body_color>/<pattern_color>.mcfunction
+  get_mob_head/happy_ghast/<harness_color>/<state>.mcfunction
 
-Generates once per fish type:
-  get_mob_head/tropical_fish/<fish_type>_dialog.mcfunction
+Generates dialog:
+  get_mob_head/happy_ghast/dialog.mcfunction
 
 Generates shared (once):
-  notification/check/tropical_fish.mcfunction
-  notification/dropped/tropical_fish.mcfunction
-  notification/run/tropical_fish.mcfunction
+  notification/check/happy_ghast.mcfunction
+  notification/dropped/happy_ghast.mcfunction
+  notification/run/happy_ghast.mcfunction
 """
 
 from _constants import (
     ENTITY_TYPE, SOUND, CATEGORY,
     OUTPUT_ROOT, SCRIPT_DIR,
-    write, parse_colors, group_entries_by_body_color,
+    write, jdump, parse_variant, state_fallback, group_entries_by_harness_color,
 )
 
 
 # ── Per-variant ───────────────────────────────────────────────────────────────
 
-def gen_get_mob_head(fish_type: str, variant: str, texture: str) -> str:
-    fish_name_key = f"mob_heads.tropical_fish.{fish_type}"
-    colors = parse_colors(variant)
-    color_parts = "".join(
-        f'{{"text": " "}},{{"translate": "item.minecraft.firework_star.{c}"}},'
-        for c in colors
+def gen_get_mob_head(variant: str, texture: str) -> str:
+    harness_color, state = parse_variant(variant)
+    fb = state_fallback(state)
+    name_json = (
+        f'{{"translate":"entity.minecraft.{ENTITY_TYPE}",'
+        f'"extra":[{{"text":" "}},'
+        f'{{"translate":"item.minecraft.{harness_color}_harness"}},'
+        f'{{"text":" "}},'
+        f'{{"translate":"mob_heads.head","fallback":"Head"}},'
+        f'{{"text":" "}},'
+        f'{{"translate":"mob_heads.happy_ghast.{state}","fallback":"{fb}"}}],'
+        f'"color":"white",italic:false}}'
     )
     return (
         f'give @s minecraft:player_head['
-        f'minecraft:custom_name={{"translate": "{fish_name_key}", "fallback": "{fish_type.title()}", '
-        f'"extra": [{color_parts}{{"text": " "}},{{"translate": "mob_heads.head","fallback": "Head"}}],'
-        f'"color":"white",italic:false}},'
+        f'minecraft:custom_name={name_json},'
         f'note_block_sound="{SOUND}",'
         f'profile={{properties:[{{name:"textures",value:"{texture}"}}]}}] 1\n'
     )
@@ -42,65 +46,59 @@ def gen_get_mob_head(fish_type: str, variant: str, texture: str) -> str:
 
 # ── Dialog ────────────────────────────────────────────────────────────────────
 
-def _dialog_action(fish_type: str, body_color: str, pattern_color: str, texture: str) -> str:
-    command = f"function mob_heads:app/get_mob_head/tropical_fish/{fish_type}/{body_color}/{pattern_color}"
-    tex = texture.rstrip("=")
-    lines = [
-        "    {",
-        '      "label": {',
-        '        "player": {',
-        '          "properties": [',
-        "            {",
-        '              "name": "textures",',
-        f'              "value": "{tex}"',
-        "            }",
-        "          ]",
-        "        },",
-        '        "extra": [',
-        '          "|"',
-        "        ]",
-        "      },",
-        "      action:{",
-        '        type:"run_command",',
-        f'        command:"{command}"',
-        "      },",
-        '      "width": 22',
-        "    }",
-    ]
-    return "\n".join(lines)
+def _dialog_action(harness_color: str, state: str, texture: str) -> dict:
+    return {
+        "label": {
+            "player": {
+                "properties": [
+                    {"name": "textures", "value": texture.rstrip("=")}
+                ]
+            },
+            "extra": ["|"]
+        },
+        "action": {
+            "type": "run_command",
+            "command": f"function mob_heads:app/get_mob_head/happy_ghast/{harness_color}/{state}"
+        },
+        "width": 22
+    }
 
 
-def gen_dialog(fish_type: str, entries: list) -> str:
-    groups = group_entries_by_body_color(entries)
+def gen_dialog(entries: list) -> str:
+    groups = group_entries_by_harness_color(entries)
     actions = []
-    for body_color, group_entries in groups.items():
+    for harness_color, group_entries in groups.items():
         for entry in group_entries:
-            variant = entry["variant"]
-            pattern_color = parse_colors(variant)[1]
-            actions.append(_dialog_action(fish_type, body_color, pattern_color, entry["texture"]))
+            _, state = parse_variant(entry["variant"])
+            actions.append(_dialog_action(harness_color, state, entry["texture"]))
 
-    actions_str = ",\n".join(actions)
-    return (
-        'dialog show @s {\\\n'
-        '  type:"minecraft:multi_action",\\\n'
-        '  title:"Get Mob Head",\\\n'
-        '  "body": {\\\n'
-        '    "type": "minecraft:plain_message",\\\n'
-        '    "contents": [\\\n'
-        '      "Click on a head and click \\"Run Command\\"",\\\n'
-        '      "\\n",\\\n'
-        '      "\\n",\\\n'
-        '      "Close with escape"\\\n'
-        '    ]\\\n'
-        '  },\\\n'
-        '  columns:15,\\\n'
-        '  "after_action": "none",\\\n'
-        '  actions:[\\\n'
-        + actions_str.replace("\n", "\\\n")
-        + "\\\n"
-        '  ]\\\n'
-        '}\n'
-    )
+    return jdump({
+        "type": "minecraft:multi_action",
+        "title": "Get Mob Head",
+        "body": {
+            "type": "minecraft:plain_message",
+            "contents": [
+                "Click on a head and click 'Run Command'",
+                "\n",
+                "\n",
+                "Close with escape"
+            ]
+        },
+        "pause": False,
+        "exit_action": {
+            "label": {
+                "translate": "jodek.exit",
+                "fallback": "Exit"
+            },
+            "action": {
+                "type": "minecraft:show_dialog",
+                "dialog": "mob_heads:get_mob_head"
+            }
+        },
+        "columns": 15,
+        "after_action": "none",
+        "actions": actions
+    })
 
 
 # ── Shared (once) ─────────────────────────────────────────────────────────────
@@ -135,23 +133,19 @@ def gen_notification_run() -> str:
 
 # ── Write functions ───────────────────────────────────────────────────────────
 
-def write_mcfunctions_for_fish_type(fish_type: str, entries: list):
-    groups = group_entries_by_body_color(entries)
-    base = OUTPUT_ROOT / "get_mob_head" / "tropical_fish"
+def write_mcfunctions(entries: list):
+    groups = group_entries_by_harness_color(entries)
+    base = OUTPUT_ROOT / "get_mob_head" / "happy_ghast"
 
-    for body_color, group_entries in groups.items():
+    for harness_color, group_entries in groups.items():
         for entry in group_entries:
-            variant = entry["variant"]
-            pattern_color = parse_colors(variant)[1]
+            _, state = parse_variant(entry["variant"])
             write(
-                base / fish_type / body_color / f"{pattern_color}.mcfunction",
-                gen_get_mob_head(fish_type, variant, entry["texture"])
+                base / harness_color / f"{state}.mcfunction",
+                gen_get_mob_head(entry["variant"], entry["texture"])
             )
 
-    write(
-        base / f"{fish_type}_dialog.mcfunction",
-        gen_dialog(fish_type, entries)
-    )
+    write(base / "dialog.json", gen_dialog(entries))
 
 
 def write_shared_mcfunctions(force: bool = False):

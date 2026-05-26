@@ -17,6 +17,422 @@
     "frame": "challenge"
   },
   "criteria": {
+    "happy_ghast_black_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/black/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_black_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/black/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_blue_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/blue/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_blue_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/blue/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_brown_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/brown/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_brown_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/brown/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_cyan_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/cyan/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_cyan_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/cyan/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_gray_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/gray/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_gray_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/gray/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_green_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/green/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_green_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/green/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_light_blue_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/light_blue/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_light_blue_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/light_blue/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_light_gray_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/light_gray/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_light_gray_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/light_gray/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_lime_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/lime/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_lime_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/lime/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_magenta_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/magenta/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_magenta_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/magenta/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_orange_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/orange/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_orange_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/orange/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_pink_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/pink/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_pink_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/pink/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_purple_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/purple/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_purple_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/purple/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_red_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/red/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_red_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/red/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_white_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/white/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_white_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/white/up": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_yellow_down": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/yellow/down": true
+            }
+          }
+        }
+      }
+    },
+    "happy_ghast_yellow_up": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/happy_ghast/yellow/up": true
+            }
+          }
+        }
+      }
+    },
     "snow_golem": {
       "trigger": "minecraft:tick",
       "conditions": {

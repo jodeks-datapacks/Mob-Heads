@@ -1,0 +1,341 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.happy_ghast.ambient"
+              }
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NzAwNDg0NDU0NiwKICAicHJvZmlsZUlkIiA6ICIzZDIxZTYyMTk2NzQ0Y2QwYjM3NjNkNTU3MWNlNGJlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcl83MUJsYWNrYmlyZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YmI1MTM0ODkzZmUwZTQxZTI0MzYwZTkyYWFkMjlmODM4ZWZjNTNkNWRlNzNhMDk0OTFiYmI0MjY0NWZhMWNjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.happy_ghast",
+                "color": "white",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "item.minecraft.pink_harness"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.happy_ghast.up",
+                    "fallback": "(Goggles Up)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&happy_ghast"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 0
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.happy_ghast",
+                "color": "yellow",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "item.minecraft.pink_harness"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.happy_ghast.up",
+                    "fallback": "(Goggles Up)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&happy_ghast"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 1
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.happy_ghast",
+                "color": "aqua",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "item.minecraft.pink_harness"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.happy_ghast.up",
+                    "fallback": "(Goggles Up)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&happy_ghast"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 2
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.happy_ghast",
+                "color": "dark_purple",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "item.minecraft.pink_harness"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.happy_ghast.up",
+                    "fallback": "(Goggles Up)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&happy_ghast"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 3
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.happy_ghast",
+                "color": "gold",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "item.minecraft.pink_harness"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.happy_ghast.up",
+                    "fallback": "(Goggles Up)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&happy_ghast"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 4
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "entity.minecraft.happy_ghast",
+                "color": "green",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "item.minecraft.pink_harness"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.happy_ghast.up",
+                    "fallback": "(Goggles Up)"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&happy_ghast"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 5
+                }
+              ]
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mob_heads:root",
+                "path": "data.happy_ghast"
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "slots": {
+                  "armor.body": {
+                    "items": "minecraft:pink_harness"
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "passenger": {
+                    "type": "minecraft:player"
+                  }
+                }
+              }
+            },
+            {
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

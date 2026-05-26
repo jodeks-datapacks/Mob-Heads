@@ -1,49 +1,37 @@
 """
 gen_advancements.py
-Advancement generators for tropical fish heads.
+Advancement generators for happy_ghast heads.
 
 Generates:
   Per variant:
-    advancements/collection/tropical_fish/<fish_type>/<body_color>/<pattern_color>.json
-    advancements/collection/tropical_fish/<fish_type>/<body_color>/end.json
-  Per fish type:
-    advancements/collection/tropical_fish/<fish_type>.json
-  Shared (once):
-    advancements/notification/killed_mob_check/tropical_fish.json
+    advancements/collection/happy_ghast/<harness_color>/<state>.json
+    advancements/collection/happy_ghast/<harness_color>/end.json
+  Root (once):
+    advancements/collection/happy_ghast.json
+  Notification:
+    advancements/notification/killed_mob_check/happy_ghast.json
 
-Advancement parent chain per body-color group:
-  betty.json
-    └── black/black.json   (parent: betty)
-          └── black/blue.json  (parent: black/black)
-                └── ...
-                      └── black/yellow.json
-                            └── black/end.json
-    └── blue/black.json   (parent: betty)
+Advancement parent chain per harness-color group:
+  happy_ghast.json
+    └── black/down.json   (parent: happy_ghast)
+          └── black/up.json  (parent: black/down)
+                └── black/end.json
+    └── blue/down.json   (parent: happy_ghast)
           └── ...
 """
 
 from _constants import (
-    ENTITY_TYPE, NAME_KEY, SOUND, CATEGORY,
+    ENTITY_TYPE, NAME_KEY, CATEGORY,
     OUTPUT_ROOT, SCRIPT_DIR,
-    jdump, write, color_extras, parse_colors, group_entries_by_body_color,
+    jdump, write, name_extras, parse_variant, group_entries_by_harness_color,
 )
 
 
 # ── Per-variant ───────────────────────────────────────────────────────────────
 
-def gen_advancement_collection(
-    fish_type: str,
-    variant: str,
-    texture: str,
-    parent: str,
-) -> dict:
-    fish_name_key = f"mob_heads.tropical_fish.{fish_type}"
-    fish_fallback = fish_type.title()
-    colors = parse_colors(variant)
-    colors_list = parse_colors(variant)
-    body_color = colors_list[0]
-    pattern_color = colors_list[1]
-    adv_path = f"{CATEGORY}/{fish_type}/{body_color}/{pattern_color}"
+def gen_advancement_collection(variant: str, texture: str, parent: str) -> dict:
+    harness_color, state = parse_variant(variant)
+    extras = name_extras(harness_color, state)
 
     return {
         "display": {
@@ -58,23 +46,16 @@ def gen_advancement_collection(
                 }
             },
             "title": {
-                "translate": fish_name_key,
-                "fallback": fish_fallback,
-                "extra": [
-                    *color_extras(colors),
-                    {"text": " "},
-                    {"translate": "mob_heads.head", "fallback": "Head"}
-                ]
+                "translate": NAME_KEY,
+                "extra": extras
             },
             "description": {
                 "translate": "mob_heads.advancement.collection.collect_the",
                 "fallback": "Collect the",
                 "extra": [
                     {"text": " "},
-                    {"translate": fish_name_key, "fallback": fish_fallback},
-                    *color_extras(colors),
-                    {"text": " "},
-                    {"translate": "mob_heads.head", "fallback": "Head"}
+                    {"translate": NAME_KEY},
+                    *extras
                 ]
             },
             "frame": "task",
@@ -119,40 +100,34 @@ def gen_advancement_collection(
     }
 
 
-def gen_advancement_end(fish_type: str, body_color: str, last_variant: str) -> dict:
-    """end.json for a body-color group, parent = last variant in the group."""
-    colors = parse_colors(last_variant)
-    last_pattern = colors[1]
+def gen_advancement_end(harness_color: str, last_variant: str) -> dict:
+    """end.json for a harness-color group, parent = last variant in the group."""
+    _, state = parse_variant(last_variant)
     return {
         "criteria": {
             "end": {
                 "trigger": "minecraft:location"
             }
         },
-        "parent": f"mob_heads:{CATEGORY}/{fish_type}/{body_color}/{last_pattern}"
+        "parent": f"mob_heads:{CATEGORY}/{harness_color}/{state}"
     }
 
 
-# ── Per fish type ─────────────────────────────────────────────────────────────
+# ── Root ──────────────────────────────────────────────────────────────────────
 
-def gen_advancement_fish_type(fish_type: str, entries: list) -> dict:
-    """Central advancement for a fish type — one criterion per variant."""
-    fish_name_key = f"mob_heads.tropical_fish.{fish_type}"
-    fish_fallback = fish_type.title()
-
+def gen_advancement_root(entries: list) -> dict:
+    """Root advancement — one criterion per variant, tracks collecting all heads."""
     criteria = {}
     for entry in entries:
-        variant = entry["variant"]
-        colors = parse_colors(variant)
-        body_color, pattern_color = colors[0], colors[1]
-        criteria[variant] = {
+        harness_color, state = parse_variant(entry["variant"])
+        criteria[entry["variant"]] = {
             "trigger": "minecraft:tick",
             "conditions": {
                 "player": {
                     "type_specific": {
                         "type": "minecraft:player",
                         "advancements": {
-                            f"mob_heads:{CATEGORY}/{fish_type}/{body_color}/{pattern_color}": True
+                            f"mob_heads:{CATEGORY}/{harness_color}/{state}": True
                         }
                     }
                 }
@@ -162,11 +137,10 @@ def gen_advancement_fish_type(fish_type: str, entries: list) -> dict:
     return {
         "display": {
             "icon": {
-                "id": "minecraft:tube_coral"
+                "id": "minecraft:ghast_tear"
             },
             "title": {
-                "translate": fish_name_key,
-                "fallback": fish_fallback,
+                "translate": NAME_KEY,
                 "extra": [
                     {"text": " "},
                     {"translate": "mob_heads.heads", "fallback": "Heads"}
@@ -177,21 +151,21 @@ def gen_advancement_fish_type(fish_type: str, entries: list) -> dict:
                 "fallback": "Collect all",
                 "extra": [
                     {"text": " "},
-                    {"translate": fish_name_key, "fallback": fish_fallback},
+                    {"translate": NAME_KEY},
                     {"text": " "},
                     {"translate": "mob_heads.heads", "fallback": "Heads"}
                 ]
             },
-            "frame": "goal",
+            "background": "minecraft:block/flowering_azalea_leaves",
+            "frame": "challenge",
             "show_toast": True,
             "announce_to_chat": True
         },
-        "parent": f"mob_heads:{CATEGORY}",
         "criteria": criteria
     }
 
 
-# ── Shared (once) ─────────────────────────────────────────────────────────────
+# ── Notification (once) ───────────────────────────────────────────────────────
 
 def gen_advancement_killed_mob_check() -> dict:
     return {
@@ -239,35 +213,29 @@ def gen_advancement_killed_mob_check() -> dict:
 
 # ── Write functions ───────────────────────────────────────────────────────────
 
-def write_advancements_for_fish_type(fish_type: str, entries: list):
-    groups = group_entries_by_body_color(entries)
-    base = OUTPUT_ROOT / "advancements" / "collection" / "tropical_fish"
+def write_advancements(entries: list):
+    groups = group_entries_by_harness_color(entries)
+    base = OUTPUT_ROOT / "advancements" / "collection" / "happy_ghast"
 
-    for body_color, group_entries in groups.items():
-        prev_parent = f"mob_heads:{CATEGORY}/{fish_type}"
+    for harness_color, group_entries in groups.items():
+        prev_parent = f"mob_heads:{CATEGORY}"
 
         for entry in group_entries:
             variant = entry["variant"]
-            colors = parse_colors(variant)
-            pattern_color = colors[1]
+            _, state = parse_variant(variant)
 
-            adv = gen_advancement_collection(
-                fish_type, variant, entry["texture"], prev_parent
-            )
-            write(base / fish_type / body_color / f"{pattern_color}.json", jdump(adv))
+            adv = gen_advancement_collection(variant, entry["texture"], prev_parent)
+            write(base / harness_color / f"{state}.json", jdump(adv))
 
-            # Next advancement's parent is this one
-            prev_parent = f"mob_heads:{CATEGORY}/{fish_type}/{body_color}/{pattern_color}"
+            prev_parent = f"mob_heads:{CATEGORY}/{harness_color}/{state}"
 
-        # end.json — parent is the last variant in the group
         last_variant = group_entries[-1]["variant"]
-        end = gen_advancement_end(fish_type, body_color, last_variant)
-        write(base / fish_type / body_color / "end.json", jdump(end))
+        end = gen_advancement_end(harness_color, last_variant)
+        write(base / harness_color / "end.json", jdump(end))
 
-    # Central fish type advancement
     write(
-        base / f"{fish_type}.json",
-        jdump(gen_advancement_fish_type(fish_type, entries))
+        OUTPUT_ROOT / "advancements" / "collection" / "happy_ghast.json",
+        jdump(gen_advancement_root(entries))
     )
 
 

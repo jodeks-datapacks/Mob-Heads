@@ -231,6 +231,20 @@
             {
               "condition": "reference",
               "name": "mob_heads:should_head_drop"
+            },
+            {
+              "condition": "minecraft:inverted",
+              "term":             {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "slots": {
+                  "armor.body": {
+                    "items": "#minecraft:harnesses"
+                  }
+                }
+              }
+            }
             }
           ]
         }
