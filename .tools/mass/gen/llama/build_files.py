@@ -1,29 +1,32 @@
 """
 build_files.py
-Generates all Minecraft datapack files for happy_ghast heads from the head_data cache.
+Generates all Minecraft datapack files for llama heads from the head_data cache.
 
 Usage:
   python build_files.py
 
-Input:  output/head_data/happy_ghast.json
+Input:  output/head_data/llama.json
 Output: output/generated/
 
-  Per variant (grouped by harness color):
-    advancements/collection/happy_ghast/<harness_color>/<state>.json
-    advancements/collection/happy_ghast/<harness_color>/end.json
-    loot_table/happy_ghast/<harness_color>/<state>.json
-    get_mob_head/happy_ghast/<harness_color>/<state>.mcfunction
+  Per variant (grouped by llama color):
+    advancements/collection/llama/<llama_color>/no_carpet.json
+    advancements/collection/llama/<llama_color>/<carpet_color>.json
+    advancements/collection/llama/<llama_color>/end.json
+    loot_table/llama/<llama_color>/no_carpet.json
+    loot_table/llama/<llama_color>/<carpet_color>.json
+    get_mob_head/llama/<llama_color>/no_carpet.mcfunction
+    get_mob_head/llama/<llama_color>/<carpet_color>.mcfunction
 
   Root:
-    advancements/collection/happy_ghast.json
-    loot_table/happy_ghast.json
-    get_mob_head/happy_ghast/dialog.mcfunction
+    advancements/collection/llama.json
+    loot_table/llama.json
+    get_mob_head/llama/dialog.json
 
   Shared (written once, skipped if already present):
-    advancements/notification/killed_mob_check/happy_ghast.json
-    notification/check/happy_ghast.mcfunction
-    notification/dropped/happy_ghast.mcfunction
-    notification/run/happy_ghast.mcfunction
+    advancements/notification/killed_mob_check/llama.json
+    notification/check/llama.mcfunction
+    notification/dropped/llama.mcfunction
+    notification/run/llama.mcfunction
 """
 
 import json

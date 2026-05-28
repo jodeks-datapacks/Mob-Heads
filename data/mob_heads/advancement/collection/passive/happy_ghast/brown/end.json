@@ -1,8 +1,0 @@
-{
-  "criteria": {
-    "end": {
-      "trigger": "minecraft:location"
-    }
-  },
-  "parent": "mob_heads:collection/passive/happy_ghast/brown/up"
-}

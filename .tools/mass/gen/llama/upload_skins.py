@@ -1,12 +1,13 @@
 """
 upload_skins.py
-Uploads happy_ghast skin PNGs to mineskin.org and saves texture values to a cache JSON.
+Uploads llama skin PNGs to mineskin.org and saves texture values to a cache JSON.
 
 Usage:
   python upload_skins.py [--api-key YOUR_KEY]
 
-Input:  skins/happy_ghast_<harness_color>_<state>.png
-Output: output/head_data/happy_ghast.json
+Input:  skins/llama_<llama_color>.png
+        skins/llama_<llama_color>_<carpet_color>.png
+Output: output/head_data/llama.json
 
 Resume-safe: already uploaded variants are skipped.
 Rate limit: ~1 req/s anonymous, faster with API key (get one at https://mineskin.org/account).
@@ -23,9 +24,9 @@ import urllib.error
 SCRIPT_DIR  = pathlib.Path(__file__).parent
 SKINS_DIR   = SCRIPT_DIR / "skins"
 OUTPUT_DIR  = SCRIPT_DIR / "output" / "head_data"
-CACHE_PATH  = OUTPUT_DIR / "happy_ghast.json"
+CACHE_PATH  = OUTPUT_DIR / "llama.json"
 
-SKIN_PREFIX = "happy_ghast_"
+SKIN_PREFIX = "llama_"
 
 MINESKIN_URL = "https://api.mineskin.org/generate/upload"
 RATE_LIMIT_DELAY     = 7.0
@@ -111,13 +112,13 @@ def main():
     uploaded = 0
     failed   = 0
 
-    print(f"Uploading {len(skins)} skins for happy_ghast...")
+    print(f"Uploading {len(skins)} skins for llama...")
     if not api_key:
         print("  Tip: use --api-key for faster uploads (https://mineskin.org/account)")
     print()
 
     for i, skin_path in enumerate(skins, 1):
-        # Strip 'happy_ghast_' prefix so variant = e.g. 'black_down'
+        # Strip 'llama_' prefix and lowercase so variant = e.g. 'brown' or 'brown_white'
         variant = slug(skin_path.stem).removeprefix(SKIN_PREFIX)
 
         if variant in cache:

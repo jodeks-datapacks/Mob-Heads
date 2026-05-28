@@ -1,12 +1,12 @@
 """
 gen_dialog.py
-Standalone script to regenerate only the dialog json for happy_ghast heads.
+Standalone script to regenerate only the dialog json for llama heads.
 
 Usage:
   python gen_dialog.py
 
-Input:  output/head_data/happy_ghast.json
-Output: output/generated/get_mob_head/happy_ghast/dialog.json
+Input:  output/head_data/llama.json
+Output: output/generated/get_mob_head/llama/dialog.json
 """
 
 import json
@@ -14,7 +14,7 @@ import json
 from _constants import DATA_DIR, OUTPUT_ROOT, ENTITY_TYPE, write
 from gen_mcfunctions import gen_dialog
 
-    
+
 def main():
     cache_path = DATA_DIR / f"{ENTITY_TYPE}.json"
 

@@ -17,6 +17,877 @@
     "frame": "challenge"
   },
   "criteria": {
+    "happy_ghast": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/happy_ghast/adult": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/no_carpet": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/black": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/brown": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/green": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/lime": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/orange": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/pink": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/purple": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/red": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/white": true
+            }
+          }
+        }
+      }
+    },
+    "llama_brown_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/brown/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/black": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/brown": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/green": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/lime": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/orange": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/pink": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/purple": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/red": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/white": true
+            }
+          }
+        }
+      }
+    },
+    "llama_creamy_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/creamy/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/no_carpet": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/black": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/brown": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/green": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/lime": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/pink": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/purple": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/red": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/white": true
+            }
+          }
+        }
+      }
+    },
+    "llama_gray_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/gray/yellow": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/no_carpet": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_black": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/black": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_brown": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/brown": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_cyan": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/cyan": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_green": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/green": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_light_blue": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/light_blue": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_light_gray": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/light_gray": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_lime": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/lime": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_magenta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/magenta": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_orange": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/orange": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_pink": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/pink": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_purple": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/purple": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_red": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/red": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_white": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/white": true
+            }
+          }
+        }
+      }
+    },
+    "llama_white_yellow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/llama/white/yellow": true
+            }
+          }
+        }
+      }
+    },
     "happy_ghast_black_down": {
       "trigger": "minecraft:tick",
       "conditions": {
@@ -433,7 +1304,7 @@
         }
       }
     },
-    "snow_golem": {
+    "snow_golem_pumpkin": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {

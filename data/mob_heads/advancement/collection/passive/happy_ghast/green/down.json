@@ -75,7 +75,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/happy_ghast",
+  "parent": "mob_heads:collection/passive/happy_ghast/gray/up",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",

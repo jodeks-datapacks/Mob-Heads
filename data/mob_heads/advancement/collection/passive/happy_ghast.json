@@ -41,6 +41,19 @@
   },
   "parent": "mob_heads:collection/passive",
   "criteria": {
+    "happy_ghast": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "advancements": {
+              "mob_heads:collection/passive/happy_ghast/adult": true
+            }
+          }
+        }
+      }
+    },
     "black_down": {
       "trigger": "minecraft:tick",
       "conditions": {

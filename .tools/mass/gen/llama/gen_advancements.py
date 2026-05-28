@@ -1,37 +1,40 @@
 """
 gen_advancements.py
-Advancement generators for happy_ghast heads.
+Advancement generators for llama heads.
 
 Generates:
   Per variant:
-    advancements/collection/happy_ghast/<harness_color>/<state>.json
-    advancements/collection/happy_ghast/<harness_color>/end.json
+    advancements/collection/llama/<llama_color>/no_carpet.json
+    advancements/collection/llama/<llama_color>/<carpet_color>.json
+    advancements/collection/llama/<llama_color>/end.json
   Root (once):
-    advancements/collection/happy_ghast.json
+    advancements/collection/llama.json
   Notification:
-    advancements/notification/killed_mob_check/happy_ghast.json
+    advancements/notification/killed_mob_check/llama.json
 
-Advancement parent chain per harness-color group:
-  happy_ghast.json
-    └── black/down.json   (parent: happy_ghast)
-          └── black/up.json  (parent: black/down)
-                └── black/end.json
-    └── blue/down.json   (parent: happy_ghast)
+Advancement parent chain per llama-color group:
+  llama.json
+    └── brown/no_carpet.json   (parent: llama)
+          └── brown/black.json  (parent: brown/no_carpet)
+                └── ...
+                      └── brown/yellow.json
+                            └── brown/end.json
+    └── creamy/no_carpet.json  (parent: llama)
           └── ...
 """
 
 from _constants import (
     ENTITY_TYPE, NAME_KEY, CATEGORY,
     OUTPUT_ROOT, SCRIPT_DIR,
-    jdump, write, name_extras, parse_variant, group_entries_by_harness_color,
+    jdump, write, name_extras, parse_variant, carpet_key, group_entries_by_llama_color,
 )
 
 
 # ── Per-variant ───────────────────────────────────────────────────────────────
 
 def gen_advancement_collection(variant: str, texture: str, parent: str) -> dict:
-    harness_color, state = parse_variant(variant)
-    extras = name_extras(harness_color, state)
+    llama_color, carpet = parse_variant(variant)
+    extras = name_extras(llama_color, carpet)
 
     return {
         "display": {
@@ -46,7 +49,7 @@ def gen_advancement_collection(variant: str, texture: str, parent: str) -> dict:
                 }
             },
             "title": {
-                "translate": NAME_KEY,
+                "translate": f"item.minecraft.firework_star.{llama_color}",
                 "extra": extras
             },
             "description": {
@@ -54,7 +57,7 @@ def gen_advancement_collection(variant: str, texture: str, parent: str) -> dict:
                 "fallback": "Collect the",
                 "extra": [
                     {"text": " "},
-                    {"translate": NAME_KEY},
+                    {"translate": f"item.minecraft.firework_star.{llama_color}"},
                     *extras
                 ]
             },
@@ -100,16 +103,16 @@ def gen_advancement_collection(variant: str, texture: str, parent: str) -> dict:
     }
 
 
-def gen_advancement_end(harness_color: str, last_variant: str) -> dict:
-    """end.json for a harness-color group, parent = last variant in the group."""
-    _, state = parse_variant(last_variant)
+def gen_advancement_end(llama_color: str, last_variant: str) -> dict:
+    """end.json for a llama-color group, parent = last variant in the group."""
+    key = carpet_key(last_variant)
     return {
         "criteria": {
             "end": {
                 "trigger": "minecraft:location"
             }
         },
-        "parent": f"mob_heads:{CATEGORY}/{harness_color}/{state}"
+        "parent": f"mob_heads:{CATEGORY}/{llama_color}/{key}"
     }
 
 
@@ -119,7 +122,8 @@ def gen_advancement_root(entries: list) -> dict:
     """Root advancement — one criterion per variant, tracks collecting all heads."""
     criteria = {}
     for entry in entries:
-        harness_color, state = parse_variant(entry["variant"])
+        llama_color, _ = parse_variant(entry["variant"])
+        key = carpet_key(entry["variant"])
         criteria[entry["variant"]] = {
             "trigger": "minecraft:tick",
             "conditions": {
@@ -127,7 +131,7 @@ def gen_advancement_root(entries: list) -> dict:
                     "type_specific": {
                         "type": "minecraft:player",
                         "advancements": {
-                            f"mob_heads:{CATEGORY}/{harness_color}/{state}": True
+                            f"mob_heads:{CATEGORY}/{llama_color}/{key}": True
                         }
                     }
                 }
@@ -137,7 +141,7 @@ def gen_advancement_root(entries: list) -> dict:
     return {
         "display": {
             "icon": {
-                "id": "minecraft:ghast_tear"
+                "id": "minecraft:llama_spawn_egg"
             },
             "title": {
                 "translate": NAME_KEY,
@@ -214,27 +218,27 @@ def gen_advancement_killed_mob_check() -> dict:
 # ── Write functions ───────────────────────────────────────────────────────────
 
 def write_advancements(entries: list):
-    groups = group_entries_by_harness_color(entries)
-    base = OUTPUT_ROOT / "advancements" / "collection" / "happy_ghast"
+    groups = group_entries_by_llama_color(entries)
+    base = OUTPUT_ROOT / "advancements" / "collection" / "llama"
 
-    for harness_color, group_entries in groups.items():
+    for llama_color, group_entries in groups.items():
         prev_parent = f"mob_heads:{CATEGORY}"
 
         for entry in group_entries:
             variant = entry["variant"]
-            _, state = parse_variant(variant)
+            key = carpet_key(variant)
 
             adv = gen_advancement_collection(variant, entry["texture"], prev_parent)
-            write(base / harness_color / f"{state}.json", jdump(adv))
+            write(base / llama_color / f"{key}.json", jdump(adv))
 
-            prev_parent = f"mob_heads:{CATEGORY}/{harness_color}/{state}"
+            prev_parent = f"mob_heads:{CATEGORY}/{llama_color}/{key}"
 
         last_variant = group_entries[-1]["variant"]
-        end = gen_advancement_end(harness_color, last_variant)
-        write(base / harness_color / "end.json", jdump(end))
+        end = gen_advancement_end(llama_color, last_variant)
+        write(base / llama_color / "end.json", jdump(end))
 
     write(
-        OUTPUT_ROOT / "advancements" / "collection" / "happy_ghast.json",
+        OUTPUT_ROOT / "advancements" / "collection" / "llama.json",
         jdump(gen_advancement_root(entries))
     )
 

@@ -12,19 +12,20 @@ OUTPUT_ROOT = SCRIPT_DIR / "output" / "generated"
 
 # ── Minecraft constants ───────────────────────────────────────────────────────
 
-ENTITY_TYPE = "happy_ghast"
-NAME_KEY    = "entity.minecraft.happy_ghast"
-SOUND       = "minecraft:entity.happy_ghast.ambient"
-CATEGORY    = "collection/happy_ghast"
+ENTITY_TYPE = "llama"
+NAME_KEY    = "entity.minecraft.llama"
+SOUND       = "minecraft:entity.llama.ambient"
+CATEGORY    = "collection/llama"
 
 RARITY_COLORS = ["white", "yellow", "aqua", "dark_purple", "gold", "green"]
 
-HARNESS_COLORS = [
+LLAMA_COLORS = ["brown", "creamy", "gray", "white"]
+
+CARPET_COLORS = [
     "black", "blue", "brown", "cyan", "gray", "green",
     "light_blue", "light_gray", "lime", "magenta",
     "orange", "pink", "purple", "red", "white", "yellow",
 ]
-GOGGLE_STATES = ["down", "up"]
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -42,34 +43,42 @@ def slug(name: str) -> str:
     return name.replace("-", "_").replace(" ", "_").lower()
 
 
-def parse_variant(variant: str) -> tuple[str, str]:
-    """'black_down' → ('black', 'down'), 'light_blue_up' → ('light_blue', 'up')"""
-    harness_color, state = variant.rsplit("_", 1)
-    return harness_color, state
+def parse_variant(variant: str) -> tuple[str, str | None]:
+    """'brown' → ('brown', None), 'brown_white' → ('brown', 'white'), 'brown_light_blue' → ('brown', 'light_blue')"""
+    parts = variant.split("_", 1)
+    if len(parts) == 1:
+        return parts[0], None
+    return parts[0], parts[1]
 
 
-def state_fallback(state: str) -> str:
-    return "(Goggles Down)" if state == "down" else "(Goggles Up)"
+def carpet_key(variant: str) -> str:
+    """Returns the carpet color, or 'no_carpet' if the llama has no carpet."""
+    _, carpet = parse_variant(variant)
+    return carpet if carpet is not None else "no_carpet"
 
 
-def name_extras(harness_color: str, state: str) -> list[dict]:
-    """Extras list for item name: harness translate + head + goggle state."""
-    return [
+def name_extras(llama_color: str, carpet: str | None) -> list[dict]:
+    """Extras list for item name: entity + head [+ carpet]."""
+    extras = [
         {"text": " "},
-        {"translate": f"item.minecraft.{harness_color}_harness"},
+        {"translate": f"entity.minecraft.{ENTITY_TYPE}"},
         {"text": " "},
         {"translate": "mob_heads.head", "fallback": "Head"},
-        {"text": " "},
-        {"translate": f"mob_heads.happy_ghast.{state}", "fallback": state_fallback(state)},
     ]
+    if carpet is not None:
+        extras += [
+            {"text": " "},
+            {"translate": f"block.minecraft.{carpet}_carpet"},
+        ]
+    return extras
 
 
-def group_entries_by_harness_color(entries: list[dict]) -> dict[str, list[dict]]:
-    """Group variants by harness color, sorted in HARNESS_COLORS order."""
+def group_entries_by_llama_color(entries: list[dict]) -> dict[str, list[dict]]:
+    """Group variants by llama color, sorted in LLAMA_COLORS order."""
     groups: dict[str, list[dict]] = {}
     for entry in entries:
-        harness_color, _ = parse_variant(entry["variant"])
-        groups.setdefault(harness_color, []).append(entry)
+        llama_color, _ = parse_variant(entry["variant"])
+        groups.setdefault(llama_color, []).append(entry)
     for color in groups:
         groups[color].sort(key=lambda e: e["variant"])
-    return {c: groups[c] for c in HARNESS_COLORS if c in groups}
+    return {c: groups[c] for c in LLAMA_COLORS if c in groups}

@@ -1,0 +1,332 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc3OTgxNjA2NzU1NiwKICAicHJvZmlsZUlkIiA6ICIzMjFjNTBiMjJhY2Q0OGUxOGEyMGU0N2I2ZThhYjE2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWdodDEzMzM3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyY2I0MTk3ZjZhOTM0NTI4MmY3M2MxYzI1ZWM2ZjE2MTc0NGI1ZmY3YmUzYjIxOWZkNmIyNjk3NjVhMDg2NTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "white",
+                "translate": "item.minecraft.firework_star.gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "entity.minecraft.llama"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "block.minecraft.white_carpet"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&llama"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 0
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "yellow",
+                "translate": "item.minecraft.firework_star.gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "entity.minecraft.llama"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "block.minecraft.white_carpet"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&llama"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 1
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "aqua",
+                "translate": "item.minecraft.firework_star.gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "entity.minecraft.llama"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "block.minecraft.white_carpet"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&llama"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 2
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "dark_purple",
+                "translate": "item.minecraft.firework_star.gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "entity.minecraft.llama"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "block.minecraft.white_carpet"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&llama"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 3
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "gold",
+                "translate": "item.minecraft.firework_star.gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "entity.minecraft.llama"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "block.minecraft.white_carpet"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&llama"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 4
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "green",
+                "translate": "item.minecraft.firework_star.gray",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "entity.minecraft.llama"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "block.minecraft.white_carpet"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&llama"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 5
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "minecraft:entity.llama.ambient"
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mob_heads:root",
+                "path": "data.llama"
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "components": {
+                  "minecraft:llama/variant": "gray"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "slots": {
+                  "armor.body": {
+                    "items": "minecraft:white_carpet"
+                  }
+                }
+              }
+            },
+            {
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

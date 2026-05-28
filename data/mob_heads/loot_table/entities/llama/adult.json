@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/llama/adult/brown"
+          "value": "mob_heads:entities/llama/adult/brown/no_carpet"
         }
       ]
     },
@@ -15,7 +15,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/llama/adult/gray"
+          "value": "mob_heads:entities/llama/adult/brown/black"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/llama/adult/white"
+          "value": "mob_heads:entities/llama/adult/brown/blue"
         }
       ]
     },
@@ -33,7 +33,583 @@
       "entries": [
         {
           "type": "loot_table",
-          "value": "mob_heads:entities/llama/adult/creamy"
+          "value": "mob_heads:entities/llama/adult/brown/brown"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/cyan"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/green"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/light_blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/light_gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/lime"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/magenta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/orange"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/pink"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/purple"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/red"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/white"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/brown/yellow"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/no_carpet"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/black"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/brown"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/cyan"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/green"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/light_blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/light_gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/lime"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/magenta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/orange"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/pink"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/purple"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/red"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/white"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/creamy/yellow"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/no_carpet"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/black"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/brown"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/cyan"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/green"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/light_blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/light_gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/lime"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/magenta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/orange"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/pink"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/purple"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/red"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/white"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/gray/yellow"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/no_carpet"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/black"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/brown"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/cyan"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/green"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/light_blue"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/light_gray"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/lime"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/magenta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/orange"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/pink"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/purple"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/red"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/white"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/llama/adult/white/yellow"
         }
       ]
     }

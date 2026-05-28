@@ -1,39 +1,45 @@
 """
 gen_mcfunctions.py
-mcfunction generators for happy_ghast heads.
+mcfunction generators for llama heads.
 
 Generates per variant:
-  get_mob_head/happy_ghast/<harness_color>/<state>.mcfunction
+  get_mob_head/llama/<llama_color>/no_carpet.mcfunction
+  get_mob_head/llama/<llama_color>/<carpet_color>.mcfunction
 
 Generates dialog:
-  get_mob_head/happy_ghast/dialog.mcfunction
+  get_mob_head/llama/dialog.json
 
 Generates shared (once):
-  notification/check/happy_ghast.mcfunction
-  notification/dropped/happy_ghast.mcfunction
-  notification/run/happy_ghast.mcfunction
+  notification/check/llama.mcfunction
+  notification/dropped/llama.mcfunction
+  notification/run/llama.mcfunction
 """
 
 from _constants import (
     ENTITY_TYPE, SOUND, CATEGORY,
     OUTPUT_ROOT, SCRIPT_DIR,
-    write, jdump, parse_variant, state_fallback, group_entries_by_harness_color,
+    write, jdump, parse_variant, carpet_key, group_entries_by_llama_color,
 )
 
 
 # ── Per-variant ───────────────────────────────────────────────────────────────
 
 def gen_get_mob_head(variant: str, texture: str) -> str:
-    harness_color, state = parse_variant(variant)
-    fb = state_fallback(state)
+    llama_color, carpet = parse_variant(variant)
+    extras_json = (
+        f'{{"text":" "}},'
+        f'{{"translate":"entity.minecraft.{ENTITY_TYPE}"}},'
+        f'{{"text":" "}},'
+        f'{{"translate":"mob_heads.head","fallback":"Head"}}'
+    )
+    if carpet is not None:
+        extras_json += (
+            f',{{"text":" "}},'
+            f'{{"translate":"block.minecraft.{carpet}_carpet"}}'
+        )
     name_json = (
-        f'{{"translate":"entity.minecraft.{ENTITY_TYPE}",'
-        f'"extra":[{{"text":" "}},'
-        f'{{"translate":"item.minecraft.{harness_color}_harness"}},'
-        f'{{"text":" "}},'
-        f'{{"translate":"mob_heads.head","fallback":"Head"}},'
-        f'{{"text":" "}},'
-        f'{{"translate":"mob_heads.happy_ghast.{state}","fallback":"{fb}"}}],'
+        f'{{"translate":"item.minecraft.firework_star.{llama_color}",'
+        f'"extra":[{extras_json}],'
         f'"color":"white",italic:false}}'
     )
     return (
@@ -46,7 +52,7 @@ def gen_get_mob_head(variant: str, texture: str) -> str:
 
 # ── Dialog ────────────────────────────────────────────────────────────────────
 
-def _dialog_action(harness_color: str, state: str, texture: str) -> dict:
+def _dialog_action(llama_color: str, key: str, texture: str) -> dict:
     return {
         "label": {
             "player": {
@@ -58,19 +64,19 @@ def _dialog_action(harness_color: str, state: str, texture: str) -> dict:
         },
         "action": {
             "type": "run_command",
-            "command": f"function mob_heads:app/get_mob_head/happy_ghast/{harness_color}/{state}"
+            "command": f"function mob_heads:app/get_mob_head/llama/{llama_color}/{key}"
         },
         "width": 22
     }
 
 
 def gen_dialog(entries: list) -> str:
-    groups = group_entries_by_harness_color(entries)
+    groups = group_entries_by_llama_color(entries)
     actions = []
-    for harness_color, group_entries in groups.items():
+    for llama_color, group_entries in groups.items():
         for entry in group_entries:
-            _, state = parse_variant(entry["variant"])
-            actions.append(_dialog_action(harness_color, state, entry["texture"]))
+            key = carpet_key(entry["variant"])
+            actions.append(_dialog_action(llama_color, key, entry["texture"]))
 
     return jdump({
         "type": "minecraft:multi_action",
@@ -134,14 +140,14 @@ def gen_notification_run() -> str:
 # ── Write functions ───────────────────────────────────────────────────────────
 
 def write_mcfunctions(entries: list):
-    groups = group_entries_by_harness_color(entries)
-    base = OUTPUT_ROOT / "get_mob_head" / "happy_ghast"
+    groups = group_entries_by_llama_color(entries)
+    base = OUTPUT_ROOT / "get_mob_head" / "llama"
 
-    for harness_color, group_entries in groups.items():
+    for llama_color, group_entries in groups.items():
         for entry in group_entries:
-            _, state = parse_variant(entry["variant"])
+            key = carpet_key(entry["variant"])
             write(
-                base / harness_color / f"{state}.mcfunction",
+                base / llama_color / f"{key}.mcfunction",
                 gen_get_mob_head(entry["variant"], entry["texture"])
             )
 
