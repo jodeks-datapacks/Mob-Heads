@@ -231,6 +231,18 @@
             {
               "condition": "reference",
               "name": "mob_heads:should_head_drop"
+            },
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "components": {
+                    "minecraft:custom_name": "jeb_"
+                  }
+                }
+              }
             }
           ]
         }

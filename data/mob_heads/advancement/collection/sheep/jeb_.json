@@ -7,30 +7,16 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM5ODFiOTIzNjY2MmJiY2QxNmIwM2E2MGRhZGMzZDI1NGJiNmIyN2MyMjg2NjhiODQwYmMwODdlY2EwZjBhZCJ9fX0="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdlMmJmNTM5YzhlMGFkNDY4ZTUyN2I0N2NmM2EyMWQ0ZTlhY2UxODcyM2E3MjI0OWI3ZDYzZTg1ZmI4YWUwIn19fQ=="
             }
           ]
         }
       }
     },
     "title": {
-      "translate": "biome.minecraft.savanna",
-      "fallback": "Savanna",
+      "translate": "jeb_",
+      "fallback": "jeb_",
       "extra": [
-        {
-          "text": " "
-        },
-        {
-          "translate": "mob_heads.baby",
-          "fallback": "Baby"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "entity.minecraft.zombie_villager",
-          "fallback": "Zombie Villager"
-        },
         {
           "text": " "
         },
@@ -48,22 +34,7 @@
           "text": " "
         },
         {
-          "translate": "mob_heads.baby",
-          "fallback": "Baby"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "biome.minecraft.savanna",
-          "fallback": "Savanna"
-        },
-        {
-          "text": " "
-        },
-        {
-          "translate": "entity.minecraft.zombie_villager",
-          "fallback": "Zombie Villager"
+          "translate": "jeb_"
         },
         {
           "text": " "
@@ -76,9 +47,10 @@
     },
     "frame": "task",
     "show_toast": true,
-    "announce_to_chat": true
+    "announce_to_chat": true,
+    "hidden": false
   },
-  "parent": "mob_heads:collection/baby/zombie_villager/plains",
+  "parent": "mob_heads:collection/sheep/yellow",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
@@ -105,7 +77,7 @@
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM5ODFiOTIzNjY2MmJiY2QxNmIwM2E2MGRhZGMzZDI1NGJiNmIyN2MyMjg2NjhiODQwYmMwODdlY2EwZjBhZCJ9fX0="
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdlMmJmNTM5YzhlMGFkNDY4ZTUyN2I0N2NmM2EyMWQ0ZTlhY2UxODcyM2E3MjI0OWI3ZDYzZTg1ZmI4YWUwIn19fQ=="
                   }
                 ]
               }

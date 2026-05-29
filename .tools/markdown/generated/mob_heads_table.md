@@ -1,4 +1,5 @@
 <!-- HEADS_TABLE_START -->
+
 ## A
 
 <table>
@@ -1438,8 +1439,8 @@
               <a href="https://minecraft.wiki/images/Sheep1.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
     <td align="center">
-              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/sheep_jeb.webp" width="48"><br>
-              <b>_jeb Sheep</b><br>Drop Rate: 2%<br>
+              <img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/projects/mob_heads/heads/sheepjeb_.webp" width="48"><br>
+              <b>jeb_ Sheep</b><br>Drop Rate: 2%<br>
               <a href="https://minecraft.wiki/images/Sheep1.ogg" target="_blank"><img src="https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Noteblock.png"></a>
           </td>
   </tr>

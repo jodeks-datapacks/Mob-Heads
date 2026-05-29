@@ -11,21 +11,15 @@
               "type": "minecraft:sheep",
               "flags": {
                 "is_baby": true
-              },
-              "components": {
-                "minecraft:sheep/color": "cyan"
               }
             }
           },
           {
-            "condition": "minecraft:inverted",
-            "term": {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "components": {
-                  "minecraft:custom_name": "jeb_"
-                }
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "components": {
+                "minecraft:custom_name": "jeb_"
               }
             }
           }
@@ -34,6 +28,6 @@
     }
   },
   "rewards": {
-    "function": "mob_heads:app/baby_heads/sheep/cyan"
+    "function": "mob_heads:app/baby_heads/sheep/jeb_"
   }
 }

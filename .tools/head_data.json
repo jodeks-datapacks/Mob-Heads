@@ -1,8 +1,8 @@
 [
   {
-    "name": "entity.minecraft.snow_golem",
+    "name": "entity.minecraft.sheep",
     "fallback": "",
-    "entity_type": "snow_golem",
+    "entity_type": "sheep",
     "head_name": "head",
     "note_block_sound": "minecraft:entity.snow_golem.hurt",
     "texture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ1NGNjNGE4ZDBmZDhhMDQxZDg4N2Y3ZmIwODdiMjBiNWU1NDBmNGUwZjE4NzcxNWIyOGNiMTJmY2ZjNzljZCJ9fX0=",

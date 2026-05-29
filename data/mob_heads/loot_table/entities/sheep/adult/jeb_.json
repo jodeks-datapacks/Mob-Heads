@@ -12,7 +12,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "minecraft:note_block_sound": "minecraft:entity.nautilus.eat"
+                "minecraft:note_block_sound": "minecraft:entity.sheep.ambient"
               }
             },
             {
@@ -26,7 +26,7 @@
                   "properties": [
                     {
                       "name": "textures",
-                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQzZWFjMGMzYWQ4NzRiZjk0ODdlNThkYzQ3ODdiYzkwMzQ2MGZlNzY3OWRkNmNjZTk1OGNjYmVhNjQ2Y2JmNCJ9fX0="
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdlMmJmNTM5YzhlMGFkNDY4ZTUyN2I0N2NmM2EyMWQ0ZTlhY2UxODcyM2E3MjI0OWI3ZDYzZTg1ZmI4YWUwIn19fQ=="
                     }
                   ]
                 }
@@ -35,17 +35,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "entity.minecraft.nautilus",
+                "translate": "jeb_",
                 "color": "white",
                 "italic": false,
                 "extra": [
-                  {
-                    "text": " "
-                  },
-                  {
-                    "translate": "mob_heads.baby",
-                    "fallback": "Baby"
-                  },
                   {
                     "text": " "
                   },
@@ -62,7 +55,7 @@
                     "type": "minecraft:score",
                     "target": {
                       "type": "minecraft:fixed",
-                      "name": "&nautilus"
+                      "name": "&sheep"
                     },
                     "score": "mob_heads.rarity"
                   },
@@ -73,17 +66,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "entity.minecraft.nautilus",
+                "translate": "jeb_",
                 "color": "yellow",
                 "italic": false,
                 "extra": [
-                  {
-                    "text": " "
-                  },
-                  {
-                    "translate": "mob_heads.baby",
-                    "fallback": "Baby"
-                  },
                   {
                     "text": " "
                   },
@@ -100,7 +86,7 @@
                     "type": "minecraft:score",
                     "target": {
                       "type": "minecraft:fixed",
-                      "name": "&nautilus"
+                      "name": "&sheep"
                     },
                     "score": "mob_heads.rarity"
                   },
@@ -111,17 +97,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "entity.minecraft.nautilus",
+                "translate": "jeb_",
                 "color": "aqua",
                 "italic": false,
                 "extra": [
-                  {
-                    "text": " "
-                  },
-                  {
-                    "translate": "mob_heads.baby",
-                    "fallback": "Baby"
-                  },
                   {
                     "text": " "
                   },
@@ -138,7 +117,7 @@
                     "type": "minecraft:score",
                     "target": {
                       "type": "minecraft:fixed",
-                      "name": "&nautilus"
+                      "name": "&sheep"
                     },
                     "score": "mob_heads.rarity"
                   },
@@ -149,17 +128,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "entity.minecraft.nautilus",
+                "translate": "jeb_",
                 "color": "dark_purple",
                 "italic": false,
                 "extra": [
-                  {
-                    "text": " "
-                  },
-                  {
-                    "translate": "mob_heads.baby",
-                    "fallback": "Baby"
-                  },
                   {
                     "text": " "
                   },
@@ -176,7 +148,7 @@
                     "type": "minecraft:score",
                     "target": {
                       "type": "minecraft:fixed",
-                      "name": "&nautilus"
+                      "name": "&sheep"
                     },
                     "score": "mob_heads.rarity"
                   },
@@ -187,17 +159,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "entity.minecraft.nautilus",
+                "translate": "jeb_",
                 "color": "gold",
                 "italic": false,
                 "extra": [
-                  {
-                    "text": " "
-                  },
-                  {
-                    "translate": "mob_heads.baby",
-                    "fallback": "Baby"
-                  },
                   {
                     "text": " "
                   },
@@ -214,7 +179,7 @@
                     "type": "minecraft:score",
                     "target": {
                       "type": "minecraft:fixed",
-                      "name": "&nautilus"
+                      "name": "&sheep"
                     },
                     "score": "mob_heads.rarity"
                   },
@@ -225,17 +190,10 @@
             {
               "function": "minecraft:set_name",
               "name": {
-                "translate": "entity.minecraft.nautilus",
+                "translate": "jeb_",
                 "color": "green",
                 "italic": false,
                 "extra": [
-                  {
-                    "text": " "
-                  },
-                  {
-                    "translate": "mob_heads.baby",
-                    "fallback": "Baby"
-                  },
                   {
                     "text": " "
                   },
@@ -252,7 +210,7 @@
                     "type": "minecraft:score",
                     "target": {
                       "type": "minecraft:fixed",
-                      "name": "&nautilus"
+                      "name": "&sheep"
                     },
                     "score": "mob_heads.rarity"
                   },
@@ -267,7 +225,20 @@
               "chance": {
                 "type": "minecraft:storage",
                 "storage": "mob_heads:root",
-                "path": "data.nautilus"
+                "path": "data.sheep"
+              }
+            },
+            {
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop"
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "components": {
+                  "minecraft:custom_name": "jeb_"
+                }
               }
             }
           ]

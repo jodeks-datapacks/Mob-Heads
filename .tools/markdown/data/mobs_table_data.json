@@ -1792,8 +1792,8 @@
     "sound": "https://minecraft.wiki/images/Shear.ogg"
   },
   {
-    "name": "_jeb Sheep",
-    "image": "sheep_jeb",
+    "name": "jeb_ Sheep",
+    "image": "sheepjeb_",
     "drop_rate": "2%",
     "category": "S",
     "sub_category": "Sheep",

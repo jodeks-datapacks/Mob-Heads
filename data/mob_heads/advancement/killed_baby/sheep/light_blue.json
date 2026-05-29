@@ -16,6 +16,18 @@
                 "minecraft:sheep/color": "light_blue"
               }
             }
+          },
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "components": {
+                  "minecraft:custom_name": "jeb_"
+                }
+              }
+            }
           }
         ]
       }

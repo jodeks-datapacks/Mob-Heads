@@ -4,5 +4,5 @@
       "trigger": "minecraft:location"
     }
   },
-  "parent": "mob_heads:collection/sheep/_jeb"
+  "parent": "mob_heads:collection/sheep/jeb_"
 }

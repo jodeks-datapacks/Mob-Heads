@@ -7,16 +7,22 @@
           "properties": [
             {
               "name": "textures",
-              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdlMmJmNTM5YzhlMGFkNDY4ZTUyN2I0N2NmM2EyMWQ0ZTlhY2UxODcyM2E3MjI0OWI3ZDYzZTg1ZmI4YWUwIn19fQ=="
+              "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTcyYmYxNTRiYTI2NTA0Zjg2Yzc4MmIyNWQ4NmZjYjBjNTIxNzMxOTYyODI2MGE1YzQwODFmMWFlMTUzNmUxNyJ9fX0="
             }
           ]
         }
       }
     },
     "title": {
-      "translate": "_jeb",
-      "fallback": "_jeb",
+      "translate": "jeb_",
       "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
+        },
         {
           "text": " "
         },
@@ -34,7 +40,14 @@
           "text": " "
         },
         {
-          "translate": "_jeb"
+          "translate": "jeb_"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.baby",
+          "fallback": "Baby"
         },
         {
           "text": " "
@@ -50,7 +63,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/sheep/yellow",
+  "parent": "mob_heads:collection/baby/sheep/yellow",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
@@ -77,7 +90,7 @@
                 "properties": [
                   {
                     "name": "textures",
-                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjdlMmJmNTM5YzhlMGFkNDY4ZTUyN2I0N2NmM2EyMWQ0ZTlhY2UxODcyM2E3MjI0OWI3ZDYzZTg1ZmI4YWUwIn19fQ=="
+                    "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTcyYmYxNTRiYTI2NTA0Zjg2Yzc4MmIyNWQ4NmZjYjBjNTIxNzMxOTYyODI2MGE1YzQwODFmMWFlMTUzNmUxNyJ9fX0="
                   }
                 ]
               }

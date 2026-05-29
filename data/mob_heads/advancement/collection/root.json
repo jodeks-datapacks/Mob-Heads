@@ -1317,14 +1317,14 @@
         }
       }
     },
-    "_jeb": {
+    "jeb_": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/sheep/_jeb": true
+              "mob_heads:collection/sheep/jeb_": true
             }
           }
         }
