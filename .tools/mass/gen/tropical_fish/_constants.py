@@ -14,7 +14,7 @@ OUTPUT_ROOT = SCRIPT_DIR / "output" / "generated"
 
 ENTITY_TYPE = "tropical_fish"
 NAME_KEY    = "entity.minecraft.tropical_fish"
-SOUND       = "minecraft:entity.tropical_fish.ambient"
+SOUND       = "minecraft:entity.tropical_fish.flop"
 CATEGORY    = "collection/tropical_fish"
 
 RARITY_COLORS = ["white", "yellow", "aqua", "dark_purple", "gold", "green"]
