@@ -1,26 +1,13 @@
 """
 generate_head_data.py
 Generates all datapack files for each mob head entry in head_data.json.
-
-Output structure (relative to repo root, passed as OUTPUT_ROOT or cwd):
-  .tools/generated/heads/
-    advancements/collection/<entity_type>.json
-    advancements/notification/killed_mob_check/<entity_type>.json
-    get_mob_head/<entity_type>.mcfunction
-    loot_table/<entity_type>.json
-    notification/check/<entity_type>.mcfunction
-    notification/dropped/<entity_type>.mcfunction
-    notification/run/<entity_type>.mcfunction
 """
 
 import json
-import os
 import pathlib
 import sys
 
-# ---------------------------------------------------------------------------
 # Config
-# ---------------------------------------------------------------------------
 
 SCRIPT_DIR = pathlib.Path(__file__).parent
 INPUT_FILE = SCRIPT_DIR / "head_data.json"
@@ -28,10 +15,7 @@ OUTPUT_ROOT = SCRIPT_DIR / "generated" / "heads"
 
 RARITY_COLORS = ["white", "yellow", "aqua", "dark_purple", "gold", "green"]
 
-
-# ---------------------------------------------------------------------------
 # Helpers
-# ---------------------------------------------------------------------------
 
 def write(path: pathlib.Path, content: str):
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -42,10 +26,7 @@ def write(path: pathlib.Path, content: str):
 def jdump(obj) -> str:
     return json.dumps(obj, indent=2, ensure_ascii=False)
 
-
-# ---------------------------------------------------------------------------
 # File generators
-# ---------------------------------------------------------------------------
 
 def gen_loot_table(mob: dict) -> dict:
     et = mob["entity_type"]
@@ -324,10 +305,7 @@ def gen_notification_run(mob: dict) -> str:
         f'scoreboard players add &{et} mob_heads.killed.mob 1\n'
     )
 
-
-# ---------------------------------------------------------------------------
 # Main
-# ---------------------------------------------------------------------------
 
 def generate(mob: dict):
     et = mob["entity_type"]

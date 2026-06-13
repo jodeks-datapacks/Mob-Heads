@@ -1,5 +1,3 @@
-import math
-import os
 from itertools import groupby
 from pathlib import Path
 
@@ -13,7 +11,7 @@ DROP_RATE = "5%"
 RENDERS_DIR = Path(__file__).parent / "mass/skins"
 OUTPUT_DIR = Path(__file__).parent / "generated/tropical_fish"
 
-# Minecraft dye colors — order matters for prefix matching (longer names first)
+# Minecraft dye colors
 COLORS = [
     "light_blue", "light_gray",
     "black", "blue", "brown", "cyan", "gray", "green",
@@ -30,7 +28,7 @@ def parse_colors(stem: str) -> tuple[str, str]:
             return color, remainder
         if stem == color:
             return color, ""
-    # Fallback: split on first underscore
+    # split on first underscore
     parts = stem.split("_", 1)
     return parts[0], parts[1] if len(parts) > 1 else ""
 
@@ -90,7 +88,7 @@ def build_index_page(species_list: list[str], counts: dict) -> str:
     return "\n".join(output)
 
 
-# --- Main ---
+# Main
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
