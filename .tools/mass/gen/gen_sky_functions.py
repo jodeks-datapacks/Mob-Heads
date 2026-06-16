@@ -12,7 +12,7 @@ essentially a perfect fit.
 Ordering within the sphere: voxels enumerated Y bottom→top, Z front→back,
 X left→right, for a stable deterministic layout across re-runs.
 
-No note blocks.  Heads are never rotated.
+No note blocks.  Heads are rotated so each skull face points toward the sphere centre.
 
 Usage:
     python gen_sky_functions.py                    # all mobs
@@ -24,6 +24,7 @@ Output:
 """
 
 import json
+import math
 import sys
 from pathlib import Path
 
@@ -65,10 +66,22 @@ def coord(n: int) -> str:
     return f"~{n}" if n != 0 else "~"
 
 
-def head_cmd(x: int, y: int, z: int, texture: str) -> str:
+def head_rotation(vx: int, vz: int) -> int:
+    """Return player_head rotation (0-15) so the skull face points toward the origin.
+
+    Minecraft yaw: 0=south(+Z), 4=west(-X), 8=north(-Z), 12=east(+X).
+    Direction toward centre from (vx,_,vz) is (-vx, _, -vz).
+    """
+    if vx == 0 and vz == 0:
+        return 0  # directly above/below centre — arbitrary
+    yaw = math.degrees(math.atan2(-vx, vz))  # direction toward centre: negate vx,vz
+    return int(round(yaw % 360 / 22.5)) % 16
+
+
+def head_cmd(x: int, y: int, z: int, texture: str, rotation: int) -> str:
     xc, yc, zc = coord(x), coord(y), coord(z)
     nbt = f'{{profile:{{"properties":[{{"name":"textures","value":"{texture}"}}]}}}}'
-    return f"setblock {xc} {yc} {zc} player_head{nbt} replace"
+    return f"setblock {xc} {yc} {zc} player_head[rotation={rotation}]{nbt} replace"
 
 
 # ── core builder ──────────────────────────────────────────────────────────────
@@ -87,6 +100,7 @@ def build_sphere(entries: list[dict]) -> list[str]:
             Y_START + vy * HEAD_SPACING,
             vz * HEAD_SPACING,
             entry["texture"],
+            head_rotation(vx, vz),
         ))
     return lines
 
