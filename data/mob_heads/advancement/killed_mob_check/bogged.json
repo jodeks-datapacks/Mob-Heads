@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:bogged"
+          "entity_type": "minecraft:bogged"
         }
       }
     }

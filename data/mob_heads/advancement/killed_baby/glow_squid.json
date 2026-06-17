@@ -8,7 +8,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "minecraft:glow_squid",
+              "minecraft:entity_type": "minecraft:glow_squid",
               "flags": {
                 "is_baby": true
               }

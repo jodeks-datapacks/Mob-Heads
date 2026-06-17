@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:sniffer"
+          "entity_type": "minecraft:sniffer"
         }
       }
     }

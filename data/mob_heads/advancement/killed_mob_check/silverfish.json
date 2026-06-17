@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:silverfish"
+          "entity_type": "minecraft:silverfish"
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:armor.body"
+      "id": "iron_horse_armor"
     },
     "title": {
       "translate": "entity.minecraft.horse",
@@ -60,8 +60,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/black": true
             }
@@ -73,8 +72,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/brown": true
             }
@@ -86,8 +84,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/chestnut": true
             }
@@ -99,8 +96,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/creamy": true
             }
@@ -112,8 +108,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/dark_brown": true
             }
@@ -125,8 +120,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/donkey": true
             }
@@ -138,8 +132,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/gray": true
             }
@@ -151,8 +144,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/mule": true
             }
@@ -164,8 +156,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/horse/white": true
             }

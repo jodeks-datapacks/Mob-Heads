@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:mule"
+          "entity_type": "minecraft:mule"
         }
       }
     }

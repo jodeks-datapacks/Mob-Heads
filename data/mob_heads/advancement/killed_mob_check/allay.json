@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:allay"
+          "entity_type": "minecraft:allay"
         }
       }
     }

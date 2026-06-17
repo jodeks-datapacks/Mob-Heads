@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:zombie"
+          "entity_type": "minecraft:zombie"
         }
       }
     }

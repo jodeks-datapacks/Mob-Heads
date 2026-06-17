@@ -60,8 +60,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/rabbit/black": true
             }
@@ -73,8 +72,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/rabbit/brown": true
             }
@@ -86,8 +84,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/rabbit/gold": true
             }
@@ -99,8 +96,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/rabbit/salt": true
             }
@@ -112,8 +108,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/rabbit/white": true
             }
@@ -125,8 +120,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/baby/rabbit/white_splotched": true
             }

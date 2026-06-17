@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:sheep"
+          "entity_type": "minecraft:sheep"
         }
       }
     }

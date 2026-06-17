@@ -1,12 +1,8 @@
 {
   "pack": {
-    "pack_format": 80,
-    "min_format": 80,
+    "pack_format": 107.1,
+    "min_format": 107.1,
     "max_format": 999,
-    "supported_formats": {
-      "min_inclusive": 80,
-      "max_inclusive": 999
-    },
     "description": [
       {
         "text": "\"Mob Heads\" (mob_heads)"
@@ -26,7 +22,7 @@
         "text": " "
       },
       {
-        "text": "4.7.0",
+        "text": "5.0.0",
         "color": "#55ff55"
       },
       "\n",
@@ -40,25 +36,6 @@
       {
         "text": "Jodek",
         "color": "#ffff55"
-      }
-    ]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "overlay-88",
-        "min_format": 88,
-        "max_format": 999
-      },
-      {
-        "directory": "overlay-94",
-        "min_format": 94,
-        "max_format": 999
-      },
-      {
-        "directory": "overlay-102",
-        "min_format": 102,
-        "max_format": 999
       }
     ]
   }

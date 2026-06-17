@@ -8,7 +8,7 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type": "minecraft:strider",
+              "minecraft:entity_type": "minecraft:strider",
               "flags": {
                 "is_baby": true
               }

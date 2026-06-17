@@ -325,3 +325,24 @@ data modify storage mob_heads:root data.dialog_rarity_zombie_horse set value "$(
 data modify storage mob_heads:root data.dialog_rarity_zombie_villager set value "$(dialog_rarity_zombie_villager)"
 data modify storage mob_heads:root data.dialog_rarity_zombie set value "$(dialog_rarity_zombie)"
 data modify storage mob_heads:root data.dialog_rarity_zombified_piglin set value "$(dialog_rarity_zombified_piglin)"
+
+# Changes 
+  # Coppper Golem
+    $data modify storage mob_heads:root data.rarity_copper_golem set value $(dialog_rarity_copper_golem)
+    $scoreboard players set &copper_golem mob_heads.rarity $(dialog_rarity_copper_golem)
+
+  # Camel Husk
+    $data modify storage mob_heads:root data.rarity_camel_husk set value $(dialog_rarity_camel_husk)
+    $scoreboard players set &camel_husk mob_heads.rarity $(dialog_rarity_camel_husk)
+
+  # Parched
+    $data modify storage mob_heads:root data.rarity_parched set value $(dialog_rarity_parched)
+    $scoreboard players set &parched mob_heads.rarity $(dialog_rarity_parched)
+
+  # Nautilus
+    $data modify storage mob_heads:root data.rarity_nautilus set value $(dialog_rarity_nautilus)
+    $scoreboard players set &nautilus mob_heads.rarity $(dialog_rarity_nautilus)
+
+  # Zombie Nautilus
+    $data modify storage mob_heads:root data.rarity_zombie_nautilus set value $(dialog_rarity_zombie_nautilus)
+    $scoreboard players set &zombie_nautilus mob_heads.rarity $(dialog_rarity_zombie_nautilus)

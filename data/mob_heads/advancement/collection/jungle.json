@@ -46,8 +46,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/aggressive": true
             }
@@ -59,8 +58,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/brown": true
             }
@@ -72,8 +70,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/lazy": true
             }
@@ -85,8 +82,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/normal": true
             }
@@ -98,8 +94,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/playful": true
             }
@@ -111,8 +106,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/weak": true
             }
@@ -124,8 +118,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/panda/worried": true
             }
@@ -137,8 +130,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/parrot/blue": true
             }
@@ -150,8 +142,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/parrot/gray": true
             }
@@ -163,8 +154,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/parrot/green": true
             }
@@ -176,8 +166,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/parrot/red_blue": true
             }
@@ -189,8 +178,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/parrot/yellow_blue": true
             }
@@ -202,8 +190,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/jungle/ocelot": true
             }

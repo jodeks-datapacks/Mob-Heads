@@ -46,8 +46,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/aquatic/passive/cod": true
             }
@@ -59,8 +58,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/aquatic/passive/dolphin": true
             }
@@ -72,8 +70,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/aquatic/passive/glow_squid": true
             }
@@ -85,8 +82,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/aquatic/passive/salmon": true
             }
@@ -98,8 +94,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/aquatic/passive/squid": true
             }
@@ -111,8 +106,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/aquatic/passive/turtle": true
             }

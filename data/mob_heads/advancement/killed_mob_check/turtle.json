@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:turtle"
+          "entity_type": "minecraft:turtle"
         }
       }
     }

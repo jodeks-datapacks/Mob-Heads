@@ -53,7 +53,7 @@
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
-		"hidden": false
+    "hidden": false
   },
   "parent": "mob_heads:collection/villager",
   "criteria": {
@@ -61,8 +61,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/armorer": true
             }
@@ -74,8 +73,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/butcher": true
             }
@@ -87,8 +85,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/cartographer": true
             }
@@ -100,8 +97,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/cleric": true
             }
@@ -113,8 +109,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/villager": true
             }
@@ -126,8 +121,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/farmer": true
             }
@@ -139,8 +133,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/fisherman": true
             }
@@ -152,8 +145,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/fletcher": true
             }
@@ -165,8 +157,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/leatherworker": true
             }
@@ -178,8 +169,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/librarian": true
             }
@@ -191,8 +181,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/mason": true
             }
@@ -204,8 +193,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/nitwit": true
             }
@@ -217,8 +205,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/shepherd": true
             }
@@ -230,8 +217,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/toolsmith": true
             }
@@ -243,8 +229,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/villager/plains/weaponsmith": true
             }

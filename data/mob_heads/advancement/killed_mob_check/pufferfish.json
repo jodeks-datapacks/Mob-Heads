@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:pufferfish"
+          "entity_type": "minecraft:pufferfish"
         }
       }
     }

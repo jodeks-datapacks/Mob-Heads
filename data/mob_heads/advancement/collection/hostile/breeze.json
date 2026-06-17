@@ -51,7 +51,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/hostile/bogged",
+  "parent": "mob_heads:collection/hostile/parched",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",

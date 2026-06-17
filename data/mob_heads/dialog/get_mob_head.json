@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "mob_heads.title.get_mob_head",
+    "fallback": "Get Mob Head"
+  },
+  "exit_action": {
+    "label": {
+      "translate": "jodek.exit",
+      "fallback": "Exit"
+    },
+    "action": {
+      "type": "minecraft:change_page",
+      "page": 1
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": {
+        "translate": "mob_heads.title.mob_heads",
+        "fallback": "Mob Heads"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/mobs"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.title.baby_mob_heads",
+        "fallback": "Baby Mob Heads"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/baby"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.title.villager_heads",
+        "fallback": "Villager Heads"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/villager"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.title.zombie_villager_heads",
+        "fallback": "Zombie Villager Heads"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/zombie_villager"
+      }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.title.tropical_fish_heads",
+        "fallback": "Tropical Fish Heads"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/tropical_fish"
+      }
+    }
+  ]
+}

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:wither_skeleton"
+          "entity_type": "minecraft:wither_skeleton"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:illusioner"
+          "entity_type": "minecraft:illusioner"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:cod"
+          "entity_type": "minecraft:cod"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:witch"
+          "entity_type": "minecraft:witch"
         }
       }
     }

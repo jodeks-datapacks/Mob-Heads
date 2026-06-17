@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:panda"
+          "entity_type": "minecraft:panda"
         }
       }
     }

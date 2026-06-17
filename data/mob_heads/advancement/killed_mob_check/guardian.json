@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:guardian"
+          "entity_type": "minecraft:guardian"
         }
       }
     }

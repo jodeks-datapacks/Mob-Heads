@@ -273,7 +273,7 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "nbt": "{type:\"minecraft:taiga\"}}"
+                "nbt": "{VillagerData:{type:\"minecraft:taiga\"}}"
               }
             },
             {

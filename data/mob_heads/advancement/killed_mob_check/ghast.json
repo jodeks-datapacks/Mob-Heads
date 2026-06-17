@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:ghast"
+          "entity_type": "minecraft:ghast"
         }
       }
     }

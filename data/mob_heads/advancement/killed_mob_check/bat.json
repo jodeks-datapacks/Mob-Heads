@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:bat"
+          "entity_type": "minecraft:bat"
         }
       }
     }

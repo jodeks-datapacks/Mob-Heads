@@ -271,11 +271,38 @@ data modify storage mob_heads:root data.dialog_drop_notification_wandering_trade
 data modify storage mob_heads:root data.dialog_drop_notification_warden set value "$(dialog_drop_notification_warden)"
 data modify storage mob_heads:root data.dialog_drop_notification_witch set value "$(dialog_drop_notification_witch)"
 data modify storage mob_heads:root data.dialog_drop_notification_wither set value "$(dialog_drop_notification_wither)"
-data modify storage mob_heads:root data.dialog_drop_notification_wither_invulnerable set value "$(dialog_drop_notification_wither_invulnerable)"
 data modify storage mob_heads:root data.dialog_drop_notification_wither_skeleton set value "$(dialog_drop_notification_wither_skeleton)"
+data modify storage mob_heads:root data.dialog_drop_notification_wither_invulnerable set value "$(dialog_drop_notification_wither_invulnerable)"
 data modify storage mob_heads:root data.dialog_drop_notification_wolf set value "$(dialog_drop_notification_wolf)"
 data modify storage mob_heads:root data.dialog_drop_notification_zoglin set value "$(dialog_drop_notification_zoglin)"
 data modify storage mob_heads:root data.dialog_drop_notification_zombie_horse set value "$(dialog_drop_notification_zombie_horse)"
 data modify storage mob_heads:root data.dialog_drop_notification_zombie_villager set value "$(dialog_drop_notification_zombie_villager)"
 data modify storage mob_heads:root data.dialog_drop_notification_zombie set value "$(dialog_drop_notification_zombie)"
 data modify storage mob_heads:root data.dialog_drop_notification_zombified_piglin set value "$(dialog_drop_notification_zombified_piglin)"
+
+
+# Changes
+  # Copper Golem
+    $scoreboard players set &copper_golem mob_heads.drop_notification $(dialog_drop_notification_copper_golem)
+    $data modify storage mob_heads:root data.drop_notification_copper_golem set value $(dialog_drop_notification_copper_golem)
+    data modify storage mob_heads:root data.dialog_drop_notification_copper_golem set value "$(dialog_drop_notification_copper_golem)"
+
+  # Camel Husk
+    $scoreboard players set &camel_husk mob_heads.drop_notification $(dialog_drop_notification_camel_husk)
+    $data modify storage mob_heads:root data.drop_notification_camel_husk set value $(dialog_drop_notification_camel_husk)
+    data modify storage mob_heads:root data.dialog_drop_notification_camel_husk set value "$(dialog_drop_notification_camel_husk)"
+
+  # Parched
+    $scoreboard players set &parched mob_heads.drop_notification $(dialog_drop_notification_parched)
+    $data modify storage mob_heads:root data.drop_notification_parched set value $(dialog_drop_notification_parched)
+    data modify storage mob_heads:root data.dialog_drop_notification_parched set value "$(dialog_drop_notification_parched)"
+
+  # Nautilus
+    $scoreboard players set &nautilus mob_heads.drop_notification $(dialog_drop_notification_nautilus)
+    $data modify storage mob_heads:root data.drop_notification_nautilus set value $(dialog_drop_notification_nautilus)
+    data modify storage mob_heads:root data.dialog_drop_notification_nautilus set value "$(dialog_drop_notification_nautilus)"
+
+  # Zombie Nautilus
+    $scoreboard players set &zombie_nautilus mob_heads.drop_notification $(dialog_drop_notification_zombie_nautilus)
+    $data modify storage mob_heads:root data.drop_notification_zombie_nautilus set value $(dialog_drop_notification_zombie_nautilus)
+    data modify storage mob_heads:root data.dialog_drop_notification_zombie_nautilus set value "$(dialog_drop_notification_zombie_nautilus)"

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:magma_cube"
+          "entity_type": "minecraft:magma_cube"
         }
       }
     }

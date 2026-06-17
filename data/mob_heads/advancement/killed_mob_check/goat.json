@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:goat"
+          "entity_type": "minecraft:goat"
         }
       }
     }

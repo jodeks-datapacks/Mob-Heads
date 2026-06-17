@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:villager"
+          "entity_type": "minecraft:villager"
         }
       }
     }

@@ -224,7 +224,6 @@
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
-                "type": "minecraft:goat",
                 "nbt": "{HasLeftHorn:0b,HasRightHorn:1b,IsScreamingGoat:0b}"
               }
             },

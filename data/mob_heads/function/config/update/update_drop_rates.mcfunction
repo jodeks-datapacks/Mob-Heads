@@ -913,3 +913,60 @@ execute store result score #multiplier mob_heads.drop_rates run data get storage
 scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
 
 execute store result storage mob_heads:root data.zombified_piglin float 0.000001 run scoreboard players get #base mob_heads.drop_rates
+
+
+# Changes
+  # Copper Golem
+    $data modify storage mob_heads:root data.copper_golem_init set value $(drop_rate_copper_golem)
+    data modify storage mob_heads:root data.drop_rate_copper_golem set value "$(drop_rate_copper_golem)"
+
+    execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.copper_golem_init 1000
+    execute store result score #multiplier mob_heads.drop_rates run data get storage mob_heads:root data.drop_rate_multiplier 1000
+
+    scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
+
+    execute store result storage mob_heads:root data.copper_golem float 0.000001 run scoreboard players get #base mob_heads.drop_rates
+
+  # Camel Husk
+    $data modify storage mob_heads:root data.camel_husk_init set value $(drop_rate_camel_husk)
+    data modify storage mob_heads:root data.drop_rate_camel_husk set value "$(drop_rate_camel_husk)"
+
+    execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.camel_husk_init 1000
+    execute store result score #multiplier mob_heads.drop_rates run data get storage mob_heads:root data.drop_rate_multiplier 1000
+
+    scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
+
+    execute store result storage mob_heads:root data.camel_husk float 0.000001 run scoreboard players get #base mob_heads.drop_rates
+
+  # Parched
+    $data modify storage mob_heads:root data.parched_init set value $(drop_rate_parched)
+    data modify storage mob_heads:root data.drop_rate_parched set value "$(drop_rate_parched)"
+
+    execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.parched_init 1000
+    execute store result score #multiplier mob_heads.drop_rates run data get storage mob_heads:root data.drop_rate_multiplier 1000
+
+    scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
+
+    execute store result storage mob_heads:root data.parched float 0.000001 run scoreboard players get #base mob_heads.drop_rates
+
+  # Nautilus
+    $data modify storage mob_heads:root data.nautilus_init set value $(drop_rate_nautilus)
+    data modify storage mob_heads:root data.drop_rate_nautilus set value "$(drop_rate_nautilus)"
+
+    execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.nautilus_init 1000
+    execute store result score #multiplier mob_heads.drop_rates run data get storage mob_heads:root data.drop_rate_multiplier 1000
+
+    scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
+
+    execute store result storage mob_heads:root data.nautilus float 0.000001 run scoreboard players get #base mob_heads.drop_rates
+
+  # Zombie Nautilus
+    $data modify storage mob_heads:root data.zombie_nautilus_init set value $(drop_rate_zombie_nautilus)
+    data modify storage mob_heads:root data.drop_rate_zombie_nautilus set value "$(drop_rate_zombie_nautilus)"
+
+    execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.zombie_nautilus_init 1000
+    execute store result score #multiplier mob_heads.drop_rates run data get storage mob_heads:root data.drop_rate_multiplier 1000
+
+    scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
+
+    execute store result storage mob_heads:root data.zombie_nautilus float 0.000001 run scoreboard players get #base mob_heads.drop_rates

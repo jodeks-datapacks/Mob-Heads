@@ -179,6 +179,17 @@ type:"minecraft:multi_action",\
       start: 0,\
       end: 5,\
       step: 1,\
+      key:"dialog_rarity_camel_husk",\
+      label: {\
+        "translate": "entity.minecraft.camel_husk",\
+      },\
+      initial: $(rarity_camel_husk)\
+    },\
+    {\
+      type:"minecraft:number_range",\
+      start: 0,\
+      end: 5,\
+      step: 1,\
       key:"dialog_rarity_cat",\
       label: {\
         "translate": "entity.minecraft.cat",\
@@ -217,6 +228,17 @@ type:"minecraft:multi_action",\
         "translate": "entity.minecraft.cod",\
       },\
       initial: $(rarity_cod)\
+    },\
+    {\
+      type:"minecraft:number_range",\
+      start: 0,\
+      end: 5,\
+      step: 1,\
+      key:"dialog_rarity_copper_golem",\
+      label: {\
+        "translate": "entity.minecraft.copper_golem",\
+      },\
+      initial: $(rarity_copper_golem)\
     },\
     {\
       type:"minecraft:number_range",\
@@ -523,7 +545,16 @@ type:"minecraft:multi_action",\
       step: 1,\
       key:"dialog_rarity_mooshroom_brown",\
       label: {\
-        "translate": "entity.minecraft.brown_mooshroom"\
+        "translate": "entity.minecraft.mooshroom",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "item.minecraft.firework_star.brown",\
+            "fallback": "Brown"\
+          }\
+        ]\
       },\
       initial: $(rarity_mooshroom_brown)\
     },\
@@ -537,6 +568,17 @@ type:"minecraft:multi_action",\
         "translate": "entity.minecraft.mule",\
       },\
       initial: $(rarity_mule)\
+    },\
+    {\
+      type:"minecraft:number_range",\
+      start: 0,\
+      end: 5,\
+      step: 1,\
+      key:"dialog_rarity_nautilus",\
+      label: {\
+        "translate": "entity.minecraft.nautilus",\
+      },\
+      initial: $(rarity_nautilus)\
     },\
     {\
       type:"minecraft:number_range",\
@@ -571,6 +613,17 @@ type:"minecraft:multi_action",\
         "fallback": "Special Panda",\
       },\
       initial: $(rarity_panda_special)\
+    },\
+    {\
+      type:"minecraft:number_range",\
+      start: 0,\
+      end: 5,\
+      step: 1,\
+      key:"dialog_rarity_parched",\
+      label: {\
+        "translate": "entity.minecraft.parched",\
+      },\
+      initial: $(rarity_parched)\
     },\
     {\
       type:"minecraft:number_range",\
@@ -612,7 +665,7 @@ type:"minecraft:multi_action",\
       step: 1,\
       key:"dialog_rarity_piglin_brute",\
       label: {\
-        "translate": "entity.minecraft.piglin_brute"\
+        "translate": "entity.minecraft.piglin_brute",\
       },\
       initial: $(rarity_piglin_brute)\
     },\
@@ -897,7 +950,7 @@ type:"minecraft:multi_action",\
       end: 5,\
       step: 1,\
       key:"dialog_rarity_vindicator",\
-      label:  {\
+      label: {\
         "translate": "entity.minecraft.vindicator",\
       },\
       initial: $(rarity_vindicator)\
@@ -953,7 +1006,16 @@ type:"minecraft:multi_action",\
       step: 1,\
       key:"dialog_rarity_wither_invulnerable",\
       label: {\
-        "translate": "entity.minecraft.wither_invulnerable",\
+        "translate": "entity.minecraft.wither",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.advancement.collection.boss.wither.invulnerable",\
+            "fallback": "Invulnerable"\
+          }\
+        ]\
       },\
       initial: $(rarity_wither_invulnerable)\
     },\
@@ -1017,6 +1079,17 @@ type:"minecraft:multi_action",\
       start: 0,\
       end: 5,\
       step: 1,\
+      key:"dialog_rarity_zombie_nautilus",\
+      label: {\
+        "translate": "entity.minecraft.zombie_nautilus",\
+      },\
+      initial: $(rarity_zombie_nautilus)\
+    },\
+    {\
+      type:"minecraft:number_range",\
+      start: 0,\
+      end: 5,\
+      step: 1,\
       key:"dialog_rarity_zombified_piglin",\
       label: {\
         "translate": "entity.minecraft.zombified_piglin",\
@@ -1032,7 +1105,7 @@ type:"minecraft:multi_action",\
     },\
     "action": {\
       type:"dynamic/run_command",\
-      template:"function mob_heads:config/update/update_rarity {dialog_rarity_allay:$(dialog_rarity_allay), dialog_rarity_armadillo:$(dialog_rarity_armadillo), dialog_rarity_axolotl:$(dialog_rarity_axolotl), dialog_rarity_axolotl_blue:$(dialog_rarity_axolotl_blue), dialog_rarity_bat:$(dialog_rarity_bat), dialog_rarity_bee:$(dialog_rarity_bee), dialog_rarity_blaze:$(dialog_rarity_blaze), dialog_rarity_bogged:$(dialog_rarity_bogged), dialog_rarity_breeze:$(dialog_rarity_breeze), dialog_rarity_camel:$(dialog_rarity_camel), dialog_rarity_cat:$(dialog_rarity_cat), dialog_rarity_cave_spider:$(dialog_rarity_cave_spider), dialog_rarity_chicken:$(dialog_rarity_chicken), dialog_rarity_cod:$(dialog_rarity_cod), dialog_rarity_cow:$(dialog_rarity_cow), dialog_rarity_creaking:$(dialog_rarity_creaking), dialog_rarity_creeper:$(dialog_rarity_creeper), dialog_rarity_creeper_charged:$(dialog_rarity_creeper_charged), dialog_rarity_dolphin:$(dialog_rarity_dolphin), dialog_rarity_donkey:$(dialog_rarity_donkey), dialog_rarity_drowned:$(dialog_rarity_drowned), dialog_rarity_elder_guardian:$(dialog_rarity_elder_guardian), dialog_rarity_ender_dragon:$(dialog_rarity_ender_dragon), dialog_rarity_enderman:$(dialog_rarity_enderman), dialog_rarity_endermite:$(dialog_rarity_endermite), dialog_rarity_evoker:$(dialog_rarity_evoker), dialog_rarity_fox:$(dialog_rarity_fox), dialog_rarity_frog:$(dialog_rarity_frog), dialog_rarity_ghast:$(dialog_rarity_ghast), dialog_rarity_glow_squid:$(dialog_rarity_glow_squid), dialog_rarity_goat:$(dialog_rarity_goat), dialog_rarity_guardian:$(dialog_rarity_guardian), dialog_rarity_happy_ghast:$(dialog_rarity_happy_ghast), dialog_rarity_hoglin:$(dialog_rarity_hoglin), dialog_rarity_horse:$(dialog_rarity_horse), dialog_rarity_husk:$(dialog_rarity_husk), dialog_rarity_illusioner:$(dialog_rarity_illusioner), dialog_rarity_iron_golem:$(dialog_rarity_iron_golem), dialog_rarity_llama:$(dialog_rarity_llama), dialog_rarity_magma_cube:$(dialog_rarity_magma_cube), dialog_rarity_mooshroom:$(dialog_rarity_mooshroom), dialog_rarity_mooshroom_brown:$(dialog_rarity_mooshroom_brown), dialog_rarity_mule:$(dialog_rarity_mule), dialog_rarity_ocelot:$(dialog_rarity_ocelot), dialog_rarity_panda:$(dialog_rarity_panda), dialog_rarity_panda_special:$(dialog_rarity_panda_special), dialog_rarity_parrot:$(dialog_rarity_parrot), dialog_rarity_phantom:$(dialog_rarity_phantom), dialog_rarity_pig:$(dialog_rarity_pig), dialog_rarity_piglin_brute:$(dialog_rarity_piglin_brute), dialog_rarity_piglin:$(dialog_rarity_piglin), dialog_rarity_pillager:$(dialog_rarity_pillager), dialog_rarity_polar_bear:$(dialog_rarity_polar_bear), dialog_rarity_pufferfish:$(dialog_rarity_pufferfish), dialog_rarity_rabbit:$(dialog_rarity_rabbit), dialog_rarity_ravager:$(dialog_rarity_ravager), dialog_rarity_salmon:$(dialog_rarity_salmon), dialog_rarity_sheep:$(dialog_rarity_sheep), dialog_rarity_shulker:$(dialog_rarity_shulker), dialog_rarity_silverfish:$(dialog_rarity_silverfish), dialog_rarity_skeleton_horse:$(dialog_rarity_skeleton_horse), dialog_rarity_skeleton:$(dialog_rarity_skeleton), dialog_rarity_slime:$(dialog_rarity_slime), dialog_rarity_sniffer:$(dialog_rarity_sniffer), dialog_rarity_snow_golem:$(dialog_rarity_snow_golem), dialog_rarity_spider:$(dialog_rarity_spider), dialog_rarity_squid:$(dialog_rarity_squid), dialog_rarity_stray:$(dialog_rarity_stray), dialog_rarity_strider:$(dialog_rarity_strider), dialog_rarity_tadpole:$(dialog_rarity_tadpole), dialog_rarity_trader_llama:$(dialog_rarity_trader_llama), dialog_rarity_tropical_fish:$(dialog_rarity_tropical_fish), dialog_rarity_turtle:$(dialog_rarity_turtle), dialog_rarity_vex:$(dialog_rarity_vex), dialog_rarity_villager:$(dialog_rarity_villager), dialog_rarity_vindicator:$(dialog_rarity_vindicator), dialog_rarity_wandering_trader:$(dialog_rarity_wandering_trader), dialog_rarity_warden:$(dialog_rarity_warden), dialog_rarity_witch:$(dialog_rarity_witch), dialog_rarity_wither:$(dialog_rarity_wither), dialog_rarity_wither_invulnerable:$(dialog_rarity_wither_invulnerable), dialog_rarity_wolf:$(dialog_rarity_wolf), dialog_rarity_zoglin:$(dialog_rarity_zoglin), dialog_rarity_zombie_horse:$(dialog_rarity_zombie_horse), dialog_rarity_zombie_villager:$(dialog_rarity_zombie_villager), dialog_rarity_zombie:$(dialog_rarity_zombie), dialog_rarity_zombified_piglin:$(dialog_rarity_zombified_piglin)}"\
+      template:"function mob_heads:config/update/update_rarity {dialog_rarity_camel_husk:$(dialog_rarity_camel_husk), dialog_rarity_parched:$(dialog_rarity_parched), dialog_rarity_zombie_nautilus:$(dialog_rarity_zombie_nautilus), dialog_rarity_nautilus:$(rarity_nautilus), dialog_rarity_allay:$(dialog_rarity_allay), dialog_rarity_armadillo:$(dialog_rarity_armadillo), dialog_rarity_axolotl:$(dialog_rarity_axolotl), dialog_rarity_axolotl_blue:$(dialog_rarity_axolotl_blue), dialog_rarity_bat:$(dialog_rarity_bat), dialog_rarity_bee:$(dialog_rarity_bee), dialog_rarity_blaze:$(dialog_rarity_blaze), dialog_rarity_bogged:$(dialog_rarity_bogged), dialog_rarity_breeze:$(dialog_rarity_breeze), dialog_rarity_camel:$(dialog_rarity_camel), dialog_rarity_cat:$(dialog_rarity_cat), dialog_rarity_cave_spider:$(dialog_rarity_cave_spider), dialog_rarity_chicken:$(dialog_rarity_chicken), dialog_rarity_cod:$(dialog_rarity_cod), dialog_rarity_copper_golem:$(dialog_rarity_copper_golem), dialog_rarity_cow:$(dialog_rarity_cow), dialog_rarity_creaking:$(dialog_rarity_creaking), dialog_rarity_creeper:$(dialog_rarity_creeper), dialog_rarity_creeper_charged:$(dialog_rarity_creeper_charged), dialog_rarity_dolphin:$(dialog_rarity_dolphin), dialog_rarity_donkey:$(dialog_rarity_donkey), dialog_rarity_drowned:$(dialog_rarity_drowned), dialog_rarity_elder_guardian:$(dialog_rarity_elder_guardian), dialog_rarity_ender_dragon:$(dialog_rarity_ender_dragon), dialog_rarity_enderman:$(dialog_rarity_enderman), dialog_rarity_endermite:$(dialog_rarity_endermite), dialog_rarity_evoker:$(dialog_rarity_evoker), dialog_rarity_fox:$(dialog_rarity_fox), dialog_rarity_frog:$(dialog_rarity_frog), dialog_rarity_ghast:$(dialog_rarity_ghast), dialog_rarity_glow_squid:$(dialog_rarity_glow_squid), dialog_rarity_goat:$(dialog_rarity_goat), dialog_rarity_guardian:$(dialog_rarity_guardian), dialog_rarity_happy_ghast:$(dialog_rarity_happy_ghast), dialog_rarity_hoglin:$(dialog_rarity_hoglin), dialog_rarity_horse:$(dialog_rarity_horse), dialog_rarity_husk:$(dialog_rarity_husk), dialog_rarity_illusioner:$(dialog_rarity_illusioner), dialog_rarity_iron_golem:$(dialog_rarity_iron_golem), dialog_rarity_llama:$(dialog_rarity_llama), dialog_rarity_magma_cube:$(dialog_rarity_magma_cube), dialog_rarity_mooshroom:$(dialog_rarity_mooshroom), dialog_rarity_mooshroom_brown:$(dialog_rarity_mooshroom_brown), dialog_rarity_mule:$(dialog_rarity_mule), dialog_rarity_ocelot:$(dialog_rarity_ocelot), dialog_rarity_panda:$(dialog_rarity_panda), dialog_rarity_panda_special:$(dialog_rarity_panda_special), dialog_rarity_parrot:$(dialog_rarity_parrot), dialog_rarity_phantom:$(dialog_rarity_phantom), dialog_rarity_pig:$(dialog_rarity_pig), dialog_rarity_piglin_brute:$(dialog_rarity_piglin_brute), dialog_rarity_piglin:$(dialog_rarity_piglin), dialog_rarity_pillager:$(dialog_rarity_pillager), dialog_rarity_polar_bear:$(dialog_rarity_polar_bear), dialog_rarity_pufferfish:$(dialog_rarity_pufferfish), dialog_rarity_rabbit:$(dialog_rarity_rabbit), dialog_rarity_ravager:$(dialog_rarity_ravager), dialog_rarity_salmon:$(dialog_rarity_salmon), dialog_rarity_sheep:$(dialog_rarity_sheep), dialog_rarity_shulker:$(dialog_rarity_shulker), dialog_rarity_silverfish:$(dialog_rarity_silverfish), dialog_rarity_skeleton_horse:$(dialog_rarity_skeleton_horse), dialog_rarity_skeleton:$(dialog_rarity_skeleton), dialog_rarity_slime:$(dialog_rarity_slime), dialog_rarity_sniffer:$(dialog_rarity_sniffer), dialog_rarity_snow_golem:$(dialog_rarity_snow_golem), dialog_rarity_spider:$(dialog_rarity_spider), dialog_rarity_squid:$(dialog_rarity_squid), dialog_rarity_stray:$(dialog_rarity_stray), dialog_rarity_strider:$(dialog_rarity_strider), dialog_rarity_tadpole:$(dialog_rarity_tadpole), dialog_rarity_trader_llama:$(dialog_rarity_trader_llama), dialog_rarity_tropical_fish:$(dialog_rarity_tropical_fish), dialog_rarity_turtle:$(dialog_rarity_turtle), dialog_rarity_vex:$(dialog_rarity_vex), dialog_rarity_villager:$(dialog_rarity_villager), dialog_rarity_vindicator:$(dialog_rarity_vindicator), dialog_rarity_wandering_trader:$(dialog_rarity_wandering_trader), dialog_rarity_warden:$(dialog_rarity_warden), dialog_rarity_witch:$(dialog_rarity_witch), dialog_rarity_wither:$(dialog_rarity_wither), dialog_rarity_wither_invulnerable:$(dialog_rarity_wither_invulnerable), dialog_rarity_wolf:$(dialog_rarity_wolf), dialog_rarity_zoglin:$(dialog_rarity_zoglin), dialog_rarity_zombie_horse:$(dialog_rarity_zombie_horse), dialog_rarity_zombie_villager:$(dialog_rarity_zombie_villager), dialog_rarity_zombie:$(dialog_rarity_zombie), dialog_rarity_zombified_piglin:$(dialog_rarity_zombified_piglin)}"\
     }\
   },\
   actions:[\

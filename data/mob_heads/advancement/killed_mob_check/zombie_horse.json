@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:zombie_horse"
+          "entity_type": "minecraft:zombie_horse"
         }
       }
     }

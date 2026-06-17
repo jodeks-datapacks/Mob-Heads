@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:spider"
+          "entity_type": "minecraft:spider"
         }
       }
     }

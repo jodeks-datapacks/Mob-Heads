@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:ravager"
+          "entity_type": "minecraft:ravager"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:rabbit"
+          "entity_type": "minecraft:rabbit"
         }
       }
     }

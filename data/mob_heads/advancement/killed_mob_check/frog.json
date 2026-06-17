@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:frog"
+          "entity_type": "minecraft:frog"
         }
       }
     }

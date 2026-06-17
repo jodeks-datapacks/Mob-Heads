@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:ender_dragon"
+          "entity_type": "minecraft:ender_dragon"
         }
       }
     }

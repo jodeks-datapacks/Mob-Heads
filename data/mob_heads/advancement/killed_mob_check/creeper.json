@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:creeper"
+          "entity_type": "minecraft:creeper"
         }
       }
     }

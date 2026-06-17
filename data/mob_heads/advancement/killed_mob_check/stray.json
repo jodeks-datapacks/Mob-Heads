@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:stray"
+          "entity_type": "minecraft:stray"
         }
       }
     }

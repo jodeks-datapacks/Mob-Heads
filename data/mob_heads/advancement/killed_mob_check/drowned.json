@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:drowned"
+          "entity_type": "minecraft:drowned"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:vex"
+          "entity_type": "minecraft:vex"
         }
       }
     }

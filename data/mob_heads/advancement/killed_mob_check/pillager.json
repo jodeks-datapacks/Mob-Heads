@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:pillager"
+          "entity_type": "minecraft:pillager"
         }
       }
     }

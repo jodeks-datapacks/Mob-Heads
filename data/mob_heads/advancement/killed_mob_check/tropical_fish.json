@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:tropical_fish"
+          "entity_type": "minecraft:tropical_fish"
         }
       }
     }

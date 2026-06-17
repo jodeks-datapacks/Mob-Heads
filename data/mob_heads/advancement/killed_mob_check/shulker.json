@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:shulker"
+          "entity_type": "minecraft:shulker"
         }
       }
     }

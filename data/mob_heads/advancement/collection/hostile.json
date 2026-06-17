@@ -42,12 +42,47 @@
   },
   "parent": "mob_heads:collection/root",
   "criteria": {
+    "johnny": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "minecraft:type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/johnny": true
+            }
+          }
+        }
+      }
+    },
+    "vex_charging": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "minecraft:type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/hostile/raiders/vex_charging": true
+            }
+          }
+        }
+      }
+    },
+    "parched": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "minecraft:type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/hostile/parched": true
+            }
+          }
+        }
+      }
+    },
     "bogged": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/bogged": true
             }
@@ -59,8 +94,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/breeze": true
             }
@@ -72,8 +106,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/cave_spider": true
             }
@@ -85,8 +118,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/charged_creeper": true
             }
@@ -98,8 +130,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/creaking": true
             }
@@ -111,8 +142,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/creeper": true
             }
@@ -124,8 +154,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/raiders/evoker": true
             }
@@ -137,8 +166,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/husk": true
             }
@@ -150,8 +178,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/phantom": true
             }
@@ -163,8 +190,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/raiders/pillager": true
             }
@@ -176,8 +202,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/raiders/ravager": true
             }
@@ -189,8 +214,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/silverfish": true
             }
@@ -202,8 +226,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/skeleton": true
             }
@@ -215,8 +238,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/slime": true
             }
@@ -228,8 +250,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/spider": true
             }
@@ -241,8 +262,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/stray": true
             }
@@ -254,23 +274,9 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/raiders/vex": true
-            }
-          }
-        }
-      }
-    },
-    "vex_charging": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/hostile/raiders/vex_charging": true
             }
           }
         }
@@ -280,23 +286,9 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/raiders/vindicator": true
-            }
-          }
-        }
-      }
-    },
-    "johnny": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/hostile/raiders/johnny": true
             }
           }
         }
@@ -306,8 +298,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/witch": true
             }
@@ -319,8 +310,7 @@
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "advancements": {
               "mob_heads:collection/hostile/zombie": true
             }

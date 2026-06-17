@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:strider"
+          "entity_type": "minecraft:strider"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:armadillo"
+          "entity_type": "minecraft:armadillo"
         }
       }
     }

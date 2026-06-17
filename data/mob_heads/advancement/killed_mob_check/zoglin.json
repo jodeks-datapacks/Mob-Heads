@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:zoglin"
+          "entity_type": "minecraft:zoglin"
         }
       }
     }

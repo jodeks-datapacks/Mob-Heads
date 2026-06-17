@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:horse"
+          "entity_type": "minecraft:horse"
         }
       }
     }

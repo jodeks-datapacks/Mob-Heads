@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:polar_bear"
+          "entity_type": "minecraft:polar_bear"
         }
       }
     }

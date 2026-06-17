@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:skeleton"
+          "entity_type": "minecraft:skeleton"
         }
       }
     }

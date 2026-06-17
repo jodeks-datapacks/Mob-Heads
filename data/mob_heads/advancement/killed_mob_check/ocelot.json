@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:ocelot"
+          "entity_type": "minecraft:ocelot"
         }
       }
     }

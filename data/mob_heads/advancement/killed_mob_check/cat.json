@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:cat"
+          "entity_type": "minecraft:cat"
         }
       }
     }

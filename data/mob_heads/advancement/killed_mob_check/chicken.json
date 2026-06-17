@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:chicken"
+          "entity_type": "minecraft:chicken"
         }
       }
     }

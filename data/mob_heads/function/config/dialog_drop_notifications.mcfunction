@@ -25,7 +25,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -44,7 +44,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -63,7 +63,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -82,7 +82,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -101,7 +101,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -120,7 +120,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -139,7 +139,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -158,7 +158,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -177,12 +177,31 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
       },\
       initial:$(drop_notification_camel),\
+      on_true:"1",\
+      on_false:"0"\
+    },\
+    {\
+      type:"minecraft:boolean",\
+      key:"dialog_drop_notification_camel_husk",\
+      label: {\
+        "translate": "entity.minecraft.camel_husk",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
+            "fallback": "Drop Notification"\
+          }\
+        ]\
+      },\
+      initial:$(drop_notification_camel_husk),\
       on_true:"1",\
       on_false:"0"\
     },\
@@ -196,7 +215,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -215,7 +234,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -234,7 +253,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -253,12 +272,31 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
       },\
       initial:$(drop_notification_cod),\
+      on_true:"1",\
+      on_false:"0"\
+    },\
+    {\
+      type:"minecraft:boolean",\
+      key:"dialog_drop_notification_copper_golem",\
+      label: {\
+        "translate": "entity.minecraft.copper_golem",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
+            "fallback": "Drop Notification"\
+          }\
+        ]\
+      },\
+      initial:$(drop_notification_copper_golem),\
       on_true:"1",\
       on_false:"0"\
     },\
@@ -272,7 +310,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -291,7 +329,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -310,7 +348,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -329,7 +367,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -348,7 +386,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -367,7 +405,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -386,7 +424,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -405,7 +443,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -424,7 +462,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -443,7 +481,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -462,7 +500,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -481,7 +519,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -500,7 +538,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -519,7 +557,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -538,7 +576,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -557,7 +595,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -576,7 +614,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -595,7 +633,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -614,7 +652,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -633,7 +671,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -652,7 +690,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -671,7 +709,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -690,7 +728,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -709,11 +747,11 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
-      },\ 
+      },\
       initial:$(drop_notification_llama),\
       on_true:"1",\
       on_false:"0"\
@@ -728,7 +766,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -747,7 +785,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -760,13 +798,20 @@ type:"minecraft:multi_action",\
       type:"minecraft:boolean",\
       key:"dialog_drop_notification_mooshroom_brown",\
       label: {\
-        "translate": "entity.minecraft.brown_mooshroom",\
+        "translate": "entity.minecraft.mooshroom",\
         "extra": [\
           {\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "item.minecraft.firework_star.brown",\
+            "fallback": "Brown"\
+          },\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -785,12 +830,31 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
       },\
       initial:$(drop_notification_mule),\
+      on_true:"1",\
+      on_false:"0"\
+    },\
+    {\
+      type:"minecraft:boolean",\
+      key:"dialog_drop_notification_nautilus",\
+      label: {\
+        "translate": "entity.minecraft.nautilus",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
+            "fallback": "Drop Notification"\
+          }\
+        ]\
+      },\
+      initial:$(drop_notification_nautilus),\
       on_true:"1",\
       on_false:"0"\
     },\
@@ -804,7 +868,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -823,12 +887,31 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
       },\
       initial:$(drop_notification_panda),\
+      on_true:"1",\
+      on_false:"0"\
+    },\
+    {\
+      type:"minecraft:boolean",\
+      key:"dialog_drop_notification_parched",\
+      label: {\
+        "translate": "entity.minecraft.parched",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
+            "fallback": "Drop Notification"\
+          }\
+        ]\
+      },\
+      initial:$(drop_notification_parched),\
       on_true:"1",\
       on_false:"0"\
     },\
@@ -842,7 +925,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -861,7 +944,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -880,7 +963,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -899,7 +982,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -918,7 +1001,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -937,7 +1020,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -956,7 +1039,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -975,7 +1058,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -994,7 +1077,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1013,7 +1096,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1032,7 +1115,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1051,7 +1134,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1070,7 +1153,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1089,7 +1172,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1108,7 +1191,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1127,7 +1210,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1146,7 +1229,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1165,7 +1248,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1184,7 +1267,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1203,7 +1286,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1222,7 +1305,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1241,7 +1324,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1260,7 +1343,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1279,7 +1362,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1298,7 +1381,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1317,7 +1400,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1336,7 +1419,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1355,11 +1438,11 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
-      },\ 
+      },\
       initial:$(drop_notification_vex),\
       on_true:"1",\
       on_false:"0"\
@@ -1374,7 +1457,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1393,7 +1476,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1412,7 +1495,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1431,7 +1514,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1450,7 +1533,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1469,7 +1552,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1482,13 +1565,20 @@ type:"minecraft:multi_action",\
       type:"minecraft:boolean",\
       key:"dialog_drop_notification_wither_invulnerable",\
       label: {\
-        "translate": "entity.minecraft.wither_invulnerable",\
+        "translate": "entity.minecraft.wither",\
         "extra": [\
           {\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.advancement.collection.boss.wither.invulnerable",\
+            "fallback": "Invulnerable"\
+          },\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1526,7 +1616,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1545,7 +1635,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1564,7 +1654,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1583,7 +1673,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1602,12 +1692,31 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
       },\
       initial:$(drop_notification_zombie),\
+      on_true:"1",\
+      on_false:"0"\
+    },\
+    {\
+      type:"minecraft:boolean",\
+      key:"dialog_drop_notification_zombie_nautilus",\
+      label: {\
+        "translate": "entity.minecraft.zombie_nautilus",\
+        "extra": [\
+          {\
+            "text": " "\
+          },\
+          {\
+            "translate": "mob_heads.config.drop_notification",\
+            "fallback": "Drop Notification"\
+          }\
+        ]\
+      },\
+      initial:$(drop_notification_zombie_nautilus),\
       on_true:"1",\
       on_false:"0"\
     },\
@@ -1621,7 +1730,7 @@ type:"minecraft:multi_action",\
             "text": " "\
           },\
           {\
-            "translate": "mob_heads.config.drop_notification.label",\
+            "translate": "mob_heads.config.drop_notification",\
             "fallback": "Drop Notification"\
           }\
         ]\
@@ -1639,7 +1748,7 @@ type:"minecraft:multi_action",\
     },\
     "action": {\
       type:"dynamic/run_command",\
-      template:"function mob_heads:config/update/update_drop_notifications {dialog_drop_notification_wither_skeleton:$(dialog_drop_notification_wither_skeleton), dialog_drop_notification_allay:$(dialog_drop_notification_allay), dialog_drop_notification_armadillo:$(dialog_drop_notification_armadillo), dialog_drop_notification_axolotl:$(dialog_drop_notification_axolotl), dialog_drop_notification_bat:$(dialog_drop_notification_bat), dialog_drop_notification_bee:$(dialog_drop_notification_bee), dialog_drop_notification_blaze:$(dialog_drop_notification_blaze), dialog_drop_notification_bogged:$(dialog_drop_notification_bogged), dialog_drop_notification_breeze:$(dialog_drop_notification_breeze), dialog_drop_notification_camel:$(dialog_drop_notification_camel), dialog_drop_notification_cat:$(dialog_drop_notification_cat), dialog_drop_notification_cave_spider:$(dialog_drop_notification_cave_spider), dialog_drop_notification_chicken:$(dialog_drop_notification_chicken), dialog_drop_notification_cod:$(dialog_drop_notification_cod), dialog_drop_notification_cow:$(dialog_drop_notification_cow), dialog_drop_notification_creaking:$(dialog_drop_notification_creaking), dialog_drop_notification_creeper:$(dialog_drop_notification_creeper), dialog_drop_notification_dolphin:$(dialog_drop_notification_dolphin), dialog_drop_notification_donkey:$(dialog_drop_notification_donkey), dialog_drop_notification_drowned:$(dialog_drop_notification_drowned), dialog_drop_notification_elder_guardian:$(dialog_drop_notification_elder_guardian), dialog_drop_notification_ender_dragon:$(dialog_drop_notification_ender_dragon), dialog_drop_notification_enderman:$(dialog_drop_notification_enderman), dialog_drop_notification_endermite:$(dialog_drop_notification_endermite), dialog_drop_notification_evoker:$(dialog_drop_notification_evoker), dialog_drop_notification_fox:$(dialog_drop_notification_fox), dialog_drop_notification_frog:$(dialog_drop_notification_frog), dialog_drop_notification_ghast:$(dialog_drop_notification_ghast), dialog_drop_notification_glow_squid:$(dialog_drop_notification_glow_squid), dialog_drop_notification_goat:$(dialog_drop_notification_goat), dialog_drop_notification_guardian:$(dialog_drop_notification_guardian), dialog_drop_notification_happy_ghast:$(dialog_drop_notification_happy_ghast), dialog_drop_notification_hoglin:$(dialog_drop_notification_hoglin), dialog_drop_notification_horse:$(dialog_drop_notification_horse), dialog_drop_notification_husk:$(dialog_drop_notification_husk), dialog_drop_notification_illusioner:$(dialog_drop_notification_illusioner), dialog_drop_notification_iron_golem:$(dialog_drop_notification_iron_golem), dialog_drop_notification_llama:$(dialog_drop_notification_llama), dialog_drop_notification_magma_cube:$(dialog_drop_notification_magma_cube), dialog_drop_notification_mooshroom:$(dialog_drop_notification_mooshroom), dialog_drop_notification_mooshroom_brown:$(dialog_drop_notification_mooshroom_brown), dialog_drop_notification_mule:$(dialog_drop_notification_mule), dialog_drop_notification_ocelot:$(dialog_drop_notification_ocelot), dialog_drop_notification_panda:$(dialog_drop_notification_panda), dialog_drop_notification_parrot:$(dialog_drop_notification_parrot), dialog_drop_notification_phantom:$(dialog_drop_notification_phantom), dialog_drop_notification_pig:$(dialog_drop_notification_pig), dialog_drop_notification_piglin_brute:$(dialog_drop_notification_piglin_brute), dialog_drop_notification_piglin:$(dialog_drop_notification_piglin), dialog_drop_notification_pillager:$(dialog_drop_notification_pillager), dialog_drop_notification_polar_bear:$(dialog_drop_notification_polar_bear), dialog_drop_notification_pufferfish:$(dialog_drop_notification_pufferfish), dialog_drop_notification_rabbit:$(dialog_drop_notification_rabbit), dialog_drop_notification_ravager:$(dialog_drop_notification_ravager), dialog_drop_notification_salmon:$(dialog_drop_notification_salmon), dialog_drop_notification_sheep:$(dialog_drop_notification_sheep), dialog_drop_notification_shulker:$(dialog_drop_notification_shulker), dialog_drop_notification_silverfish:$(dialog_drop_notification_silverfish), dialog_drop_notification_skeleton_horse:$(dialog_drop_notification_skeleton_horse), dialog_drop_notification_skeleton:$(dialog_drop_notification_skeleton), dialog_drop_notification_slime:$(dialog_drop_notification_slime), dialog_drop_notification_sniffer:$(dialog_drop_notification_sniffer), dialog_drop_notification_snow_golem:$(dialog_drop_notification_snow_golem), dialog_drop_notification_spider:$(dialog_drop_notification_spider), dialog_drop_notification_squid:$(dialog_drop_notification_squid), dialog_drop_notification_stray:$(dialog_drop_notification_stray), dialog_drop_notification_strider:$(dialog_drop_notification_strider), dialog_drop_notification_tadpole:$(dialog_drop_notification_tadpole), dialog_drop_notification_trader_llama:$(dialog_drop_notification_trader_llama), dialog_drop_notification_tropical_fish:$(dialog_drop_notification_tropical_fish), dialog_drop_notification_turtle:$(dialog_drop_notification_turtle), dialog_drop_notification_vex:$(dialog_drop_notification_vex), dialog_drop_notification_villager:$(dialog_drop_notification_villager), dialog_drop_notification_vindicator:$(dialog_drop_notification_vindicator), dialog_drop_notification_wandering_trader:$(dialog_drop_notification_wandering_trader), dialog_drop_notification_warden:$(dialog_drop_notification_warden), dialog_drop_notification_witch:$(dialog_drop_notification_witch), dialog_drop_notification_wither:$(dialog_drop_notification_wither), dialog_drop_notification_wither_invulnerable:$(dialog_drop_notification_wither_invulnerable), dialog_drop_notification_wolf:$(dialog_drop_notification_wolf), dialog_drop_notification_zoglin:$(dialog_drop_notification_zoglin), dialog_drop_notification_zombie_horse:$(dialog_drop_notification_zombie_horse), dialog_drop_notification_zombie_villager:$(dialog_drop_notification_zombie_villager), dialog_drop_notification_zombie:$(dialog_drop_notification_zombie), dialog_drop_notification_zombified_piglin:$(dialog_drop_notification_zombified_piglin)}"\
+      template:"function mob_heads:config/update/update_drop_notifications {dialog_drop_notification_wither_skeleton:$(dialog_drop_notification_wither_skeleton), dialog_drop_notification_camel_husk:$(dialog_drop_notification_camel_husk), dialog_drop_notification_parched:$(dialog_drop_notification_parched), dialog_drop_notification_nautilus:$(dialog_drop_notification_nautilus), dialog_drop_notification_zombie_nautilus:$(dialog_drop_notification_zombie_nautilus), dialog_drop_notification_copper_golem:$(dialog_drop_notification_copper_golem), dialog_drop_notification_allay:$(dialog_drop_notification_allay), dialog_drop_notification_armadillo:$(dialog_drop_notification_armadillo), dialog_drop_notification_axolotl:$(dialog_drop_notification_axolotl), dialog_drop_notification_bat:$(dialog_drop_notification_bat), dialog_drop_notification_bee:$(dialog_drop_notification_bee), dialog_drop_notification_blaze:$(dialog_drop_notification_blaze), dialog_drop_notification_bogged:$(dialog_drop_notification_bogged), dialog_drop_notification_breeze:$(dialog_drop_notification_breeze), dialog_drop_notification_camel:$(dialog_drop_notification_camel), dialog_drop_notification_cat:$(dialog_drop_notification_cat), dialog_drop_notification_cave_spider:$(dialog_drop_notification_cave_spider), dialog_drop_notification_chicken:$(dialog_drop_notification_chicken), dialog_drop_notification_cod:$(dialog_drop_notification_cod), dialog_drop_notification_cow:$(dialog_drop_notification_cow), dialog_drop_notification_creaking:$(dialog_drop_notification_creaking), dialog_drop_notification_creeper:$(dialog_drop_notification_creeper), dialog_drop_notification_dolphin:$(dialog_drop_notification_dolphin), dialog_drop_notification_donkey:$(dialog_drop_notification_donkey), dialog_drop_notification_drowned:$(dialog_drop_notification_drowned), dialog_drop_notification_elder_guardian:$(dialog_drop_notification_elder_guardian), dialog_drop_notification_ender_dragon:$(dialog_drop_notification_ender_dragon), dialog_drop_notification_enderman:$(dialog_drop_notification_enderman), dialog_drop_notification_endermite:$(dialog_drop_notification_endermite), dialog_drop_notification_evoker:$(dialog_drop_notification_evoker), dialog_drop_notification_fox:$(dialog_drop_notification_fox), dialog_drop_notification_frog:$(dialog_drop_notification_frog), dialog_drop_notification_ghast:$(dialog_drop_notification_ghast), dialog_drop_notification_glow_squid:$(dialog_drop_notification_glow_squid), dialog_drop_notification_goat:$(dialog_drop_notification_goat), dialog_drop_notification_guardian:$(dialog_drop_notification_guardian), dialog_drop_notification_happy_ghast:$(dialog_drop_notification_happy_ghast), dialog_drop_notification_hoglin:$(dialog_drop_notification_hoglin), dialog_drop_notification_horse:$(dialog_drop_notification_horse), dialog_drop_notification_husk:$(dialog_drop_notification_husk), dialog_drop_notification_illusioner:$(dialog_drop_notification_illusioner), dialog_drop_notification_iron_golem:$(dialog_drop_notification_iron_golem), dialog_drop_notification_llama:$(dialog_drop_notification_llama), dialog_drop_notification_magma_cube:$(dialog_drop_notification_magma_cube), dialog_drop_notification_mooshroom:$(dialog_drop_notification_mooshroom), dialog_drop_notification_mooshroom_brown:$(dialog_drop_notification_mooshroom_brown), dialog_drop_notification_mule:$(dialog_drop_notification_mule), dialog_drop_notification_ocelot:$(dialog_drop_notification_ocelot), dialog_drop_notification_panda:$(dialog_drop_notification_panda), dialog_drop_notification_parrot:$(dialog_drop_notification_parrot), dialog_drop_notification_phantom:$(dialog_drop_notification_phantom), dialog_drop_notification_pig:$(dialog_drop_notification_pig), dialog_drop_notification_piglin_brute:$(dialog_drop_notification_piglin_brute), dialog_drop_notification_piglin:$(dialog_drop_notification_piglin), dialog_drop_notification_pillager:$(dialog_drop_notification_pillager), dialog_drop_notification_polar_bear:$(dialog_drop_notification_polar_bear), dialog_drop_notification_pufferfish:$(dialog_drop_notification_pufferfish), dialog_drop_notification_rabbit:$(dialog_drop_notification_rabbit), dialog_drop_notification_ravager:$(dialog_drop_notification_ravager), dialog_drop_notification_salmon:$(dialog_drop_notification_salmon), dialog_drop_notification_sheep:$(dialog_drop_notification_sheep), dialog_drop_notification_shulker:$(dialog_drop_notification_shulker), dialog_drop_notification_silverfish:$(dialog_drop_notification_silverfish), dialog_drop_notification_skeleton_horse:$(dialog_drop_notification_skeleton_horse), dialog_drop_notification_skeleton:$(dialog_drop_notification_skeleton), dialog_drop_notification_slime:$(dialog_drop_notification_slime), dialog_drop_notification_sniffer:$(dialog_drop_notification_sniffer), dialog_drop_notification_snow_golem:$(dialog_drop_notification_snow_golem), dialog_drop_notification_spider:$(dialog_drop_notification_spider), dialog_drop_notification_squid:$(dialog_drop_notification_squid), dialog_drop_notification_stray:$(dialog_drop_notification_stray), dialog_drop_notification_strider:$(dialog_drop_notification_strider), dialog_drop_notification_tadpole:$(dialog_drop_notification_tadpole), dialog_drop_notification_trader_llama:$(dialog_drop_notification_trader_llama), dialog_drop_notification_tropical_fish:$(dialog_drop_notification_tropical_fish), dialog_drop_notification_turtle:$(dialog_drop_notification_turtle), dialog_drop_notification_vex:$(dialog_drop_notification_vex), dialog_drop_notification_villager:$(dialog_drop_notification_villager), dialog_drop_notification_vindicator:$(dialog_drop_notification_vindicator), dialog_drop_notification_wandering_trader:$(dialog_drop_notification_wandering_trader), dialog_drop_notification_warden:$(dialog_drop_notification_warden), dialog_drop_notification_witch:$(dialog_drop_notification_witch), dialog_drop_notification_wither:$(dialog_drop_notification_wither), dialog_drop_notification_wither_invulnerable:$(dialog_drop_notification_wither_invulnerable), dialog_drop_notification_wolf:$(dialog_drop_notification_wolf), dialog_drop_notification_zoglin:$(dialog_drop_notification_zoglin), dialog_drop_notification_zombie_horse:$(dialog_drop_notification_zombie_horse), dialog_drop_notification_zombie_villager:$(dialog_drop_notification_zombie_villager), dialog_drop_notification_zombie:$(dialog_drop_notification_zombie), dialog_drop_notification_zombified_piglin:$(dialog_drop_notification_zombified_piglin)}"\
     }\
   },\
   actions:[\

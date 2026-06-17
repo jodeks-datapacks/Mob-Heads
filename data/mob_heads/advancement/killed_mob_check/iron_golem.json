@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:iron_golem"
+          "entity_type": "minecraft:iron_golem"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:mooshroom"
+          "entity_type": "minecraft:mooshroom"
         }
       }
     }

@@ -28,7 +28,7 @@
           "condition": "minecraft:damage_source_properties",
           "predicate": {
             "source_entity": {
-              "type": "minecraft:creeper",
+              "entity_type": "minecraft:creeper",
               "nbt": "{powered:1b}"
             }
           }

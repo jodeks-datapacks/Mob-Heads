@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:zombified_piglin"
+          "entity_type": "minecraft:zombified_piglin"
         }
       }
     }

@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:wolf"
+          "entity_type": "minecraft:wolf"
         }
       }
     }

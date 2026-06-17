@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:glow_squid"
+          "entity_type": "minecraft:glow_squid"
         }
       }
     }

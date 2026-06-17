@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:parrot"
+          "entity_type": "minecraft:parrot"
         }
       }
     }

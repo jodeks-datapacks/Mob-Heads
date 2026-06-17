@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:slime"
+          "entity_type": "minecraft:slime"
         }
       }
     }

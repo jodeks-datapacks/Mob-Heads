@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:tadpole"
+          "entity_type": "minecraft:tadpole"
         }
       }
     }

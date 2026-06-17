@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:wandering_trader"
+          "entity_type": "minecraft:wandering_trader"
         }
       }
     }

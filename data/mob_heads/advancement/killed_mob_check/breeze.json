@@ -30,7 +30,7 @@
           }
         ],
         "entity": {
-          "type": "minecraft:breeze"
+          "entity_type": "minecraft:breeze"
         }
       }
     }
