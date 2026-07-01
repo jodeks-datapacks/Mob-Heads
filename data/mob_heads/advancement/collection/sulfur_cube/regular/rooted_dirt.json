@@ -1,0 +1,107 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:profile": {
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTcyNzMzODQwNiwKICAicHJvZmlsZUlkIiA6ICJjNGU0ZDY2MWRkMDQ0MDE3ODNhZDM5NGEzMDBjOTFjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSNTBrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4ZDg3ZDI1YmFiYzYzY2EwODI1YzdjYzA5YmU2M2E5ZDkwOTdmOTkxZGI1NjFiNTNhMzkzYjRhZTU4MWU1ZjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+            }
+          ]
+        }
+      }
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " ("
+        },
+        {
+          "translate": "block.minecraft.rooted_dirt"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_the",
+      "fallback": "Collect the",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "text": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.head",
+          "fallback": "Head"
+        },
+        {
+          "text": " ("
+        },
+        {
+          "translate": "block.minecraft.rooted_dirt"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "mob_heads:collection/sulfur_cube/regular/red_concrete_powder",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:value_check",
+            "value": {
+              "type": "minecraft:score",
+              "target": {
+                "type": "minecraft:fixed",
+                "name": "&head_drop_advancement"
+              },
+              "score": "mob_heads.config"
+            },
+            "range": 2
+          }
+        ],
+        "items": [
+          {
+            "items": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "properties": [
+                  {
+                    "name": "textures",
+                    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTcyNzMzODQwNiwKICAicHJvZmlsZUlkIiA6ICJjNGU0ZDY2MWRkMDQ0MDE3ODNhZDM5NGEzMDBjOTFjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSNTBrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4ZDg3ZDI1YmFiYzYzY2EwODI1YzdjYzA5YmU2M2E5ZDkwOTdmOTkxZGI1NjFiNTNhMzkzYjRhZTU4MWU1ZjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

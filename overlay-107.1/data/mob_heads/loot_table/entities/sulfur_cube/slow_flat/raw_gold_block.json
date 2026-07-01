@@ -1,0 +1,313 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTcyODI2NTczNCwKICAicHJvZmlsZUlkIiA6ICI1OWJlOTUyY2EyNjc0OWE4OTM1YmQ5MGQxNmMyN2M4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVQZW5zcGlubmV1ciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZDU5N2VmYmQ5ODBhY2U0M2VjNjM2YjE2NGM1OTg3NDVkMjFlMzUwOTgwMzcxMjJlZWZkYjNmMTViNjAxN2IwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "white",
+                "translate": "entity.minecraft.sulfur_cube",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " ("
+                  },
+                  {
+                    "translate": "block.minecraft.raw_gold_block"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&sulfur_cube"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 0
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "yellow",
+                "translate": "entity.minecraft.sulfur_cube",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " ("
+                  },
+                  {
+                    "translate": "block.minecraft.raw_gold_block"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&sulfur_cube"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 1
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "aqua",
+                "translate": "entity.minecraft.sulfur_cube",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " ("
+                  },
+                  {
+                    "translate": "block.minecraft.raw_gold_block"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&sulfur_cube"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 2
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "dark_purple",
+                "translate": "entity.minecraft.sulfur_cube",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " ("
+                  },
+                  {
+                    "translate": "block.minecraft.raw_gold_block"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&sulfur_cube"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 3
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "gold",
+                "translate": "entity.minecraft.sulfur_cube",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " ("
+                  },
+                  {
+                    "translate": "block.minecraft.raw_gold_block"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&sulfur_cube"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 4
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "color": "green",
+                "translate": "entity.minecraft.sulfur_cube",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": " "
+                  },
+                  {
+                    "translate": "mob_heads.head",
+                    "fallback": "Head"
+                  },
+                  {
+                    "text": " ("
+                  },
+                  {
+                    "translate": "block.minecraft.raw_gold_block"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              "conditions": [
+                {
+                  "condition": "minecraft:value_check",
+                  "value": {
+                    "type": "minecraft:score",
+                    "target": {
+                      "type": "minecraft:fixed",
+                      "name": "&sulfur_cube"
+                    },
+                    "score": "mob_heads.rarity"
+                  },
+                  "range": 5
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:note_block_sound": "entity.sulfur_cube.slow_flat.hit"
+              }
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "sulfur_cube": true
+                }
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:storage",
+                "storage": "mob_heads:root",
+                "path": "data.sulfur_cube"
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "minecraft:equipment": {
+                  "body": {
+                    "items": "minecraft:raw_gold_block"
+                  }
+                }
+              }
+            },
+            {
+              "condition": "reference",
+              "name": "mob_heads:should_head_drop_sulfur_cube"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

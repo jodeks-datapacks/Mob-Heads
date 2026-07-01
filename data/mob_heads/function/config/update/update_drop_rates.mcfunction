@@ -970,3 +970,14 @@ execute store result storage mob_heads:root data.zombified_piglin float 0.000001
     scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
 
     execute store result storage mob_heads:root data.zombie_nautilus float 0.000001 run scoreboard players get #base mob_heads.drop_rates
+
+  # Sulfur Cube
+    $data modify storage mob_heads:root data.sulfur_cube_init set value $(drop_rate_sulfur_cube)
+    data modify storage mob_heads:root data.drop_rate_sulfur_cube set value "$(drop_rate_sulfur_cube)"
+
+    execute store result score #base mob_heads.drop_rates run data get storage mob_heads:root data.sulfur_cube_init 1000
+    execute store result score #multiplier mob_heads.drop_rates run data get storage mob_heads:root data.drop_rate_multiplier 1000
+
+    scoreboard players operation #base mob_heads.drop_rates *= #multiplier mob_heads.drop_rates
+
+    execute store result storage mob_heads:root data.sulfur_cube float 0.000001 run scoreboard players get #base mob_heads.drop_rates

@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "killed_sulfur_cube": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "minecraft:entity_type": "minecraft:sulfur_cube",
+              "minecraft:type_specific/cube_mob": {
+                "size": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mob_heads:app/baby_heads/sulfur_cube"
+  }
+}

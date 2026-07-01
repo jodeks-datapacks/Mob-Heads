@@ -1,0 +1,87 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:blue_ice"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Fast Sliding)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Fast Sliding)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "fast_sliding_blue_ice": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_sliding/blue_ice": true
+            }
+          }
+        }
+      }
+    },
+    "fast_sliding_packed_ice": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_sliding/packed_ice": true
+            }
+          }
+        }
+      }
+    },
+    "fast_sliding_snow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_sliding/snow": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

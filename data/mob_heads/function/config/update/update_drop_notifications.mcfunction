@@ -306,3 +306,8 @@ data modify storage mob_heads:root data.dialog_drop_notification_zombified_pigli
     $scoreboard players set &zombie_nautilus mob_heads.drop_notification $(dialog_drop_notification_zombie_nautilus)
     $data modify storage mob_heads:root data.drop_notification_zombie_nautilus set value $(dialog_drop_notification_zombie_nautilus)
     data modify storage mob_heads:root data.dialog_drop_notification_zombie_nautilus set value "$(dialog_drop_notification_zombie_nautilus)"
+
+  # Sulfur Cube
+    $scoreboard players set &sulfur_cube mob_heads.drop_notification $(dialog_drop_notification_sulfur_cube)
+    $data modify storage mob_heads:root data.drop_notification_sulfur_cube set value $(dialog_drop_notification_sulfur_cube)
+    data modify storage mob_heads:root data.dialog_drop_notification_sulfur_cube set value "$(dialog_drop_notification_sulfur_cube)"

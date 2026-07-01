@@ -1,0 +1,459 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:gold_ore"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Slow Flat)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Slow Flat)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "slow_flat_ancient_debris": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/ancient_debris": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_chiseled_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/chiseled_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_copper_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/copper_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_copper_bulb": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/copper_bulb": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_copper_bulb_lit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/copper_bulb_lit": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_copper_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/copper_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_cut_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/cut_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_deepslate_copper_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/deepslate_copper_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_deepslate_gold_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/deepslate_gold_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_deepslate_iron_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/deepslate_iron_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_exposed_chiseled_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/exposed_chiseled_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_exposed_copper_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/exposed_copper_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_exposed_copper_bulb": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/exposed_copper_bulb": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_exposed_copper_bulb_lit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/exposed_copper_bulb_lit": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_exposed_cut_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/exposed_cut_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_gold_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/gold_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_gold_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/gold_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_iron_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/iron_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_iron_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/iron_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_nether_gold_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/nether_gold_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_netherite_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/netherite_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_oxidized_chiseled_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_chiseled_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_oxidized_copper_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_copper_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_oxidized_copper_bulb": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_copper_bulb": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_oxidized_copper_bulb_lit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_copper_bulb_lit": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_oxidized_cut_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_cut_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_raw_copper_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/raw_copper_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_raw_gold_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/raw_gold_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_raw_iron_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/raw_iron_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_weathered_chiseled_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_chiseled_copper": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_weathered_copper_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_weathered_copper_bulb": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper_bulb": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_weathered_copper_bulb_lit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper_bulb_lit": true
+            }
+          }
+        }
+      }
+    },
+    "slow_flat_weathered_cut_copper": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_cut_copper": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

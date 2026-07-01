@@ -1,0 +1,399 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:jack_o_lantern"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Fast Flat)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Fast Flat)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "fast_flat_brain_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/brain_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_bubble_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/bubble_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_carved_pumpkin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/carved_pumpkin": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_chiseled_resin_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/chiseled_resin_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_dead_brain_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/dead_brain_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_dead_bubble_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/dead_bubble_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_dead_fire_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/dead_fire_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_dead_horn_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/dead_horn_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_dead_tube_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/dead_tube_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_dried_kelp_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/dried_kelp_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_fire_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/fire_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_hay_bale": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/hay_bale": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_horn_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/horn_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_jack_o_lantern": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/jack_o_lantern": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_melon": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/melon": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_moss_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/moss_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_ochre_froglight": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/ochre_froglight": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_pale_moss_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/pale_moss_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_pearlescent_froglight": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/pearlescent_froglight": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_pumpkin": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/pumpkin": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_resin_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/resin_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_resin_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/resin_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_sponge": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/sponge": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_tube_coral_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/tube_coral_block": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_verdant_froglight": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/verdant_froglight": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_wet_sponge": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/wet_sponge": true
+            }
+          }
+        }
+      }
+    },
+    "fast_sliding_blue_ice": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_sliding/blue_ice": true
+            }
+          }
+        }
+      }
+    },
+    "fast_sliding_packed_ice": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_sliding/packed_ice": true
+            }
+          }
+        }
+      }
+    },
+    "fast_sliding_snow": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_sliding/snow": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

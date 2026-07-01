@@ -1,0 +1,135 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:honeycomb_block"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Misc)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Misc)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "misc_baby_sulfur_cube": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/baby_sulfur_cube": true
+            }
+          }
+        }
+      }
+    },
+    "misc_tnt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/tnt": true
+            }
+          }
+        }
+      }
+    },
+    "misc_soul_sand": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/soul_sand": true
+            }
+          }
+        }
+      }
+    },
+    "misc_soul_soil": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/soul_soil": true
+            }
+          }
+        }
+      }
+    },
+    "misc_magma_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/magma_block": true
+            }
+          }
+        }
+      }
+    },
+    "misc_honeycomb": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/honeycomb": true
+            }
+          }
+        }
+      }
+    },
+    "misc_sulfur_cube": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/sulfur_cube": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -218,9 +218,11 @@ data modify storage mob_heads:root data.zombified_piglin_init set value 1
   data modify storage mob_heads:root data.parched set value 1
   data modify storage mob_heads:root data.zombie_nautilus set value 1
   data modify storage mob_heads:root data.camel_husk set value 1
+  data modify storage mob_heads:root data.sulfur_cube set value 1
 
   data modify storage mob_heads:root data.copper_golem_init set value 1
   data modify storage mob_heads:root data.nautilus_init set value 1
   data modify storage mob_heads:root data.parched_init set value 1
   data modify storage mob_heads:root data.zombie_nautilus_init set value 1
   data modify storage mob_heads:root data.camel_husk_init set value 1
+  data modify storage mob_heads:root data.sulfur_cube_init set value 1

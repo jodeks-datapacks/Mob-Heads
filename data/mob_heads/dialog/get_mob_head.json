@@ -65,6 +65,16 @@
         "type": "minecraft:show_dialog",
         "dialog": "mob_heads:heads/tropical_fish"
       }
+    },
+    {
+      "label": {
+        "translate": "mob_heads.title.sulfur_cube_heads",
+        "fallback": "Sulfur Cube Heads"
+      },
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "mob_heads:heads/sulfur_cube"
+      }
     }
   ]
 }

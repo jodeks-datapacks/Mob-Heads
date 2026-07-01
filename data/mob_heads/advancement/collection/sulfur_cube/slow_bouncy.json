@@ -1,0 +1,1803 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:amethyst_block"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Slow Bouncy)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Slow Bouncy)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "slow_bouncy_amethyst_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/amethyst_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_andesite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/andesite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_basalt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/basalt": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_black_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/black_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_blackstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/blackstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_blue_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/blue_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_brown_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/brown_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_calcite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/calcite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_cinnabar": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_cinnabar": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_deepslate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_deepslate": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_nether_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_nether_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_polished_blackstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_polished_blackstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_quartz_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_quartz_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_red_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_red_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_stone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_stone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_sulfur": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_sulfur": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_tuff": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_tuff": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_chiseled_tuff_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_tuff_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cinnabar": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cinnabar": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cinnabar_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cinnabar_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cobbled_deepslate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cobbled_deepslate": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cobblestone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cobblestone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cracked_deepslate_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_deepslate_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cracked_deepslate_tiles": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_deepslate_tiles": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cracked_nether_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_nether_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cracked_polished_blackstone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_polished_blackstone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cracked_stone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_stone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_crimson_nylium": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/crimson_nylium": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_crying_obsidian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/crying_obsidian": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cut_red_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cut_red_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cut_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cut_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_cyan_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/cyan_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_dark_prismarine": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/dark_prismarine": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_coal_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_coal_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_diamond_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_diamond_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_emerald_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_emerald_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_lapis_lazuli_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_lapis_lazuli_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_tiles": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_tiles": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_diamond_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/diamond_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_diamond_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/diamond_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_diorite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/diorite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_dripstone_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/dripstone_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_emerald_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/emerald_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_emerald_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/emerald_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_end_stone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/end_stone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_end_stone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/end_stone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_gilded_blackstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/gilded_blackstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_black_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_black_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_blue_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_blue_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_brown_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_brown_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_cyan_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_cyan_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_gray_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_gray_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_green_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_green_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_light_blue_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_light_blue_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_light_gray_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_light_gray_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_lime_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_lime_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_magenta_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_magenta_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_orange_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_orange_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_pink_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_pink_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_purple_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_purple_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_red_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_red_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_white_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_white_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glazed_yellow_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_yellow_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_glowstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glowstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_granite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/granite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_gray_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/gray_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_green_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/green_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_lapis_lazuli_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/lapis_lazuli_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_lapis_lazuli_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/lapis_lazuli_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_light_blue_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/light_blue_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_light_gray_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/light_gray_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_lime_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/lime_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_magenta_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/magenta_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_mossy_cobblestone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/mossy_cobblestone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_mossy_stone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/mossy_stone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_mud_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/mud_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_nether_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_nether_quartz_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether_quartz_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_netherrack": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/netherrack": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_observer": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/observer": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_obsidian": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/obsidian": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_orange_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/orange_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_pink_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/pink_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_andesite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_andesite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_basalt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_basalt": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_blackstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_blackstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_blackstone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_blackstone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_cinnabar": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_cinnabar": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_deepslate": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_deepslate": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_diorite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_diorite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_granite": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_granite": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_sulfur": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_sulfur": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_polished_tuff": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_tuff": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_prismarine": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/prismarine": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_prismarine_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/prismarine_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_purple_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/purple_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_purpur_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/purpur_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_purpur_pillar": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/purpur_pillar": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_quartz_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/quartz_block": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_quartz_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/quartz_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_quartz_pillar": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/quartz_pillar": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_red_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/red_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_red_nether_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/red_nether_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_redstone_lamp": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/redstone_lamp": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_redstone_lamp_lit": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/redstone_lamp_lit": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_redstone_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/redstone_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_sea_lantern": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sea_lantern": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_smooth_basalt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_basalt": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_smooth_quartz": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_quartz": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_smooth_red_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_red_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_smooth_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_smooth_stone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_stone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_blue_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_blue_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_brown_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_brown_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_cyan_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_cyan_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_gray_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_gray_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_green_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_green_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_light_blue_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_light_blue_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_light_gray_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_light_gray_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_lime_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_lime_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_magenta_terracota": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_magenta_terracota": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_orange_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_orange_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_pink_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_pink_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_purple_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_purple_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_red_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_red_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_white_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_white_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_yellow_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_yellow_terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stone_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_sulfur": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sulfur": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_sulfur_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sulfur_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/terracotta": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_tuff": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/tuff": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_tuff_bricks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/tuff_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_warped_nylium": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/warped_nylium": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_white_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/white_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_yellow_concrete": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/yellow_concrete": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_coal_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/coal_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_deepslate_redstone_ore": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_redstone_ore": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_red_sandstone": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/red_sandstone": true
+            }
+          }
+        }
+      }
+    },
+    "slow_bouncy_stained_black_terracotta": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_black_terracotta": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

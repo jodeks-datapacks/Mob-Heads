@@ -346,3 +346,7 @@ data modify storage mob_heads:root data.dialog_rarity_zombified_piglin set value
   # Zombie Nautilus
     $data modify storage mob_heads:root data.rarity_zombie_nautilus set value $(dialog_rarity_zombie_nautilus)
     $scoreboard players set &zombie_nautilus mob_heads.rarity $(dialog_rarity_zombie_nautilus)
+
+  # Sulfur Cube
+    $data modify storage mob_heads:root data.rarity_sulfur_cube set value $(dialog_rarity_sulfur_cube)
+    $scoreboard players set &sulfur_cube mob_heads.rarity $(dialog_rarity_sulfur_cube)

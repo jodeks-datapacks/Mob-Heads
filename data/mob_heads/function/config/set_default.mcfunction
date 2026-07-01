@@ -122,6 +122,7 @@ execute unless score &killed_by_player mob_heads.config = &killed_by_player mob_
     execute unless data storage mob_heads:root data.drop_notification_parched run data modify storage mob_heads:root data.drop_notification_parched set value 1
     execute unless data storage mob_heads:root data.drop_notification_zombie_nautilus run data modify storage mob_heads:root data.drop_notification_zombie_nautilus set value 1
     execute unless data storage mob_heads:root data.drop_notification_camel_husk run data modify storage mob_heads:root data.drop_notification_camel_husk set value 1
+    execute unless data storage mob_heads:root data.drop_notification_sulfur_cube run data modify storage mob_heads:root data.drop_notification_sulfur_cube set value 1
 
   # Drop notification scoreboard
     execute unless score &allay mob_heads.drop_notification = &allay mob_heads.drop_notification run scoreboard players set &allay mob_heads.drop_notification 1
@@ -236,6 +237,7 @@ execute unless score &killed_by_player mob_heads.config = &killed_by_player mob_
     execute unless score &parched mob_heads.drop_notification = &parched mob_heads.drop_notification run scoreboard players set &parched mob_heads.drop_notification 1
     execute unless score &zombie_nautilus mob_heads.drop_notification = &zombie_nautilus mob_heads.drop_notification run scoreboard players set &zombie_nautilus mob_heads.drop_notification 1
     execute unless score &camel_husk mob_heads.drop_notification = &camel_husk mob_heads.drop_notification run scoreboard players set &camel_husk mob_heads.drop_notification 1
+    execute unless score &sulfur_cube mob_heads.drop_notification = &sulfur_cube mob_heads.drop_notification run scoreboard players set &sulfur_cube mob_heads.drop_notification 1
 
   # Drop notification dialog
     data modify storage mob_heads:root data.dialog_drop_notification_allay set value "$(dialog_drop_notification_allay)"
@@ -330,6 +332,7 @@ execute unless score &killed_by_player mob_heads.config = &killed_by_player mob_
     data modify storage mob_heads:root data.dialog_drop_notification_parched set value "$(dialog_drop_notification_parched)"
     data modify storage mob_heads:root data.dialog_drop_notification_nautilus set value "$(dialog_drop_notification_nautilus)"
     data modify storage mob_heads:root data.dialog_drop_notification_copper_golem set value "$(dialog_drop_notification_copper_golem)"
+    data modify storage mob_heads:root data.dialog_drop_notification_sulfur_cube set value "$(dialog_drop_notification_sulfur_cube)"
 
 # Drop rate multiplier
   execute unless data storage mob_heads:root data.drop_rate_multiplier run data modify storage mob_heads:root data.drop_rate_multiplier set value 1
@@ -481,6 +484,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     execute unless data storage mob_heads:root data.parched run data modify storage mob_heads:root data.parched set value 0.05
     execute unless data storage mob_heads:root data.zombie_nautilus run data modify storage mob_heads:root data.zombie_nautilus set value 0.05
     execute unless data storage mob_heads:root data.camel_husk run data modify storage mob_heads:root data.camel_husk set value 0.07
+    execute unless data storage mob_heads:root data.sulfur_cube run data modify storage mob_heads:root data.sulfur_cube set value 0.07
 
   # Init drop rates
     execute unless data storage mob_heads:root data.allay_init run data modify storage mob_heads:root data.allay_init set value 0.05
@@ -595,6 +599,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     execute unless data storage mob_heads:root data.parched_init run data modify storage mob_heads:root data.parched_init set value 0.05
     execute unless data storage mob_heads:root data.zombie_nautilus_init run data modify storage mob_heads:root data.zombie_nautilus_init set value 0.05
     execute unless data storage mob_heads:root data.camel_husk_init run data modify storage mob_heads:root data.camel_husk_init set value 0.07
+    execute unless data storage mob_heads:root data.sulfur_cube_init run data modify storage mob_heads:root data.sulfur_cube_init set value 0.05
 
   # Dialog drop rates
     data modify storage mob_heads:root data.drop_rate_allay set value "$(drop_rate_allay)"
@@ -710,6 +715,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     data modify storage mob_heads:root data.drop_rate_nautilus set value "$(drop_rate_nautilus)"
     data modify storage mob_heads:root data.drop_rate_parched set value "$(drop_rate_parched)"
     data modify storage mob_heads:root data.drop_rate_zombie_nautilus set value "$(drop_rate_zombie_nautilus)"
+    data modify storage mob_heads:root data.drop_rate_sulfur_cube set value "$(drop_rate_sulfur_cube)"
     data modify storage mob_heads:root data.drop_rate_camel_husk set value "$(drop_rate_camel_husk)"
 
 # Rarity levels
@@ -828,6 +834,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     execute unless data storage mob_heads:root data.rarity_parched run data modify storage mob_heads:root data.rarity_parched set value 3
     execute unless data storage mob_heads:root data.rarity_zombie_nautilus run data modify storage mob_heads:root data.rarity_zombie_nautilus set value 3
     execute unless data storage mob_heads:root data.rarity_camel_husk run data modify storage mob_heads:root data.rarity_camel_husk set value 3
+    execute unless data storage mob_heads:root data.rarity_sulfur_cube run data modify storage mob_heads:root data.rarity_sulfur_cube set value 3
 
   # Rarity scoreboard
     execute unless score &allay mob_heads.rarity = &allay mob_heads.rarity run scoreboard players set &allay mob_heads.rarity 1
@@ -944,6 +951,7 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     execute unless score &parched mob_heads.rarity = &parched mob_heads.rarity run scoreboard players set &parched mob_heads.rarity 3
     execute unless score &zombie_nautilus mob_heads.rarity = &zombie_nautilus mob_heads.rarity run scoreboard players set &zombie_nautilus mob_heads.rarity 3
     execute unless score &camel_husk mob_heads.rarity = &camel_husk mob_heads.rarity run scoreboard players set &camel_husk mob_heads.rarity 3
+    execute unless score &sulfur_cube mob_heads.rarity = &sulfur_cube mob_heads.rarity run scoreboard players set &sulfur_cube mob_heads.rarity 3
 
   # Dialog rarity in storage
     data modify storage mob_heads:root data.dialog_rarity_allay set value "$(dialog_rarity_allay)"
@@ -1060,3 +1068,4 @@ execute unless data storage mob_heads:root data.allay run data modify storage mo
     data modify storage mob_heads:root data.dialog_rarity_parched set value "$(dialog_rarity_parched)"
     data modify storage mob_heads:root data.dialog_rarity_zombie_nautilus set value "$(dialog_rarity_zombie_nautilus)"
     data modify storage mob_heads:root data.dialog_rarity_camel_husk set value "$(dialog_rarity_camel_husk)"
+    data modify storage mob_heads:root data.dialog_rarity_sulfur_cube set value "$(dialog_rarity_sulfur_cube)"

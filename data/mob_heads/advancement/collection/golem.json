@@ -42,7 +42,7 @@
   },
   "parent": "mob_heads:collection/root",
   "criteria": {
-    "snow_golem": {
+    "snow_golemÖ_pumpkin": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {

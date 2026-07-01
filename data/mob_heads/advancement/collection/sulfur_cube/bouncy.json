@@ -1,0 +1,771 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:oak_planks"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Bouncy)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Bouncy)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "misc_baby_sulfur_cube": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/misc/baby_sulfur_cube": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_acacia_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/acacia_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_acacia_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/acacia_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_acacia_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/acacia_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_bamboo_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/bamboo_block": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_bamboo_mosaic": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/bamboo_mosaic": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_bamboo_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/bamboo_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_birch_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/birch_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_birch_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/birch_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_birch_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/birch_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_cherry_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/cherry_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_cherry_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/cherry_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_cherry_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/cherry_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_crimson_hyphae": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/crimson_hyphae": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_crimson_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/crimson_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_crimson_stem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/crimson_stem": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_dark_oak_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/dark_oak_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_dark_oak_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/dark_oak_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_dark_oak_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/dark_oak_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_jungle_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/jungle_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_jungle_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/jungle_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_jungle_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/jungle_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_mangrove_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/mangrove_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_mangrove_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/mangrove_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_mangrove_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/mangrove_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_oak_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/oak_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_oak_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/oak_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_oak_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/oak_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_pale_oak_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/pale_oak_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_pale_oak_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/pale_oak_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_pale_oak_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/pale_oak_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_spruce_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/spruce_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_spruce_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/spruce_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_spruce_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/spruce_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_acacia_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_acacia_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_acacia_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_acacia_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_bamboo_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_bamboo_block": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_birch_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_birch_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_birch_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_birch_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_cherry_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_cherry_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_cherry_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_cherry_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_crimson_hyphae": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_crimson_hyphae": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_crimson_stem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_crimson_stem": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_dark_oak_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_dark_oak_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_dark_oak_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_dark_oak_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_jungle_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_jungle_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_jungle_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_jungle_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_mangrove_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_mangrove_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_mangrove_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_mangrove_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_oak_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_oak_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_oak_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_oak_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_pale_oak_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_pale_oak_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_pale_oak_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_pale_oak_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_spruce_log": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_spruce_log": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_spruce_wood": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_spruce_wood": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_warped_hyphae": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_warped_hyphae": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_stripped_warped_stem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/stripped_warped_stem": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_warped_hyphae": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/warped_hyphae": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_warped_planks": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/warped_planks": true
+            }
+          }
+        }
+      }
+    },
+    "bouncy_warped_stem": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/bouncy/warped_stem": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

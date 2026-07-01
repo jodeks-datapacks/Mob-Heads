@@ -1,0 +1,3011 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/lime_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/acacia_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/acacia_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/acacia_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/bamboo_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/bamboo_mosaic"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/bamboo_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/birch_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/birch_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/birch_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/cherry_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/cherry_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/cherry_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/crimson_hyphae"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/crimson_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/crimson_stem"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/dark_oak_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/dark_oak_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/dark_oak_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/jungle_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/jungle_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/jungle_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/mangrove_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/mangrove_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/mangrove_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/oak_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/oak_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/oak_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/pale_oak_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/pale_oak_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/pale_oak_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/spruce_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/spruce_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/spruce_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_acacia_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_acacia_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_bamboo_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_birch_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_birch_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_cherry_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_cherry_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_crimson_hyphae"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_crimson_stem"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_dark_oak_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_dark_oak_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_jungle_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_jungle_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_mangrove_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_mangrove_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_oak_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_oak_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_pale_oak_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_pale_oak_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_spruce_log"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_spruce_wood"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_warped_hyphae"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/stripped_warped_stem"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/warped_hyphae"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/warped_planks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/bouncy/warped_stem"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/brain_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/bubble_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/carved_pumpkin"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/chiseled_resin_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/dead_brain_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/dead_bubble_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/dead_fire_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/dead_horn_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/dead_tube_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/dried_kelp_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/fire_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/hay_bale"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/honey_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/horn_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/jack_o_lantern"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/melon"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/moss_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/ochre_froglight"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/pale_moss_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/pearlescent_froglight"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/pumpkin"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/resin_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/resin_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/sculk"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/slime_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/sponge"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/tube_coral_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/verdant_froglight"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_flat/wet_sponge"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_sliding/blue_ice"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_sliding/ice"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_sliding/packed_ice"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/fast_sliding/snow"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/black_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/blue_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/brown_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/cyan_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/gray_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/green_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/light_blue_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/light_gray_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/magenta_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/orange_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/pink_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/purple_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/red_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/white_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/light/yellow_wool"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/bedrock"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/honeycomb"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/magma_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/soul_sand"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/soul_soil"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/sulfur_cube"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/misc/tnt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/black_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/blue_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/bone_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/brown_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/clay"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/coal_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/coarse_dirt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/cyan_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/dirt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/grass_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/gravel"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/gray_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/green_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/light_blue_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/light_gray_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/lime_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/magenta_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/mud"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/muddy_mangrove_roots"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/orange_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/packed_mud"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/pink_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/podzol"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/purple_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/red_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/red_sand"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/redstone_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/reinforced_deepslate"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/rooted_dirt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/sand"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/white_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/regular/yellow_concrete_powder"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/amethyst_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/andesite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/basalt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/black_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/blackstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/blue_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/brown_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/calcite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_cinnabar"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_deepslate"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_nether_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_polished_blackstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_quartz_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_red_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_stone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_sulfur"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_tuff"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/chiseled_tuff_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cinnabar"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cinnabar_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/coal_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cobbled_deepslate"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cobblestone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cracked_deepslate_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cracked_deepslate_tiles"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cracked_nether_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cracked_polished_blackstone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cracked_stone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/crimson_nylium"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/crying_obsidian"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cut_red_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cut_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/cyan_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/dark_prismarine"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_coal_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_diamond_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_emerald_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_lapis_lazuli_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_redstone_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/deepslate_tiles"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/diamond_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/diamond_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/diorite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/dripstone_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/emerald_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/emerald_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/end_stone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/end_stone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/gilded_blackstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_black_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_blue_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_brown_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_cyan_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_gray_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_green_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_light_blue_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_light_gray_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_lime_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_magenta_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_orange_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_pink_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_purple_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_red_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_white_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glazed_yellow_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/glowstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/granite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/gray_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/green_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/lapis_lazuli_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/lapis_lazuli_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/light_blue_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/light_gray_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/lime_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/magenta_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/mossy_cobblestone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/mossy_stone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/mud_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/nether_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/nether_quartz_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/netherrack"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/observer"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/obsidian"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/orange_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/pink_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_andesite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_basalt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_blackstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_blackstone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_cinnabar"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_deepslate"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_diorite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_granite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_sulfur"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/polished_tuff"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/prismarine"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/prismarine_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/purple_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/purpur_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/purpur_pillar"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/quartz_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/quartz_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/quartz_pillar"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/red_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/red_nether_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/red_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/redstone_lamp"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/redstone_lamp_lit"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/redstone_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/sea_lantern"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/smooth_basalt"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/smooth_quartz"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/smooth_red_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/smooth_sandstone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/smooth_stone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_black_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_blue_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_brown_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_cyan_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_gray_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_green_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_light_blue_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_light_gray_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_lime_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_magenta_terracota"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_orange_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_pink_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_purple_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_red_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_white_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stained_yellow_terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stone"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/stone_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/sulfur"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/sulfur_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/terracotta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/tuff"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/tuff_bricks"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/warped_nylium"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/white_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_bouncy/yellow_concrete"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/ancient_debris"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/chiseled_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/copper_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/copper_bulb"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/copper_bulb_lit"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/copper_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/cut_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/deepslate_copper_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/deepslate_gold_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/deepslate_iron_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/exposed_chiseled_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/exposed_copper_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/exposed_copper_bulb"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/exposed_copper_bulb_lit"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/exposed_cut_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/gold_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/gold_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/iron_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/iron_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/nether_gold_ore"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/netherite_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/oxidized_chiseled_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/oxidized_copper_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/oxidized_copper_bulb"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/oxidized_copper_bulb_lit"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/oxidized_cut_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/raw_copper_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/raw_gold_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/raw_iron_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/weathered_chiseled_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/weathered_copper_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/weathered_copper_bulb"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/weathered_copper_bulb_lit"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_flat/weathered_cut_copper"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/brown_mushroom"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/mushroom_stem"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/mycelium"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/nether_wart_block"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/red_mushroom"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/shroomlight"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "mob_heads:entities/sulfur_cube/slow_sliding/warped_wart_block"
+        }
+      ]
+    }
+  ]
+}

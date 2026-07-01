@@ -1,0 +1,375 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:grass_block"
+    },
+    "title": {
+      "translate": "entity.minecraft.sulfur_cube",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Regular)"
+        }
+      ]
+    },
+    "description": {
+      "translate": "mob_heads.advancement.collection.collect_all",
+      "fallback": "Collect all",
+      "extra": [
+        {
+          "text": " "
+        },
+        {
+          "translate": "entity.minecraft.sulfur_cube"
+        },
+        {
+          "text": " "
+        },
+        {
+          "translate": "mob_heads.heads",
+          "fallback": "Heads"
+        },
+        {
+          "text": " (Regular)"
+        }
+      ]
+    },
+    "background": "minecraft:block/flowering_azalea_leaves",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mob_heads:collection/sulfur_cube",
+  "criteria": {
+    "regular_black_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/black_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_blue_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/blue_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_bone_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/bone_block": true
+            }
+          }
+        }
+      }
+    },
+    "regular_brown_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/brown_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_clay": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/clay": true
+            }
+          }
+        }
+      }
+    },
+    "regular_coal_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/coal_block": true
+            }
+          }
+        }
+      }
+    },
+    "regular_coarse_dirt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/coarse_dirt": true
+            }
+          }
+        }
+      }
+    },
+    "regular_cyan_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/cyan_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_dirt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/dirt": true
+            }
+          }
+        }
+      }
+    },
+    "regular_grass_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/grass_block": true
+            }
+          }
+        }
+      }
+    },
+    "regular_gray_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/gray_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_green_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/green_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_light_blue_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/light_blue_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_light_gray_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/light_gray_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_lime_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/lime_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_magenta_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/magenta_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_mud": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/mud": true
+            }
+          }
+        }
+      }
+    },
+    "regular_muddy_mangrove_roots": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/muddy_mangrove_roots": true
+            }
+          }
+        }
+      }
+    },
+    "regular_orange_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/orange_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_packed_mud": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/packed_mud": true
+            }
+          }
+        }
+      }
+    },
+    "regular_pink_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/pink_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_podzol": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/podzol": true
+            }
+          }
+        }
+      }
+    },
+    "regular_purple_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/purple_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_red_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/red_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_rooted_dirt": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/rooted_dirt": true
+            }
+          }
+        }
+      }
+    },
+    "regular_white_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/white_concrete_powder": true
+            }
+          }
+        }
+      }
+    },
+    "regular_yellow_concrete_powder": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/regular/yellow_concrete_powder": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
