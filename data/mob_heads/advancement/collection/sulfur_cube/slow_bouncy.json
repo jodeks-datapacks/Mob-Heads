@@ -53,7 +53,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/amethyst_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/amethyst_block": true
             }
           }
         }
@@ -65,7 +65,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/andesite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/andesite": true
             }
           }
         }
@@ -77,7 +77,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/basalt": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/basalt": true
             }
           }
         }
@@ -89,7 +89,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/black_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/black_concrete": true
             }
           }
         }
@@ -101,7 +101,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/blackstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/blackstone": true
             }
           }
         }
@@ -113,7 +113,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/blue_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/blue_concrete": true
             }
           }
         }
@@ -125,7 +125,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/bricks": true
             }
           }
         }
@@ -137,7 +137,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/brown_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/brown_concrete": true
             }
           }
         }
@@ -149,7 +149,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/calcite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/calcite": true
             }
           }
         }
@@ -161,7 +161,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_cinnabar": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/chiseled_cinnabar": true
             }
           }
         }
@@ -173,7 +173,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_deepslate": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/chiseled_deepslate": true
             }
           }
         }
@@ -185,7 +185,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_nether_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/chiseled_nether_bricks": true
             }
           }
         }
@@ -197,7 +197,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_polished_blackstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/chiseled_polished_blackstone": true
             }
           }
         }
@@ -209,7 +209,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_quartz_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/chiseled_quartz_block": true
             }
           }
         }
@@ -221,7 +221,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_red_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/chiseled_red_sandstone": true
             }
           }
         }
@@ -233,7 +233,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/chiseled_sandstone": true
             }
           }
         }
@@ -245,7 +245,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_stone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/chiseled_stone_bricks": true
             }
           }
         }
@@ -257,7 +257,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_sulfur": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/chiseled_sulfur": true
             }
           }
         }
@@ -269,7 +269,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_tuff": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/chiseled_tuff": true
             }
           }
         }
@@ -281,7 +281,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/chiseled_tuff_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/chiseled_tuff_bricks": true
             }
           }
         }
@@ -293,7 +293,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cinnabar": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/cinnabar": true
             }
           }
         }
@@ -305,7 +305,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cinnabar_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/cinnabar_bricks": true
             }
           }
         }
@@ -317,7 +317,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cobbled_deepslate": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/cobbled_deepslate": true
             }
           }
         }
@@ -329,7 +329,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cobblestone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/cobblestone": true
             }
           }
         }
@@ -341,7 +341,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_deepslate_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/cracked_deepslate_bricks": true
             }
           }
         }
@@ -353,7 +353,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_deepslate_tiles": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/cracked_deepslate_tiles": true
             }
           }
         }
@@ -365,7 +365,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_nether_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/cracked_nether_bricks": true
             }
           }
         }
@@ -377,7 +377,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_polished_blackstone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/cracked_polished_blackstone_bricks": true
             }
           }
         }
@@ -389,7 +389,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cracked_stone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/cracked_stone_bricks": true
             }
           }
         }
@@ -401,7 +401,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/crimson_nylium": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/crimson_nylium": true
             }
           }
         }
@@ -413,7 +413,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/crying_obsidian": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/crying_obsidian": true
             }
           }
         }
@@ -425,7 +425,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cut_red_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/cut_red_sandstone": true
             }
           }
         }
@@ -437,7 +437,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cut_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/cut_sandstone": true
             }
           }
         }
@@ -449,7 +449,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/cyan_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/cyan_concrete": true
             }
           }
         }
@@ -461,7 +461,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/dark_prismarine": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/dark_prismarine": true
             }
           }
         }
@@ -473,7 +473,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/deepslate": true
             }
           }
         }
@@ -485,7 +485,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/deepslate_bricks": true
             }
           }
         }
@@ -497,7 +497,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_coal_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/deepslate_coal_ore": true
             }
           }
         }
@@ -509,7 +509,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_diamond_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/deepslate_diamond_ore": true
             }
           }
         }
@@ -521,7 +521,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_emerald_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/deepslate_emerald_ore": true
             }
           }
         }
@@ -533,7 +533,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_lapis_lazuli_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/deepslate_lapis_lazuli_ore": true
             }
           }
         }
@@ -545,7 +545,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_tiles": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/deepslate_tiles": true
             }
           }
         }
@@ -557,7 +557,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/diamond_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/diamond_block": true
             }
           }
         }
@@ -569,7 +569,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/diamond_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/diamond_ore": true
             }
           }
         }
@@ -581,7 +581,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/diorite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/diorite": true
             }
           }
         }
@@ -593,7 +593,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/dripstone_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/dripstone_block": true
             }
           }
         }
@@ -605,7 +605,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/emerald_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/emerald_block": true
             }
           }
         }
@@ -617,7 +617,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/emerald_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/emerald_ore": true
             }
           }
         }
@@ -629,7 +629,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/end_stone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/end/end_stone": true
             }
           }
         }
@@ -641,7 +641,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/end_stone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/end/end_stone_bricks": true
             }
           }
         }
@@ -653,7 +653,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/gilded_blackstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/gilded_blackstone": true
             }
           }
         }
@@ -665,7 +665,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_black_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_black_terracotta": true
             }
           }
         }
@@ -677,7 +677,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_blue_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_blue_terracotta": true
             }
           }
         }
@@ -689,7 +689,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_brown_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_brown_terracotta": true
             }
           }
         }
@@ -701,7 +701,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_cyan_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_cyan_terracotta": true
             }
           }
         }
@@ -713,7 +713,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_gray_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_gray_terracotta": true
             }
           }
         }
@@ -725,7 +725,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_green_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_green_terracotta": true
             }
           }
         }
@@ -737,7 +737,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_light_blue_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_light_blue_terracotta": true
             }
           }
         }
@@ -749,7 +749,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_light_gray_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_light_gray_terracotta": true
             }
           }
         }
@@ -761,7 +761,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_lime_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_lime_terracotta": true
             }
           }
         }
@@ -773,7 +773,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_magenta_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_magenta_terracotta": true
             }
           }
         }
@@ -785,7 +785,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_orange_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_orange_terracotta": true
             }
           }
         }
@@ -797,7 +797,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_pink_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_pink_terracotta": true
             }
           }
         }
@@ -809,7 +809,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_purple_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_purple_terracotta": true
             }
           }
         }
@@ -821,7 +821,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_red_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_red_terracotta": true
             }
           }
         }
@@ -833,7 +833,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_white_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_white_terracotta": true
             }
           }
         }
@@ -845,7 +845,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_yellow_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/glazed_terracotta/glazed_yellow_terracotta": true
             }
           }
         }
@@ -857,7 +857,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/glowstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/glowstone": true
             }
           }
         }
@@ -869,7 +869,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/granite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/granite": true
             }
           }
         }
@@ -881,7 +881,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/gray_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/gray_concrete": true
             }
           }
         }
@@ -893,7 +893,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/green_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/green_concrete": true
             }
           }
         }
@@ -905,7 +905,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/lapis_lazuli_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/lapis_lazuli_block": true
             }
           }
         }
@@ -917,7 +917,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/lapis_lazuli_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/lapis_lazuli_ore": true
             }
           }
         }
@@ -929,7 +929,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/light_blue_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/light_blue_concrete": true
             }
           }
         }
@@ -941,7 +941,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/light_gray_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/light_gray_concrete": true
             }
           }
         }
@@ -953,7 +953,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/lime_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/lime_concrete": true
             }
           }
         }
@@ -965,7 +965,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/magenta_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/magenta_concrete": true
             }
           }
         }
@@ -977,7 +977,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/mossy_cobblestone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/mossy_cobblestone": true
             }
           }
         }
@@ -989,7 +989,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/mossy_stone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/mossy_stone_bricks": true
             }
           }
         }
@@ -1001,7 +1001,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/mud_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/mud_bricks": true
             }
           }
         }
@@ -1013,7 +1013,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/nether_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/nether_bricks": true
             }
           }
         }
@@ -1025,7 +1025,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/nether_quartz_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/nether_quartz_ore": true
             }
           }
         }
@@ -1037,7 +1037,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/netherrack": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/netherrack": true
             }
           }
         }
@@ -1049,7 +1049,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/observer": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/observer": true
             }
           }
         }
@@ -1061,7 +1061,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/obsidian": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/obsidian": true
             }
           }
         }
@@ -1073,7 +1073,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/orange_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/orange_concrete": true
             }
           }
         }
@@ -1085,7 +1085,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/pink_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/pink_concrete": true
             }
           }
         }
@@ -1097,7 +1097,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_andesite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/polished_andesite": true
             }
           }
         }
@@ -1109,7 +1109,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_basalt": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/polished_basalt": true
             }
           }
         }
@@ -1121,7 +1121,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_blackstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/polished_blackstone": true
             }
           }
         }
@@ -1133,7 +1133,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_blackstone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/polished_blackstone_bricks": true
             }
           }
         }
@@ -1145,7 +1145,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_cinnabar": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/polished_cinnabar": true
             }
           }
         }
@@ -1157,7 +1157,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_deepslate": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate/polished_deepslate": true
             }
           }
         }
@@ -1169,7 +1169,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_diorite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/polished_diorite": true
             }
           }
         }
@@ -1181,7 +1181,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_granite": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/polished_granite": true
             }
           }
         }
@@ -1193,7 +1193,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_sulfur": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/polished_sulfur": true
             }
           }
         }
@@ -1205,7 +1205,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/polished_tuff": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/polished_tuff": true
             }
           }
         }
@@ -1217,7 +1217,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/prismarine": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/prismarine": true
             }
           }
         }
@@ -1229,7 +1229,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/prismarine_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/prismarine_bricks": true
             }
           }
         }
@@ -1241,7 +1241,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/purple_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/purple_concrete": true
             }
           }
         }
@@ -1253,7 +1253,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/purpur_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/end/purpur_block": true
             }
           }
         }
@@ -1265,7 +1265,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/purpur_pillar": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/end/purpur_pillar": true
             }
           }
         }
@@ -1277,7 +1277,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/quartz_block": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/quartz_block": true
             }
           }
         }
@@ -1289,7 +1289,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/quartz_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/quartz_bricks": true
             }
           }
         }
@@ -1301,7 +1301,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/quartz_pillar": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/quartz_pillar": true
             }
           }
         }
@@ -1313,7 +1313,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/red_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/red_concrete": true
             }
           }
         }
@@ -1325,7 +1325,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/red_nether_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/red_nether_bricks": true
             }
           }
         }
@@ -1337,19 +1337,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/redstone_lamp": true
-            }
-          }
-        }
-      }
-    },
-    "slow_bouncy_redstone_lamp_lit": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/redstone_lamp_lit": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/redstone_lamp": true
             }
           }
         }
@@ -1361,7 +1349,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/redstone_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/redstone_ore": true
             }
           }
         }
@@ -1373,7 +1361,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/sandstone": true
             }
           }
         }
@@ -1385,7 +1373,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/sea_lantern": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/sea_lantern": true
             }
           }
         }
@@ -1397,7 +1385,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_basalt": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/smooth_basalt": true
             }
           }
         }
@@ -1409,7 +1397,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_quartz": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/smooth_quartz": true
             }
           }
         }
@@ -1421,7 +1409,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_red_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/smooth_red_sandstone": true
             }
           }
         }
@@ -1433,7 +1421,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/smooth_sandstone": true
             }
           }
         }
@@ -1445,7 +1433,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/smooth_stone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/smooth_stone": true
             }
           }
         }
@@ -1457,7 +1445,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_blue_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_blue_terracotta": true
             }
           }
         }
@@ -1469,7 +1457,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_brown_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_brown_terracotta": true
             }
           }
         }
@@ -1481,7 +1469,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_cyan_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_cyan_terracotta": true
             }
           }
         }
@@ -1493,7 +1481,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_gray_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_gray_terracotta": true
             }
           }
         }
@@ -1505,7 +1493,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_green_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_green_terracotta": true
             }
           }
         }
@@ -1517,7 +1505,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_light_blue_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_light_blue_terracotta": true
             }
           }
         }
@@ -1529,7 +1517,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_light_gray_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_light_gray_terracotta": true
             }
           }
         }
@@ -1541,7 +1529,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_lime_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_lime_terracotta": true
             }
           }
         }
@@ -1553,7 +1541,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_magenta_terracota": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_magenta_terracota": true
             }
           }
         }
@@ -1565,7 +1553,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_orange_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_orange_terracotta": true
             }
           }
         }
@@ -1577,7 +1565,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_pink_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_pink_terracotta": true
             }
           }
         }
@@ -1589,7 +1577,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_purple_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_purple_terracotta": true
             }
           }
         }
@@ -1601,7 +1589,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_red_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_red_terracotta": true
             }
           }
         }
@@ -1613,7 +1601,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_white_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_white_terracotta": true
             }
           }
         }
@@ -1625,7 +1613,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_yellow_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_yellow_terracotta": true
             }
           }
         }
@@ -1637,7 +1625,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/stone": true
             }
           }
         }
@@ -1649,7 +1637,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stone_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/stone_bricks": true
             }
           }
         }
@@ -1661,7 +1649,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/sulfur": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/sulfur": true
             }
           }
         }
@@ -1673,7 +1661,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/sulfur_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/sulfur_bricks": true
             }
           }
         }
@@ -1685,7 +1673,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/other/terracotta": true
             }
           }
         }
@@ -1697,7 +1685,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/tuff": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/tuff": true
             }
           }
         }
@@ -1709,7 +1697,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/tuff_bricks": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stone/tuff_bricks": true
             }
           }
         }
@@ -1721,7 +1709,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/warped_nylium": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/nether/warped_nylium": true
             }
           }
         }
@@ -1733,7 +1721,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/white_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/white_concrete": true
             }
           }
         }
@@ -1745,7 +1733,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/yellow_concrete": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/concrete/yellow_concrete": true
             }
           }
         }
@@ -1757,7 +1745,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/coal_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/coal_ore": true
             }
           }
         }
@@ -1769,7 +1757,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/deepslate_redstone_ore": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/ore/deepslate_redstone_ore": true
             }
           }
         }
@@ -1781,7 +1769,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/red_sandstone": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/sand/red_sandstone": true
             }
           }
         }
@@ -1793,7 +1781,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_black_terracotta": true
+              "mob_heads:collection/sulfur_cube/slow_bouncy/stained_terracotta/stained_black_terracotta": true
             }
           }
         }

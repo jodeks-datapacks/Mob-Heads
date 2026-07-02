@@ -1,8 +1,0 @@
-{
-  "criteria": {
-    "end": {
-      "trigger": "minecraft:location"
-    }
-  },
-  "parent": "mob_heads:collection/sulfur_cube/fast_flat/horn_coral_block"
-}

@@ -27,8 +27,7 @@
           "text": " ("
         },
         {
-          "translate": "mob_heads.advancement.collection.baby",
-          "fallback": "Baby"
+          "translate": "block.minecraft.baby_sulfur_cube"
         },
         {
           "text": ")"

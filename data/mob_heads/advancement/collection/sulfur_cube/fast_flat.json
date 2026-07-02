@@ -53,7 +53,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/brain_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/brain_coral_block": true
             }
           }
         }
@@ -65,7 +65,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/bubble_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/bubble_coral_block": true
             }
           }
         }
@@ -77,7 +77,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/carved_pumpkin": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/carved_pumpkin": true
             }
           }
         }
@@ -89,7 +89,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/chiseled_resin_bricks": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/chiseled_resin_bricks": true
             }
           }
         }
@@ -101,7 +101,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/dead_brain_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/dead_brain_coral_block": true
             }
           }
         }
@@ -113,7 +113,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/dead_bubble_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/dead_bubble_coral_block": true
             }
           }
         }
@@ -125,7 +125,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/dead_fire_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/dead_fire_coral_block": true
             }
           }
         }
@@ -137,7 +137,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/dead_horn_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/dead_horn_coral_block": true
             }
           }
         }
@@ -149,7 +149,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/dead_tube_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/dead_tube_coral_block": true
             }
           }
         }
@@ -161,7 +161,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/dried_kelp_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/dried_kelp_block": true
             }
           }
         }
@@ -173,7 +173,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/fire_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/fire_coral_block": true
             }
           }
         }
@@ -185,7 +185,19 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/hay_bale": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/hay_bale": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_honey_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/other/honey_block": true
             }
           }
         }
@@ -197,7 +209,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/horn_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/horn_coral_block": true
             }
           }
         }
@@ -209,7 +221,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/jack_o_lantern": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/jack_o_lantern": true
             }
           }
         }
@@ -221,7 +233,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/melon": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/melon": true
             }
           }
         }
@@ -233,7 +245,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/moss_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/moss_block": true
             }
           }
         }
@@ -245,7 +257,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/ochre_froglight": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/ochre_froglight": true
             }
           }
         }
@@ -257,7 +269,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/pale_moss_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/pale_moss_block": true
             }
           }
         }
@@ -269,7 +281,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/pearlescent_froglight": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/pearlescent_froglight": true
             }
           }
         }
@@ -281,7 +293,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/pumpkin": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/pumpkin": true
             }
           }
         }
@@ -293,7 +305,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/resin_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/resin_block": true
             }
           }
         }
@@ -305,7 +317,31 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/resin_bricks": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/resin_bricks": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_sculk": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/other/sculk": true
+            }
+          }
+        }
+      }
+    },
+    "fast_flat_slime_block": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific/player": {
+            "advancements": {
+              "mob_heads:collection/sulfur_cube/fast_flat/other/slime_block": true
             }
           }
         }
@@ -317,7 +353,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/sponge": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/sponge": true
             }
           }
         }
@@ -329,7 +365,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/tube_coral_block": true
+              "mob_heads:collection/sulfur_cube/fast_flat/coral/tube_coral_block": true
             }
           }
         }
@@ -341,7 +377,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/verdant_froglight": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/verdant_froglight": true
             }
           }
         }
@@ -353,43 +389,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_flat/wet_sponge": true
-            }
-          }
-        }
-      }
-    },
-    "fast_sliding_blue_ice": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_sliding/blue_ice": true
-            }
-          }
-        }
-      }
-    },
-    "fast_sliding_packed_ice": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_sliding/packed_ice": true
-            }
-          }
-        }
-      }
-    },
-    "fast_sliding_snow": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/fast_sliding/snow": true
+              "mob_heads:collection/sulfur_cube/fast_flat/other/wet_sponge": true
             }
           }
         }

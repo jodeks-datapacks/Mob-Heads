@@ -67,7 +67,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/sulfur_cube/misc/soul_soil",
+  "parent": "mob_heads:collection/sulfur_cube/misc/sulfur_cube",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",

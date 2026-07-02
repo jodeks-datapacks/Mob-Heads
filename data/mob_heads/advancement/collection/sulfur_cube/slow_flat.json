@@ -53,7 +53,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/ancient_debris": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/ancient_debris": true
             }
           }
         }
@@ -65,7 +65,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/chiseled_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/chiseled_copper": true
             }
           }
         }
@@ -77,7 +77,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/copper_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/copper_block": true
             }
           }
         }
@@ -89,7 +89,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/copper_bulb": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/copper_bulb": true
             }
           }
         }
@@ -101,7 +101,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/copper_bulb_lit": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/copper_bulb_lit": true
             }
           }
         }
@@ -113,7 +113,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/copper_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/copper_ore": true
             }
           }
         }
@@ -125,7 +125,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/cut_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/cut_copper": true
             }
           }
         }
@@ -137,7 +137,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/deepslate_copper_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/deepslate_copper_ore": true
             }
           }
         }
@@ -149,7 +149,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/deepslate_gold_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/deepslate_gold_ore": true
             }
           }
         }
@@ -161,7 +161,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/deepslate_iron_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/deepslate_iron_ore": true
             }
           }
         }
@@ -173,7 +173,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/exposed_chiseled_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_chiseled_copper": true
             }
           }
         }
@@ -185,7 +185,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/exposed_copper_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_copper_block": true
             }
           }
         }
@@ -197,7 +197,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/exposed_copper_bulb": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_copper_bulb": true
             }
           }
         }
@@ -209,7 +209,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/exposed_copper_bulb_lit": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_copper_bulb_lit": true
             }
           }
         }
@@ -221,7 +221,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/exposed_cut_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_cut_copper": true
             }
           }
         }
@@ -233,7 +233,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/gold_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/gold_block": true
             }
           }
         }
@@ -245,7 +245,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/gold_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/gold_ore": true
             }
           }
         }
@@ -257,7 +257,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/iron_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/iron_block": true
             }
           }
         }
@@ -269,7 +269,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/iron_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/iron_ore": true
             }
           }
         }
@@ -281,7 +281,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/nether_gold_ore": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/nether_gold_ore": true
             }
           }
         }
@@ -293,7 +293,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/netherite_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/netherite_block": true
             }
           }
         }
@@ -305,7 +305,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_chiseled_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_chiseled_copper": true
             }
           }
         }
@@ -317,7 +317,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_copper_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_copper_block": true
             }
           }
         }
@@ -329,7 +329,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_copper_bulb": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_copper_bulb": true
             }
           }
         }
@@ -341,7 +341,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_copper_bulb_lit": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_copper_bulb_lit": true
             }
           }
         }
@@ -353,7 +353,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/oxidized_cut_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_cut_copper": true
             }
           }
         }
@@ -365,7 +365,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/raw_copper_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/copper/raw_copper_block": true
             }
           }
         }
@@ -377,7 +377,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/raw_gold_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/raw_gold_block": true
             }
           }
         }
@@ -389,7 +389,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/raw_iron_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/other/raw_iron_block": true
             }
           }
         }
@@ -401,7 +401,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_chiseled_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_chiseled_copper": true
             }
           }
         }
@@ -413,7 +413,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper_block": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_copper_block": true
             }
           }
         }
@@ -425,7 +425,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper_bulb": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_copper_bulb": true
             }
           }
         }
@@ -437,7 +437,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper_bulb_lit": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_copper_bulb_lit": true
             }
           }
         }
@@ -449,7 +449,7 @@
         "player": {
           "type_specific/player": {
             "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_cut_copper": true
+              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_cut_copper": true
             }
           }
         }

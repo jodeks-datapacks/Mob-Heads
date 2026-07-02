@@ -67,7 +67,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/sulfur_cube/fast_sliding/blue_ice",
+  "parent": "mob_heads:collection/sulfur_cube/fast_sliding/ice",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
