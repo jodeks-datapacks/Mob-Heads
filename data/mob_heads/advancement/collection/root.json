@@ -3557,18 +3557,6 @@
         }
       }
     },
-    "slow_flat_copper_bulb_lit": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/copper/copper_bulb_lit": true
-            }
-          }
-        }
-      }
-    },
     "slow_flat_copper_ore": {
       "trigger": "minecraft:tick",
       "conditions": {
@@ -3660,18 +3648,6 @@
           "type_specific/player": {
             "advancements": {
               "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_copper_bulb": true
-            }
-          }
-        }
-      }
-    },
-    "slow_flat_exposed_copper_bulb_lit": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/exposed_copper_bulb_lit": true
             }
           }
         }
@@ -3797,18 +3773,6 @@
         }
       }
     },
-    "slow_flat_oxidized_copper_bulb_lit": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_copper_bulb_lit": true
-            }
-          }
-        }
-      }
-    },
     "slow_flat_oxidized_cut_copper": {
       "trigger": "minecraft:tick",
       "conditions": {
@@ -3888,18 +3852,6 @@
           "type_specific/player": {
             "advancements": {
               "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_copper_bulb": true
-            }
-          }
-        }
-      }
-    },
-    "slow_flat_weathered_copper_bulb_lit": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific/player": {
-            "advancements": {
-              "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/weathered_copper_bulb_lit": true
             }
           }
         }

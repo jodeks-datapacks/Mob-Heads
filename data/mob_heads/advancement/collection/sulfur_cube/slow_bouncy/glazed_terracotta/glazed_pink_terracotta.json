@@ -27,7 +27,7 @@
           "text": " ("
         },
         {
-          "translate": "block.minecraft.glazed_pink_terracotta"
+          "translate": "block.minecraft.pink_glazed_terracotta"
         },
         {
           "text": ")"
@@ -42,7 +42,7 @@
           "text": " "
         },
         {
-          "text": "entity.minecraft.sulfur_cube"
+          "translate": "entity.minecraft.sulfur_cube"
         },
         {
           "text": " "
@@ -55,7 +55,7 @@
           "text": " ("
         },
         {
-          "translate": "block.minecraft.glazed_pink_terracotta"
+          "translate": "block.minecraft.pink_glazed_terracotta"
         },
         {
           "text": ")"

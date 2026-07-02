@@ -42,7 +42,7 @@
           "text": " "
         },
         {
-          "text": "entity.minecraft.sulfur_cube"
+          "translate": "entity.minecraft.sulfur_cube"
         },
         {
           "text": " "
@@ -67,7 +67,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_copper_bulb_lit",
+  "parent": "mob_heads:collection/sulfur_cube/slow_flat/weathered_copper/oxidized_copper_bulb",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
