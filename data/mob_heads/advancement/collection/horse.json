@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:armor.body"
+      "id": "minecraft:diamond_horse_armor"
     },
     "title": {
       "translate": "entity.minecraft.horse",
