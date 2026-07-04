@@ -40,13 +40,7 @@ https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https
 
 **5.** Fully translated with my [Jodeks translations](https://modrinth.com/resourcepack/jodeks-translations) Resourecpack (German, French, Spanish, Japan, Chinese, Russian)
 
-<div align="center">
-  <h1> 
-      <a href="https://github.com/jodeks-datapacks/Mob-Heads/wiki" 
-         target="_blank">Full Head Gallery
-      </a>
-  </h1>
-</div>
+[![mob heads full head gallary](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/full_head_gallary.png)](https://github.com/jodeks-datapacks/Mob-Heads/wiki/Mob-Heads)
 
 ## Config
 
