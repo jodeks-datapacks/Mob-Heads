@@ -14,11 +14,11 @@
 
 </div>
 
-<div align="center">
-  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xsZPlTAnR1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
+<p align="center">
+  <a href="https://youtu.be/xsZPlTAnR1E">
+    <img src="https://img.youtube.com/vi/xsZPlTAnR1E/maxresdefault.jpg" alt="Watch the trailer" width="560">
+  </a>
+</p>
 
 <div align="center">
 
