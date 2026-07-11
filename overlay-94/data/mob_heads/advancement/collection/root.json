@@ -30,19 +30,6 @@
         }
       }
     },
-    "llama_brown": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/llama/brown/no_carpet": true
-            }
-          }
-        }
-      }
-    },
     "llama_brown_black": {
       "trigger": "minecraft:tick",
       "conditions": {
@@ -4418,7 +4405,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/brown": true
+              "mob_heads:collection/llama/brown/no_carpet": true
             }
           }
         }
@@ -4431,7 +4418,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/creamy": true
+              "mob_heads:collection/llama/creamy/no_carpet": true
             }
           }
         }
@@ -4444,7 +4431,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/gray": true
+              "mob_heads:collection/llama/gray/no_carpet": true
             }
           }
         }
@@ -4457,7 +4444,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/white": true
+              "mob_heads:collection/llama/white/no_carpet": true
             }
           }
         }
@@ -4783,19 +4770,6 @@
             "type": "minecraft:player",
             "advancements": {
               "mob_heads:collection/passive/cow/warm": true
-            }
-          }
-        }
-      }
-    },
-    "happy_ghast": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/passive/happy_ghast": true
             }
           }
         }

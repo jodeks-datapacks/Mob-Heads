@@ -16,7 +16,7 @@ function mob_heads:image/set_image_data {\
     {translate: "mob_heads.title", fallback: "Mob Heads"},\
     {translate: "mob_heads.description", fallback: "Mobs can drop their head when killed", color: "#aaaaaa"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v4.7.0", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v4.7.1", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/mob-heads", color: "#a800a8"},\

@@ -30,7 +30,7 @@
         }
       }
     },
-    "llama_brown": {
+    "llama_brown_no_carpet": {
       "trigger": "minecraft:tick",
       "conditions": {
         "player": {
@@ -2929,19 +2929,6 @@
         }
       }
     },
-    "blue_dory": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/blue_dory": true
-            }
-          }
-        }
-      }
-    },
     "wither_skeleton": {
       "trigger": "minecraft:tick",
       "conditions": {
@@ -2950,162 +2937,6 @@
             "type": "minecraft:player",
             "advancements": {
               "mob_heads:collection/nether/wither_skeleton": true
-            }
-          }
-        }
-      }
-    },
-    "cichlid": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/cichlid": true
-            }
-          }
-        }
-      }
-    },
-    "clownfish": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/clownfish": true
-            }
-          }
-        }
-      }
-    },
-    "cotton_candy_betta": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/cotton_candy_betta": true
-            }
-          }
-        }
-      }
-    },
-    "goatfish": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/goatfish": true
-            }
-          }
-        }
-      }
-    },
-    "parrotfish": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/parrotfish": true
-            }
-          }
-        }
-      }
-    },
-    "queen_angelfish": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/queen_angelfish": true
-            }
-          }
-        }
-      }
-    },
-    "red_lipped_blenny": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/red_lipped_blenny": true
-            }
-          }
-        }
-      }
-    },
-    "red_snapper": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/red_snapper": true
-            }
-          }
-        }
-      }
-    },
-    "tomato_clownfish": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/tomato_clownfish": true
-            }
-          }
-        }
-      }
-    },
-    "triggerfish": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/triggerfish": true
-            }
-          }
-        }
-      }
-    },
-    "white_gray_dasher": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/white_gray_dasher": true
-            }
-          }
-        }
-      }
-    },
-    "yellowtail_parrot": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/aquatic/tropical_fish/yellowtail_parrot": true
             }
           }
         }
@@ -4496,7 +4327,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/brown": true
+              "mob_heads:collection/llama/brown/no_carpet": true
             }
           }
         }
@@ -4509,7 +4340,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/creamy": true
+              "mob_heads:collection/llama/creamy/no_carpet": true
             }
           }
         }
@@ -4522,7 +4353,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/gray": true
+              "mob_heads:collection/llama/gray/no_carpet": true
             }
           }
         }
@@ -4535,7 +4366,7 @@
           "type_specific": {
             "type": "minecraft:player",
             "advancements": {
-              "mob_heads:collection/llama/white": true
+              "mob_heads:collection/llama/white/no_carpet": true
             }
           }
         }
@@ -4861,19 +4692,6 @@
             "type": "minecraft:player",
             "advancements": {
               "mob_heads:collection/passive/cow/warm": true
-            }
-          }
-        }
-      }
-    },
-    "happy_ghast": {
-      "trigger": "minecraft:tick",
-      "conditions": {
-        "player": {
-          "type_specific": {
-            "type": "minecraft:player",
-            "advancements": {
-              "mob_heads:collection/passive/happy_ghast": true
             }
           }
         }
