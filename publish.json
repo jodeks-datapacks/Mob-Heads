@@ -4,9 +4,7 @@
   "curseforge_mod_id": "1425724",
   "curseforge_slug": "mob-heads",
   "loaders": ["datapack"],
-  "game_versions": [
-    ">=1.21.6"
-  ],
+  "game_versions": [">=1.21.6 <26.2"],
   "version_type": "release",
   "dependencies": {
     "datapack": ["5555ff-lib(required){modrinth:Lr1LVAwO}{curseforge:1495266}"],
