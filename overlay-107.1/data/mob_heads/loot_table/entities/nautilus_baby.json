@@ -20,7 +20,7 @@
                   "properties": [
                     {
                       "name": "textures",
-                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjUzZDYzZWIxNzViMDBmYjM1Mjg1ZjQzMzBkMGJlNjhhMDcxM2RiOTRlMDBlNmZkZDg1ODMyZDQxZTNhMDhiIn19fQ=="
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQzZWFjMGMzYWQ4NzRiZjk0ODdlNThkYzQ3ODdiYzkwMzQ2MGZlNzY3OWRkNmNjZTk1OGNjYmVhNjQ2Y2JmNCJ9fX0="
                     }
                   ]
                 }
@@ -227,10 +227,6 @@
                 "storage": "mob_heads:root",
                 "path": "data.nautilus"
               }
-            },
-            {
-              "condition": "reference",
-              "name": "mob_heads:should_head_drop"
             }
           ]
         }
